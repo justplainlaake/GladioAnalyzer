@@ -1,0 +1,18 @@
+bit extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Field[bLjava/util/Map;]
+	Field[cI]
+	Method[<init>()V]
+	Method[a()I]
+	Method[a(I)V]
+	Method[b()Ljava/util/Map;]
+	Method[c()Ljava/util/List;]
+	Method[d()V]
+	Method[toString()Ljava/lang/String;]
+	Method[a(ILjava/lang/String;I)Lbiu;]
+	Method[a(ILjava/lang/String;)Ljava/util/List;]
+	Method[a(Ljava/lang/String;)Lbit;]
+	Method[e()Lbit;]
+}
+
+

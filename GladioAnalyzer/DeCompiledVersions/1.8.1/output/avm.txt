@@ -1,0 +1,16 @@
+avm extends atd {
+	Method[<init>(Lbod;)V]
+	Method[a(Laqr;I)Lbck;]
+	Method[a(Lara;Ldt;)V]
+	Method[a(Lara;Ldt;Lej;)Z]
+	Method[a(Laqr;Ldt;Lbea;Lbrr;Ljava/util/List;Lwx;)V]
+	Method[c()Z]
+	Method[d()Z]
+	Method[a(Ljava/util/Random;)I]
+	Method[a(Laqr;Ldt;Lbea;Lwx;)V]
+	Method[c(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[c(Laqr;Ldt;)Laln;]
+	Method[g(Lbea;)Lbof;]
+}
+
+

@@ -1,0 +1,10 @@
+bzc extends byk {
+	Field[uZ]
+	Method[<init>(Lahy;)V]
+	Method[b()V]
+	Method[a()V]
+	Method[a(IIF)V]
+	Method[f()V]
+}
+
+

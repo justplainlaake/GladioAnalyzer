@@ -1,0 +1,7 @@
+alv extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lamg;)Ljava/lang/String;]
+	Method[apply(Ljava/lang/Object;)Ljava/lang/Object;]
+}
+
+

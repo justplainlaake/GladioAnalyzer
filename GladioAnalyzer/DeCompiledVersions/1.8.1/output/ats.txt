@@ -1,0 +1,8 @@
+ats extends atu {
+	Method[<init>(Ljava/lang/String;FF)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+}
+
+

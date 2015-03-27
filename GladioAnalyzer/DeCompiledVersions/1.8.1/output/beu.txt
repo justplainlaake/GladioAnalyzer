@@ -1,0 +1,12 @@
+beu extends beq {
+	Field[aLcom/google/common/collect/ImmutableSet;]
+	Method[<init>(Ljava/lang/String;II)V]
+	Method[c()Ljava/util/Collection;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[a(Ljava/lang/String;II)Lbeu;]
+	Method[a(Ljava/lang/Integer;)Ljava/lang/String;]
+	Method[a(Ljava/lang/Comparable;)Ljava/lang/String;]
+}
+
+

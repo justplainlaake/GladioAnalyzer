@@ -1,0 +1,9 @@
+bph extends boy {
+	Method[<init>(JLboy;)V]
+	Method[a(IIII)[I]
+	Method[a([I[IIIIII)V]
+	Method[c(I)Z]
+	Method[d(I)Z]
+}
+
+

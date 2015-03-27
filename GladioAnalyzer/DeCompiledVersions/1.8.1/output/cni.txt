@@ -1,0 +1,5 @@
+cni extends java/lang/Object {
+	Method[a(Lato;)Ljava/util/Map;]
+}
+
+

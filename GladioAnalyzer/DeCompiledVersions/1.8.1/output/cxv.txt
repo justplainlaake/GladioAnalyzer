@@ -1,0 +1,7 @@
+cxv extends cxu {
+	Field[kLafg;]
+	Method[<init>(Lafg;)V]
+	Method[c()V]
+}
+
+

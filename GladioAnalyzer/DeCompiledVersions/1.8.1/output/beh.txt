@@ -1,0 +1,8 @@
+beh extends java/lang/Object {
+	Field[aLcom/google/common/base/Predicate;]
+	Method[<init>(Lcom/google/common/base/Predicate;)V]
+	Method[a(Lbeg;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

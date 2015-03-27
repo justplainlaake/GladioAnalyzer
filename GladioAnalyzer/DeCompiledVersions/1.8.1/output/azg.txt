@@ -1,0 +1,21 @@
+azg extends java/lang/Enum {
+	Field[aLazg;]
+	Field[bLazg;]
+	Field[cLazg;]
+	Field[d[Lazg;]
+	Field[eI]
+	Field[fLjava/lang/String;]
+	Field[gLjava/lang/String;]
+	Field[h[Lazg;]
+	Method[values()[Lazg;]
+	Method[valueOf(Ljava/lang/String;)Lazg;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Lazg;]
+	Method[l()Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

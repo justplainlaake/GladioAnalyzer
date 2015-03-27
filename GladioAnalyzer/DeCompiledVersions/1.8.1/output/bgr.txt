@@ -1,0 +1,10 @@
+bgr extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/util/Random;]
+	Field[cLaqr;]
+	Method[<init>()V]
+	Method[a(Lbfc;Laqr;IILbgi;)V]
+	Method[a(Laqr;IIIILbgi;)V]
+}
+
+

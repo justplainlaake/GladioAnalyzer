@@ -1,0 +1,26 @@
+aqy extends java/lang/Object {
+	Field[aJ]
+	Field[bLaqz;]
+	Field[cZ]
+	Field[dZ]
+	Field[eLarb;]
+	Field[fZ]
+	Field[gZ]
+	Field[hLjava/lang/String;]
+	Method[<init>(JLaqz;ZZLarb;)V]
+	Method[<init>(Lbqm;)V]
+	Method[a()Laqy;]
+	Method[b()Laqy;]
+	Method[a(Ljava/lang/String;)Laqy;]
+	Method[c()Z]
+	Method[d()J]
+	Method[e()Laqz;]
+	Method[f()Z]
+	Method[g()Z]
+	Method[h()Larb;]
+	Method[i()Z]
+	Method[a(I)Laqz;]
+	Method[j()Ljava/lang/String;]
+}
+
+

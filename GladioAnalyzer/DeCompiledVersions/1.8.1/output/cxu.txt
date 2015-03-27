@@ -1,0 +1,7 @@
+cxu extends cxt {
+	Field[jZ]
+	Method[<init>(Lob;)V]
+	Method[k()Z]
+}
+
+

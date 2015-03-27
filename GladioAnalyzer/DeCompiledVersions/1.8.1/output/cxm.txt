@@ -1,0 +1,18 @@
+cxm extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Field[bLjava/util/List;]
+	Field[cZ]
+	Field[dZ]
+	Field[eLcue;]
+	Field[fLcmx;]
+	Method[<init>(Ljava/util/List;Ljava/util/List;ZZLcue;Lcmx;)V]
+	Method[a(Lej;)Ljava/util/List;]
+	Method[a()Ljava/util/List;]
+	Method[b()Z]
+	Method[c()Z]
+	Method[d()Z]
+	Method[e()Lcue;]
+	Method[f()Lcmx;]
+}
+
+

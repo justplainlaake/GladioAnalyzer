@@ -1,0 +1,9 @@
+sf extends su {
+	Method[<init>(Ljava/io/File;)V]
+	Method[a(Lcom/google/gson/JsonObject;)Lst;]
+	Method[a(Ljava/net/SocketAddress;)Z]
+	Method[b(Ljava/net/SocketAddress;)Lsg;]
+	Method[c(Ljava/net/SocketAddress;)Ljava/lang/String;]
+}
+
+

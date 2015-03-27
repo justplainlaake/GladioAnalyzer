@@ -1,0 +1,11 @@
+cdh extends java/lang/Object {
+	Field[aLbru;]
+	Field[bF]
+	Field[cF]
+	Method[<init>(FFFFF)V]
+	Method[a(FF)Lcdh;]
+	Method[<init>(Lcdh;FF)V]
+	Method[<init>(Lbru;FF)V]
+}
+
+

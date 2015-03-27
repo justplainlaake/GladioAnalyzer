@@ -1,0 +1,17 @@
+aop extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[c[Lamg;]
+	Field[dLamg;]
+	Field[eZ]
+	Method[<init>(II[Lamg;Lamg;)V]
+	Method[b()Lamg;]
+	Method[b(Laik;)[Lamg;]
+	Method[a(Laik;Laqr;)Z]
+	Method[a(Laik;IIZ)Z]
+	Method[a(Laik;)Lamg;]
+	Method[a()I]
+	Method[c()Laop;]
+}
+
+

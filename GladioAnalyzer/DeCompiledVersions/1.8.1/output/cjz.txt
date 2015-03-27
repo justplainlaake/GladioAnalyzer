@@ -1,0 +1,10 @@
+cjz extends java/lang/Object {
+	Field[aLcjq;]
+	Field[bLcjq;]
+	Field[cF]
+	Field[dF]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

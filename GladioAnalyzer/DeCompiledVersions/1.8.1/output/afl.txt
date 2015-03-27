@@ -1,0 +1,25 @@
+afl extends afw {
+	Method[<init>(Laqr;)V]
+	Method[aX()V]
+	Method[bR()Z]
+	Method[bS()Z]
+	Method[br()I]
+	Method[b(F)I]
+	Method[c(F)F]
+	Method[n()Lew;]
+	Method[cf()Lafw;]
+	Method[A()Laln;]
+	Method[b(ZI)V]
+	Method[at()Z]
+	Method[cg()I]
+	Method[ch()V]
+	Method[bF()V]
+	Method[bH()V]
+	Method[e(FF)V]
+	Method[ci()Z]
+	Method[cj()I]
+	Method[ck()Ljava/lang/String;]
+	Method[cl()Z]
+}
+
+

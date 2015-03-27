@@ -1,0 +1,15 @@
+ob extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Method[<init>(I[Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[a(Ljava/lang/String;)[Ljava/lang/String;]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+	Method[toString()Ljava/lang/String;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+}
+
+

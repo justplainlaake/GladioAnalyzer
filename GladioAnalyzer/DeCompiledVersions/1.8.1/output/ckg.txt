@@ -1,0 +1,10 @@
+ckg extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

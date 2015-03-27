@@ -1,0 +1,12 @@
+kn extends java/lang/Object {
+	Field[a[I]
+	Method[<init>()V]
+	Method[<init>([I)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()[I]
+	Method[a(Lhh;)V]
+}
+
+

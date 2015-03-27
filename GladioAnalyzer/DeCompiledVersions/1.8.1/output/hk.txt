@@ -1,0 +1,19 @@
+hk extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Field[bLhw;]
+	Method[<init>()V]
+	Method[a(Lhp;)Lhp;]
+	Method[a()Ljava/util/List;]
+	Method[a(Ljava/lang/String;)Lhp;]
+	Method[a(Lhw;)Lhp;]
+	Method[b()Lhw;]
+	Method[iterator()Ljava/util/Iterator;]
+	Method[c()Ljava/lang/String;]
+	Method[d()Ljava/lang/String;]
+	Method[a(Ljava/lang/Iterable;)Ljava/util/Iterator;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[toString()Ljava/lang/String;]
+}
+
+

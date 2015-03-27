@@ -1,0 +1,17 @@
+bat extends java/lang/Enum {
+	Field[aLbat;]
+	Field[bLbat;]
+	Field[cLbat;]
+	Field[dLbat;]
+	Field[eLbat;]
+	Field[fLjava/lang/String;]
+	Field[g[Lbat;]
+	Method[values()[Lbat;]
+	Method[valueOf(Ljava/lang/String;)Lbat;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,11 @@
+csk extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcpq;]
+	Method[<init>(Lcpq;)V]
+	Method[a(Ladc;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[<clinit>()V]
+}
+
+

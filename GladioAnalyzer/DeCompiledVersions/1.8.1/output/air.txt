@@ -1,0 +1,8 @@
+air extends ajh {
+	Method[<init>(Lvs;III)V]
+	Method[a(Lamg;)Z]
+	Method[b(Lamg;)I]
+	Method[c_(Lamg;)Z]
+}
+
+

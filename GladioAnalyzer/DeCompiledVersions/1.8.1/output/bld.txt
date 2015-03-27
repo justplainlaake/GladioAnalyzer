@@ -1,0 +1,16 @@
+bld extends java/lang/Object {
+	Field[aI]
+	Field[b[Lbld;]
+	Field[c[Z]
+	Field[dZ]
+	Field[eZ]
+	Field[fI]
+	Method[<init>(I)V]
+	Method[a(Lej;Lbld;)V]
+	Method[a()V]
+	Method[a(I)Z]
+	Method[b()Z]
+	Method[c()I]
+}
+
+

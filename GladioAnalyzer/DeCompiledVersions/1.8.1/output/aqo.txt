@@ -1,0 +1,15 @@
+aqo extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bZ]
+	Field[cI]
+	Field[dD]
+	Field[eLaqp;]
+	Method[<init>(Ljava/lang/String;Laqp;)V]
+	Method[a(Ljava/lang/String;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Z]
+	Method[c()I]
+	Method[e()Laqp;]
+}
+
+

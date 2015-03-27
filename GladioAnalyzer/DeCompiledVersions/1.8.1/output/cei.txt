@@ -1,0 +1,8 @@
+cei extends java/lang/Object {
+	Field[aLceh;]
+	Method[<init>(Lceh;)V]
+	Method[onSuccess(Ljava/lang/Object;)V]
+	Method[onFailure(Ljava/lang/Throwable;)V]
+}
+
+

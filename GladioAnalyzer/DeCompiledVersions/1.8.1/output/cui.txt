@@ -1,0 +1,8 @@
+cui extends java/lang/Object {
+	Method[b(ZZ)V]
+	Method[a()V]
+	Method[a(Lcvk;)V]
+	Method[b()I]
+}
+
+

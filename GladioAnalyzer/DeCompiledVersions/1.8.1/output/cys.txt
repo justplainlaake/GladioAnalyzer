@@ -1,0 +1,11 @@
+cys extends java/lang/Object {
+	Field[bLjava/util/List;]
+	Field[aZ]
+	Method[<init>()V]
+	Method[a()Z]
+	Method[b()V]
+	Method[c()Ljava/util/List;]
+	Method[a(Ljava/lang/String;Ljava/net/InetAddress;)V]
+}
+
+

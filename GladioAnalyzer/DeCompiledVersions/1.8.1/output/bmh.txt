@@ -1,0 +1,9 @@
+bmh extends bmi {
+	Method[<init>()V]
+	Method[<init>(ILjava/util/Random;Lbiz;Lej;)V]
+	Method[a(Lbmq;Ljava/util/List;Ljava/util/Random;)V]
+	Method[a(Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmh;]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+}
+
+

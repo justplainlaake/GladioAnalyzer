@@ -1,0 +1,8 @@
+cja extends java/lang/Object {
+	Field[a[Lciu;]
+	Method[<init>()V]
+	Method[a(Laqi;)Lciu;]
+	Method[a(I)Lciu;]
+}
+
+

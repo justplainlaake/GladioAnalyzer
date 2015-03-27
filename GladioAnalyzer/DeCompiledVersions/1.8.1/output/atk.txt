@@ -1,0 +1,8 @@
+atk extends java/lang/Object {
+	Field[aLaqr;]
+	Field[bLdt;]
+	Method[<init>(Laqr;Ldt;)V]
+	Method[run()V]
+}
+
+

@@ -1,0 +1,11 @@
+bso extends java/lang/Object {
+	Field[aI]
+	Field[bLhp;]
+	Field[cI]
+	Method[<init>(ILhp;I)V]
+	Method[a()Lhp;]
+	Method[b()I]
+	Method[c()I]
+}
+
+

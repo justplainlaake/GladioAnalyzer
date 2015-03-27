@@ -1,0 +1,13 @@
+ms extends java/lang/Enum {
+	Field[aLms;]
+	Field[bLms;]
+	Field[cLms;]
+	Field[dLms;]
+	Field[e[Lms;]
+	Method[values()[Lms;]
+	Method[valueOf(Ljava/lang/String;)Lms;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

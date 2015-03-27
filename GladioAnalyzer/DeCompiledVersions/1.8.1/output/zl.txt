@@ -1,0 +1,7 @@
+zl extends zk {
+	Field[eLagn;]
+	Method[<init>(Lagn;)V]
+	Method[a()Z]
+}
+
+

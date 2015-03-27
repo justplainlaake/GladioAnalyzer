@@ -1,0 +1,17 @@
+gd extends java/lang/Object {
+	Field[a[Ljava/lang/String;]
+	Method[a(Ljava/io/DataOutput;)V]
+	Method[a(Ljava/io/DataInput;ILfx;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[a()B]
+	Method[<init>()V]
+	Method[a(B)Lgd;]
+	Method[b()Lgd;]
+	Method[c_()Z]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[a_()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

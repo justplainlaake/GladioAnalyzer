@@ -1,0 +1,12 @@
+cnk extends cnp {
+	Field[cLjava/util/Map;]
+	Field[dLob;]
+	Field[eLcbv;]
+	Method[<init>()V]
+	Method[a(Lbcg;DDDFI)V]
+	Method[a(Lbcg;)Lob;]
+	Method[a(Lbck;DDDFI)V]
+	Method[<clinit>()V]
+}
+
+

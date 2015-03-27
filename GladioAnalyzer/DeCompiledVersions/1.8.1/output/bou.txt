@@ -1,0 +1,6 @@
+bou extends bpn {
+	Method[<init>(JLboy;)V]
+	Method[b(IIII)I]
+}
+
+

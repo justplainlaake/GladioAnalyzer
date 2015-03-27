@@ -1,0 +1,9 @@
+bhy extends bia {
+	Method[<init>(ZIIII)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+	Method[a(Lbod;)Z]
+	Method[b(Laqr;Ljava/util/Random;Ldt;I)V]
+	Method[c(Laqr;Ldt;I)V]
+}
+
+

@@ -1,0 +1,4 @@
+cng extends java/lang/Object {
+}
+
+

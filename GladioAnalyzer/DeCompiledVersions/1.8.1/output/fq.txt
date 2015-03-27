@@ -1,0 +1,20 @@
+fq extends ge {
+	Field[bD]
+	Method[<init>()V]
+	Method[<init>(D)V]
+	Method[a(Ljava/io/DataOutput;)V]
+	Method[a(Ljava/io/DataInput;ILfx;)V]
+	Method[a()B]
+	Method[toString()Ljava/lang/String;]
+	Method[b()Lgd;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[c()J]
+	Method[d()I]
+	Method[e()S]
+	Method[f()B]
+	Method[g()D]
+	Method[h()F]
+}
+
+

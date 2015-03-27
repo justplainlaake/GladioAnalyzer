@@ -1,0 +1,16 @@
+gk extends gh {
+	Field[cLjava/util/regex/Pattern;]
+	Field[dLjava/util/regex/Pattern;]
+	Field[eLjava/util/regex/Pattern;]
+	Field[fLjava/util/regex/Pattern;]
+	Field[gLjava/util/regex/Pattern;]
+	Field[hLjava/util/regex/Pattern;]
+	Field[iLjava/util/regex/Pattern;]
+	Field[jLcom/google/common/base/Splitter;]
+	Field[bLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[a()Lgd;]
+	Method[<clinit>()V]
+}
+
+

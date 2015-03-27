@@ -1,0 +1,13 @@
+byz extends ahy {
+	Field[aLjava/util/List;]
+	Method[<init>(Laha;)V]
+	Method[a(Laha;)Z]
+	Method[a(F)V]
+	Method[e()Z]
+	Method[a(IIZLaha;)V]
+	Method[b(Laha;I)Lamg;]
+	Method[a(Lamg;Lajh;)Z]
+	Method[b(Lajh;)Z]
+}
+
+

@@ -1,0 +1,9 @@
+k extends java/lang/Object {
+	Field[aI]
+	Field[bLato;]
+	Method[<init>(ILato;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

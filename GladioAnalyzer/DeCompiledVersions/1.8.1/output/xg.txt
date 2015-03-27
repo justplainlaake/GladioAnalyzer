@@ -1,0 +1,9 @@
+xg extends java/lang/Object {
+	Field[aLcom/google/common/base/Predicate;]
+	Field[bLcom/google/common/base/Predicate;]
+	Field[cLcom/google/common/base/Predicate;]
+	Field[dLcom/google/common/base/Predicate;]
+	Method[<clinit>()V]
+}
+
+

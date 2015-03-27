@@ -1,0 +1,20 @@
+bgf extends bgb {
+	Method[<init>()V]
+	Method[b()V]
+	Method[c()Lbfc;]
+	Method[a(JF)F]
+	Method[a(FF)[F]
+	Method[b(FF)Lbru;]
+	Method[g()Z]
+	Method[e()Z]
+	Method[d()Z]
+	Method[f()F]
+	Method[a(II)Z]
+	Method[h()Ldt;]
+	Method[i()I]
+	Method[b(II)Z]
+	Method[k()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+}
+
+

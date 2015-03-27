@@ -1,0 +1,10 @@
+abg extends java/lang/Object {
+	Field[aLxq;]
+	Field[bLjava/util/List;]
+	Field[cLjava/util/List;]
+	Method[<init>(Lxq;)V]
+	Method[a()V]
+	Method[a(Lwx;)Z]
+}
+
+

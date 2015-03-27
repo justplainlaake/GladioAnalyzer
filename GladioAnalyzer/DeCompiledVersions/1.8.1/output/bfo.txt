@@ -1,0 +1,9 @@
+bfo extends java/lang/Object {
+	Method[a(Laqr;II)Lbff;]
+	Method[a(Laqr;Lbff;)V]
+	Method[b(Laqr;Lbff;)V]
+	Method[a()V]
+	Method[b()V]
+}
+
+

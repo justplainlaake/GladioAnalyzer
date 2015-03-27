@@ -1,0 +1,7 @@
+aue extends aur {
+	Method[<init>()V]
+	Method[k()Laln;]
+	Method[m()Laln;]
+}
+
+

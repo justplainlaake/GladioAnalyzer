@@ -1,0 +1,4 @@
+wv extends java/lang/Object {
+}
+
+

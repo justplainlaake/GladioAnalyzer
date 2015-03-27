@@ -1,0 +1,24 @@
+aew extends afm {
+	Field[aI]
+	Field[bZ]
+	Method[<init>(Laqr;)V]
+	Method[aS()F]
+	Method[aX()V]
+	Method[s_()Z]
+	Method[z()Ljava/lang/String;]
+	Method[bo()Ljava/lang/String;]
+	Method[bp()Ljava/lang/String;]
+	Method[a(Ldt;Lato;)V]
+	Method[A()Laln;]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[t_()V]
+	Method[n()Z]
+	Method[a(Z)V]
+	Method[m()V]
+	Method[n_()Z]
+	Method[bR()Z]
+	Method[bz()Lxv;]
+}
+
+

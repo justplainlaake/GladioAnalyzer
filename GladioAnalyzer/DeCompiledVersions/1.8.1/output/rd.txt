@@ -1,0 +1,21 @@
+rd extends java/lang/Object {
+	Field[eLorg/apache/logging/log4j/Logger;]
+	Field[aLur;]
+	Field[bLur;]
+	Field[cLur;]
+	Field[fLnet/minecraft/server/MinecraftServer;]
+	Field[dZ]
+	Field[gLjava/util/List;]
+	Field[hLjava/util/List;]
+	Method[<init>(Lnet/minecraft/server/MinecraftServer;)V]
+	Method[a(Ljava/net/InetAddress;I)V]
+	Method[a()Ljava/net/SocketAddress;]
+	Method[b()V]
+	Method[c()V]
+	Method[d()Lnet/minecraft/server/MinecraftServer;]
+	Method[a(Lrd;)Ljava/util/List;]
+	Method[b(Lrd;)Lnet/minecraft/server/MinecraftServer;]
+	Method[<clinit>()V]
+}
+
+

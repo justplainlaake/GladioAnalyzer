@@ -1,0 +1,9 @@
+agz extends java/lang/Object {
+	Field[aLamg;]
+	Field[bLagy;]
+	Method[<init>(Lagy;Lamg;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

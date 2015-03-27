@@ -1,0 +1,8 @@
+cze extends java/net/URLConnection {
+	Field[aLczd;]
+	Method[<init>(Lczd;Ljava/net/URL;)V]
+	Method[connect()V]
+	Method[getInputStream()Ljava/io/InputStream;]
+}
+
+

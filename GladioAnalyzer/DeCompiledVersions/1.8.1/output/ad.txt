@@ -1,0 +1,8 @@
+ad extends java/lang/Object {
+	Method[a(Lae;Ljava/lang/String;)I]
+	Method[a(Lae;Ljava/lang/String;Ldt;)Ljava/util/List;]
+	Method[a(Lae;)Ljava/util/List;]
+	Method[a()Ljava/util/Map;]
+}
+
+

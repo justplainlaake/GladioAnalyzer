@@ -1,0 +1,12 @@
+cpj extends cpu {
+	Field[eLob;]
+	Field[aLccp;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Ladv;DDDFF)V]
+	Method[a(Ladv;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+	Method[<clinit>()V]
+}
+
+

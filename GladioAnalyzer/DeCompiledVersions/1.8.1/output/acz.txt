@@ -1,0 +1,6 @@
+acz extends java/lang/Object {
+	Method[a()Laqr;]
+	Method[a(Lada;Lwj;F)Z]
+}
+
+

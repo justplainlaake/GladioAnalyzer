@@ -1,0 +1,8 @@
+qv extends java/lang/Object {
+	Field[aLqu;]
+	Method[<init>(Lqu;)V]
+	Method[a(Lxo;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

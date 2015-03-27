@@ -1,0 +1,12 @@
+csy extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcrw;]
+	Field[cLcdm;]
+	Method[<init>(Lcrw;)V]
+	Method[a(Ladg;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[<clinit>()V]
+}
+
+

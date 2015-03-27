@@ -1,0 +1,6 @@
+xw extends java/lang/Object {
+	Method[b()Ljava/lang/String;]
+	Method[m_()Lwx;]
+}
+
+

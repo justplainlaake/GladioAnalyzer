@@ -1,0 +1,7 @@
+czb extends java/lang/Object {
+	Field[aLcza;]
+	Method[<init>(Lcza;)V]
+	Method[run()V]
+}
+
+

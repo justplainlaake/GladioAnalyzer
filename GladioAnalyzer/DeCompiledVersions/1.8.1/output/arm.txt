@@ -1,0 +1,13 @@
+arm extends java/lang/Enum {
+	Field[aLarm;]
+	Field[bLarm;]
+	Field[cLarm;]
+	Field[dLarm;]
+	Field[e[Larm;]
+	Method[values()[Larm;]
+	Method[valueOf(Ljava/lang/String;)Larm;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,7 @@
+akb extends aln {
+	Method[<init>()V]
+	Method[f()Z]
+	Method[c(Lamg;Laqr;Laha;)Lie;]
+}
+
+

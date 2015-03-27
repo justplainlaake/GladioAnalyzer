@@ -1,0 +1,16 @@
+asa extends arj {
+	Field[aGI]
+	Field[aDLbhd;]
+	Field[aELbhd;]
+	Field[aFLbih;]
+	Method[<init>(II)V]
+	Method[a(IZ)Larj;]
+	Method[a(Ljava/util/Random;)Lbha;]
+	Method[a(Ljava/util/Random;Ldt;)Lavx;]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[b(Ldt;)I]
+	Method[d(I)Larj;]
+	Method[<clinit>()V]
+}
+
+

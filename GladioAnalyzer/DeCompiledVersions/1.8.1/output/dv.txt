@@ -1,0 +1,9 @@
+dv extends com/google/common/collect/AbstractIterator {
+	Field[bLdt;]
+	Field[aLdu;]
+	Method[<init>(Ldu;)V]
+	Method[a()Ldt;]
+	Method[computeNext()Ljava/lang/Object;]
+}
+
+

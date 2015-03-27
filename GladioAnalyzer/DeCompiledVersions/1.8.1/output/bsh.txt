@@ -1,0 +1,8 @@
+bsh extends bsg {
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a(Ljava/util/List;)I]
+	Method[b()Z]
+	Method[c()Lbsj;]
+}
+
+

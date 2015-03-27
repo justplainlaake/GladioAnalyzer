@@ -1,0 +1,8 @@
+csj extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Ladc;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+}
+
+

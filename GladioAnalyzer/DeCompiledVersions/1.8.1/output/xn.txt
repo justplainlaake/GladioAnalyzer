@@ -1,0 +1,9 @@
+xn extends xq {
+	Method[<init>(Laqr;)V]
+	Method[e(FF)V]
+	Method[a(DZLato;Ldt;)V]
+	Method[g(FF)V]
+	Method[k_()Z]
+}
+
+

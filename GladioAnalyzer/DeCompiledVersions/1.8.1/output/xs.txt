@@ -1,0 +1,22 @@
+xs extends java/lang/Enum {
+	Field[aLxs;]
+	Field[bLxs;]
+	Field[cLxs;]
+	Field[dLxs;]
+	Field[eLjava/lang/Class;]
+	Field[fI]
+	Field[gLbod;]
+	Field[hZ]
+	Field[iZ]
+	Field[j[Lxs;]
+	Method[values()[Lxs;]
+	Method[valueOf(Ljava/lang/String;)Lxs;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/Class;ILbod;ZZ)V]
+	Method[a()Ljava/lang/Class;]
+	Method[b()I]
+	Method[d()Z]
+	Method[e()Z]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,18 @@
+cex extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLbss;]
+	Field[cLjava/util/List;]
+	Method[<init>(Lbss;)V]
+	Method[a()V]
+	Method[b()V]
+	Method[a(I)Lcev;]
+	Method[b(I)V]
+	Method[a(Lcev;)V]
+	Method[c()I]
+	Method[a(II)V]
+	Method[a(ILcev;)V]
+	Method[b(Lcev;)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,5 @@
+bkg extends java/lang/Object {
+	Method[a()V]
+}
+
+

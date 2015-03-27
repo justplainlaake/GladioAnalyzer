@@ -1,0 +1,22 @@
+tr extends ub {
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Field[cLnet/minecraft/server/MinecraftServer;]
+	Field[dLjava/io/File;]
+	Field[eLjava/util/Set;]
+	Field[fI]
+	Field[gZ]
+	Method[<init>(Lnet/minecraft/server/MinecraftServer;Ljava/io/File;)V]
+	Method[a()V]
+	Method[b()V]
+	Method[a(Laha;Lts;I)V]
+	Method[c()Ljava/util/Set;]
+	Method[a(Ljava/lang/String;)Ljava/util/Map;]
+	Method[a(Ljava/util/Map;)Ljava/lang/String;]
+	Method[d()V]
+	Method[a(Lqx;)V]
+	Method[b(Lqx;)V]
+	Method[e()Z]
+	Method[<clinit>()V]
+}
+
+

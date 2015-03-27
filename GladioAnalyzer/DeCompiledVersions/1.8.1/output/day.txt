@@ -1,0 +1,13 @@
+day extends java/lang/Object {
+	Field[eZ]
+	Field[aLnet/minecraft/realms/RealmsServerPing;]
+	Field[bLgr;]
+	Field[cLjava/lang/String;]
+	Field[dLnet/minecraft/realms/RealmsServerStatusPinger;]
+	Method[<init>(Lnet/minecraft/realms/RealmsServerStatusPinger;Lnet/minecraft/realms/RealmsServerPing;Lgr;Ljava/lang/String;)V]
+	Method[a(Lnp;)V]
+	Method[a(Lno;)V]
+	Method[a(Lhp;)V]
+}
+
+

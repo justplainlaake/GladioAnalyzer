@@ -1,0 +1,13 @@
+bwk extends bxe {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[fLob;]
+	Method[<init>()V]
+	Method[b()V]
+	Method[a(Lbue;)V]
+	Method[e()V]
+	Method[c()V]
+	Method[a(IIF)V]
+	Method[<clinit>()V]
+}
+
+

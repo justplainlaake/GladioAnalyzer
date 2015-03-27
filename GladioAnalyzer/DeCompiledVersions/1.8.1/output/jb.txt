@@ -1,0 +1,14 @@
+jb extends java/lang/Object {
+	Field[aLaqj;]
+	Field[b[Ljc;]
+	Method[<init>()V]
+	Method[<init>(I[SLbff;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()[Ljc;]
+	Method[a(Lhh;)V]
+	Method[a(Ljb;)Laqj;]
+}
+
+

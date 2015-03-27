@@ -1,0 +1,11 @@
+cxe extends java/lang/Object {
+	Method[a(Lej;)Ljava/util/List;]
+	Method[a()Ljava/util/List;]
+	Method[b()Z]
+	Method[c()Z]
+	Method[d()Z]
+	Method[e()Lcue;]
+	Method[f()Lcmx;]
+}
+
+

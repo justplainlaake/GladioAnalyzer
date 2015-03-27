@@ -1,0 +1,27 @@
+pl extends bsb {
+	Field[aLnet/minecraft/server/MinecraftServer;]
+	Field[bLjava/util/Set;]
+	Field[cLbsc;]
+	Method[<init>(Lnet/minecraft/server/MinecraftServer;)V]
+	Method[a(Lbry;)V]
+	Method[a(Ljava/lang/String;)V]
+	Method[a(Ljava/lang/String;Lbrw;)V]
+	Method[a(ILbrw;)V]
+	Method[a(Ljava/lang/String;Ljava/lang/String;)Z]
+	Method[a(Ljava/lang/String;Lbrx;)V]
+	Method[a(Lbrw;)V]
+	Method[b(Lbrw;)V]
+	Method[c(Lbrw;)V]
+	Method[a(Lbrx;)V]
+	Method[b(Lbrx;)V]
+	Method[c(Lbrx;)V]
+	Method[a(Lbsc;)V]
+	Method[b()V]
+	Method[d(Lbrw;)Ljava/util/List;]
+	Method[e(Lbrw;)V]
+	Method[f(Lbrw;)Ljava/util/List;]
+	Method[g(Lbrw;)V]
+	Method[h(Lbrw;)I]
+}
+
+

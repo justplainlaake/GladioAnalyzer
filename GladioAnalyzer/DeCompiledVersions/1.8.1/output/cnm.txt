@@ -1,0 +1,8 @@
+cnm extends java/lang/Object {
+	Field[aJ]
+	Field[bLob;]
+	Method[<init>()V]
+	Method[<init>(Lcnl;)V]
+}
+
+

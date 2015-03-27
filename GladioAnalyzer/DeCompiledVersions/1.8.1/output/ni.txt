@@ -1,0 +1,6 @@
+ni extends java/lang/Object {
+	Method[a(Lnj;)V]
+	Method[a(Lnk;)V]
+}
+
+

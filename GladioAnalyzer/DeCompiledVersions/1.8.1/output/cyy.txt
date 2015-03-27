@@ -1,0 +1,22 @@
+cyy extends java/lang/Enum {
+	Field[aLcyy;]
+	Field[bLcyy;]
+	Field[cLcyy;]
+	Field[dLcyy;]
+	Field[eLcyy;]
+	Field[fLcyy;]
+	Field[gLcyy;]
+	Field[hLob;]
+	Field[iI]
+	Field[jI]
+	Field[k[Lcyy;]
+	Method[values()[Lcyy;]
+	Method[valueOf(Ljava/lang/String;)Lcyy;]
+	Method[<init>(Ljava/lang/String;ILob;II)V]
+	Method[a()Lob;]
+	Method[b()I]
+	Method[c()I]
+	Method[<clinit>()V]
+}
+
+

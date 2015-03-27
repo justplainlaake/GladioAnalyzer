@@ -1,0 +1,26 @@
+jn extends java/lang/Object {
+	Field[aD]
+	Field[bD]
+	Field[cD]
+	Field[dF]
+	Field[eLjava/util/List;]
+	Field[fF]
+	Field[gF]
+	Field[hF]
+	Method[<init>()V]
+	Method[<init>(DDDFLjava/util/List;Lbru;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()F]
+	Method[b()F]
+	Method[c()F]
+	Method[d()D]
+	Method[e()D]
+	Method[f()D]
+	Method[g()F]
+	Method[h()Ljava/util/List;]
+	Method[a(Lhh;)V]
+}
+
+

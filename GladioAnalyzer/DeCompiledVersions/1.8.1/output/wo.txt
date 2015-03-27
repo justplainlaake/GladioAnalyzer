@@ -1,0 +1,6 @@
+wo extends wr {
+	Method[<init>(ILob;ZI)V]
+	Method[a(ILyd;)D]
+}
+
+

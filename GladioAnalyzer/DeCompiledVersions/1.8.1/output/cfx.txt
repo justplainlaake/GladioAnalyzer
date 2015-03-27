@@ -1,0 +1,6 @@
+cfx extends cgv {
+	Method[<init>(Laqr;DDD)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+}
+
+

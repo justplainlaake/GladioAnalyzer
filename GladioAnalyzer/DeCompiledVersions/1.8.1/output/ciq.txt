@@ -1,0 +1,15 @@
+ciq extends wc {
+	Field[aLjava/lang/String;]
+	Field[bLjava/util/Map;]
+	Method[<init>(Ljava/lang/String;Lhp;I)V]
+	Method[a_(I)I]
+	Method[b(II)V]
+	Method[g()I]
+	Method[r_()Z]
+	Method[a(Lvz;)V]
+	Method[i()Lvz;]
+	Method[k()Ljava/lang/String;]
+	Method[a(Lagy;Laha;)Lahy;]
+}
+
+

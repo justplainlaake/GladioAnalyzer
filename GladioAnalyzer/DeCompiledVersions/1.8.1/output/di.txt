@@ -1,0 +1,7 @@
+di extends java/lang/Exception {
+	Field[a[Ljava/lang/Object;]
+	Method[<init>(Ljava/lang/String;[Ljava/lang/Object;)V]
+	Method[a()[Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,15 @@
+yc extends java/lang/Object {
+	Method[a()Lyb;]
+	Method[b()D]
+	Method[a(D)V]
+	Method[a(I)Ljava/util/Collection;]
+	Method[c()Ljava/util/Collection;]
+	Method[a(Lyd;)Z]
+	Method[a(Ljava/util/UUID;)Lyd;]
+	Method[b(Lyd;)V]
+	Method[c(Lyd;)V]
+	Method[d()V]
+	Method[e()D]
+}
+
+

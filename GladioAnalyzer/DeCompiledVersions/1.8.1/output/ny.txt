@@ -1,0 +1,9 @@
+ny extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lnw;)V]
+	Method[a(Lhh;)V]
+}
+
+

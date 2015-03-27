@@ -1,0 +1,27 @@
+bze extends byk {
+	Field[CLob;]
+	Field[DLob;]
+	Field[ELcbz;]
+	Field[FLagy;]
+	Field[GLjava/util/Random;]
+	Field[HLain;]
+	Field[uI]
+	Field[vF]
+	Field[wF]
+	Field[xF]
+	Field[yF]
+	Field[zF]
+	Field[AF]
+	Field[BLamg;]
+	Field[ILwb;]
+	Method[<init>(Lagy;Laqr;Lwb;)V]
+	Method[b(II)V]
+	Method[e()V]
+	Method[a(III)V]
+	Method[a(FII)V]
+	Method[a(IIF)V]
+	Method[a()V]
+	Method[<clinit>()V]
+}
+
+

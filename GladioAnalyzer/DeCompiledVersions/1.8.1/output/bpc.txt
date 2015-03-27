@@ -1,0 +1,9 @@
+bpc extends boy {
+	Field[cLorg/apache/logging/log4j/Logger;]
+	Field[dLboy;]
+	Method[<init>(JLboy;Lboy;)V]
+	Method[a(IIII)[I]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,10 @@
+vu extends java/lang/Object {
+	Field[aLjava/util/Random;]
+	Method[a(Laqr;Ldt;Lvs;)V]
+	Method[a(Laqr;Lwx;Lvs;)V]
+	Method[a(Laqr;DDDLvs;)V]
+	Method[a(Laqr;DDDLamg;)V]
+	Method[<clinit>()V]
+}
+
+

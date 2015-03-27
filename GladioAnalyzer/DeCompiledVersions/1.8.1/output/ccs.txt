@@ -1,0 +1,21 @@
+ccs extends cck {
+	Field[aLcdx;]
+	Field[bLcdx;]
+	Field[cLcdx;]
+	Field[dLcdx;]
+	Field[vLcdx;]
+	Field[wLcdx;]
+	Field[xLcdx;]
+	Field[yZ]
+	Method[<init>(FZ)V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[b(F)V]
+	Method[c(F)V]
+	Method[a(FFFFFFLwx;)V]
+	Method[a()V]
+	Method[b()V]
+	Method[a(Z)V]
+	Method[a(F)V]
+}
+
+

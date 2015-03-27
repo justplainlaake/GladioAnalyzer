@@ -1,0 +1,9 @@
+cxp extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Method[<init>()V]
+	Method[a(Lcxe;I)Lcxp;]
+	Method[a()Lcxo;]
+	Method[b()Lcxe;]
+}
+
+

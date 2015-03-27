@@ -1,0 +1,7 @@
+azi extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lbea;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

@@ -1,0 +1,14 @@
+cjb extends java/lang/Object {
+	Field[cD]
+	Field[dD]
+	Field[eD]
+	Field[aLjava/util/List;]
+	Field[bZ]
+	Method[<init>()V]
+	Method[a(DDD)V]
+	Method[a(Lcop;)V]
+	Method[a(Lcop;Laqi;)V]
+	Method[a(Laqi;)V]
+}
+
+

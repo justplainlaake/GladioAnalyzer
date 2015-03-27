@@ -1,0 +1,12 @@
+amk extends akb {
+	Method[<init>()V]
+	Method[a(ILaqr;)Lbqc;]
+	Method[a(Lamg;Laqr;)Lbqc;]
+	Method[a(Laqr;Lwx;Lbqc;)V]
+	Method[a(Lamg;Laqr;Lwx;IZ)V]
+	Method[c(Lamg;Laqr;Laha;)Lie;]
+	Method[d(Lamg;Laqr;Laha;)V]
+	Method[a(Lamg;Laha;Ljava/util/List;Z)V]
+}
+
+

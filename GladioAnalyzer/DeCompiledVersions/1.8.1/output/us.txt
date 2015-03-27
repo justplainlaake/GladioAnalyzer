@@ -1,0 +1,13 @@
+us extends java/lang/Object {
+	Field[a[Ljava/lang/Object;]
+	Field[bLjava/lang/Class;]
+	Field[cLjava/util/concurrent/locks/ReadWriteLock;]
+	Field[dI]
+	Field[eI]
+	Method[<init>(Ljava/lang/Class;I)V]
+	Method[a(Ljava/lang/Object;)Ljava/lang/Object;]
+	Method[b()I]
+	Method[c()[Ljava/lang/Object;]
+}
+
+

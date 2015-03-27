@@ -1,0 +1,6 @@
+akg extends akc {
+	Method[<init>(ILjava/lang/String;)V]
+	Method[e()Laln;]
+}
+
+

@@ -1,0 +1,12 @@
+aga extends yq {
+	Field[gF]
+	Field[hI]
+	Field[iLafw;]
+	Field[jZ]
+	Method[<init>(Lafw;)V]
+	Method[a(FZ)V]
+	Method[a(D)V]
+	Method[c()V]
+}
+
+

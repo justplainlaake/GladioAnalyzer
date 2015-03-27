@@ -1,0 +1,25 @@
+ali extends aln {
+	Field[aI]
+	Field[bI]
+	Field[cF]
+	Field[dZ]
+	Field[kZ]
+	Field[lI]
+	Field[mI]
+	Field[nI]
+	Field[oF]
+	Method[<init>(IFZ)V]
+	Method[<init>(IZ)V]
+	Method[b(Lamg;Laqr;Laha;)Lamg;]
+	Method[c(Lamg;Laqr;Laha;)V]
+	Method[d(Lamg;)I]
+	Method[e(Lamg;)Lanl;]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+	Method[h(Lamg;)I]
+	Method[i(Lamg;)F]
+	Method[g()Z]
+	Method[a(IIIF)Lali;]
+	Method[h()Lali;]
+}
+
+

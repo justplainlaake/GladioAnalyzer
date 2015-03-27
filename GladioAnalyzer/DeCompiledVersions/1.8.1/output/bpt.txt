@@ -1,0 +1,20 @@
+bpt extends java/lang/Object {
+	Field[a[Lbpr;]
+	Field[bI]
+	Field[cI]
+	Method[<init>([Lbpr;)V]
+	Method[a()V]
+	Method[b()Z]
+	Method[c()Lbpr;]
+	Method[a(I)Lbpr;]
+	Method[d()I]
+	Method[b(I)V]
+	Method[e()I]
+	Method[c(I)V]
+	Method[a(Lwx;I)Lbru;]
+	Method[a(Lwx;)Lbru;]
+	Method[a(Lbpt;)Z]
+	Method[b(Lbru;)Z]
+}
+
+

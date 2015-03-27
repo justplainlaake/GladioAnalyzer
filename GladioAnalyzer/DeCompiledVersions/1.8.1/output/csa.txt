@@ -1,0 +1,7 @@
+csa extends csm {
+	Field[aLcrz;]
+	Method[<init>(Lcrz;Lcqv;)V]
+	Method[a()V]
+}
+
+

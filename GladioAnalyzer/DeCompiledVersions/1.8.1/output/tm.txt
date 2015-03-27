@@ -1,0 +1,26 @@
+tm extends ts {
+	Field[aI]
+	Field[bI]
+	Field[cLtm;]
+	Field[kLjava/lang/String;]
+	Field[lLto;]
+	Field[dLamg;]
+	Field[mZ]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;IILaln;Ltm;)V]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;IILato;Ltm;)V]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;IILamg;Ltm;)V]
+	Method[a()Ltm;]
+	Method[b()Ltm;]
+	Method[c()Ltm;]
+	Method[d()Z]
+	Method[e()Lhp;]
+	Method[a(Ljava/lang/Class;)Ltm;]
+	Method[f()Ljava/lang/String;]
+	Method[a(Lto;)Ltm;]
+	Method[g()Z]
+	Method[b(Ljava/lang/Class;)Lts;]
+	Method[h()Lts;]
+	Method[i()Lts;]
+}
+
+

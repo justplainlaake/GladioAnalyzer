@@ -1,0 +1,7 @@
+tp extends ts {
+	Method[<init>(Ljava/lang/String;Lhp;Ltx;)V]
+	Method[<init>(Ljava/lang/String;Lhp;)V]
+	Method[h()Lts;]
+}
+
+

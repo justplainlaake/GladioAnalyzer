@@ -1,0 +1,14 @@
+up extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/lang/Object;]
+	Field[cLup;]
+	Field[dI]
+	Method[<init>(IILjava/lang/Object;Lup;)V]
+	Method[a()I]
+	Method[b()Ljava/lang/Object;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[toString()Ljava/lang/String;]
+}
+
+

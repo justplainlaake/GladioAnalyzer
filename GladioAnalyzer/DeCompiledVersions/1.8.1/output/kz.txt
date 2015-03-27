@@ -1,0 +1,16 @@
+kz extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Method[<init>()V]
+	Method[<init>(ILwx;Lwx;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()I]
+	Method[b()I]
+	Method[c()I]
+	Method[a(Lhh;)V]
+}
+
+

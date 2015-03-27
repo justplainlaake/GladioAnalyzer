@@ -1,0 +1,10 @@
+cgk extends cgv {
+	Field[aI]
+	Field[azI]
+	Method[<init>(Laqr;DDDDDD)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[t_()V]
+	Method[a()I]
+}
+
+

@@ -1,0 +1,9 @@
+dab extends java/lang/Object {
+	Field[aLdaa;]
+	Method[<init>(Ldaa;)V]
+	Method[chatInitializationCallback(Ltv/twitch/ErrorCode;)V]
+	Method[chatShutdownCallback(Ltv/twitch/ErrorCode;)V]
+	Method[chatEmoticonDataDownloadCallback(Ltv/twitch/ErrorCode;)V]
+}
+
+

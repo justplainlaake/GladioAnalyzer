@@ -1,0 +1,19 @@
+bnx extends java/lang/Object {
+	Field[e[[I]
+	Field[aD]
+	Field[f[I]
+	Field[bD]
+	Field[cD]
+	Field[dD]
+	Field[gD]
+	Field[hD]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/Random;)V]
+	Method[a(D)I]
+	Method[a([IDD)D]
+	Method[a(DD)D]
+	Method[a([DDDIIDDD)V]
+	Method[<clinit>()V]
+}
+
+

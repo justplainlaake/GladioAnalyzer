@@ -1,0 +1,7 @@
+ib extends java/lang/IllegalArgumentException {
+	Method[<init>(Lia;Ljava/lang/String;)V]
+	Method[<init>(Lia;I)V]
+	Method[<init>(Lia;Ljava/lang/Throwable;)V]
+}
+
+

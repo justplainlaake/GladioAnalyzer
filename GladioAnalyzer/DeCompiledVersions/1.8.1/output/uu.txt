@@ -1,0 +1,14 @@
+uu extends java/lang/Object {
+	Field[aJ]
+	Field[bLjava/lang/Object;]
+	Field[cLuu;]
+	Field[dI]
+	Method[<init>(IJLjava/lang/Object;Luu;)V]
+	Method[a()J]
+	Method[b()Ljava/lang/Object;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[toString()Ljava/lang/String;]
+}
+
+

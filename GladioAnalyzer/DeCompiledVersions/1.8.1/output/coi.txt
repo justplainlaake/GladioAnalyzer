@@ -1,0 +1,8 @@
+coi extends java/lang/Object {
+	Field[aLcom/google/common/util/concurrent/ListenableFuture;]
+	Field[bLcoh;]
+	Method[<init>(Lcoh;Lcom/google/common/util/concurrent/ListenableFuture;)V]
+	Method[run()V]
+}
+
+

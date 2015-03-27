@@ -1,0 +1,5 @@
+dam extends java/lang/Object {
+	Method[a(Ldai;Ldan;)V]
+}
+
+

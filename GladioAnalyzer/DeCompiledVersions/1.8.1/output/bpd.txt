@@ -1,0 +1,6 @@
+bpd extends boy {
+	Method[<init>(JLboy;)V]
+	Method[a(IIII)[I]
+}
+
+

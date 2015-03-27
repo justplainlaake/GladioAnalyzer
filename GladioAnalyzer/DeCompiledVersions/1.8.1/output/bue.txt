@@ -1,0 +1,27 @@
+bue extends btz {
+	Field[aLob;]
+	Field[fI]
+	Field[gI]
+	Field[hI]
+	Field[iI]
+	Field[jLjava/lang/String;]
+	Field[kI]
+	Field[lZ]
+	Field[mZ]
+	Field[nZ]
+	Method[<init>(IIILjava/lang/String;)V]
+	Method[<init>(IIIIILjava/lang/String;)V]
+	Method[a(Z)I]
+	Method[a(Lbss;II)V]
+	Method[b(Lbss;II)V]
+	Method[a(II)V]
+	Method[c(Lbss;II)Z]
+	Method[a()Z]
+	Method[b(II)V]
+	Method[a(Lczh;)V]
+	Method[b()I]
+	Method[a(I)V]
+	Method[<clinit>()V]
+}
+
+

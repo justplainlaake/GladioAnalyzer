@@ -1,0 +1,7 @@
+ctr extends java/lang/Thread {
+	Field[aLctq;]
+	Method[<init>(Lctq;Ljava/lang/String;)V]
+	Method[run()V]
+}
+
+

@@ -1,0 +1,7 @@
+bhc extends dt {
+	Field[cI]
+	Method[<init>(Ldt;I)V]
+	Method[q()I]
+}
+
+

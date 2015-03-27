@@ -1,0 +1,13 @@
+amv extends aln {
+	Field[bLjava/util/Map;]
+	Field[aLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a(Lamg;Laha;Laqr;Ldt;Lej;FFF)Z]
+	Method[a(Lamg;Laha;Ljava/util/List;Z)V]
+	Method[g()Ljava/lang/String;]
+	Method[g(Lamg;)Lamu;]
+	Method[b(Ljava/lang/String;)Lamv;]
+	Method[<clinit>()V]
+}
+
+

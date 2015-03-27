@@ -1,0 +1,7 @@
+cqo extends java/lang/Object {
+	Field[aLcqh;]
+	Method[<init>(Lcqh;)V]
+	Method[a(Lamg;)Lcxl;]
+}
+
+

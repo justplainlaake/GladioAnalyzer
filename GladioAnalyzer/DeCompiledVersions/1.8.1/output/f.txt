@@ -1,0 +1,8 @@
+f extends java/lang/Object {
+	Field[aLb;]
+	Method[<init>(Lb;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,7 @@
+rh extends io/netty/channel/ChannelInitializer {
+	Field[aLrd;]
+	Method[<init>(Lrd;)V]
+	Method[initChannel(Lio/netty/channel/Channel;)V]
+}
+
+

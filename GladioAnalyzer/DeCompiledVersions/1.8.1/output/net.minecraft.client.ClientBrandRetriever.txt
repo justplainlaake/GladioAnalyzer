@@ -1,0 +1,6 @@
+net/minecraft/client/ClientBrandRetriever extends java/lang/Object {
+	Method[<init>()V]
+	Method[getClientModName()Ljava/lang/String;]
+}
+
+

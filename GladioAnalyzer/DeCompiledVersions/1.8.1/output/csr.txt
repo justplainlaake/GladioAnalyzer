@@ -1,0 +1,12 @@
+csr extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcrh;]
+	Field[cLccw;]
+	Method[<init>(Lcrh;)V]
+	Method[a(Lacm;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[<clinit>()V]
+}
+
+

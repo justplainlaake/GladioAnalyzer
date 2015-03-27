@@ -1,0 +1,15 @@
+kf extends java/lang/Object {
+	Field[aLkh;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eLjava/lang/String;]
+	Method[<init>()V]
+	Method[<init>(Lwi;Lkh;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a(Lhh;)V]
+}
+
+

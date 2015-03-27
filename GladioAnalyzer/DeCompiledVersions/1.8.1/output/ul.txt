@@ -1,0 +1,12 @@
+ul extends java/lang/Object {
+	Field[aLva;]
+	Field[bLjava/lang/String;]
+	Field[cLjava/net/Proxy;]
+	Field[dLjava/util/Map;]
+	Field[eLjava/io/File;]
+	Field[fI]
+	Method[<init>(Lva;Ljava/lang/String;Ljava/net/Proxy;Ljava/util/Map;Ljava/io/File;I)V]
+	Method[run()V]
+}
+
+

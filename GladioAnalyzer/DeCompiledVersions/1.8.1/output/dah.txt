@@ -1,0 +1,17 @@
+dah extends java/lang/Object {
+	Method[d(Ltv/twitch/ErrorCode;)V]
+	Method[e(Ltv/twitch/ErrorCode;)V]
+	Method[d()V]
+	Method[e()V]
+	Method[a(Ldaf;)V]
+	Method[a(Ljava/lang/String;[Ltv/twitch/chat/ChatTokenizedMessage;)V]
+	Method[a(Ljava/lang/String;[Ltv/twitch/chat/ChatRawMessage;)V]
+	Method[a(Ljava/lang/String;[Ltv/twitch/chat/ChatUserInfo;[Ltv/twitch/chat/ChatUserInfo;[Ltv/twitch/chat/ChatUserInfo;)V]
+	Method[a(Ljava/lang/String;)V]
+	Method[b(Ljava/lang/String;)V]
+	Method[a(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[c(Ljava/lang/String;)V]
+	Method[d(Ljava/lang/String;)V]
+}
+
+

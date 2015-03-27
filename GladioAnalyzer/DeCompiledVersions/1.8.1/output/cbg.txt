@@ -1,0 +1,9 @@
+cbg extends java/lang/Object {
+	Field[aLjava/io/File;]
+	Field[bLjava/io/File;]
+	Field[cLjava/io/File;]
+	Field[dLjava/lang/String;]
+	Method[<init>(Ljava/io/File;Ljava/io/File;Ljava/io/File;Ljava/lang/String;)V]
+}
+
+

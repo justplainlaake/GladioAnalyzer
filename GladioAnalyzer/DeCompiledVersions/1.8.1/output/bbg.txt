@@ -1,0 +1,19 @@
+bbg extends java/lang/Enum {
+	Field[aLbbg;]
+	Field[bLbbg;]
+	Field[cLbbg;]
+	Field[d[Lbbg;]
+	Field[eI]
+	Field[fLjava/lang/String;]
+	Field[g[Lbbg;]
+	Method[values()[Lbbg;]
+	Method[valueOf(Ljava/lang/String;)Lbbg;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Lbbg;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

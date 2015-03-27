@@ -1,0 +1,13 @@
+bsd extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lbsd;)Z]
+	Method[b()Ljava/lang/String;]
+	Method[d(Ljava/lang/String;)Ljava/lang/String;]
+	Method[h()Z]
+	Method[g()Z]
+	Method[i()Lbse;]
+	Method[d()Ljava/util/Collection;]
+	Method[j()Lbse;]
+}
+
+

@@ -1,0 +1,7 @@
+ala extends aln {
+	Method[<init>()V]
+	Method[f(Lamg;)Z]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+}
+
+

@@ -1,0 +1,15 @@
+kl extends java/lang/Object {
+	Field[bI]
+	Field[cLaqz;]
+	Field[dLcom/mojang/authlib/GameProfile;]
+	Field[eLhp;]
+	Field[aLki;]
+	Method[<init>(Lki;Lcom/mojang/authlib/GameProfile;ILaqz;Lhp;)V]
+	Method[a()Lcom/mojang/authlib/GameProfile;]
+	Method[b()I]
+	Method[c()Laqz;]
+	Method[d()Lhp;]
+	Method[toString()Ljava/lang/String;]
+}
+
+

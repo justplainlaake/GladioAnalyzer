@@ -1,0 +1,10 @@
+cq extends z {
+	Method[<init>()V]
+	Method[a(Lae;)Z]
+	Method[c()Ljava/lang/String;]
+	Method[a()I]
+	Method[c(Lae;)Ljava/lang/String;]
+	Method[a(Lae;[Ljava/lang/String;)V]
+}
+
+

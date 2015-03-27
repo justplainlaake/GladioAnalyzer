@@ -1,0 +1,9 @@
+cwx extends java/lang/Object {
+	Field[aLhp;]
+	Field[bI]
+	Method[<init>(Lhp;I)V]
+	Method[a()Lhp;]
+	Method[b()I]
+}
+
+

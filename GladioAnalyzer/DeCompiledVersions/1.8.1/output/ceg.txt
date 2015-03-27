@@ -1,0 +1,9 @@
+ceg extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Field[cLced;]
+	Method[<init>(Lced;Ljava/lang/String;Ljava/lang/String;)V]
+	Method[run()V]
+}
+
+

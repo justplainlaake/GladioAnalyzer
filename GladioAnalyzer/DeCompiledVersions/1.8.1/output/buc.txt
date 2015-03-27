@@ -1,0 +1,16 @@
+buc extends java/lang/Object {
+	Field[bLbqc;]
+	Field[cLctp;]
+	Field[dLob;]
+	Field[e[I]
+	Field[aLbua;]
+	Method[<init>(Lbua;Lbqc;)V]
+	Method[a()V]
+	Method[a(Z)V]
+	Method[a(Lbuc;)V]
+	Method[a(Lbuc;Z)V]
+	Method[<init>(Lbua;Lbqc;Lbub;)V]
+	Method[b(Lbuc;)Lob;]
+}
+
+

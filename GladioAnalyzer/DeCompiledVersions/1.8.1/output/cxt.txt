@@ -1,0 +1,23 @@
+cxt extends java/lang/Object {
+	Field[aLob;]
+	Field[bF]
+	Field[cF]
+	Field[dF]
+	Field[eF]
+	Field[fF]
+	Field[gZ]
+	Field[hI]
+	Field[iLcyf;]
+	Method[<init>(Lob;)V]
+	Method[a()Lob;]
+	Method[b()Z]
+	Method[d()I]
+	Method[e()F]
+	Method[f()F]
+	Method[g()F]
+	Method[h()F]
+	Method[i()F]
+	Method[j()Lcyf;]
+}
+
+

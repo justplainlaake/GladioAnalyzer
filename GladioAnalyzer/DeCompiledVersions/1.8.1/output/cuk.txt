@@ -1,0 +1,5 @@
+cuk extends java/lang/Object {
+	Method[e()V]
+}
+
+

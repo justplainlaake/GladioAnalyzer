@@ -1,0 +1,11 @@
+abz extends xx {
+	Method[<init>(Laqr;)V]
+	Method[e(FF)V]
+	Method[z()Ljava/lang/String;]
+	Method[bo()Ljava/lang/String;]
+	Method[bp()Ljava/lang/String;]
+	Method[w()I]
+	Method[C()Z]
+}
+
+

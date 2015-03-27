@@ -1,0 +1,7 @@
+bec extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lbev;)Ljava/lang/String;]
+	Method[apply(Ljava/lang/Object;)Ljava/lang/Object;]
+}
+
+

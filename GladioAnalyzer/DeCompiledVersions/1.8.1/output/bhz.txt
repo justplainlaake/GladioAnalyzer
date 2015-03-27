@@ -1,0 +1,11 @@
+bhz extends bia {
+	Field[eZ]
+	Method[<init>(ZZ)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+	Method[a(Laqr;IIIILjava/util/Random;)V]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[b(Laqr;Ldt;)V]
+	Method[c(Laqr;Ldt;)V]
+}
+
+

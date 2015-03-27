@@ -1,0 +1,7 @@
+hm extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lhp;)Lhp;]
+	Method[apply(Ljava/lang/Object;)Ljava/lang/Object;]
+}
+
+

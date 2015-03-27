@@ -1,0 +1,17 @@
+cds extends java/lang/Object {
+	Field[h[Lcdh;]
+	Field[i[Lcct;]
+	Field[aF]
+	Field[bF]
+	Field[cF]
+	Field[dF]
+	Field[eF]
+	Field[fF]
+	Field[gLjava/lang/String;]
+	Method[<init>(Lcdx;IIFFFIIIF)V]
+	Method[<init>(Lcdx;IIFFFIIIFZ)V]
+	Method[a(Lciu;F)V]
+	Method[a(Ljava/lang/String;)Lcds;]
+}
+
+

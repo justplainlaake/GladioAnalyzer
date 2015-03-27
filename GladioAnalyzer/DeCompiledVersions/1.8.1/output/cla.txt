@@ -1,0 +1,18 @@
+cla extends java/lang/Object {
+	Field[aLckn;]
+	Field[bLaqr;]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Field[f[Lcop;]
+	Method[<init>(Laqr;ILckn;Lcoq;)V]
+	Method[a(Lcoq;)V]
+	Method[a()V]
+	Method[a(I)V]
+	Method[a(DD)V]
+	Method[a(III)I]
+	Method[a(IIIIII)V]
+	Method[a(Ldt;)Lcop;]
+}
+
+

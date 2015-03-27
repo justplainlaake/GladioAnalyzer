@@ -1,0 +1,6 @@
+ccr extends ccu {
+	Method[<init>()V]
+	Method[<init>(F)V]
+}
+
+

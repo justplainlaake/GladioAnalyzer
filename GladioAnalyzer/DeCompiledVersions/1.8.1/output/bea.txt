@@ -1,0 +1,10 @@
+bea extends java/lang/Object {
+	Method[a()Ljava/util/Collection;]
+	Method[b(Lbev;)Ljava/lang/Comparable;]
+	Method[a(Lbev;Ljava/lang/Comparable;)Lbea;]
+	Method[a(Lbev;)Lbea;]
+	Method[b()Lcom/google/common/collect/ImmutableMap;]
+	Method[c()Lato;]
+}
+
+

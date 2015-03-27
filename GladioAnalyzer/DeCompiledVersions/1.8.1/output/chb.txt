@@ -1,0 +1,5 @@
+chb extends java/lang/Object {
+	Method[a(ILaqr;DDDDDD[I)Lcgv;]
+}
+
+

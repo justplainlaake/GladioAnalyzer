@@ -1,0 +1,8 @@
+al extends java/lang/Object {
+	Field[aLdt;]
+	Method[<init>(Ldt;)V]
+	Method[a(Lwx;Lwx;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

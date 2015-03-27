@@ -1,0 +1,10 @@
+bmm extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cLbmk;]
+	Method[<init>(Lbmk;II)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

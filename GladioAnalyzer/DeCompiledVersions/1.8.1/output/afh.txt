@@ -1,0 +1,8 @@
+afh extends java/lang/Object {
+	Field[aLafg;]
+	Method[<init>(Lafg;)V]
+	Method[a(Lqx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

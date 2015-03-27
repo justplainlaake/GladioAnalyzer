@@ -1,0 +1,10 @@
+atb extends asy {
+	Method[<init>()V]
+	Method[a(Lara;Ldt;)V]
+	Method[a(Laqr;Ldt;Lbea;Lato;)V]
+	Method[a(I)Lbea;]
+	Method[c(Lbea;)I]
+	Method[e()Lbeb;]
+}
+
+

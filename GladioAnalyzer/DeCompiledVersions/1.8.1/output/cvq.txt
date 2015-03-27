@@ -1,0 +1,9 @@
+cvq extends java/lang/Object {
+	Field[aLbss;]
+	Field[bLbxb;]
+	Field[cLcvo;]
+	Method[<init>(Lcvo;Lbss;Lbxb;)V]
+	Method[run()V]
+}
+
+

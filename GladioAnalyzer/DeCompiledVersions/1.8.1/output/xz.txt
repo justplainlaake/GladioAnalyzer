@@ -1,0 +1,16 @@
+xz extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cLjava/lang/Object;]
+	Field[dZ]
+	Method[<init>(IILjava/lang/Object;)V]
+	Method[a()I]
+	Method[a(Ljava/lang/Object;)V]
+	Method[b()Ljava/lang/Object;]
+	Method[c()I]
+	Method[d()Z]
+	Method[a(Z)V]
+	Method[a(Lxz;Z)Z]
+}
+
+

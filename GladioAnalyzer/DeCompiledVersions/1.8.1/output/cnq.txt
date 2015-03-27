@@ -1,0 +1,17 @@
+cnq extends cnp {
+	Field[cLob;]
+	Field[dLob;]
+	Field[eLob;]
+	Field[fLob;]
+	Field[gLob;]
+	Field[hLob;]
+	Field[iLcca;]
+	Field[jLcca;]
+	Field[kZ]
+	Method[<init>()V]
+	Method[a(Lbcp;DDDFI)V]
+	Method[a(Lbck;DDDFI)V]
+	Method[<clinit>()V]
+}
+
+

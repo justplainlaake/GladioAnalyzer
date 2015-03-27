@@ -1,0 +1,8 @@
+nd extends java/lang/Object {
+	Method[a(Lnf;)V]
+	Method[a(Lne;)V]
+	Method[a(Lnh;)V]
+	Method[a(Lng;)V]
+}
+
+

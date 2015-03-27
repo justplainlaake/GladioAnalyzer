@@ -1,0 +1,18 @@
+ue extends java/util/AbstractSet {
+	Field[aLjava/util/Set;]
+	Field[bLcom/google/common/collect/Multimap;]
+	Field[cLjava/util/Set;]
+	Field[dLjava/lang/Class;]
+	Method[<init>(Ljava/lang/Class;)V]
+	Method[a(Ljava/lang/Class;)V]
+	Method[b(Ljava/lang/Class;)Ljava/lang/Class;]
+	Method[add(Ljava/lang/Object;)Z]
+	Method[remove(Ljava/lang/Object;)Z]
+	Method[c(Ljava/lang/Class;)Ljava/lang/Iterable;]
+	Method[iterator()Ljava/util/Iterator;]
+	Method[size()I]
+	Method[a(Lue;)Lcom/google/common/collect/Multimap;]
+	Method[<clinit>()V]
+}
+
+

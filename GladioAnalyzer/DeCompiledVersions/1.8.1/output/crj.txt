@@ -1,0 +1,14 @@
+crj extends cqe {
+	Field[jLob;]
+	Field[kLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lafv;F)V]
+	Method[C_()V]
+	Method[a(Lafv;)Lob;]
+	Method[a(Lxq;)Lob;]
+	Method[a(Lxo;F)V]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

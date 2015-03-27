@@ -1,0 +1,9 @@
+apb extends apc {
+	Method[<init>(ILob;I)V]
+	Method[a(I)I]
+	Method[b(I)I]
+	Method[b()I]
+	Method[a(Lamg;)Z]
+}
+
+

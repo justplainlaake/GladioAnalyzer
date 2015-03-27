@@ -1,0 +1,7 @@
+bzs extends java/lang/Object {
+	Field[aLbzr;]
+	Method[<init>(Lbzr;)V]
+	Method[run()V]
+}
+
+

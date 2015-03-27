@@ -1,0 +1,16 @@
+hu extends hk {
+	Field[bLjava/lang/String;]
+	Field[cLjava/lang/String;]
+	Field[dLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[g()Ljava/lang/String;]
+	Method[h()Ljava/lang/String;]
+	Method[b(Ljava/lang/String;)V]
+	Method[e()Ljava/lang/String;]
+	Method[i()Lhu;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[toString()Ljava/lang/String;]
+	Method[f()Lhp;]
+}
+
+

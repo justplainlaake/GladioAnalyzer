@@ -1,0 +1,13 @@
+cob extends java/lang/Enum {
+	Field[aLcob;]
+	Field[bLcob;]
+	Field[cLcob;]
+	Field[dLcob;]
+	Field[e[Lcob;]
+	Method[values()[Lcob;]
+	Method[valueOf(Ljava/lang/String;)Lcob;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

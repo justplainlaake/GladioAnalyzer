@@ -1,0 +1,9 @@
+cqu extends cpu {
+	Method[<init>(Lcpt;)V]
+	Method[a(Ladt;DDDFF)V]
+	Method[a(Ladt;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+}
+
+

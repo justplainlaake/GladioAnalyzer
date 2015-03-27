@@ -1,0 +1,8 @@
+cxi extends java/lang/Object {
+	Field[aLcxh;]
+	Method[<init>(Lcxh;)V]
+	Method[a(Lcxl;Lcxl;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

@@ -1,0 +1,16 @@
+ll extends java/lang/Enum {
+	Field[aLll;]
+	Field[bLll;]
+	Field[cLll;]
+	Field[dLll;]
+	Field[eLll;]
+	Field[f[Lll;]
+	Method[values()[Lll;]
+	Method[valueOf(Ljava/lang/String;)Lll;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[a(Ljava/lang/String;)Lll;]
+	Method[a()[Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

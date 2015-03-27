@@ -1,0 +1,6 @@
+cif extends cgv {
+	Method[<init>(Laqr;DDDDDD)V]
+	Method[t_()V]
+}
+
+

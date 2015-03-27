@@ -1,0 +1,14 @@
+zy extends ze {
+	Field[aLagn;]
+	Field[bLxo;]
+	Field[cD]
+	Field[dI]
+	Method[<init>(Lagn;D)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+}
+
+

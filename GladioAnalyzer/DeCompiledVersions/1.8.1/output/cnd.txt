@@ -1,0 +1,10 @@
+cnd extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Field[bLjava/util/Set;]
+	Method[<init>()V]
+	Method[a(Lato;Lcni;)V]
+	Method[a([Lato;)V]
+	Method[a()Ljava/util/Map;]
+}
+
+

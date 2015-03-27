@@ -1,0 +1,13 @@
+avg extends java/lang/Enum {
+	Field[aLavg;]
+	Field[bLavg;]
+	Field[c[Lavg;]
+	Method[values()[Lavg;]
+	Method[valueOf(Ljava/lang/String;)Lavg;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

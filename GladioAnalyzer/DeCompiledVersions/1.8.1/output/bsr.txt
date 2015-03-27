@@ -1,0 +1,10 @@
+bsr extends java/lang/Object {
+	Method[a(I)I]
+	Method[a(II)V]
+	Method[b(I)V]
+	Method[c(I)Ljava/nio/ByteBuffer;]
+	Method[f(I)Ljava/nio/IntBuffer;]
+	Method[h(I)Ljava/nio/FloatBuffer;]
+}
+
+

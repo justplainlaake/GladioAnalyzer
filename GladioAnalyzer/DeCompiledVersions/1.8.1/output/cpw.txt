@@ -1,0 +1,9 @@
+cpw extends cpu {
+	Method[<init>(Lcpt;)V]
+	Method[a(Ladw;DDDFF)V]
+	Method[a(Ladw;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+}
+
+

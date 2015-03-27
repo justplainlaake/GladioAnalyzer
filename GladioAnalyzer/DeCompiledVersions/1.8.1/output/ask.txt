@@ -1,0 +1,9 @@
+ask extends arj {
+	Field[aDZ]
+	Method[<init>(I)V]
+	Method[a(Ljava/util/Random;Ldt;)Lavx;]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[d(I)Larj;]
+}
+
+

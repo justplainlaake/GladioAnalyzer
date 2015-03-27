@@ -1,0 +1,20 @@
+asg extends arj {
+	Field[aD[Lbea;]
+	Field[aEJ]
+	Field[aFLbnu;]
+	Field[aGLbnu;]
+	Field[aHLbnu;]
+	Field[aIZ]
+	Field[aJZ]
+	Method[<init>(IZZ)V]
+	Method[a(Ljava/util/Random;)Lbha;]
+	Method[c(Ldt;)I]
+	Method[b(Ldt;)I]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbgi;IID)V]
+	Method[a(J)V]
+	Method[a(III)Lbea;]
+	Method[d(I)Larj;]
+}
+
+

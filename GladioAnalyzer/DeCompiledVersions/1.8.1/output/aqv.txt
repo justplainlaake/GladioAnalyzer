@@ -1,0 +1,8 @@
+aqv extends java/lang/Object {
+	Field[aLaqr;]
+	Method[<init>(Laqr;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

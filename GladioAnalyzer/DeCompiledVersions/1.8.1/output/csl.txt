@@ -1,0 +1,11 @@
+csl extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcpr;]
+	Method[<init>(Lcpr;)V]
+	Method[a(Laer;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[<clinit>()V]
+}
+
+

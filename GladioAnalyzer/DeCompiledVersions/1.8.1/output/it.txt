@@ -1,0 +1,12 @@
+it extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/Map;)V]
+	Method[a(Lil;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a()Ljava/util/Map;]
+	Method[a(Lhh;)V]
+}
+
+

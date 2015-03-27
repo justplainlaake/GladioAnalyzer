@@ -1,0 +1,28 @@
+apz extends java/lang/Object {
+	Field[aLamg;]
+	Field[bLamg;]
+	Field[cLamg;]
+	Field[dI]
+	Field[eI]
+	Field[fZ]
+	Method[<init>(Lfn;)V]
+	Method[<init>(Lamg;Lamg;Lamg;)V]
+	Method[<init>(Lamg;Lamg;Lamg;II)V]
+	Method[<init>(Lamg;Lamg;)V]
+	Method[<init>(Lamg;Laln;)V]
+	Method[a()Lamg;]
+	Method[b()Lamg;]
+	Method[c()Z]
+	Method[d()Lamg;]
+	Method[e()I]
+	Method[f()I]
+	Method[g()V]
+	Method[a(I)V]
+	Method[h()Z]
+	Method[i()V]
+	Method[j()Z]
+	Method[a(Lfn;)V]
+	Method[k()Lfn;]
+}
+
+

@@ -1,0 +1,7 @@
+cpo extends cpu {
+	Method[<init>(Lcpt;)V]
+	Method[a(Lwx;DDDFF)V]
+	Method[a(Lwx;)Lob;]
+}
+
+

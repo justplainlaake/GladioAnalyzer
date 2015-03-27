@@ -1,0 +1,4 @@
+aoa extends java/lang/Object {
+}
+
+

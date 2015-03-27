@@ -1,0 +1,13 @@
+aaa extends ze {
+	Field[aLxq;]
+	Field[bD]
+	Field[cD]
+	Field[dI]
+	Method[<init>(Lxq;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[e()V]
+}
+
+

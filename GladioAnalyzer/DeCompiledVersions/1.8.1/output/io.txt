@@ -1,0 +1,20 @@
+io extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Method[<init>()V]
+	Method[<init>(Lwx;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()I]
+	Method[b()I]
+	Method[c()I]
+	Method[d()I]
+	Method[e()I]
+	Method[a(Lhh;)V]
+}
+
+

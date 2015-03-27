@@ -1,0 +1,8 @@
+daw extends java/lang/Object {
+	Field[aD]
+	Field[bD]
+	Field[cD]
+	Method[<init>()V]
+}
+
+

@@ -1,0 +1,20 @@
+yp extends java/lang/Object {
+	Field[aLxq;]
+	Field[bF]
+	Field[cF]
+	Field[dZ]
+	Field[eD]
+	Field[fD]
+	Field[gD]
+	Method[<init>(Lxq;)V]
+	Method[a(Lwx;FF)V]
+	Method[a(DDDFF)V]
+	Method[a()V]
+	Method[a(FFF)F]
+	Method[b()Z]
+	Method[e()D]
+	Method[f()D]
+	Method[g()D]
+}
+
+

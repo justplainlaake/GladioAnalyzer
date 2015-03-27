@@ -1,0 +1,7 @@
+abq extends xq {
+	Method[<init>(Laqr;)V]
+	Method[cb()Z]
+	Method[a(Laha;)Z]
+}
+
+

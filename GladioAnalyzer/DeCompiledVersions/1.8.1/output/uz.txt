@@ -1,0 +1,11 @@
+uz extends java/lang/Object {
+	Field[aD]
+	Field[bD]
+	Field[cLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;DD)V]
+	Method[a(Luz;)I]
+	Method[a()I]
+	Method[compareTo(Ljava/lang/Object;)I]
+}
+
+

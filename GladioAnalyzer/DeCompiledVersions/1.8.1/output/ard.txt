@@ -1,0 +1,12 @@
+ard extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/util/Set;]
+	Method[<init>()V]
+	Method[a(Lqu;ZZZ)I]
+	Method[a(Laqr;II)Ldt;]
+	Method[a(Lxr;Laqr;Ldt;)Z]
+	Method[a(Laqr;Larj;IIIILjava/util/Random;)V]
+	Method[<clinit>()V]
+}
+
+

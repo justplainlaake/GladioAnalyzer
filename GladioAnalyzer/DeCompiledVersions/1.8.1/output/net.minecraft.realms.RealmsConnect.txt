@@ -1,0 +1,18 @@
+net/minecraft/realms/RealmsConnect extends java/lang/Object {
+	Field[LOGGERLorg/apache/logging/log4j/Logger;]
+	Field[onlineScreenLnet/minecraft/realms/RealmsScreen;]
+	Field[abortedZ]
+	Field[connectionLgr;]
+	Method[<init>(Lnet/minecraft/realms/RealmsScreen;)V]
+	Method[connect(Ljava/lang/String;I)V]
+	Method[abort()V]
+	Method[tick()V]
+	Method[access$000(Lnet/minecraft/realms/RealmsConnect;)Z]
+	Method[access$102(Lnet/minecraft/realms/RealmsConnect;Lgr;)Lgr;]
+	Method[access$100(Lnet/minecraft/realms/RealmsConnect;)Lgr;]
+	Method[access$200(Lnet/minecraft/realms/RealmsConnect;)Lnet/minecraft/realms/RealmsScreen;]
+	Method[access$300()Lorg/apache/logging/log4j/Logger;]
+	Method[<clinit>()V]
+}
+
+

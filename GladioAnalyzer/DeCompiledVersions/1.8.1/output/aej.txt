@@ -1,0 +1,9 @@
+aej extends aqf {
+	Field[aLaei;]
+	Method[<init>(Laei;)V]
+	Method[a(I)V]
+	Method[a()Laqr;]
+	Method[b()Ldt;]
+}
+
+

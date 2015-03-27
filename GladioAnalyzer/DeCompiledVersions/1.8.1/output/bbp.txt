@@ -1,0 +1,14 @@
+bbp extends java/lang/Enum {
+	Field[aLbbp;]
+	Field[bLbbp;]
+	Field[cLjava/lang/String;]
+	Field[d[Lbbp;]
+	Method[values()[Lbbp;]
+	Method[valueOf(Ljava/lang/String;)Lbbp;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

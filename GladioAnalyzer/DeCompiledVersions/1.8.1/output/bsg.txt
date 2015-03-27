@@ -1,0 +1,10 @@
+bsg extends java/lang/Object {
+	Field[jLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a()Ljava/lang/String;]
+	Method[a(Ljava/util/List;)I]
+	Method[b()Z]
+	Method[c()Lbsj;]
+}
+
+

@@ -1,0 +1,22 @@
+baa extends java/lang/Enum {
+	Field[aLbaa;]
+	Field[bLbaa;]
+	Field[c[Lbaa;]
+	Field[dI]
+	Field[eLjava/lang/String;]
+	Field[fLbof;]
+	Field[gLjava/lang/String;]
+	Field[h[Lbaa;]
+	Method[values()[Lbaa;]
+	Method[valueOf(Ljava/lang/String;)Lbaa;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;Lbof;)V]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[c()Lbof;]
+	Method[a(I)Lbaa;]
+	Method[l()Ljava/lang/String;]
+	Method[d()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

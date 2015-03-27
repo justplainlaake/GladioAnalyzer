@@ -1,0 +1,7 @@
+buz extends java/lang/Object {
+	Method[a(IZ)V]
+	Method[a(IF)V]
+	Method[a(ILjava/lang/String;)V]
+}
+
+

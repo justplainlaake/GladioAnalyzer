@@ -1,0 +1,12 @@
+vn extends vm {
+	Field[bLamg;]
+	Field[cI]
+	Field[dI]
+	Method[<init>(Laln;IIII)V]
+	Method[<init>(Lamg;III)V]
+	Method[a(Ljava/util/Random;Ljava/util/List;Lvs;I)V]
+	Method[a(Ljava/util/Random;Ljava/util/List;Lbcv;I)V]
+	Method[a(Ljava/util/List;[Lvn;)Ljava/util/List;]
+}
+
+

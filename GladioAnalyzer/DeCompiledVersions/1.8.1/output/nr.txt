@@ -1,0 +1,12 @@
+nr extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[c[Lcom/mojang/authlib/GameProfile;]
+	Method[<init>(II)V]
+	Method[a()I]
+	Method[b()I]
+	Method[c()[Lcom/mojang/authlib/GameProfile;]
+	Method[a([Lcom/mojang/authlib/GameProfile;)V]
+}
+
+

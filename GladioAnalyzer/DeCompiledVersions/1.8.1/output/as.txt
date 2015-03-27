@@ -1,0 +1,12 @@
+as extends java/lang/Object {
+	Field[aLdt;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Method[<init>(Ldt;IIII)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

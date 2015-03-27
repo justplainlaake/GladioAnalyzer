@@ -1,0 +1,9 @@
+cka extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

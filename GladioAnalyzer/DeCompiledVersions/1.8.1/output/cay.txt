@@ -1,0 +1,15 @@
+cay extends java/lang/Object {
+	Field[aLcom/google/common/collect/Ordering;]
+	Field[bLjava/util/List;]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/Collection;)V]
+	Method[a()Ljava/util/List;]
+	Method[b()Lhp;]
+	Method[a(Lcaq;)V]
+	Method[A_()Lhp;]
+	Method[a(FI)V]
+	Method[B_()Z]
+	Method[<clinit>()V]
+}
+
+

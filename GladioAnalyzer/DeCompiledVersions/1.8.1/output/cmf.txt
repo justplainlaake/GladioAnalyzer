@@ -1,0 +1,11 @@
+cmf extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lcmc;]
+	Method[b(Lcom/google/gson/JsonObject;)Ljava/util/Map;]
+	Method[c(Lcom/google/gson/JsonObject;)Ljava/lang/String;]
+	Method[a(Lcom/google/gson/JsonObject;)Z]
+	Method[a(Lcom/google/gson/JsonDeserializationContext;Lcom/google/gson/JsonObject;)Ljava/util/List;]
+	Method[deserialize(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;]
+}
+
+

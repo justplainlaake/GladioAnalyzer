@@ -1,0 +1,7 @@
+btc extends java/lang/Thread {
+	Field[aLbss;]
+	Method[<init>(Lbss;Ljava/lang/String;)V]
+	Method[run()V]
+}
+
+

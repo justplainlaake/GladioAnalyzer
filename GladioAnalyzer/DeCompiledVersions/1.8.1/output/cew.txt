@@ -1,0 +1,14 @@
+cew extends java/lang/Enum {
+	Field[aLcew;]
+	Field[bLcew;]
+	Field[cLcew;]
+	Field[dLhp;]
+	Field[e[Lcew;]
+	Method[values()[Lcew;]
+	Method[valueOf(Ljava/lang/String;)Lcew;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[a()Lhp;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,21 @@
+cag extends bxe {
+	Field[aLbxe;]
+	Field[fLjava/lang/String;]
+	Field[gLcah;]
+	Method[<init>(Lbxe;)V]
+	Method[b()V]
+	Method[k()V]
+	Method[m()V]
+	Method[a(Lbue;)V]
+	Method[a(IIF)V]
+	Method[a(Lcag;)Lbtw;]
+	Method[b(Lcag;)Lbtw;]
+	Method[c(Lcag;)Lbtw;]
+	Method[d(Lcag;)Lbtw;]
+	Method[e(Lcag;)Lbtw;]
+	Method[f(Lcag;)Lbtw;]
+	Method[g(Lcag;)Lbtw;]
+	Method[h(Lcag;)Lbtw;]
+}
+
+

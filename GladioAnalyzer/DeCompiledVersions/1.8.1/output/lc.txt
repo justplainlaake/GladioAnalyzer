@@ -1,0 +1,16 @@
+lc extends java/lang/Object {
+	Field[aF]
+	Field[bI]
+	Field[cI]
+	Method[<init>()V]
+	Method[<init>(FII)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()F]
+	Method[b()I]
+	Method[c()I]
+	Method[a(Lhh;)V]
+}
+
+

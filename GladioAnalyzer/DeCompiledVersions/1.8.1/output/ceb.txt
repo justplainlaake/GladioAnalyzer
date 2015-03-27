@@ -1,0 +1,18 @@
+ceb extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLbss;]
+	Field[cLbxe;]
+	Field[dLgr;]
+	Field[eLcom/mojang/authlib/GameProfile;]
+	Method[<init>(Lgr;Lbss;Lbxe;)V]
+	Method[a(Lnf;)V]
+	Method[b()Lcom/mojang/authlib/minecraft/MinecraftSessionService;]
+	Method[a(Lne;)V]
+	Method[a(Lhp;)V]
+	Method[a(Lnh;)V]
+	Method[a(Lng;)V]
+	Method[a(Lceb;)Lgr;]
+	Method[<clinit>()V]
+}
+
+

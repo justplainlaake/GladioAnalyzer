@@ -1,0 +1,27 @@
+csb extends java/lang/Object {
+	Field[bLob;]
+	Field[cLccp;]
+	Field[dLccp;]
+	Field[aLcqv;]
+	Field[eF]
+	Field[fF]
+	Field[gF]
+	Field[hF]
+	Field[iZ]
+	Field[jLjava/util/Map;]
+	Method[<init>(Lcqv;)V]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFFI)V]
+	Method[a(Lxo;I)Lamg;]
+	Method[a(I)Lccp;]
+	Method[b(I)Z]
+	Method[a(Lxo;Lccp;FFFFFFF)V]
+	Method[a(Lajk;Z)Lob;]
+	Method[a(Lajk;ZLjava/lang/String;)Lob;]
+	Method[a()V]
+	Method[a(Lccp;I)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,12 @@
+cnh extends java/lang/Object {
+	Field[aLbev;]
+	Field[bLjava/lang/String;]
+	Field[cLjava/util/List;]
+	Method[<init>()V]
+	Method[a(Lbev;)Lcnh;]
+	Method[a(Ljava/lang/String;)Lcnh;]
+	Method[a([Lbev;)Lcnh;]
+	Method[a()Lcnf;]
+}
+
+

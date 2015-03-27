@@ -1,0 +1,11 @@
+bup extends bue {
+	Field[oZ]
+	Field[pLjava/lang/String;]
+	Field[qLbuz;]
+	Method[<init>(Lbuz;IIILjava/lang/String;Z)V]
+	Method[c()Ljava/lang/String;]
+	Method[b(Z)V]
+	Method[c(Lbss;II)Z]
+}
+
+

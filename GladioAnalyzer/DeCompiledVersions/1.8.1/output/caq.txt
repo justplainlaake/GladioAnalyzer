@@ -1,0 +1,26 @@
+caq extends java/lang/Object {
+	Field[bLcav;]
+	Field[cLcav;]
+	Field[dLcav;]
+	Field[eLcav;]
+	Field[aLcav;]
+	Field[fLcaw;]
+	Field[gLjava/util/List;]
+	Field[hLcau;]
+	Field[iI]
+	Field[jI]
+	Method[<init>(Lcaw;)V]
+	Method[a(I)Lcav;]
+	Method[a()Ljava/util/List;]
+	Method[b()Lcav;]
+	Method[c()Lcau;]
+	Method[b(I)V]
+	Method[d()V]
+	Method[e()I]
+	Method[a(Lcau;)V]
+	Method[f()Lcax;]
+	Method[a(Lcaq;I)I]
+	Method[<clinit>()V]
+}
+
+

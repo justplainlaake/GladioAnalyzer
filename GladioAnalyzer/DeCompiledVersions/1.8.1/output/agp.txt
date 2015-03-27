@@ -1,0 +1,6 @@
+agp extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Laqa;Ljava/util/Random;)V]
+}
+
+

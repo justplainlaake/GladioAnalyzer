@@ -1,0 +1,8 @@
+cdo extends cck {
+	Method[<init>()V]
+	Method[<init>(FFII)V]
+	Method[<init>(FZ)V]
+	Method[a(FFFFFFLwx;)V]
+}
+
+

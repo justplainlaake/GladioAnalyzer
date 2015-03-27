@@ -1,0 +1,26 @@
+bam extends ato {
+	Field[aLbeu;]
+	Method[<init>()V]
+	Method[b(Lara;Ldt;)Z]
+	Method[a(Laqr;Ldt;Lbea;)Lbrr;]
+	Method[c()Z]
+	Method[d()Z]
+	Method[i()V]
+	Method[a(Lara;Ldt;)V]
+	Method[b(I)V]
+	Method[d(Laqr;Ldt;)Z]
+	Method[a(Laqr;Ldt;Lbea;Lato;)V]
+	Method[e(Laqr;Ldt;Lbea;)Z]
+	Method[a(Laqr;Laha;Ldt;Lbea;Lbck;)V]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[a(Ljava/util/Random;)I]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[a(Lara;Ldt;Lej;)Z]
+	Method[a(I)Lbea;]
+	Method[a(Laqr;Ldt;)Z]
+	Method[c(Lbea;)I]
+	Method[e()Lbeb;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,11 @@
+zw extends yy {
+	Field[gZ]
+	Field[hI]
+	Method[<init>(Lxq;Z)V]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+}
+
+

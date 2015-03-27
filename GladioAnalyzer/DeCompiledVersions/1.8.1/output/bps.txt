@@ -1,0 +1,16 @@
+bps extends java/lang/Object {
+	Field[aLara;]
+	Field[bLuo;]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Method[<init>()V]
+	Method[a(Lara;Lwx;)V]
+	Method[a()V]
+	Method[a(III)Lbpr;]
+	Method[a(Lwx;)Lbpr;]
+	Method[a(Lwx;DDD)Lbpr;]
+	Method[a([Lbpr;Lwx;Lbpr;Lbpr;F)I]
+}
+
+

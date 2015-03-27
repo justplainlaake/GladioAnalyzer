@@ -1,0 +1,26 @@
+cal extends java/lang/Enum {
+	Field[aLcal;]
+	Field[bLcal;]
+	Field[cLcal;]
+	Field[dLcal;]
+	Field[eLcal;]
+	Field[fLcal;]
+	Field[gLcal;]
+	Field[hLcal;]
+	Field[iLcal;]
+	Field[jLcal;]
+	Field[kLcal;]
+	Field[lLcal;]
+	Field[mLhp;]
+	Field[nLhp;]
+	Field[o[Lcal;]
+	Method[values()[Lcal;]
+	Method[valueOf(Ljava/lang/String;)Lcal;]
+	Method[<init>(Ljava/lang/String;ILhp;)V]
+	Method[<init>(Ljava/lang/String;ILhp;Lhp;)V]
+	Method[a()Lhp;]
+	Method[b()Lhp;]
+	Method[<clinit>()V]
+}
+
+

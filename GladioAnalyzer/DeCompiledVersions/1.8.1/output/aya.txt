@@ -1,0 +1,6 @@
+aya extends ato {
+	Method[<init>()V]
+	Method[g(Lbea;)Lbof;]
+}
+
+

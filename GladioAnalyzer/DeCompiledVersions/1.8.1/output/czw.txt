@@ -1,0 +1,7 @@
+czw extends java/lang/Object {
+	Field[aLczu;]
+	Method[<init>(Lczu;)V]
+	Method[statCallback(Ltv/twitch/broadcast/StatType;J)V]
+}
+
+

@@ -1,0 +1,13 @@
+oz extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/util/List;]
+	Method[<init>()V]
+	Method[a(Ljava/lang/String;)V]
+	Method[b()Ljava/lang/String;]
+	Method[toString()Ljava/lang/String;]
+	Method[<init>(Loy;)V]
+	Method[a(Loz;Ljava/lang/String;)V]
+	Method[b(Loz;Ljava/lang/String;)Ljava/lang/String;]
+}
+
+

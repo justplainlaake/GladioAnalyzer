@@ -1,0 +1,12 @@
+hv extends hk {
+	Field[bLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[g()Ljava/lang/String;]
+	Method[e()Ljava/lang/String;]
+	Method[h()Lhv;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[toString()Ljava/lang/String;]
+	Method[f()Lhp;]
+}
+
+

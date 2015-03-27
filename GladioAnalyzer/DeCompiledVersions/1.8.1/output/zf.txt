@@ -1,0 +1,18 @@
+zf extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/util/List;]
+	Field[cLjava/util/List;]
+	Field[dLuy;]
+	Field[eI]
+	Field[fI]
+	Method[<init>(Luy;)V]
+	Method[a(ILze;)V]
+	Method[a(Lze;)V]
+	Method[a()V]
+	Method[a(Lzg;)Z]
+	Method[b(Lzg;)Z]
+	Method[a(Lzg;Lzg;)Z]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,6 @@
+blr extends bly {
+	Method[<init>(Ljava/lang/Class;II)V]
+	Method[a(I)Z]
+}
+
+

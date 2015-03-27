@@ -1,0 +1,6 @@
+agf extends aat {
+	Method[<init>(Lagc;Ljava/lang/Class;)V]
+	Method[a()Z]
+}
+
+

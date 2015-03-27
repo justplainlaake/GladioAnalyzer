@@ -1,0 +1,24 @@
+bbf extends atz {
+	Field[aLbet;]
+	Method[<init>()V]
+	Method[G()I]
+	Method[f(Laqr;Ldt;Lbea;)Z]
+	Method[a(Laqr;Ldt;)Z]
+	Method[h(Lbea;)I]
+	Method[a(Lara;Ldt;I)I]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[a(ILjava/util/Random;)I]
+	Method[a(Laqr;Laha;Ldt;Lbea;Lbck;)V]
+	Method[j(Laqr;Ldt;)I]
+	Method[a(Laln;Lakc;Ljava/util/List;)V]
+	Method[a(Laqr;Ldt;Lbea;Z)Z]
+	Method[a(Laqr;Ljava/util/Random;Ldt;Lbea;)Z]
+	Method[b(Laqr;Ljava/util/Random;Ldt;Lbea;)V]
+	Method[a(I)Lbea;]
+	Method[c(Lbea;)I]
+	Method[e()Lbeb;]
+	Method[Q()Latt;]
+	Method[<clinit>()V]
+}
+
+

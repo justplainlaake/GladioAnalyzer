@@ -1,0 +1,19 @@
+awk extends ato {
+	Field[aLber;]
+	Method[<init>()V]
+	Method[a(Lbea;Lara;Ldt;)Lbea;]
+	Method[G()I]
+	Method[h(Lbea;)I]
+	Method[a(Lara;Ldt;I)I]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[a(Laqr;Ldt;Lbea;Z)Z]
+	Method[a(Laqr;Ljava/util/Random;Ldt;Lbea;)Z]
+	Method[b(Laqr;Ljava/util/Random;Ldt;Lbea;)V]
+	Method[l()Laqi;]
+	Method[c(Lbea;)I]
+	Method[e()Lbeb;]
+	Method[<clinit>()V]
+}
+
+

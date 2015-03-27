@@ -1,0 +1,9 @@
+bop extends boy {
+	Method[<init>(JLboy;)V]
+	Method[a(IIII)[I]
+	Method[a([I[IIIIIII)Z]
+	Method[b([I[IIIIIII)Z]
+	Method[b(II)Z]
+}
+
+

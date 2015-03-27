@@ -1,0 +1,6 @@
+cau extends java/lang/Object {
+	Method[a()Ljava/util/List;]
+	Method[b()Lhp;]
+}
+
+

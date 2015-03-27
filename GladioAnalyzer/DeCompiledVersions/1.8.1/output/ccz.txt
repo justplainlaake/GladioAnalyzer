@@ -1,0 +1,13 @@
+ccz extends ccp {
+	Field[a[Lcdx;]
+	Field[b[Lcdx;]
+	Field[c[F]
+	Field[d[[I]
+	Field[e[[I]
+	Method[<init>()V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(FFFFFFLwx;)V]
+	Method[<clinit>()V]
+}
+
+

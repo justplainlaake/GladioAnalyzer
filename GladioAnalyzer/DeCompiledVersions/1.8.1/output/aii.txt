@@ -1,0 +1,8 @@
+aii extends java/lang/Object {
+	Method[a(Lahy;Ljava/util/List;)V]
+	Method[a(Lahy;ILamg;)V]
+	Method[a(Lahy;II)V]
+	Method[a(Lahy;Lvs;)V]
+}
+
+

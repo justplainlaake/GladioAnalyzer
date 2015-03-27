@@ -1,0 +1,10 @@
+net/minecraft/realms/RealmsSharedConstants extends java/lang/Object {
+	Field[NETWORK_PROTOCOL_VERSIONI]
+	Field[TICKS_PER_SECONDI]
+	Field[VERSION_STRINGLjava/lang/String;]
+	Field[ILLEGAL_FILE_CHARACTERS[C]
+	Method[<init>()V]
+	Method[<clinit>()V]
+}
+
+

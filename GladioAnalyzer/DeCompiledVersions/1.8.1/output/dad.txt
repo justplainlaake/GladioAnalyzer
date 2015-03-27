@@ -1,0 +1,14 @@
+dad extends java/lang/Enum {
+	Field[aLdad;]
+	Field[bLdad;]
+	Field[cLdad;]
+	Field[dLdad;]
+	Field[eLdad;]
+	Field[f[Ldad;]
+	Method[values()[Ldad;]
+	Method[valueOf(Ljava/lang/String;)Ldad;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

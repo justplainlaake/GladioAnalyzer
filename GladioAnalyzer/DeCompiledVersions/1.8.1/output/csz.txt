@@ -1,0 +1,11 @@
+csz extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcry;]
+	Method[<init>(Lcry;)V]
+	Method[a(Lacv;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[<clinit>()V]
+}
+
+

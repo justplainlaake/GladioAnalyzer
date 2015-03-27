@@ -1,0 +1,10 @@
+aiv extends ahy {
+	Field[aLvs;]
+	Field[fLabw;]
+	Method[<init>(Lvs;Lvs;Labw;Laha;)V]
+	Method[a(Laha;)Z]
+	Method[b(Laha;I)Lamg;]
+	Method[b(Laha;)V]
+}
+
+

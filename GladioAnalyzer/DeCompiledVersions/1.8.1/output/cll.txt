@@ -1,0 +1,19 @@
+cll extends java/lang/Object {
+	Field[aLclc;]
+	Field[bLbtm;]
+	Field[cLcln;]
+	Field[dLclb;]
+	Field[eLclm;]
+	Method[<init>(Lclc;Lbtm;)V]
+	Method[a()Lclc;]
+	Method[a(Lbea;Ldt;Lcue;Lara;)V]
+	Method[a(Lbea;Ldt;Lara;Lciu;)Z]
+	Method[b()Lcln;]
+	Method[a(Lbea;Ldt;)Lcxe;]
+	Method[a(Lbea;Lara;Ldt;)Lcxe;]
+	Method[a(Lbea;F)V]
+	Method[a(Lato;I)Z]
+	Method[a(Lcvk;)V]
+}
+
+

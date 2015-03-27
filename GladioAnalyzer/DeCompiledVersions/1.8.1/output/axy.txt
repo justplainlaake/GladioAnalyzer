@@ -1,0 +1,13 @@
+axy extends atz {
+	Method[<init>()V]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[d(Laqr;Ldt;)Z]
+	Method[c(Lato;)Z]
+	Method[f(Laqr;Ldt;Lbea;)Z]
+	Method[d(Laqr;Ldt;Lbea;Ljava/util/Random;)Z]
+	Method[a(Laqr;Ldt;Lbea;Z)Z]
+	Method[a(Laqr;Ljava/util/Random;Ldt;Lbea;)Z]
+	Method[b(Laqr;Ljava/util/Random;Ldt;Lbea;)V]
+}
+
+

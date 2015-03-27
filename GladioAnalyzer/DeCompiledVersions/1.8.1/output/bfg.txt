@@ -1,0 +1,11 @@
+bfg extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dLbff;]
+	Method[<init>(Lbff;III)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

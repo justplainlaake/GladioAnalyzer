@@ -1,0 +1,7 @@
+bio extends bhn {
+	Field[aLbea;]
+	Method[<init>(Lbbg;)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+}
+
+

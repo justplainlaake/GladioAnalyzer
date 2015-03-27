@@ -1,0 +1,17 @@
+axm extends java/lang/Enum {
+	Field[aLaxm;]
+	Field[bLaxm;]
+	Field[cLaxm;]
+	Field[dLaxm;]
+	Field[eLjava/lang/String;]
+	Field[f[Laxm;]
+	Method[values()[Laxm;]
+	Method[valueOf(Ljava/lang/String;)Laxm;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[a(Lel;)Laxm;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

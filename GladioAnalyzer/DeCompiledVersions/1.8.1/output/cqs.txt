@@ -1,0 +1,11 @@
+cqs extends cqz {
+	Field[aLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lafl;)Lob;]
+	Method[a(Lafl;F)V]
+	Method[a(Lxo;F)V]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

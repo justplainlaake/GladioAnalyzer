@@ -1,0 +1,9 @@
+aml extends aln {
+	Method[<init>()V]
+	Method[b(Lamg;Laqr;Laha;)Lamg;]
+	Method[d(Lamg;)I]
+	Method[e(Lamg;)Lanl;]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+}
+
+

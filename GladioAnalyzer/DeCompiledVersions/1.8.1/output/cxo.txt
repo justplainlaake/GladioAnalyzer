@@ -1,0 +1,16 @@
+cxo extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/util/List;]
+	Field[cLcxe;]
+	Method[<init>(Ljava/util/List;)V]
+	Method[a(Lej;)Ljava/util/List;]
+	Method[a()Ljava/util/List;]
+	Method[b()Z]
+	Method[c()Z]
+	Method[d()Z]
+	Method[e()Lcue;]
+	Method[f()Lcmx;]
+	Method[a(J)Lcxe;]
+}
+
+

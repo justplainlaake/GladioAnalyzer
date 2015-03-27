@@ -1,0 +1,10 @@
+xe extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dLts;]
+	Field[eLts;]
+	Method[<init>(III)V]
+}
+
+

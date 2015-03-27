@@ -1,0 +1,14 @@
+anl extends java/lang/Enum {
+	Field[aLanl;]
+	Field[bLanl;]
+	Field[cLanl;]
+	Field[dLanl;]
+	Field[eLanl;]
+	Field[f[Lanl;]
+	Method[values()[Lanl;]
+	Method[valueOf(Ljava/lang/String;)Lanl;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

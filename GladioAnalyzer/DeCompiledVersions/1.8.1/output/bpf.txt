@@ -1,0 +1,7 @@
+bpf extends boy {
+	Method[<init>(JLboy;)V]
+	Method[a(IIII)[I]
+	Method[c(I)I]
+}
+
+

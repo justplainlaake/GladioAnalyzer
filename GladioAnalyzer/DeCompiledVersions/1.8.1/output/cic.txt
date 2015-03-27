@@ -1,0 +1,12 @@
+cic extends cgv {
+	Field[aLbea;]
+	Field[azLdt;]
+	Method[<init>(Laqr;DDDDDDLbea;)V]
+	Method[a(Ldt;)Lcic;]
+	Method[l()Lcic;]
+	Method[a()I]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[b(F)I]
+}
+
+

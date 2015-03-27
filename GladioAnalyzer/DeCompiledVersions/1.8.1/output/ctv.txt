@@ -1,0 +1,9 @@
+ctv extends cto {
+	Field[gLorg/apache/logging/log4j/Logger;]
+	Field[fLob;]
+	Method[<init>(Lob;)V]
+	Method[a(Lcvk;)V]
+	Method[<clinit>()V]
+}
+
+

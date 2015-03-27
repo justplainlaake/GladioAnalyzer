@@ -1,0 +1,28 @@
+baz extends java/lang/Enum {
+	Field[aLbaz;]
+	Field[bLbaz;]
+	Field[cLbaz;]
+	Field[dLbaz;]
+	Field[eLbaz;]
+	Field[fLbaz;]
+	Field[gLbaz;]
+	Field[h[Lbaz;]
+	Field[iI]
+	Field[jLjava/lang/String;]
+	Field[kLjava/lang/String;]
+	Field[lLbof;]
+	Field[m[Lbaz;]
+	Method[values()[Lbaz;]
+	Method[valueOf(Ljava/lang/String;)Lbaz;]
+	Method[<init>(Ljava/lang/String;IILbof;Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;IILbof;Ljava/lang/String;Ljava/lang/String;)V]
+	Method[a()I]
+	Method[c()Lbof;]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Lbaz;]
+	Method[l()Ljava/lang/String;]
+	Method[d()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

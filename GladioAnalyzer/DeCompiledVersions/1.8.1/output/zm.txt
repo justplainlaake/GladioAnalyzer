@@ -1,0 +1,17 @@
+zm extends ze {
+	Field[bLagn;]
+	Field[cLagn;]
+	Field[dLaqr;]
+	Field[eI]
+	Field[aLabl;]
+	Method[<init>(Lagn;)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[b()Z]
+	Method[e()V]
+	Method[f()Z]
+	Method[g()V]
+}
+
+

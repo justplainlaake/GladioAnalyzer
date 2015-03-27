@@ -1,0 +1,15 @@
+bvk extends java/lang/Object {
+	Field[aLob;]
+	Field[bLbss;]
+	Field[cF]
+	Field[dI]
+	Method[<init>(Lbss;)V]
+	Method[a(II)V]
+	Method[a(IIII)V]
+	Method[b()I]
+	Method[c()I]
+	Method[a()V]
+	Method[<clinit>()V]
+}
+
+

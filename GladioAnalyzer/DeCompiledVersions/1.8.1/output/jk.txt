@@ -1,0 +1,12 @@
+jk extends java/lang/Object {
+	Field[aLhp;]
+	Method[<init>()V]
+	Method[<init>(Lhp;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Lhp;]
+	Method[a(Lhh;)V]
+}
+
+

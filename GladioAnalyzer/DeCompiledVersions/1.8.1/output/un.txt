@@ -1,0 +1,19 @@
+un extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Method[<init>()V]
+	Method[size()I]
+	Method[isEmpty()Z]
+	Method[containsKey(Ljava/lang/Object;)Z]
+	Method[containsValue(Ljava/lang/Object;)Z]
+	Method[get(Ljava/lang/Object;)Ljava/lang/Object;]
+	Method[a(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;]
+	Method[remove(Ljava/lang/Object;)Ljava/lang/Object;]
+	Method[putAll(Ljava/util/Map;)V]
+	Method[clear()V]
+	Method[keySet()Ljava/util/Set;]
+	Method[values()Ljava/util/Collection;]
+	Method[entrySet()Ljava/util/Set;]
+	Method[put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;]
+}
+
+

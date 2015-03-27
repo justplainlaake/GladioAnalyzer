@@ -1,0 +1,16 @@
+net/minecraft/realms/RealmsEditBox extends java/lang/Object {
+	Field[editBoxLbuj;]
+	Method[<init>(IIIII)V]
+	Method[getValue()Ljava/lang/String;]
+	Method[tick()V]
+	Method[setFocus(Z)V]
+	Method[setValue(Ljava/lang/String;)V]
+	Method[keyPressed(CI)V]
+	Method[isFocused()Z]
+	Method[mouseClicked(III)V]
+	Method[render()V]
+	Method[setMaxLength(I)V]
+	Method[setIsEditable(Z)V]
+}
+
+

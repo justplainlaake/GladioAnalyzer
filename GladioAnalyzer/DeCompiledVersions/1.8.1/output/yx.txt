@@ -1,0 +1,19 @@
+yx extends ze {
+	Field[aLxq;]
+	Field[bF]
+	Field[cF]
+	Field[dZ]
+	Field[eI]
+	Field[fI]
+	Method[<init>(Lxq;F)V]
+	Method[c()V]
+	Method[d()V]
+	Method[a()Z]
+	Method[e()V]
+	Method[a(Lato;)Z]
+	Method[f()Z]
+	Method[g()V]
+	Method[h()Z]
+}
+
+

@@ -1,0 +1,21 @@
+bac extends java/lang/Enum {
+	Field[aLbac;]
+	Field[bLbac;]
+	Field[cLbac;]
+	Field[d[Lbac;]
+	Field[eI]
+	Field[fLjava/lang/String;]
+	Field[gLjava/lang/String;]
+	Field[h[Lbac;]
+	Method[values()[Lbac;]
+	Method[valueOf(Ljava/lang/String;)Lbac;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Lbac;]
+	Method[l()Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

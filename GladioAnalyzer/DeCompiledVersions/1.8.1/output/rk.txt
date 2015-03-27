@@ -1,0 +1,9 @@
+rk extends java/lang/Object {
+	Field[aLgr;]
+	Field[bLhz;]
+	Field[cLrd;]
+	Method[<init>(Lrd;Lgr;Lhz;)V]
+	Method[operationComplete(Lio/netty/util/concurrent/Future;)V]
+}
+
+

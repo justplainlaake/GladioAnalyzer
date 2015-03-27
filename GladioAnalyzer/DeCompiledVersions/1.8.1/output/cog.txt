@@ -1,0 +1,11 @@
+cog extends java/lang/Object {
+	Field[aLaqi;]
+	Field[bLciu;]
+	Field[cLcop;]
+	Field[dLcok;]
+	Field[eLcod;]
+	Method[<init>(Lcod;Laqi;Lciu;Lcop;Lcok;)V]
+	Method[run()V]
+}
+
+

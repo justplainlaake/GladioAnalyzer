@@ -1,0 +1,15 @@
+bxb extends bxe {
+	Field[aLjava/lang/String;]
+	Field[fLjava/lang/String;]
+	Field[gI]
+	Field[hZ]
+	Method[<init>()V]
+	Method[a(Ljava/lang/String;)V]
+	Method[b(Ljava/lang/String;)V]
+	Method[c(Ljava/lang/String;)V]
+	Method[a(I)V]
+	Method[a()V]
+	Method[a(IIF)V]
+}
+
+

@@ -1,0 +1,9 @@
+ccg extends ccp {
+	Field[aLcdx;]
+	Field[b[Lcdx;]
+	Method[<init>()V]
+	Method[a(FFFFFFLwx;)V]
+	Method[a(Lwx;FFFFFF)V]
+}
+
+

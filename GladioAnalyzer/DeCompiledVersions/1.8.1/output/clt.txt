@@ -1,0 +1,12 @@
+clt extends java/lang/Object {
+	Field[a[I]
+	Field[bI]
+	Field[cLej;]
+	Method[<init>([IILej;)V]
+	Method[a()[I]
+	Method[b()Z]
+	Method[c()I]
+	Method[d()Lej;]
+}
+
+

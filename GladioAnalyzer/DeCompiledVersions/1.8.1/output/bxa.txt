@@ -1,0 +1,15 @@
+bxa extends bvi {
+	Field[uI]
+	Field[vLbwy;]
+	Method[<init>(Lbwy;)V]
+	Method[a(IILaln;I)V]
+	Method[e(II)V]
+	Method[d(IIII)V]
+	Method[b()I]
+	Method[a(IZII)V]
+	Method[a(I)Z]
+	Method[a()V]
+	Method[a(IIIIII)V]
+}
+
+

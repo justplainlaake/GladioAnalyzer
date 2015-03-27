@@ -1,0 +1,21 @@
+bqc extends bqa {
+	Field[bI]
+	Field[cI]
+	Field[dB]
+	Field[eB]
+	Field[f[B]
+	Field[gLjava/util/List;]
+	Field[iLjava/util/Map;]
+	Field[hLjava/util/Map;]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a(DDI)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Laha;Lamg;)V]
+	Method[a(ILaqr;Ljava/lang/String;DDD)V]
+	Method[a(Lamg;Laqr;Laha;)Lie;]
+	Method[a(II)V]
+	Method[a(Laha;)Lbqd;]
+}
+
+

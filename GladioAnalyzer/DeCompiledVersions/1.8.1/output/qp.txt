@@ -1,0 +1,9 @@
+qp extends java/lang/Object {
+	Field[aI]
+	Field[bLqo;]
+	Method[<init>(Lqo;I)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

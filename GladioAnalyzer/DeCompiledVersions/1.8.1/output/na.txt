@@ -1,0 +1,16 @@
+na extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/lang/String;]
+	Field[cI]
+	Field[dLgz;]
+	Method[<init>()V]
+	Method[<init>(ILjava/lang/String;ILgz;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lnb;)V]
+	Method[a()Lgz;]
+	Method[b()I]
+	Method[a(Lhh;)V]
+}
+
+

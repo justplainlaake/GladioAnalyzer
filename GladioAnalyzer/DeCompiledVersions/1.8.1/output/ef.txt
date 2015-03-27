@@ -1,0 +1,14 @@
+ef extends com/google/common/collect/UnmodifiableIterator {
+	Field[aI]
+	Field[b[Ljava/lang/Iterable;]
+	Field[c[Ljava/util/Iterator;]
+	Field[d[Ljava/lang/Object;]
+	Method[<init>(Ljava/lang/Class;[Ljava/lang/Iterable;)V]
+	Method[b()V]
+	Method[hasNext()Z]
+	Method[a()[Ljava/lang/Object;]
+	Method[next()Ljava/lang/Object;]
+	Method[<init>(Ljava/lang/Class;[Ljava/lang/Iterable;Lec;)V]
+}
+
+

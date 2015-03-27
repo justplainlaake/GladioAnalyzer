@@ -1,0 +1,8 @@
+bgs extends bgr {
+	Method[<init>()V]
+	Method[a(JIILbgi;DDD)V]
+	Method[a(JIILbgi;DDDFFFIID)V]
+	Method[a(Laqr;IIIILbgi;)V]
+}
+
+

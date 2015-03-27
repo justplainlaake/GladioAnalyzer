@@ -1,0 +1,16 @@
+cs extends java/lang/Object {
+	Field[aD]
+	Field[bD]
+	Method[<init>()V]
+	Method[<init>(DD)V]
+	Method[a(Lcs;)D]
+	Method[a()V]
+	Method[b()F]
+	Method[b(Lcs;)V]
+	Method[a(DDDD)Z]
+	Method[a(Laqr;)I]
+	Method[b(Laqr;)Z]
+	Method[a(Ljava/util/Random;DDDD)V]
+}
+
+

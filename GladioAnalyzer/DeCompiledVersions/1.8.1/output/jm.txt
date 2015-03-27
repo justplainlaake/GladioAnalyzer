@@ -1,0 +1,14 @@
+jm extends java/lang/Object {
+	Field[aI]
+	Field[bLfn;]
+	Method[<init>()V]
+	Method[<init>(ILfn;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Lfn;]
+	Method[a(Laqr;)Lwx;]
+	Method[a(Lhh;)V]
+}
+
+

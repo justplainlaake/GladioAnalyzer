@@ -1,0 +1,6 @@
+ot extends eg {
+	Method[<init>()V]
+	Method[b(Ldz;Lamg;)Lamg;]
+}
+
+

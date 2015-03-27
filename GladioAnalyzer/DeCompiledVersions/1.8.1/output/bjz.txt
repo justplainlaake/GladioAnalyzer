@@ -1,0 +1,17 @@
+bjz extends bmq {
+	Field[aLjava/util/List;]
+	Method[<init>()V]
+	Method[<init>(I)V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[a(Ljava/util/List;)I]
+	Method[a(Lbkd;Ljava/util/List;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbjz;]
+	Method[a(Lbkd;Ljava/util/List;Ljava/util/Random;IIILej;IZ)Lbmq;]
+	Method[a(Lbkd;Ljava/util/List;Ljava/util/Random;IIZ)Lbmq;]
+	Method[b(Lbkd;Ljava/util/List;Ljava/util/Random;IIZ)Lbmq;]
+	Method[c(Lbkd;Ljava/util/List;Ljava/util/Random;IIZ)Lbmq;]
+	Method[a(Lbiz;)Z]
+	Method[<clinit>()V]
+}
+
+

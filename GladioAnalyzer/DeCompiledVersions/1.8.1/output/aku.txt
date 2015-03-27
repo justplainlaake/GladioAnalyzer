@@ -1,0 +1,7 @@
+aku extends ajr {
+	Method[<init>(Lato;)V]
+	Method[a(I)I]
+	Method[e_(Lamg;)Ljava/lang/String;]
+}
+
+

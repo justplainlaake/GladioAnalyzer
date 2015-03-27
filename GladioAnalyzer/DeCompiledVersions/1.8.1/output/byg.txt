@@ -1,0 +1,12 @@
+byg extends java/lang/Object {
+	Field[bLjava/lang/String;]
+	Field[cI]
+	Field[aLbye;]
+	Method[<init>(Lbye;Ljava/lang/String;)V]
+	Method[a(IIIIIIIZ)V]
+	Method[a(IIIIII)Z]
+	Method[b(IIIIII)V]
+	Method[a(III)V]
+}
+
+

@@ -1,0 +1,20 @@
+anj extends aln {
+	Field[aF]
+	Field[bLamf;]
+	Method[<init>(Lamf;)V]
+	Method[g()F]
+	Method[a(Lamg;Lato;)F]
+	Method[a(Lamg;Lxo;Lxo;)Z]
+	Method[a(Lamg;Laqr;Lato;Ldt;Lxo;)Z]
+	Method[w_()Z]
+	Method[e(Lamg;)Lanl;]
+	Method[d(Lamg;)I]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+	Method[b(Lato;)Z]
+	Method[b()I]
+	Method[h()Ljava/lang/String;]
+	Method[a(Lamg;Lamg;)Z]
+	Method[i()Lcom/google/common/collect/Multimap;]
+}
+
+

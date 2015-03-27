@@ -1,0 +1,8 @@
+vl extends java/lang/Object {
+	Method[a(Ljava/util/Collection;)I]
+	Method[a(Ljava/util/Random;Ljava/util/Collection;I)Lvm;]
+	Method[a(Ljava/util/Collection;I)Lvm;]
+	Method[a(Ljava/util/Random;Ljava/util/Collection;)Lvm;]
+}
+
+

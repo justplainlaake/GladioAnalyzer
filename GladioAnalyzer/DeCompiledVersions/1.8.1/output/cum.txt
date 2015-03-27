@@ -1,0 +1,8 @@
+cum extends cue {
+	Field[jD]
+	Field[kD]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[j()V]
+}
+
+

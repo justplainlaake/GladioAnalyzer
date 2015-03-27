@@ -1,0 +1,7 @@
+cqb extends csm {
+	Field[aLcqa;]
+	Method[<init>(Lcqa;Lcqv;)V]
+	Method[a()V]
+}
+
+

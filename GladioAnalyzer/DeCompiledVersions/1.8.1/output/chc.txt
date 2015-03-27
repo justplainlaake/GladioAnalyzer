@@ -1,0 +1,8 @@
+chc extends cgv {
+	Field[aF]
+	Method[<init>(Laqr;DDDDDD)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[t_()V]
+}
+
+

@@ -1,0 +1,9 @@
+ctu extends cto {
+	Field[gLorg/apache/logging/log4j/Logger;]
+	Field[fLjava/util/List;]
+	Method[<init>([Ljava/lang/String;)V]
+	Method[a(Lcvk;)V]
+	Method[<clinit>()V]
+}
+
+

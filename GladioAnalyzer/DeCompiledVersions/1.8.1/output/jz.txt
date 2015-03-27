@@ -1,0 +1,27 @@
+jz extends java/lang/Object {
+	Field[aI]
+	Field[bB]
+	Field[cB]
+	Field[dB]
+	Field[eB]
+	Field[fB]
+	Field[gZ]
+	Field[hZ]
+	Method[<init>()V]
+	Method[<init>(I)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[a(Laqr;)Lwx;]
+	Method[a()B]
+	Method[b()B]
+	Method[c()B]
+	Method[d()B]
+	Method[e()B]
+	Method[f()Z]
+	Method[g()Z]
+	Method[a(Lhh;)V]
+}
+
+

@@ -1,0 +1,11 @@
+abe extends abc {
+	Method[<init>(Lxq;Laqr;)V]
+	Method[a()Lbpu;]
+	Method[b()Z]
+	Method[c()Lbru;]
+	Method[l()V]
+	Method[d()V]
+	Method[a(Lbru;Lbru;III)Z]
+}
+
+

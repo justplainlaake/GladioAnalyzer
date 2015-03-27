@@ -1,0 +1,19 @@
+aqj extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Method[<init>(II)V]
+	Method[a(II)J]
+	Method[hashCode()I]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[a()I]
+	Method[b()I]
+	Method[c()I]
+	Method[d()I]
+	Method[e()I]
+	Method[f()I]
+	Method[a(III)Ldt;]
+	Method[a(I)Ldt;]
+	Method[toString()Ljava/lang/String;]
+}
+
+

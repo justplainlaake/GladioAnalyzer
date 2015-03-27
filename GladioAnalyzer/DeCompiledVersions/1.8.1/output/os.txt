@@ -1,0 +1,10 @@
+os extends od {
+	Field[bLamg;]
+	Field[cLor;]
+	Method[<init>(Lor;Lamg;)V]
+	Method[a(Laqr;Lex;)Lahl;]
+	Method[a()F]
+	Method[b()F]
+}
+
+

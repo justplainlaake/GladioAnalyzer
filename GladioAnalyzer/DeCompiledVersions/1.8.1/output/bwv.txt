@@ -1,0 +1,7 @@
+bwv extends bue {
+	Field[oLbwu;]
+	Method[<init>(Lbwu;IIIIILjava/lang/String;)V]
+	Method[a(Lczh;)V]
+}
+
+

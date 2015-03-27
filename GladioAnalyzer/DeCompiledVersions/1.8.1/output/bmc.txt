@@ -1,0 +1,14 @@
+bmc extends bmi {
+	Field[bLjava/util/List;]
+	Field[aI]
+	Method[<init>()V]
+	Method[<init>(ILjava/util/Random;Lbiz;Lej;)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Lbmq;Ljava/util/List;Ljava/util/Random;)V]
+	Method[a(Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmc;]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+	Method[<clinit>()V]
+}
+
+

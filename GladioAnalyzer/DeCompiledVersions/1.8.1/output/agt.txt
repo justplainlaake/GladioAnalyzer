@@ -1,0 +1,5 @@
+agt extends java/lang/Object {
+	Method[a(Laqa;Ljava/util/Random;)V]
+}
+
+

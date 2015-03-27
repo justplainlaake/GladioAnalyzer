@@ -1,0 +1,8 @@
+pg extends java/lang/Object {
+	Field[aLnet/minecraft/server/MinecraftServer;]
+	Method[<init>(Lnet/minecraft/server/MinecraftServer;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

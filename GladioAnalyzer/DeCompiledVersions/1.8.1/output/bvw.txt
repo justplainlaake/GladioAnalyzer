@@ -1,0 +1,14 @@
+bvw extends bvy {
+	Field[rLjava/lang/String;]
+	Field[sLjava/lang/String;]
+	Field[tLjava/lang/String;]
+	Field[uZ]
+	Method[<init>(Lbvx;Ljava/lang/String;IZ)V]
+	Method[b()V]
+	Method[a(Lbue;)V]
+	Method[a()V]
+	Method[a(IIF)V]
+	Method[f()V]
+}
+
+

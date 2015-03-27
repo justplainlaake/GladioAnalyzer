@@ -1,0 +1,14 @@
+mv extends java/lang/Object {
+	Field[aLdt;]
+	Field[b[Lhp;]
+	Method[<init>()V]
+	Method[<init>(Ldt;[Lhp;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[a()Ldt;]
+	Method[b()[Lhp;]
+	Method[a(Lhh;)V]
+}
+
+

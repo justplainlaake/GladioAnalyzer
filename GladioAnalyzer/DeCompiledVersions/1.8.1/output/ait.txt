@@ -1,0 +1,12 @@
+ait extends ajh {
+	Field[aLaha;]
+	Field[bI]
+	Method[<init>(Laha;Lvs;III)V]
+	Method[a(Lamg;)Z]
+	Method[a(I)Lamg;]
+	Method[a(Laha;Lamg;)V]
+	Method[a(Lamg;I)V]
+	Method[c(Lamg;)V]
+}
+
+

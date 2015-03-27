@@ -1,0 +1,9 @@
+clz extends java/lang/Object {
+	Field[aLorg/lwjgl/util/vector/Vector3f;]
+	Field[bLel;]
+	Field[cF]
+	Field[dZ]
+	Method[<init>(Lorg/lwjgl/util/vector/Vector3f;Lel;FZ)V]
+}
+
+

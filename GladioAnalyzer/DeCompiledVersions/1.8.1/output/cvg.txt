@@ -1,0 +1,8 @@
+cvg extends java/lang/Object {
+	Field[aLob;]
+	Method[<init>()V]
+	Method[a(Lcvk;)V]
+	Method[<clinit>()V]
+}
+
+

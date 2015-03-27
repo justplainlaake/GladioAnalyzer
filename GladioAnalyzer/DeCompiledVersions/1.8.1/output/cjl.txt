@@ -1,0 +1,9 @@
+cjl extends java/lang/Object {
+	Field[aLbud;]
+	Field[bLcjh;]
+	Method[<init>(Lcjh;Lbud;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

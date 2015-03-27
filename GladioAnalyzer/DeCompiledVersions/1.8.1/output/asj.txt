@@ -1,0 +1,7 @@
+asj extends arj {
+	Method[<init>(I)V]
+	Method[m()Larm;]
+	Method[a(Laqr;Ljava/util/Random;Lbgi;IID)V]
+}
+
+

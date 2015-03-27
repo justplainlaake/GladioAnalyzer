@@ -1,0 +1,7 @@
+agd extends zn {
+	Method[<init>(Lagc;Ljava/lang/Class;)V]
+	Method[b()Z]
+	Method[a(Lxo;)D]
+}
+
+

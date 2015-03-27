@@ -1,0 +1,9 @@
+aqt extends java/lang/Object {
+	Field[aLato;]
+	Field[bLaqr;]
+	Method[<init>(Laqr;Lato;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

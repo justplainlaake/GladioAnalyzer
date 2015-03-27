@@ -1,0 +1,9 @@
+cbf extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cZ]
+	Field[dZ]
+	Method[<init>(IIZZ)V]
+}
+
+

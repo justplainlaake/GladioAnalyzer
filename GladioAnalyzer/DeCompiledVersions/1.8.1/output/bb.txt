@@ -1,0 +1,8 @@
+bb extends java/lang/Object {
+	Field[aLdt;]
+	Field[bLbea;]
+	Field[cLfn;]
+	Method[<init>(Ldt;Lbea;Lfn;)V]
+}
+
+

@@ -1,0 +1,11 @@
+aic extends ajh {
+	Field[aLaqr;]
+	Field[bLdt;]
+	Field[cLaia;]
+	Method[<init>(Laia;Lvs;IIILaqr;Ldt;)V]
+	Method[a(Lamg;)Z]
+	Method[a(Laha;)Z]
+	Method[a(Laha;Lamg;)V]
+}
+
+

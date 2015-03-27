@@ -1,0 +1,14 @@
+bcz extends bck {
+	Field[aLaln;]
+	Field[fI]
+	Method[<init>()V]
+	Method[<init>(Laln;I)V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[y_()Lie;]
+	Method[a(Laln;I)V]
+	Method[b()Laln;]
+	Method[c()I]
+}
+
+

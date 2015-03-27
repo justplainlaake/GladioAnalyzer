@@ -1,0 +1,13 @@
+cya extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Field[bZ]
+	Field[cLcxz;]
+	Method[<init>()V]
+	Method[a()Ljava/util/List;]
+	Method[b()Z]
+	Method[a(Z)V]
+	Method[c()Lcxz;]
+	Method[a(Lcxz;)V]
+}
+
+

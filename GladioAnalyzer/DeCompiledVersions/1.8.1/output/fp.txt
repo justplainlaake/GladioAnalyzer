@@ -1,0 +1,9 @@
+fp extends java/lang/Object {
+	Field[aI]
+	Field[bLfn;]
+	Method[<init>(Lfn;I)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,9 @@
+alc extends aln {
+	Method[<init>()V]
+	Method[a(Lamg;I)I]
+	Method[a(Lamg;Ljava/lang/String;)Lgd;]
+	Method[a(Lamg;Laha;Ljava/util/List;Z)V]
+	Method[a(Lfn;Ljava/util/List;)V]
+}
+
+

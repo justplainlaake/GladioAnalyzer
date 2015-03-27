@@ -1,0 +1,8 @@
+zg extends java/lang/Object {
+	Field[aLze;]
+	Field[bI]
+	Field[cLzf;]
+	Method[<init>(Lzf;ILze;)V]
+}
+
+

@@ -1,0 +1,21 @@
+daj extends java/lang/Object {
+	Field[aLdai;]
+	Method[<init>(Ldai;)V]
+	Method[requestAuthTokenCallback(Ltv/twitch/ErrorCode;Ltv/twitch/AuthToken;)V]
+	Method[loginCallback(Ltv/twitch/ErrorCode;Ltv/twitch/broadcast/ChannelInfo;)V]
+	Method[getIngestServersCallback(Ltv/twitch/ErrorCode;Ltv/twitch/broadcast/IngestList;)V]
+	Method[getUserInfoCallback(Ltv/twitch/ErrorCode;Ltv/twitch/broadcast/UserInfo;)V]
+	Method[getStreamInfoCallback(Ltv/twitch/ErrorCode;Ltv/twitch/broadcast/StreamInfo;)V]
+	Method[getArchivingStateCallback(Ltv/twitch/ErrorCode;Ltv/twitch/broadcast/ArchivingState;)V]
+	Method[runCommercialCallback(Ltv/twitch/ErrorCode;)V]
+	Method[setStreamInfoCallback(Ltv/twitch/ErrorCode;)V]
+	Method[getGameNameListCallback(Ltv/twitch/ErrorCode;Ltv/twitch/broadcast/GameInfoList;)V]
+	Method[bufferUnlockCallback(J)V]
+	Method[startCallback(Ltv/twitch/ErrorCode;)V]
+	Method[stopCallback(Ltv/twitch/ErrorCode;)V]
+	Method[sendActionMetaDataCallback(Ltv/twitch/ErrorCode;)V]
+	Method[sendStartSpanMetaDataCallback(Ltv/twitch/ErrorCode;)V]
+	Method[sendEndSpanMetaDataCallback(Ltv/twitch/ErrorCode;)V]
+}
+
+

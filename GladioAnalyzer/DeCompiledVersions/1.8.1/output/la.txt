@@ -1,0 +1,19 @@
+la extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Method[<init>()V]
+	Method[<init>(Lwx;)V]
+	Method[<init>(IDDD)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()I]
+	Method[b()I]
+	Method[c()I]
+	Method[d()I]
+	Method[a(Lhh;)V]
+}
+
+

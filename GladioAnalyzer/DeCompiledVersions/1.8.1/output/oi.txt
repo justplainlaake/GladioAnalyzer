@@ -1,0 +1,8 @@
+oi extends eg {
+	Field[bZ]
+	Method[<init>()V]
+	Method[b(Ldz;Lamg;)Lamg;]
+	Method[a(Ldz;)V]
+}
+
+

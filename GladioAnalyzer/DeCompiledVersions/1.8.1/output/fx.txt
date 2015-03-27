@@ -1,0 +1,10 @@
+fx extends java/lang/Object {
+	Field[aLfx;]
+	Field[bJ]
+	Field[cJ]
+	Method[<init>(J)V]
+	Method[a(J)V]
+	Method[<clinit>()V]
+}
+
+

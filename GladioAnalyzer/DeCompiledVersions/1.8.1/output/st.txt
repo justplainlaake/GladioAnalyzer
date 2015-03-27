@@ -1,0 +1,10 @@
+st extends java/lang/Object {
+	Field[aLjava/lang/Object;]
+	Method[<init>(Ljava/lang/Object;)V]
+	Method[<init>(Ljava/lang/Object;Lcom/google/gson/JsonObject;)V]
+	Method[f()Ljava/lang/Object;]
+	Method[e()Z]
+	Method[a(Lcom/google/gson/JsonObject;)V]
+}
+
+

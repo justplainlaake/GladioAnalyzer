@@ -1,0 +1,24 @@
+ahe extends java/lang/Enum {
+	Field[aLahe;]
+	Field[bLahe;]
+	Field[cLahe;]
+	Field[dLahe;]
+	Field[eLahe;]
+	Field[fLahe;]
+	Field[gLahe;]
+	Field[hI]
+	Field[iI]
+	Field[jLjava/lang/String;]
+	Field[kLhp;]
+	Field[l[Lahe;]
+	Method[values()[Lahe;]
+	Method[valueOf(Ljava/lang/String;)Lahe;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[a()I]
+	Method[b()I]
+	Method[c()Ljava/lang/String;]
+	Method[d()Lhp;]
+	Method[<clinit>()V]
+}
+
+

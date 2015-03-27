@@ -1,0 +1,16 @@
+yy extends ze {
+	Field[aLxq;]
+	Field[bLdt;]
+	Field[cLavc;]
+	Field[dZ]
+	Field[eF]
+	Field[fF]
+	Method[<init>(Lxq;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[e()V]
+	Method[a(Ldt;)Lavc;]
+}
+
+

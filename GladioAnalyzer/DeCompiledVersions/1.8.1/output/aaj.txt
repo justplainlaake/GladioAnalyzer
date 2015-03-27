@@ -1,0 +1,24 @@
+aaj extends ze {
+	Field[aLxx;]
+	Field[bD]
+	Field[cD]
+	Field[dD]
+	Field[eD]
+	Field[fD]
+	Field[gD]
+	Field[hLaha;]
+	Field[iI]
+	Field[jZ]
+	Field[kLaln;]
+	Field[lZ]
+	Field[mZ]
+	Method[<init>(Lxx;DLaln;Z)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+	Method[f()Z]
+}
+
+

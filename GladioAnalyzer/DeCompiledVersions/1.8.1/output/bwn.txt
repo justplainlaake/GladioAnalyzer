@@ -1,0 +1,18 @@
+bwn extends bxe {
+	Field[aLbxe;]
+	Field[fLcev;]
+	Field[gLbuj;]
+	Field[hLbuj;]
+	Field[iLbue;]
+	Field[rLcom/google/common/base/Predicate;]
+	Method[<init>(Lbxe;Lcev;)V]
+	Method[e()V]
+	Method[b()V]
+	Method[m()V]
+	Method[a(Lbue;)V]
+	Method[a(CI)V]
+	Method[a(III)V]
+	Method[a(IIF)V]
+}
+
+

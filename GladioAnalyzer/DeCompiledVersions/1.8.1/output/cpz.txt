@@ -1,0 +1,12 @@
+cpz extends cqz {
+	Field[aLob;]
+	Field[eLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lafa;)Lob;]
+	Method[a(Lafa;F)V]
+	Method[a(Lxo;F)V]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

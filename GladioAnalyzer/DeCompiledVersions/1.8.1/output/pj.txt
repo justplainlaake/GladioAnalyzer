@@ -1,0 +1,8 @@
+pj extends java/lang/RuntimeException {
+	Field[aLpj;]
+	Method[<init>()V]
+	Method[fillInStackTrace()Ljava/lang/Throwable;]
+	Method[<clinit>()V]
+}
+
+

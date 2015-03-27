@@ -1,0 +1,6 @@
+awm extends ayi {
+	Method[<init>()V]
+	Method[k()Z]
+}
+
+

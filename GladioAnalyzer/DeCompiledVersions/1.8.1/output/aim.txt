@@ -1,0 +1,8 @@
+aim extends ahy {
+	Field[aLvs;]
+	Method[<init>(Lvs;Lvs;)V]
+	Method[a(Laha;)Z]
+	Method[b(Laha;I)Lamg;]
+}
+
+

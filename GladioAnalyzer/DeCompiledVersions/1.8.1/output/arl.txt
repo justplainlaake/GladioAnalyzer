@@ -1,0 +1,8 @@
+arl extends java/lang/Object {
+	Field[aF]
+	Field[bF]
+	Method[<init>(FF)V]
+	Method[a()Larl;]
+}
+
+

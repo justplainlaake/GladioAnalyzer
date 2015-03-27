@@ -1,0 +1,13 @@
+coy extends cpa {
+	Field[eLcoy;]
+	Field[fLjava/nio/FloatBuffer;]
+	Field[gLjava/nio/FloatBuffer;]
+	Field[hLjava/nio/FloatBuffer;]
+	Method[<init>()V]
+	Method[a()Lcpa;]
+	Method[a([F)V]
+	Method[b()V]
+	Method[<clinit>()V]
+}
+
+

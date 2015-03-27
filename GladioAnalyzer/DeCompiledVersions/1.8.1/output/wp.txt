@@ -1,0 +1,6 @@
+wp extends wr {
+	Method[<init>(ILob;ZI)V]
+	Method[a(Lxo;Lyf;I)V]
+}
+
+

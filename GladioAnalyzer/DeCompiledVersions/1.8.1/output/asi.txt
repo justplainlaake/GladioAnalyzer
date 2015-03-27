@@ -1,0 +1,15 @@
+asi extends arj {
+	Field[aELarj;]
+	Method[<init>(ILarj;)V]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbgi;IID)V]
+	Method[g()F]
+	Method[a(Ljava/util/Random;)Lbha;]
+	Method[c(Ldt;)I]
+	Method[b(Ldt;)I]
+	Method[l()Ljava/lang/Class;]
+	Method[a(Larj;)Z]
+	Method[m()Larm;]
+}
+
+

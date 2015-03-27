@@ -1,0 +1,9 @@
+afe extends ze {
+	Field[aLafa;]
+	Method[<init>(Lafa;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+}
+
+

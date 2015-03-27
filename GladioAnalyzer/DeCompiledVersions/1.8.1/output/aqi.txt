@@ -1,0 +1,15 @@
+aqi extends java/lang/Enum {
+	Field[aLaqi;]
+	Field[bLaqi;]
+	Field[cLaqi;]
+	Field[dLaqi;]
+	Field[eLjava/lang/String;]
+	Field[f[Laqi;]
+	Method[values()[Laqi;]
+	Method[valueOf(Ljava/lang/String;)Laqi;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

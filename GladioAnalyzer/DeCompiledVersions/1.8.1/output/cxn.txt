@@ -1,0 +1,19 @@
+cxn extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Field[bLjava/util/List;]
+	Field[cZ]
+	Field[dLcue;]
+	Field[eZ]
+	Field[fLcmx;]
+	Method[<init>(Lcmc;)V]
+	Method[<init>(Lcxe;Lcue;)V]
+	Method[a(Lcxe;Lcue;Lej;)V]
+	Method[a(Lcxe;Lcue;)V]
+	Method[<init>(ZZLcmx;)V]
+	Method[a(Lej;Lclt;)Lcxn;]
+	Method[a(Lclt;)Lcxn;]
+	Method[a(Lcue;)Lcxn;]
+	Method[b()Lcxe;]
+}
+
+

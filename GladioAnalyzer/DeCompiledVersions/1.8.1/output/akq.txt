@@ -1,0 +1,8 @@
+akq extends aln {
+	Field[aLato;]
+	Method[<init>(Lato;)V]
+	Method[a(Lamg;Laha;Laqr;Ldt;Lej;FFF)Z]
+	Method[a(Laqr;Ldt;Lej;Lato;)V]
+}
+
+

@@ -1,0 +1,9 @@
+cso extends java/lang/Object {
+	Field[aLcra;]
+	Method[<init>(Lcra;)V]
+	Method[a(Laca;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+}
+
+

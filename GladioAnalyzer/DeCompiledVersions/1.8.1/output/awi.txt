@@ -1,0 +1,9 @@
+awi extends awq {
+	Method[<init>(Lbod;Z)V]
+	Method[a(Ljava/util/Random;)I]
+	Method[l()Laqi;]
+	Method[d()Z]
+	Method[H()Z]
+}
+
+

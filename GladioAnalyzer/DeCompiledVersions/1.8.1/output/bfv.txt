@@ -1,0 +1,10 @@
+bfv extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Method[a(Ljava/io/File;II)Lbft;]
+	Method[a()V]
+	Method[c(Ljava/io/File;II)Ljava/io/DataInputStream;]
+	Method[d(Ljava/io/File;II)Ljava/io/DataOutputStream;]
+	Method[<clinit>()V]
+}
+
+

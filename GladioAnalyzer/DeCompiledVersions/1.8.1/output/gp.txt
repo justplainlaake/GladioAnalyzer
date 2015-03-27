@@ -1,0 +1,9 @@
+gp extends io/netty/handler/codec/ByteToMessageDecoder {
+	Field[aLjava/util/zip/Inflater;]
+	Field[bI]
+	Method[<init>(I)V]
+	Method[decode(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;Ljava/util/List;)V]
+	Method[a(I)V]
+}
+
+

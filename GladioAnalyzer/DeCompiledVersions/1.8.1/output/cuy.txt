@@ -1,0 +1,19 @@
+cuy extends java/lang/Object {
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Field[aLjava/io/File;]
+	Method[<init>(Ljava/io/File;)V]
+	Method[c(Lob;)Ljava/lang/String;]
+	Method[a(Ljava/io/File;Ljava/io/File;)Ljava/lang/String;]
+	Method[a(Lob;)Ljava/io/InputStream;]
+	Method[b(Lob;)Z]
+	Method[a(Ljava/lang/String;)Ljava/io/InputStream;]
+	Method[b(Ljava/lang/String;)Z]
+	Method[c(Ljava/lang/String;)V]
+	Method[a(Lcwk;Ljava/lang/String;)Lcwi;]
+	Method[a(Lcwk;Ljava/io/InputStream;Ljava/lang/String;)Lcwi;]
+	Method[a()Ljava/awt/image/BufferedImage;]
+	Method[b()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,7 @@
+bta extends java/lang/Object {
+	Field[aLbss;]
+	Method[<init>(Lbss;)V]
+	Method[a(ZI)V]
+}
+
+

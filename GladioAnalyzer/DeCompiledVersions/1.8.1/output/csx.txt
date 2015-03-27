@@ -1,0 +1,9 @@
+csx extends java/lang/Object {
+	Field[aLcrv;]
+	Method[<init>(Lcrv;)V]
+	Method[a(Lagg;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+}
+
+

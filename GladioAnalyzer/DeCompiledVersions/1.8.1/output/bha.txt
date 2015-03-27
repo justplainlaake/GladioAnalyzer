@@ -1,0 +1,8 @@
+bha extends bhn {
+	Method[<init>(Z)V]
+	Method[a(Lato;)Z]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[a(Laqr;Ldt;)V]
+}
+
+

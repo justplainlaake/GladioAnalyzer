@@ -1,0 +1,5 @@
+hh extends java/lang/Object {
+	Method[a(Lhp;)V]
+}
+
+

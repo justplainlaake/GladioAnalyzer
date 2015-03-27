@@ -1,0 +1,11 @@
+dap extends java/lang/Enum {
+	Field[aLdap;]
+	Field[bLdap;]
+	Field[c[Ldap;]
+	Method[values()[Ldap;]
+	Method[valueOf(Ljava/lang/String;)Ldap;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

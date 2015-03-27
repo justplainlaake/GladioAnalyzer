@@ -1,0 +1,18 @@
+boy extends java/lang/Object {
+	Field[cJ]
+	Field[aLboy;]
+	Field[dJ]
+	Field[bJ]
+	Method[a(JLarb;Ljava/lang/String;)[Lboy;]
+	Method[<init>(J)V]
+	Method[a(J)V]
+	Method[a(JJ)V]
+	Method[a(I)I]
+	Method[a(IIII)[I]
+	Method[a(II)Z]
+	Method[b(I)Z]
+	Method[a([I)I]
+	Method[b(IIII)I]
+}
+
+

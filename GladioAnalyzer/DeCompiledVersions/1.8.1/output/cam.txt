@@ -1,0 +1,20 @@
+cam extends bxe {
+	Field[aLa;]
+	Field[fLa;]
+	Field[gLa;]
+	Field[hLtv/twitch/chat/ChatUserInfo;]
+	Field[iLhp;]
+	Field[rLjava/util/List;]
+	Field[sLdao;]
+	Field[tI]
+	Method[<init>(Ldao;Ltv/twitch/chat/ChatUserInfo;)V]
+	Method[a(Ljava/util/Set;Ljava/util/Set;Ldao;)Ljava/util/List;]
+	Method[a(Ltv/twitch/chat/ChatUserSubscription;Ljava/lang/String;Z)Lhp;]
+	Method[a(Ltv/twitch/chat/ChatUserMode;Ljava/lang/String;Z)Lhp;]
+	Method[b()V]
+	Method[a(Lbue;)V]
+	Method[a(IIF)V]
+	Method[<clinit>()V]
+}
+
+

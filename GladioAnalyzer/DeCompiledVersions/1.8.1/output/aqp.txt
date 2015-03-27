@@ -1,0 +1,12 @@
+aqp extends java/lang/Enum {
+	Field[aLaqp;]
+	Field[bLaqp;]
+	Field[cLaqp;]
+	Field[d[Laqp;]
+	Method[values()[Laqp;]
+	Method[valueOf(Ljava/lang/String;)Laqp;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

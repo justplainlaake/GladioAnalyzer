@@ -1,0 +1,6 @@
+cox extends java/lang/Object {
+	Method[a(Lbrr;)Z]
+	Method[a(DDD)V]
+}
+
+

@@ -1,0 +1,10 @@
+cxq extends vm {
+	Field[bLcxe;]
+	Method[<init>(Lcxe;I)V]
+	Method[a(Lcxq;)I]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[compareTo(Ljava/lang/Object;)I]
+}
+
+

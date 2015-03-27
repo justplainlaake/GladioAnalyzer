@@ -1,0 +1,11 @@
+bvd extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/lang/String;]
+	Field[cZ]
+	Method[<init>(ILjava/lang/String;Z)V]
+	Method[b()I]
+	Method[c()Ljava/lang/String;]
+	Method[d()Z]
+}
+
+

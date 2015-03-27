@@ -1,0 +1,14 @@
+cmt extends java/lang/Object {
+	Field[aLcmu;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Method[<init>(Lcmu;II)V]
+	Method[a(I)V]
+	Method[a()Lcmu;]
+	Method[b()I]
+	Method[c()I]
+	Method[d()I]
+}
+
+

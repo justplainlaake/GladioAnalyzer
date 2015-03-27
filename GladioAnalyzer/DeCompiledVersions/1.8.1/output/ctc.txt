@@ -1,0 +1,26 @@
+ctc extends cqv {
+	Field[aZ]
+	Method[<init>(Lcpt;)V]
+	Method[<init>(Lcpt;Z)V]
+	Method[g()Lccs;]
+	Method[a(Lcik;DDDFF)V]
+	Method[d(Lcik;)V]
+	Method[a(Lcik;)Lob;]
+	Method[C_()V]
+	Method[a(Lcik;F)V]
+	Method[a(Lcik;DDDLjava/lang/String;FD)V]
+	Method[b(Lcik;)V]
+	Method[c(Lcik;)V]
+	Method[a(Lcik;DDD)V]
+	Method[a(Lcik;FFF)V]
+	Method[a(Lxo;F)V]
+	Method[a(Lxo;FFF)V]
+	Method[a(Lxo;DDD)V]
+	Method[a(Lxo;DDDFF)V]
+	Method[b()Lccp;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDLjava/lang/String;FD)V]
+	Method[a(Lwx;DDDFF)V]
+}
+
+

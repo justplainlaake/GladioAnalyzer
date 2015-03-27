@@ -1,0 +1,13 @@
+cmh extends java/lang/Object {
+	Field[aLcom/google/gson/Gson;]
+	Field[bLjava/util/Map;]
+	Method[a(Ljava/io/Reader;)Lcmh;]
+	Method[<init>(Ljava/util/Collection;)V]
+	Method[<init>(Ljava/util/List;)V]
+	Method[b(Ljava/lang/String;)Lcmm;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[<clinit>()V]
+}
+
+

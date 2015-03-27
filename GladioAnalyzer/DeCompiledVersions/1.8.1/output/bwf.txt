@@ -1,0 +1,8 @@
+bwf extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLob;]
+	Field[cLbgl;]
+	Method[<init>(Ljava/lang/String;Lob;Lbgl;)V]
+}
+
+

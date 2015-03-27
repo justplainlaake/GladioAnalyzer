@@ -1,0 +1,14 @@
+bey extends java/lang/Enum {
+	Field[aLbey;]
+	Field[bLbey;]
+	Field[cLbey;]
+	Field[dI]
+	Field[e[Lbey;]
+	Method[values()[Lbey;]
+	Method[valueOf(Ljava/lang/String;)Lbey;]
+	Method[<init>(Ljava/lang/String;II)V]
+	Method[a()I]
+	Method[<clinit>()V]
+}
+
+

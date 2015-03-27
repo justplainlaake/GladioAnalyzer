@@ -1,0 +1,7 @@
+ie extends java/lang/Object {
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lhh;)V]
+}
+
+

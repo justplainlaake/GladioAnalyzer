@@ -1,0 +1,15 @@
+cmk extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcxf;]
+	Field[cZ]
+	Field[dI]
+	Method[<init>(Lob;Lcxf;ZI)V]
+	Method[a()Lob;]
+	Method[b()Lcxf;]
+	Method[c()Z]
+	Method[d()I]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+}
+
+

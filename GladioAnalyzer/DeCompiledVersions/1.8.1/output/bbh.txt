@@ -1,0 +1,24 @@
+bbh extends ato {
+	Field[bLber;]
+	Field[NLber;]
+	Field[OLber;]
+	Field[PLber;]
+	Field[aZ]
+	Method[<init>(Lbod;Z)V]
+	Method[a(Lbea;Lara;Ldt;)Lbea;]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[c()Z]
+	Method[d()Z]
+	Method[a(Lara;Ldt;Lej;)Z]
+	Method[a(Laqr;Ldt;Lbea;Lbrr;Ljava/util/List;Lwx;)V]
+	Method[i()V]
+	Method[a(Lara;Ldt;)V]
+	Method[c(Lato;)Z]
+	Method[H()Z]
+	Method[l()Laqi;]
+	Method[c(Lbea;)I]
+	Method[e()Lbeb;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,14 @@
+np extends java/lang/Object {
+	Field[aLcom/google/gson/Gson;]
+	Field[bLnq;]
+	Method[<init>()V]
+	Method[<init>(Lnq;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lnn;)V]
+	Method[a()Lnq;]
+	Method[a(Lhh;)V]
+	Method[<clinit>()V]
+}
+
+

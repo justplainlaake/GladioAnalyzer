@@ -1,0 +1,6 @@
+cbl extends java/lang/Thread {
+	Method[<init>(Ljava/lang/String;)V]
+	Method[run()V]
+}
+
+

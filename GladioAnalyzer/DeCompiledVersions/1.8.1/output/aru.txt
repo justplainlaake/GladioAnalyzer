@@ -1,0 +1,5 @@
+aru extends java/lang/Object {
+	Method[a(Larj;Ldt;)I]
+}
+
+

@@ -1,0 +1,11 @@
+bcr extends bck {
+	Field[aLaqc;]
+	Method[<init>()V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[y_()Lie;]
+	Method[b()Laqc;]
+	Method[c()Laf;]
+}
+
+

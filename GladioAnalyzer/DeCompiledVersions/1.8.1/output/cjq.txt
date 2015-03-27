@@ -1,0 +1,10 @@
+cjq extends java/lang/Object {
+	Field[aI]
+	Field[bZ]
+	Method[<init>(I)V]
+	Method[a()V]
+	Method[b()V]
+	Method[a(Z)V]
+}
+
+

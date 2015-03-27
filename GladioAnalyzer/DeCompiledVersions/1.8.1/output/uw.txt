@@ -1,0 +1,9 @@
+uw extends com/google/gson/TypeAdapter {
+	Field[aLjava/util/Map;]
+	Field[bLuv;]
+	Method[<init>(Luv;Ljava/util/Map;)V]
+	Method[write(Lcom/google/gson/stream/JsonWriter;Ljava/lang/Object;)V]
+	Method[read(Lcom/google/gson/stream/JsonReader;)Ljava/lang/Object;]
+}
+
+

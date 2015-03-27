@@ -1,0 +1,11 @@
+sw extends java/lang/Object {
+	Field[aLsu;]
+	Method[<init>(Lsu;)V]
+	Method[a(Lst;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;]
+	Method[a(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lst;]
+	Method[serialize(Ljava/lang/Object;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;]
+	Method[deserialize(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;]
+	Method[<init>(Lsu;Lsv;)V]
+}
+
+

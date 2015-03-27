@@ -1,0 +1,7 @@
+gx extends io/netty/channel/ChannelInitializer {
+	Field[aLgr;]
+	Method[<init>(Lgr;)V]
+	Method[initChannel(Lio/netty/channel/Channel;)V]
+}
+
+

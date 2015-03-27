@@ -1,0 +1,5 @@
+czp extends czs {
+	Method[<init>(Ltm;)V]
+}
+
+

@@ -1,0 +1,22 @@
+aea extends java/lang/Enum {
+	Field[aLaea;]
+	Field[bLaea;]
+	Field[cLaea;]
+	Field[dLaea;]
+	Field[eLaea;]
+	Field[fLaea;]
+	Field[gLaea;]
+	Field[hLjava/util/Map;]
+	Field[iI]
+	Field[jLjava/lang/String;]
+	Field[k[Laea;]
+	Method[values()[Laea;]
+	Method[valueOf(Ljava/lang/String;)Laea;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[a()I]
+	Method[b()Ljava/lang/String;]
+	Method[a(I)Laea;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,16 @@
+bmo extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/util/Map;]
+	Field[cLjava/util/Map;]
+	Field[dLjava/util/Map;]
+	Field[eLjava/util/Map;]
+	Method[b(Ljava/lang/Class;Ljava/lang/String;)V]
+	Method[a(Ljava/lang/Class;Ljava/lang/String;)V]
+	Method[a(Lbmt;)Ljava/lang/String;]
+	Method[a(Lbmq;)Ljava/lang/String;]
+	Method[a(Lfn;Laqr;)Lbmt;]
+	Method[b(Lfn;Laqr;)Lbmq;]
+	Method[<clinit>()V]
+}
+
+

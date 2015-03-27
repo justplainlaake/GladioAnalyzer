@@ -1,0 +1,15 @@
+mn extends java/lang/Enum {
+	Field[aLmn;]
+	Field[bLmn;]
+	Field[cLmn;]
+	Field[dLmn;]
+	Field[eLmn;]
+	Field[fLmn;]
+	Field[g[Lmn;]
+	Method[values()[Lmn;]
+	Method[valueOf(Ljava/lang/String;)Lmn;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

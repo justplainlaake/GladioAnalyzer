@@ -1,0 +1,24 @@
+ctd extends java/lang/Object {
+	Field[aLctd;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Field[fI]
+	Field[gZ]
+	Field[hZ]
+	Method[<init>(ZZIIIII)V]
+	Method[<init>()V]
+	Method[<init>(III)V]
+	Method[<init>(IIIII)V]
+	Method[a()V]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[b()Z]
+	Method[a(Lcom/google/gson/JsonObject;)Lctd;]
+	Method[a(Ljava/lang/String;)I]
+	Method[b(Ljava/lang/String;)I]
+	Method[<clinit>()V]
+}
+
+

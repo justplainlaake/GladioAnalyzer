@@ -1,0 +1,11 @@
+mc extends java/lang/Object {
+	Field[aI]
+	Method[<init>()V]
+	Method[<init>(I)V]
+	Method[a(Llt;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lhh;)V]
+}
+
+

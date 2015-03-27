@@ -1,0 +1,17 @@
+bdw extends java/lang/Object {
+	Field[aLaqr;]
+	Field[bLdt;]
+	Field[cLdt;]
+	Field[dLej;]
+	Field[eLjava/util/List;]
+	Field[fLjava/util/List;]
+	Method[<init>(Laqr;Ldt;Lej;Z)V]
+	Method[a()Z]
+	Method[a(Ldt;)Z]
+	Method[a(II)V]
+	Method[b(Ldt;)Z]
+	Method[c()Ljava/util/List;]
+	Method[d()Ljava/util/List;]
+}
+
+

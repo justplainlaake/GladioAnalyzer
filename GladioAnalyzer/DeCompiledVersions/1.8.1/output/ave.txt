@@ -1,0 +1,13 @@
+ave extends java/lang/Enum {
+	Field[aLave;]
+	Field[bLave;]
+	Field[c[Lave;]
+	Method[values()[Lave;]
+	Method[valueOf(Ljava/lang/String;)Lave;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

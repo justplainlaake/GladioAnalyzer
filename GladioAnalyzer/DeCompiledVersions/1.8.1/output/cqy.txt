@@ -1,0 +1,7 @@
+cqy extends cqx {
+	Method[<init>(Lcpt;)V]
+	Method[a(Laei;FLbea;)V]
+	Method[a(Lady;FLbea;)V]
+}
+
+

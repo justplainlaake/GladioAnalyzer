@@ -1,0 +1,12 @@
+czj extends java/lang/Object {
+	Field[aLob;]
+	Field[bLjava/lang/String;]
+	Field[cLcyb;]
+	Field[dLczh;]
+	Method[<init>(Lczh;Ljava/lang/String;Lcyb;)V]
+	Method[a()I]
+	Method[b()Lcyz;]
+	Method[g()Ljava/lang/Object;]
+}
+
+

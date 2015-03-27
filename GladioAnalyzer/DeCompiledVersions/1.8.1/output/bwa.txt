@@ -1,0 +1,9 @@
+bwa extends java/lang/Thread {
+	Field[aLjava/lang/String;]
+	Field[bI]
+	Field[cLbvz;]
+	Method[<init>(Lbvz;Ljava/lang/String;Ljava/lang/String;I)V]
+	Method[run()V]
+}
+
+

@@ -1,0 +1,23 @@
+abb extends abc {
+	Field[aLbpw;]
+	Field[fZ]
+	Method[<init>(Lxq;Laqr;)V]
+	Method[a()Lbpu;]
+	Method[b()Z]
+	Method[c()Lbru;]
+	Method[p()I]
+	Method[d()V]
+	Method[a(Lbru;Lbru;III)Z]
+	Method[a(IIIIIILbru;DD)Z]
+	Method[b(IIIIIILbru;DD)Z]
+	Method[a(Z)V]
+	Method[e()Z]
+	Method[b(Z)V]
+	Method[c(Z)V]
+	Method[g()Z]
+	Method[d(Z)V]
+	Method[h()Z]
+	Method[e(Z)V]
+}
+
+

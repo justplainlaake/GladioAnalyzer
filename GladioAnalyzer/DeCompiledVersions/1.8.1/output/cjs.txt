@@ -1,0 +1,10 @@
+cjs extends java/lang/Object {
+	Field[aF]
+	Field[bF]
+	Field[cF]
+	Field[dF]
+	Method[<init>()V]
+	Method[<init>(FFFF)V]
+}
+
+

@@ -1,0 +1,22 @@
+azl extends java/lang/Enum {
+	Field[aLazl;]
+	Field[bLazl;]
+	Field[cLazl;]
+	Field[dLazl;]
+	Field[eLazl;]
+	Field[f[Lazl;]
+	Field[gI]
+	Field[hLjava/lang/String;]
+	Field[iLjava/lang/String;]
+	Field[j[Lazl;]
+	Method[values()[Lazl;]
+	Method[valueOf(Ljava/lang/String;)Lazl;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Lazl;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

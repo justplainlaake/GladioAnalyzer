@@ -1,0 +1,22 @@
+atf extends ato {
+	Field[aZ]
+	Method[e(Laqr;Ldt;)Z]
+	Method[d(Lbea;)Z]
+	Method[<init>(Z)V]
+	Method[a(Laqr;Ldt;Lbea;)Lbrr;]
+	Method[c()Z]
+	Method[a(Laqr;Ldt;Lbru;Lbru;)Lbrs;]
+	Method[a(Lara;Ldt;)V]
+	Method[d()Z]
+	Method[d(Laqr;Ldt;)Z]
+	Method[c(Laqr;Ldt;Lbea;)V]
+	Method[a(Laqr;Ldt;Lbea;Lato;)V]
+	Method[b(Laqr;Ldt;Lbea;Lato;)V]
+	Method[a(Laqr;Ldt;Lbea;Z)Lbea;]
+	Method[j()I]
+	Method[l()Laqi;]
+	Method[b(Laqr;Ldt;Lbea;)V]
+	Method[m()Lbev;]
+}
+
+

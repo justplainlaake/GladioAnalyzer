@@ -1,0 +1,16 @@
+bwc extends bvi {
+	Field[uI]
+	Field[vLbwb;]
+	Method[<init>(Lbwb;)V]
+	Method[a(IILamg;)V]
+	Method[e(II)V]
+	Method[d(IIII)V]
+	Method[b()I]
+	Method[a(IZII)V]
+	Method[a(I)Z]
+	Method[a()V]
+	Method[a(IIIIII)V]
+	Method[d()I]
+}
+
+

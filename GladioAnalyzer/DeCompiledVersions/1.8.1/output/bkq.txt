@@ -1,0 +1,6 @@
+bkq extends java/lang/Object {
+	Method[a(Lbld;)Z]
+	Method[a(Lej;Lbld;Ljava/util/Random;)Lbkz;]
+}
+
+

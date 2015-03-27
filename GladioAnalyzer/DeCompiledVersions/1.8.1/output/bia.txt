@@ -1,0 +1,15 @@
+bia extends bha {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Method[<init>(ZIIII)V]
+	Method[a(Ljava/util/Random;)I]
+	Method[c(Laqr;Ldt;I)Z]
+	Method[a(Ldt;Laqr;)Z]
+	Method[a(Laqr;Ljava/util/Random;Ldt;I)Z]
+	Method[a(Laqr;Ldt;I)V]
+	Method[b(Laqr;Ldt;I)V]
+}
+
+

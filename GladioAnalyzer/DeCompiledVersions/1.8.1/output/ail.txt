@@ -1,0 +1,14 @@
+ail extends ahy {
+	Field[aLaik;]
+	Field[fLvs;]
+	Field[gLaqr;]
+	Field[hLdt;]
+	Method[<init>(Lagy;Laqr;Ldt;)V]
+	Method[a(Lvs;)V]
+	Method[b(Laha;)V]
+	Method[a(Laha;)Z]
+	Method[b(Laha;I)Lamg;]
+	Method[a(Lamg;Lajh;)Z]
+}
+
+

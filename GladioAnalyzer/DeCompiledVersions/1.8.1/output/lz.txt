@@ -1,0 +1,15 @@
+lz extends java/lang/Object {
+	Field[aI]
+	Field[bS]
+	Field[cZ]
+	Method[<init>()V]
+	Method[<init>(ISZ)V]
+	Method[a(Llt;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a()I]
+	Method[b()S]
+	Method[a(Lhh;)V]
+}
+
+

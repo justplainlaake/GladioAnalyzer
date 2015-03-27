@@ -1,0 +1,24 @@
+afa extends xn {
+	Field[aI]
+	Method[<init>(Laqr;)V]
+	Method[n()Z]
+	Method[a(Z)V]
+	Method[cf()I]
+	Method[t_()V]
+	Method[a(Lwj;F)Z]
+	Method[h()V]
+	Method[aX()V]
+	Method[z()Ljava/lang/String;]
+	Method[bo()Ljava/lang/String;]
+	Method[bp()Ljava/lang/String;]
+	Method[A()Laln;]
+	Method[b(ZI)V]
+	Method[bB()F]
+	Method[bR()Z]
+	Method[bV()I]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[aS()F]
+}
+
+

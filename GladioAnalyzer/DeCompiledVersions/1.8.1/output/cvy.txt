@@ -1,0 +1,13 @@
+cvy extends java/lang/Object {
+	Field[aLckh;]
+	Field[bLcwb;]
+	Field[cLcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;]
+	Field[dLob;]
+	Field[eLcom/mojang/authlib/minecraft/MinecraftProfileTexture;]
+	Field[fLcvw;]
+	Method[<init>(Lcvw;Lckh;Lcwb;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lob;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;)V]
+	Method[a(Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;]
+	Method[a()V]
+}
+
+

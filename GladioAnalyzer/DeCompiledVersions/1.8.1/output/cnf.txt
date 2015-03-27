@@ -1,0 +1,10 @@
+cnf extends cnc {
+	Field[aLbev;]
+	Field[cLjava/lang/String;]
+	Field[dLjava/util/List;]
+	Method[<init>(Lbev;Ljava/lang/String;Ljava/util/List;)V]
+	Method[a(Lbea;)Lcxl;]
+	Method[<init>(Lbev;Ljava/lang/String;Ljava/util/List;Lcng;)V]
+}
+
+

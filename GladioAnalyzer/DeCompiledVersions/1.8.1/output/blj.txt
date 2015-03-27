@@ -1,0 +1,17 @@
+blj extends bll {
+	Field[eZ]
+	Field[fZ]
+	Field[gZ]
+	Field[hZ]
+	Field[iLjava/util/List;]
+	Field[jLjava/util/List;]
+	Field[kLblk;]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/Random;II)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+	Method[<clinit>()V]
+}
+
+

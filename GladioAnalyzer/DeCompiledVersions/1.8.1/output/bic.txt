@@ -1,0 +1,11 @@
+bic extends bhn {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[b[Ljava/lang/String;]
+	Field[cLjava/util/List;]
+	Method[<init>()V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+	Method[a(Ljava/util/Random;)Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

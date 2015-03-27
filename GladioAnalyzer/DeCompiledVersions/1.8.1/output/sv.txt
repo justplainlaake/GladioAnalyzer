@@ -1,0 +1,8 @@
+sv extends java/lang/Object {
+	Method[<init>()V]
+	Method[getActualTypeArguments()[Ljava/lang/reflect/Type;]
+	Method[getRawType()Ljava/lang/reflect/Type;]
+	Method[getOwnerType()Ljava/lang/reflect/Type;]
+}
+
+

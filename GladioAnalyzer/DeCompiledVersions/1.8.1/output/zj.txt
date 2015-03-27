@@ -1,0 +1,11 @@
+zj extends ze {
+	Field[aLxq;]
+	Field[bLxo;]
+	Field[cF]
+	Method[<init>(Lxq;F)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+}
+
+

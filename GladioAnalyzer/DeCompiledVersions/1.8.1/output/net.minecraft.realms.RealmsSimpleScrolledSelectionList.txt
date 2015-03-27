@@ -1,0 +1,22 @@
+net/minecraft/realms/RealmsSimpleScrolledSelectionList extends java/lang/Object {
+	Field[proxyLbvt;]
+	Method[<init>(IIIII)V]
+	Method[render(IIF)V]
+	Method[width()I]
+	Method[ym()I]
+	Method[xm()I]
+	Method[renderItem(IIIILnet/minecraft/realms/Tezzelator;II)V]
+	Method[renderItem(IIIIII)V]
+	Method[getItemCount()I]
+	Method[selectItem(IZII)V]
+	Method[isSelectedItem(I)Z]
+	Method[renderBackground()V]
+	Method[getMaxPosition()I]
+	Method[getScrollbarPosition()I]
+	Method[mouseEvent()V]
+	Method[scroll(I)V]
+	Method[getScroll()I]
+	Method[renderList(IIII)V]
+}
+
+

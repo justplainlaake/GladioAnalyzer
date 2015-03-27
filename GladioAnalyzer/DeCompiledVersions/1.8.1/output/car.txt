@@ -1,0 +1,9 @@
+car extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lcaq;)V]
+	Method[A_()Lhp;]
+	Method[a(FI)V]
+	Method[B_()Z]
+}
+
+

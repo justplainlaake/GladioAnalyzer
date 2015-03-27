@@ -1,0 +1,8 @@
+rt extends java/lang/Object {
+	Field[aLrs;]
+	Method[<init>(Lrs;)V]
+	Method[a(Lio/netty/channel/ChannelFuture;)V]
+	Method[operationComplete(Lio/netty/util/concurrent/Future;)V]
+}
+
+

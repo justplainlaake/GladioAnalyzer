@@ -1,0 +1,16 @@
+rz extends st {
+	Field[aLjava/text/SimpleDateFormat;]
+	Field[bLjava/util/Date;]
+	Field[cLjava/lang/String;]
+	Field[dLjava/util/Date;]
+	Field[eLjava/lang/String;]
+	Method[<init>(Ljava/lang/Object;Ljava/util/Date;Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/Object;Lcom/google/gson/JsonObject;)V]
+	Method[c()Ljava/util/Date;]
+	Method[d()Ljava/lang/String;]
+	Method[e()Z]
+	Method[a(Lcom/google/gson/JsonObject;)V]
+	Method[<clinit>()V]
+}
+
+

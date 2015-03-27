@@ -1,0 +1,28 @@
+fv extends gd {
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Field[cLjava/util/List;]
+	Field[dB]
+	Method[<init>()V]
+	Method[a(Ljava/io/DataOutput;)V]
+	Method[a(Ljava/io/DataInput;ILfx;)V]
+	Method[a()B]
+	Method[toString()Ljava/lang/String;]
+	Method[a(Lgd;)V]
+	Method[a(ILgd;)V]
+	Method[a(I)Lgd;]
+	Method[c_()Z]
+	Method[b(I)Lfn;]
+	Method[c(I)[I]
+	Method[d(I)D]
+	Method[e(I)F]
+	Method[f(I)Ljava/lang/String;]
+	Method[g(I)Lgd;]
+	Method[c()I]
+	Method[b()Lgd;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[f()I]
+	Method[<clinit>()V]
+}
+
+

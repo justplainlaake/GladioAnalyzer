@@ -1,0 +1,28 @@
+bgo extends java/lang/Object {
+	Field[aLaqr;]
+	Field[bLjava/util/Random;]
+	Field[c[Lbea;]
+	Field[dLbit;]
+	Field[eLjava/util/List;]
+	Field[fZ]
+	Field[gZ]
+	Field[hLbhw;]
+	Field[iLbhw;]
+	Method[<init>(Laqr;JZLjava/lang/String;)V]
+	Method[d(II)Lbff;]
+	Method[a(II)Z]
+	Method[a(Lbfc;II)V]
+	Method[a(Lbfc;Lbff;II)Z]
+	Method[a(ZLva;)Z]
+	Method[c()V]
+	Method[d()Z]
+	Method[e()Z]
+	Method[f()Ljava/lang/String;]
+	Method[a(Lxs;Ldt;)Ljava/util/List;]
+	Method[a(Laqr;Ljava/lang/String;Ldt;)Ldt;]
+	Method[g()I]
+	Method[a(Lbff;II)V]
+	Method[a(Ldt;)Lbff;]
+}
+
+

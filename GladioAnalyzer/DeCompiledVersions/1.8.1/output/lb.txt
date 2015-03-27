@@ -1,0 +1,16 @@
+lb extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cLamg;]
+	Method[<init>()V]
+	Method[<init>(IILamg;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Lamg;]
+	Method[b()I]
+	Method[c()I]
+	Method[a(Lhh;)V]
+}
+
+

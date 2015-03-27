@@ -1,0 +1,20 @@
+cvv extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Field[bLjava/lang/String;]
+	Field[cLob;]
+	Field[dLjava/io/InputStream;]
+	Field[eLjava/io/InputStream;]
+	Field[fLcwk;]
+	Field[gZ]
+	Field[hLcom/google/gson/JsonObject;]
+	Method[<init>(Ljava/lang/String;Lob;Ljava/io/InputStream;Ljava/io/InputStream;Lcwk;)V]
+	Method[a()Lob;]
+	Method[b()Ljava/io/InputStream;]
+	Method[c()Z]
+	Method[a(Ljava/lang/String;)Lcwi;]
+	Method[d()Ljava/lang/String;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+}
+
+

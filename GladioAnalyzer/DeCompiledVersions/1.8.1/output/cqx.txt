@@ -1,0 +1,13 @@
+cqx extends cpu {
+	Field[eLob;]
+	Field[aLccp;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lady;DDDFF)V]
+	Method[a(Lady;)Lob;]
+	Method[a(Lady;FLbea;)V]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+	Method[<clinit>()V]
+}
+
+

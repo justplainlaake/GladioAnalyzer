@@ -1,0 +1,14 @@
+bas extends java/lang/Enum {
+	Field[aLbas;]
+	Field[bLbas;]
+	Field[cLjava/lang/String;]
+	Field[d[Lbas;]
+	Method[values()[Lbas;]
+	Method[valueOf(Ljava/lang/String;)Lbas;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,24 @@
+el extends java/lang/Enum {
+	Field[aLel;]
+	Field[bLel;]
+	Field[cLel;]
+	Field[dLjava/util/Map;]
+	Field[eLjava/lang/String;]
+	Field[fLen;]
+	Field[g[Lel;]
+	Method[values()[Lel;]
+	Method[valueOf(Ljava/lang/String;)Lel;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;Len;)V]
+	Method[a(Ljava/lang/String;)Lel;]
+	Method[a()Ljava/lang/String;]
+	Method[b()Z]
+	Method[c()Z]
+	Method[toString()Ljava/lang/String;]
+	Method[a(Lej;)Z]
+	Method[d()Len;]
+	Method[l()Ljava/lang/String;]
+	Method[apply(Ljava/lang/Object;)Z]
+	Method[<clinit>()V]
+}
+
+

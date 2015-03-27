@@ -1,0 +1,21 @@
+bvf extends btz {
+	Field[aLcom/google/common/collect/Ordering;]
+	Field[fLbss;]
+	Field[gLbtx;]
+	Field[hLhp;]
+	Field[iLhp;]
+	Field[jJ]
+	Field[kZ]
+	Method[<init>(Lbss;Lbtx;)V]
+	Method[a(Lcer;)Ljava/lang/String;]
+	Method[a(Z)V]
+	Method[a(ILbsb;Lbrw;)V]
+	Method[a(IIILcer;)V]
+	Method[a(Lbrw;ILjava/lang/String;IILcer;)V]
+	Method[a(Lhp;)V]
+	Method[b(Lhp;)V]
+	Method[a()V]
+	Method[<clinit>()V]
+}
+
+

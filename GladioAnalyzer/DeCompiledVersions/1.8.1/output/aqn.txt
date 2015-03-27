@@ -1,0 +1,16 @@
+aqn extends java/lang/Object {
+	Field[aLjava/util/TreeMap;]
+	Method[<init>()V]
+	Method[a(Ljava/lang/String;Ljava/lang/String;Laqp;)V]
+	Method[a(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[a(Ljava/lang/String;)Ljava/lang/String;]
+	Method[b(Ljava/lang/String;)Z]
+	Method[c(Ljava/lang/String;)I]
+	Method[a()Lfn;]
+	Method[a(Lfn;)V]
+	Method[b()[Ljava/lang/String;]
+	Method[e(Ljava/lang/String;)Z]
+	Method[a(Ljava/lang/String;Laqp;)Z]
+}
+
+

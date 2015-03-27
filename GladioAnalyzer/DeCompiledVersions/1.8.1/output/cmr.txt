@@ -1,0 +1,14 @@
+cmr extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Method[<init>()V]
+	Method[a(Lcua;Lcmc;)Lcmc;]
+	Method[a(ILjava/lang/String;Lcue;)Ljava/util/List;]
+	Method[a(Lcue;Ljava/lang/String;I)Ljava/util/List;]
+	Method[a(Lcue;)Ljava/util/List;]
+	Method[a(Lcmu;Ljava/util/List;[IIIIIZ)V]
+	Method[a(Ljava/util/List;Lcmu;II)V]
+	Method[a([IIIII)Z]
+	Method[<clinit>()V]
+}
+
+

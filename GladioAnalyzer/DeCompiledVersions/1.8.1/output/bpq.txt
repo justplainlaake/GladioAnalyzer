@@ -1,0 +1,14 @@
+bpq extends java/lang/Object {
+	Field[a[Lbpr;]
+	Field[bI]
+	Method[<init>()V]
+	Method[a(Lbpr;)Lbpr;]
+	Method[a()V]
+	Method[c()Lbpr;]
+	Method[a(Lbpr;F)V]
+	Method[a(I)V]
+	Method[b(I)V]
+	Method[e()Z]
+}
+
+

@@ -1,0 +1,17 @@
+afr extends java/lang/Object {
+	Field[fLorg/apache/logging/log4j/Logger;]
+	Field[aLyb;]
+	Field[bLyb;]
+	Field[cLyb;]
+	Field[dLyb;]
+	Field[eLyb;]
+	Method[a(Lyf;)Lfv;]
+	Method[a(Lyc;)Lfn;]
+	Method[a(Lyd;)Lfn;]
+	Method[a(Lyf;Lfv;)V]
+	Method[a(Lyc;Lfn;)V]
+	Method[a(Lfn;)Lyd;]
+	Method[<clinit>()V]
+}
+
+

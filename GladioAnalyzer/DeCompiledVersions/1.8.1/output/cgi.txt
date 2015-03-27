@@ -1,0 +1,15 @@
+cgi extends cgv {
+	Field[aLob;]
+	Field[azI]
+	Field[aAI]
+	Field[aBLcug;]
+	Field[aCF]
+	Method[<init>(Lcug;Laqr;DDDDDD)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[b(F)I]
+	Method[t_()V]
+	Method[a()I]
+	Method[<clinit>()V]
+}
+
+

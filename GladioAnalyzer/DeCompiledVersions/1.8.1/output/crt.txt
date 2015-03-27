@@ -1,0 +1,11 @@
+crt extends cqz {
+	Field[aLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lacr;)Lob;]
+	Method[a(Lacr;FFF)V]
+	Method[a(Lxo;FFF)V]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

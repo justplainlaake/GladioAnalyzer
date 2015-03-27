@@ -1,0 +1,13 @@
+avd extends java/lang/Enum {
+	Field[aLavd;]
+	Field[bLavd;]
+	Field[c[Lavd;]
+	Method[values()[Lavd;]
+	Method[valueOf(Ljava/lang/String;)Lavd;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

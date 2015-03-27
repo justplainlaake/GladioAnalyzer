@@ -1,0 +1,11 @@
+ctt extends cto {
+	Field[fLorg/apache/logging/log4j/Logger;]
+	Field[gLob;]
+	Field[hLjava/util/List;]
+	Field[iLjava/util/List;]
+	Method[<init>(Lob;Ljava/util/List;Ljava/util/List;)V]
+	Method[a(Lcvk;)V]
+	Method[<clinit>()V]
+}
+
+

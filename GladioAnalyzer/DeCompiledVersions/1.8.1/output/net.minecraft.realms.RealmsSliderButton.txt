@@ -1,0 +1,21 @@
+net/minecraft/realms/RealmsSliderButton extends net/minecraft/realms/RealmsButton {
+	Field[valueF]
+	Field[slidingZ]
+	Field[minValueF]
+	Field[maxValueF]
+	Field[stepsI]
+	Method[<init>(IIIIII)V]
+	Method[<init>(IIIIIIFF)V]
+	Method[getMessage()Ljava/lang/String;]
+	Method[toPct(F)F]
+	Method[toValue(F)F]
+	Method[clamp(F)F]
+	Method[clampSteps(F)F]
+	Method[getYImage(Z)I]
+	Method[renderBg(II)V]
+	Method[clicked(II)V]
+	Method[clicked(F)V]
+	Method[released(II)V]
+}
+
+

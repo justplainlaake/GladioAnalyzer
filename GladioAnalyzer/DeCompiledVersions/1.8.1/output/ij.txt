@@ -1,0 +1,22 @@
+ij extends java/lang/Object {
+	Field[aD]
+	Field[bD]
+	Field[cD]
+	Field[dF]
+	Field[eF]
+	Field[fLjava/util/Set;]
+	Method[<init>()V]
+	Method[<init>(DDDFFLjava/util/Set;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()D]
+	Method[b()D]
+	Method[c()D]
+	Method[d()F]
+	Method[e()F]
+	Method[f()Ljava/util/Set;]
+	Method[a(Lhh;)V]
+}
+
+

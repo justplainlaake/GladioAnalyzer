@@ -1,0 +1,18 @@
+aap extends ze {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLxq;]
+	Field[cLcom/google/common/base/Predicate;]
+	Field[dLaav;]
+	Field[eLxo;]
+	Field[fLjava/lang/Class;]
+	Method[<init>(Lxq;Ljava/lang/Class;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[f()D]
+	Method[a(Laap;)Lxq;]
+	Method[<clinit>()V]
+}
+
+

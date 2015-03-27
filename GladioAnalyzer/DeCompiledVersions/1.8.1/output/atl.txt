@@ -1,0 +1,8 @@
+atl extends java/lang/Object {
+	Field[aLdt;]
+	Field[bLatk;]
+	Method[<init>(Latk;Ldt;)V]
+	Method[run()V]
+}
+
+

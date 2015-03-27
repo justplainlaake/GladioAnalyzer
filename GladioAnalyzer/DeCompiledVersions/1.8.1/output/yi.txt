@@ -1,0 +1,16 @@
+yi extends yf {
+	Field[eLjava/util/Set;]
+	Field[dLjava/util/Map;]
+	Method[<init>()V]
+	Method[e(Lyb;)Lyh;]
+	Method[b(Ljava/lang/String;)Lyh;]
+	Method[b(Lyb;)Lyc;]
+	Method[c(Lyb;)Lyc;]
+	Method[a(Lyc;)V]
+	Method[b()Ljava/util/Set;]
+	Method[c()Ljava/util/Collection;]
+	Method[a(Ljava/lang/String;)Lyc;]
+	Method[a(Lyb;)Lyc;]
+}
+
+

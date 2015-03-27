@@ -1,0 +1,5 @@
+ckl extends java/lang/Object {
+	Method[a(Lamg;)Lcxl;]
+}
+
+

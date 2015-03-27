@@ -1,0 +1,16 @@
+agl extends java/lang/Object {
+	Field[aLajb;]
+	Field[bLaha;]
+	Field[cLaqa;]
+	Field[dLhp;]
+	Method[<init>(Laha;Lhp;)V]
+	Method[v_()Laha;]
+	Method[a_(Laha;)V]
+	Method[b_(Laha;)Laqa;]
+	Method[a(Laqa;)V]
+	Method[a(Lapz;)V]
+	Method[a_(Lamg;)V]
+	Method[f_()Lhp;]
+}
+
+

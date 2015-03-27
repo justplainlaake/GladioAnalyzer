@@ -1,0 +1,10 @@
+aiz extends ajh {
+	Field[aI]
+	Field[bLaiy;]
+	Method[<init>(Laiy;Lvs;IIII)V]
+	Method[a()I]
+	Method[a(Lamg;)Z]
+	Method[c()Ljava/lang/String;]
+}
+
+

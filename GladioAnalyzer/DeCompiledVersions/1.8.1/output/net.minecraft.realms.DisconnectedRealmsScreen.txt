@@ -1,0 +1,13 @@
+net/minecraft/realms/DisconnectedRealmsScreen extends net/minecraft/realms/RealmsScreen {
+	Field[titleLjava/lang/String;]
+	Field[reasonLhp;]
+	Field[linesLjava/util/List;]
+	Field[parentLnet/minecraft/realms/RealmsScreen;]
+	Method[<init>(Lnet/minecraft/realms/RealmsScreen;Ljava/lang/String;Lhp;)V]
+	Method[init()V]
+	Method[keyPressed(CI)V]
+	Method[buttonClicked(Lnet/minecraft/realms/RealmsButton;)V]
+	Method[render(IIF)V]
+}
+
+

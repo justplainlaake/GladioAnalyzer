@@ -1,0 +1,21 @@
+bql extends java/lang/Object {
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Field[aLjava/io/File;]
+	Method[<init>(Ljava/io/File;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/util/List;]
+	Method[d()V]
+	Method[c(Ljava/lang/String;)Lbqm;]
+	Method[a(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[d(Ljava/lang/String;)Z]
+	Method[e(Ljava/lang/String;)Z]
+	Method[a([Ljava/io/File;)Z]
+	Method[a(Ljava/lang/String;Z)Lbqw;]
+	Method[a(Ljava/lang/String;)Z]
+	Method[b(Ljava/lang/String;)Z]
+	Method[a(Ljava/lang/String;Lva;)Z]
+	Method[f(Ljava/lang/String;)Z]
+	Method[<clinit>()V]
+}
+
+

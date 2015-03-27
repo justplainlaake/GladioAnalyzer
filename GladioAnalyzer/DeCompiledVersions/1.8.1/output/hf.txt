@@ -1,0 +1,10 @@
+hf extends io/netty/handler/codec/ByteToMessageDecoder {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLorg/apache/logging/log4j/Marker;]
+	Field[cLig;]
+	Method[<init>(Lig;)V]
+	Method[decode(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;Ljava/util/List;)V]
+	Method[<clinit>()V]
+}
+
+

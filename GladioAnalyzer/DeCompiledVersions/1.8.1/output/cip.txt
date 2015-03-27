@@ -1,0 +1,12 @@
+cip extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLhp;]
+	Method[<init>(Ljava/lang/String;Lhp;)V]
+	Method[a(Lagy;Laha;)Lahy;]
+	Method[e_()Ljava/lang/String;]
+	Method[l_()Z]
+	Method[k()Ljava/lang/String;]
+	Method[f_()Lhp;]
+}
+
+

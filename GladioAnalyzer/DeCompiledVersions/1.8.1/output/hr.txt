@@ -1,0 +1,5 @@
+hr extends java/lang/Object {
+	Method[a(Lae;Lhp;Lwx;)Lhp;]
+}
+
+

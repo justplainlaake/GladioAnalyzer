@@ -1,0 +1,7 @@
+buy extends bvd {
+	Field[aZ]
+	Method[<init>(ILjava/lang/String;ZZ)V]
+	Method[a()Z]
+}
+
+

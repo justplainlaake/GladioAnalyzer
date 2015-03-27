@@ -1,0 +1,9 @@
+aak extends ze {
+	Field[aLagn;]
+	Method[<init>(Lagn;)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[d()V]
+}
+
+

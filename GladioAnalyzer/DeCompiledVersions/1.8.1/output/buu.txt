@@ -1,0 +1,9 @@
+buu extends bue {
+	Field[oLbtp;]
+	Method[<init>(IIILjava/lang/String;)V]
+	Method[<init>(IIIIILjava/lang/String;)V]
+	Method[<init>(IIILbtp;Ljava/lang/String;)V]
+	Method[c()Lbtp;]
+}
+
+

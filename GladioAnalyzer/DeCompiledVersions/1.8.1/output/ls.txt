@@ -1,0 +1,21 @@
+ls extends java/lang/Object {
+	Field[aI]
+	Field[bB]
+	Field[cB]
+	Field[dI]
+	Field[eB]
+	Method[<init>()V]
+	Method[<init>(ILws;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a()Z]
+	Method[a(Lil;)V]
+	Method[b()I]
+	Method[c()B]
+	Method[d()B]
+	Method[e()I]
+	Method[f()Z]
+	Method[a(Lhh;)V]
+}
+
+

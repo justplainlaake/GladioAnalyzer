@@ -1,0 +1,6 @@
+arx extends arj {
+	Method[<init>(I)V]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+}
+
+

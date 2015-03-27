@@ -1,0 +1,27 @@
+ati extends java/lang/Enum {
+	Field[aLati;]
+	Field[bLati;]
+	Field[cLati;]
+	Field[dLati;]
+	Field[eLati;]
+	Field[fLati;]
+	Field[gLati;]
+	Field[hLati;]
+	Field[iLati;]
+	Field[jLati;]
+	Field[k[Lati;]
+	Field[lI]
+	Field[mLjava/lang/String;]
+	Field[n[Lati;]
+	Method[values()[Lati;]
+	Method[valueOf(Ljava/lang/String;)Lati;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[c()Z]
+	Method[a(I)Lati;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

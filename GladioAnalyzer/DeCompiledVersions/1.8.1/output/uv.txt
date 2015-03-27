@@ -1,0 +1,8 @@
+uv extends java/lang/Object {
+	Method[<init>()V]
+	Method[create(Lcom/google/gson/Gson;Lcom/google/gson/reflect/TypeToken;)Lcom/google/gson/TypeAdapter;]
+	Method[a(Ljava/lang/Object;)Ljava/lang/String;]
+	Method[a(Luv;Ljava/lang/Object;)Ljava/lang/String;]
+}
+
+

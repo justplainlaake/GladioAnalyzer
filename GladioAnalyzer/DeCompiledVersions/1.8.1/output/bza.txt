@@ -1,0 +1,19 @@
+bza extends ajh {
+	Field[bLajh;]
+	Field[aLbyy;]
+	Method[<init>(Lbyy;Lajh;I)V]
+	Method[a(Laha;Lamg;)V]
+	Method[a(Lamg;)Z]
+	Method[d()Lamg;]
+	Method[e()Z]
+	Method[d(Lamg;)V]
+	Method[f()V]
+	Method[a()I]
+	Method[b(Lamg;)I]
+	Method[c()Ljava/lang/String;]
+	Method[a(I)Lamg;]
+	Method[a(Lvs;I)Z]
+	Method[a(Lbza;)Lajh;]
+}
+
+

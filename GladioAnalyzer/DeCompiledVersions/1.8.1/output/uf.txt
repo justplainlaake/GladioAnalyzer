@@ -1,0 +1,8 @@
+uf extends java/lang/Object {
+	Field[aLjava/lang/Class;]
+	Field[bLue;]
+	Method[<init>(Lue;Ljava/lang/Class;)V]
+	Method[iterator()Ljava/util/Iterator;]
+}
+
+

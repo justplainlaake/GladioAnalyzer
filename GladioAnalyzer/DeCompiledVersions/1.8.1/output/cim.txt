@@ -1,0 +1,7 @@
+cim extends cil {
+	Field[eLbtm;]
+	Method[<init>(Lbtm;)V]
+	Method[a()V]
+}
+
+

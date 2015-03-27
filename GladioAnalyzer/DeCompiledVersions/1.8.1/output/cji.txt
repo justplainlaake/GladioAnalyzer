@@ -1,0 +1,8 @@
+cji extends java/lang/Object {
+	Field[aLcjh;]
+	Method[<init>(Lcjh;)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

@@ -1,0 +1,9 @@
+arn extends vm {
+	Field[bLjava/lang/Class;]
+	Field[cI]
+	Field[dI]
+	Method[<init>(Ljava/lang/Class;III)V]
+	Method[toString()Ljava/lang/String;]
+}
+
+

@@ -1,0 +1,16 @@
+clw extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lclu;]
+	Method[a(Lcom/google/gson/JsonObject;)Lclz;]
+	Method[b(Lcom/google/gson/JsonObject;)F]
+	Method[c(Lcom/google/gson/JsonObject;)Lel;]
+	Method[a(Lcom/google/gson/JsonDeserializationContext;Lcom/google/gson/JsonObject;)Ljava/util/Map;]
+	Method[b(Lcom/google/gson/JsonDeserializationContext;Lcom/google/gson/JsonObject;)Ljava/util/Map;]
+	Method[a(Ljava/lang/String;)Lej;]
+	Method[d(Lcom/google/gson/JsonObject;)Lorg/lwjgl/util/vector/Vector3f;]
+	Method[e(Lcom/google/gson/JsonObject;)Lorg/lwjgl/util/vector/Vector3f;]
+	Method[a(Lcom/google/gson/JsonObject;Ljava/lang/String;)Lorg/lwjgl/util/vector/Vector3f;]
+	Method[deserialize(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,15 @@
+btu extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Field[cLjava/lang/String;]
+	Field[dLbtv;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+	Method[d()Ljava/lang/String;]
+	Method[e()Lcom/mojang/authlib/GameProfile;]
+	Method[f()Lbtv;]
+}
+
+

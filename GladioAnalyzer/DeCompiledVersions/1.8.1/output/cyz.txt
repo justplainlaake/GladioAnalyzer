@@ -1,0 +1,16 @@
+cyz extends java/lang/Object {
+	Field[aLob;]
+	Field[bZ]
+	Field[cD]
+	Field[dD]
+	Method[<init>(Lob;DDZ)V]
+	Method[<init>(Lcyz;)V]
+	Method[a()Lob;]
+	Method[b()D]
+	Method[a(D)V]
+	Method[c()D]
+	Method[b(D)V]
+	Method[d()Z]
+}
+
+

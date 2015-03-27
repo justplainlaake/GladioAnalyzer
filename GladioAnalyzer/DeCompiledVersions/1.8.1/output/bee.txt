@@ -1,0 +1,18 @@
+bee extends bdy {
+	Field[aLato;]
+	Field[bLcom/google/common/collect/ImmutableMap;]
+	Field[cLcom/google/common/collect/ImmutableTable;]
+	Method[<init>(Lato;Lcom/google/common/collect/ImmutableMap;)V]
+	Method[a()Ljava/util/Collection;]
+	Method[b(Lbev;)Ljava/lang/Comparable;]
+	Method[a(Lbev;Ljava/lang/Comparable;)Lbea;]
+	Method[b()Lcom/google/common/collect/ImmutableMap;]
+	Method[c()Lato;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[a(Ljava/util/Map;)V]
+	Method[b(Lbev;Ljava/lang/Comparable;)Ljava/util/Map;]
+	Method[<init>(Lato;Lcom/google/common/collect/ImmutableMap;Lbec;)V]
+}
+
+

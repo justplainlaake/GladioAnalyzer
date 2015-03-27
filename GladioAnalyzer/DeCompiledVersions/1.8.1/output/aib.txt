@@ -1,0 +1,7 @@
+aib extends wc {
+	Field[aLaia;]
+	Method[<init>(Laia;Ljava/lang/String;ZI)V]
+	Method[p_()V]
+}
+
+

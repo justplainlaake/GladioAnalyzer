@@ -1,0 +1,18 @@
+bsi extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Field[bLbsi;]
+	Field[cLbsi;]
+	Field[dLbsi;]
+	Field[eLbsi;]
+	Field[fLbsi;]
+	Field[gLbsi;]
+	Field[h[Lbsi;]
+	Field[i[Lbsi;]
+	Method[a()Ljava/lang/String;]
+	Method[a(Ljava/util/List;)I]
+	Method[b()Z]
+	Method[c()Lbsj;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,12 @@
+mt extends java/lang/Object {
+	Field[aI]
+	Method[<init>()V]
+	Method[<init>(I)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[a()I]
+	Method[a(Lhh;)V]
+}
+
+

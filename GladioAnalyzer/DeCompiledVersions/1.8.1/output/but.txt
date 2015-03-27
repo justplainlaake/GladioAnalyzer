@@ -1,0 +1,8 @@
+but extends java/lang/Object {
+	Method[a(III)V]
+	Method[a(IIIIIIIZ)V]
+	Method[a(IIIIII)Z]
+	Method[b(IIIIII)V]
+}
+
+

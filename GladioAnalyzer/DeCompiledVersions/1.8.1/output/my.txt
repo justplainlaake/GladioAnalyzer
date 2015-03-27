@@ -1,0 +1,25 @@
+my extends java/lang/Object {
+	Field[aLdt;]
+	Field[bLdt;]
+	Field[cI]
+	Field[dLamg;]
+	Field[eF]
+	Field[fF]
+	Field[gF]
+	Method[<init>()V]
+	Method[<init>(Lamg;)V]
+	Method[<init>(Ldt;ILamg;FFF)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[a()Ldt;]
+	Method[b()I]
+	Method[c()Lamg;]
+	Method[d()F]
+	Method[e()F]
+	Method[f()F]
+	Method[a(Lhh;)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,6 @@
+vx extends java/lang/Object {
+	Method[a(Lagy;Laha;)Lahy;]
+	Method[k()Ljava/lang/String;]
+}
+
+

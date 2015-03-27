@@ -1,0 +1,18 @@
+kq extends java/lang/Object {
+	Field[aI]
+	Field[bLvv;]
+	Field[cLaqz;]
+	Field[dLarb;]
+	Method[<init>()V]
+	Method[<init>(ILvv;Larb;Laqz;)V]
+	Method[a(Lil;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a()I]
+	Method[b()Lvv;]
+	Method[c()Laqz;]
+	Method[d()Larb;]
+	Method[a(Lhh;)V]
+}
+
+

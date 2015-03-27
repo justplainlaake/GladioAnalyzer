@@ -1,0 +1,13 @@
+cyf extends java/lang/Enum {
+	Field[aLcyf;]
+	Field[bLcyf;]
+	Field[cI]
+	Field[d[Lcyf;]
+	Method[values()[Lcyf;]
+	Method[valueOf(Ljava/lang/String;)Lcyf;]
+	Method[<init>(Ljava/lang/String;II)V]
+	Method[a()I]
+	Method[<clinit>()V]
+}
+
+

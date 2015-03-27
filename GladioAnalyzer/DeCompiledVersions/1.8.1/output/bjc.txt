@@ -1,0 +1,11 @@
+bjc extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Method[a()V]
+	Method[a(Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmq;]
+	Method[b(Lbmq;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmq;]
+	Method[a(Lbmq;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmq;]
+	Method[b()Ljava/util/List;]
+	Method[<clinit>()V]
+}
+
+

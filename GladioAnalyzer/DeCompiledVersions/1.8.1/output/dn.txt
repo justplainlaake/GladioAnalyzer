@@ -1,0 +1,6 @@
+dn extends di {
+	Method[<init>()V]
+	Method[<init>(Ljava/lang/String;[Ljava/lang/Object;)V]
+}
+
+

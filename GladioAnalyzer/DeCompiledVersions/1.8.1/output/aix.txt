@@ -1,0 +1,9 @@
+aix extends ajh {
+	Field[aLabw;]
+	Field[bLaiv;]
+	Method[<init>(Laiv;Lvs;IIILabw;)V]
+	Method[a(Lamg;)Z]
+	Method[b()Z]
+}
+
+

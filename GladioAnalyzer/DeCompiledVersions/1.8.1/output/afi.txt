@@ -1,0 +1,12 @@
+afi extends ze {
+	Field[aLafg;]
+	Field[bI]
+	Method[<init>(Lafg;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+}
+
+

@@ -1,0 +1,13 @@
+ckr extends java/lang/Object {
+	Field[a[I]
+	Field[bI]
+	Field[cI]
+	Method[<init>()V]
+	Method[a(Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;]
+	Method[a()V]
+	Method[a(IIII)V]
+	Method[b(IIII)V]
+	Method[c(IIII)Z]
+}
+
+

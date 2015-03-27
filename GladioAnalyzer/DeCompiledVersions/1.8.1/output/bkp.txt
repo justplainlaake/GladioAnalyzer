@@ -1,0 +1,18 @@
+bkp extends bkz {
+	Field[oLbld;]
+	Field[pLbld;]
+	Field[qLjava/util/List;]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/Random;IILej;)V]
+	Method[a(Ljava/util/Random;)Ljava/util/List;]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+	Method[a(ZILaqr;Ljava/util/Random;Lbiz;)V]
+	Method[b(Laqr;Ljava/util/Random;Lbiz;)V]
+	Method[c(Laqr;Ljava/util/Random;Lbiz;)V]
+	Method[d(Laqr;Ljava/util/Random;Lbiz;)V]
+	Method[e(Laqr;Ljava/util/Random;Lbiz;)V]
+	Method[f(Laqr;Ljava/util/Random;Lbiz;)V]
+	Method[g(Laqr;Ljava/util/Random;Lbiz;)V]
+}
+
+

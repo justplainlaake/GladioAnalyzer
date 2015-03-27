@@ -1,0 +1,25 @@
+bmt extends java/lang/Object {
+	Field[aLjava/util/LinkedList;]
+	Field[bLbiz;]
+	Field[cI]
+	Field[dI]
+	Method[<init>()V]
+	Method[<init>(II)V]
+	Method[a()Lbiz;]
+	Method[b()Ljava/util/LinkedList;]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)V]
+	Method[c()V]
+	Method[a(II)Lfn;]
+	Method[a(Lfn;)V]
+	Method[a(Laqr;Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Laqr;Ljava/util/Random;I)V]
+	Method[a(Laqr;Ljava/util/Random;II)V]
+	Method[d()Z]
+	Method[a(Laqj;)Z]
+	Method[b(Laqj;)V]
+	Method[e()I]
+	Method[f()I]
+}
+
+

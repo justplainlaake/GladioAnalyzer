@@ -1,0 +1,27 @@
+net/minecraft/realms/Tezzelator extends java/lang/Object {
+	Field[tLckx;]
+	Field[instanceLnet/minecraft/realms/Tezzelator;]
+	Method[<init>()V]
+	Method[end()I]
+	Method[vertex(DDD)V]
+	Method[color(FFFF)V]
+	Method[color(III)V]
+	Method[tex2(I)V]
+	Method[normal(FFF)V]
+	Method[noColor()V]
+	Method[color(I)V]
+	Method[color(FFF)V]
+	Method[sortQuads(FFF)Lciw;]
+	Method[restoreState(Lciw;)V]
+	Method[begin(I)V]
+	Method[begin()V]
+	Method[vertexUV(DDDDD)V]
+	Method[color(II)V]
+	Method[offset(DDD)V]
+	Method[color(IIII)V]
+	Method[tex(DD)V]
+	Method[color(BBB)V]
+	Method[<clinit>()V]
+}
+
+

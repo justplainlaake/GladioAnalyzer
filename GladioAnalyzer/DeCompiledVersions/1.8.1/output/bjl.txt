@@ -1,0 +1,12 @@
+bjl extends java/lang/Object {
+	Field[a[Lbka;]
+	Field[b[Lbka;]
+	Method[a()V]
+	Method[b(Lbka;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbjz;]
+	Method[a(Lbka;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbjz;]
+	Method[b()[Lbka;]
+	Method[c()[Lbka;]
+	Method[<clinit>()V]
+}
+
+

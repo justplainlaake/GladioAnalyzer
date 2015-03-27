@@ -1,0 +1,4 @@
+bgk extends java/lang/Object {
+}
+
+

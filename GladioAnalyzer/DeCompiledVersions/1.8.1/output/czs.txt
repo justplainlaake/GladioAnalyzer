@@ -1,0 +1,17 @@
+czs extends java/lang/Object {
+	Field[aLcom/google/gson/Gson;]
+	Field[bLjava/lang/String;]
+	Field[cLjava/lang/String;]
+	Field[dLjava/util/Map;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a(Ljava/lang/String;)V]
+	Method[a()Ljava/lang/String;]
+	Method[a(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[b()Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+	Method[toString()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

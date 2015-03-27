@@ -1,0 +1,17 @@
+cwf extends java/lang/Object {
+	Field[bLcom/google/common/base/Splitter;]
+	Field[cLjava/util/regex/Pattern;]
+	Field[aLjava/util/Map;]
+	Field[dZ]
+	Method[<init>()V]
+	Method[a(Lcvk;Ljava/util/List;)V]
+	Method[a()Z]
+	Method[b()V]
+	Method[a(Ljava/util/List;)V]
+	Method[a(Ljava/io/InputStream;)V]
+	Method[b(Ljava/lang/String;)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

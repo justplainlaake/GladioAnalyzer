@@ -1,0 +1,26 @@
+adw extends wx {
+	Field[dLbea;]
+	Field[aI]
+	Field[bZ]
+	Field[eZ]
+	Field[fZ]
+	Field[gI]
+	Field[hF]
+	Field[cLfn;]
+	Method[<init>(Laqr;)V]
+	Method[<init>(Laqr;DDDLbea;)V]
+	Method[s_()Z]
+	Method[h()V]
+	Method[ad()Z]
+	Method[t_()V]
+	Method[e(FF)V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[j()Laqr;]
+	Method[a(Z)V]
+	Method[aJ()Z]
+	Method[a(Lj;)V]
+	Method[l()Lbea;]
+}
+
+

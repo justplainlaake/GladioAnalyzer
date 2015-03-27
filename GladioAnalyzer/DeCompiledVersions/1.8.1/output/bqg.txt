@@ -1,0 +1,8 @@
+bqg extends bqk {
+	Method[<init>(Ljava/io/File;Ljava/lang/String;Z)V]
+	Method[a(Lbgb;)Lbfo;]
+	Method[a(Lbqm;Lfn;)V]
+	Method[a()V]
+}
+
+

@@ -1,0 +1,20 @@
+ayj extends java/lang/Enum {
+	Field[aLayj;]
+	Field[b[Layj;]
+	Field[cI]
+	Field[dLjava/lang/String;]
+	Field[eLbof;]
+	Field[f[Layj;]
+	Method[values()[Layj;]
+	Method[valueOf(Ljava/lang/String;)Layj;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Lbof;)V]
+	Method[a()I]
+	Method[c()Lbof;]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Layj;]
+	Method[l()Ljava/lang/String;]
+	Method[d()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

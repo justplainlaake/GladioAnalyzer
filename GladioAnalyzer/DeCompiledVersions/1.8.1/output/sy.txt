@@ -1,0 +1,9 @@
+sy extends rz {
+	Method[<init>(Lcom/mojang/authlib/GameProfile;)V]
+	Method[<init>(Lcom/mojang/authlib/GameProfile;Ljava/util/Date;Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)V]
+	Method[<init>(Lcom/google/gson/JsonObject;)V]
+	Method[a(Lcom/google/gson/JsonObject;)V]
+	Method[b(Lcom/google/gson/JsonObject;)Lcom/mojang/authlib/GameProfile;]
+}
+
+

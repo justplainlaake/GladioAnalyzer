@@ -1,0 +1,9 @@
+rj extends java/lang/Object {
+	Field[aLgr;]
+	Field[bLrd;]
+	Method[<init>(Lrd;Lgr;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

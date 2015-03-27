@@ -1,0 +1,7 @@
+rf extends ur {
+	Method[<init>()V]
+	Method[a()Lio/netty/channel/epoll/EpollEventLoopGroup;]
+	Method[b()Ljava/lang/Object;]
+}
+
+

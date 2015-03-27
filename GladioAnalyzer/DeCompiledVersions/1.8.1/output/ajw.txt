@@ -1,0 +1,13 @@
+ajw extends aln {
+	Field[a[Ljava/lang/String;]
+	Method[<init>()V]
+	Method[a(Lamg;Laqr;Laha;I)V]
+	Method[b(Lamg;Laqr;Laha;)Lamg;]
+	Method[d(Lamg;)I]
+	Method[e(Lamg;)Lanl;]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+	Method[b()I]
+	Method[<clinit>()V]
+}
+
+

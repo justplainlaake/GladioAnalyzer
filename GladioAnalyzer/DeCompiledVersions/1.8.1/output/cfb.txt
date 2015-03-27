@@ -1,0 +1,10 @@
+cfb extends io/netty/channel/SimpleChannelInboundHandler {
+	Field[aLcfa;]
+	Method[<init>(Lcfa;)V]
+	Method[channelActive(Lio/netty/channel/ChannelHandlerContext;)V]
+	Method[a(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;)V]
+	Method[exceptionCaught(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Throwable;)V]
+	Method[channelRead0(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;)V]
+}
+
+

@@ -1,0 +1,11 @@
+er extends java/lang/Object {
+	Field[aLjava/util/IdentityHashMap;]
+	Field[bLjava/util/List;]
+	Method[<init>()V]
+	Method[a(Ljava/lang/Object;I)V]
+	Method[b(Ljava/lang/Object;)I]
+	Method[a(I)Ljava/lang/Object;]
+	Method[iterator()Ljava/util/Iterator;]
+}
+
+

@@ -1,0 +1,14 @@
+fa extends java/lang/Object {
+	Field[aF]
+	Field[bF]
+	Field[cF]
+	Method[<init>(FFF)V]
+	Method[<init>(Lfv;)V]
+	Method[a()Lfv;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[b()F]
+	Method[c()F]
+	Method[d()F]
+}
+
+

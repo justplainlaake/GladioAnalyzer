@@ -1,0 +1,5 @@
+cyo extends cl {
+	Method[<init>()V]
+}
+
+

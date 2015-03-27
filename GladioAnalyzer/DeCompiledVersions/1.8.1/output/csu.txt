@@ -1,0 +1,11 @@
+csu extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcrn;]
+	Method[<init>(Lcrn;)V]
+	Method[a(Lagc;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[<clinit>()V]
+}
+
+

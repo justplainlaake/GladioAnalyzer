@@ -1,0 +1,7 @@
+cbi extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bI]
+	Method[<init>(Ljava/lang/String;I)V]
+}
+
+

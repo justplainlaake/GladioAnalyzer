@@ -1,0 +1,11 @@
+atd extends ato {
+	Method[<init>(Lbod;)V]
+	Method[<init>(Lbod;Lbof;)V]
+	Method[a(Laqr;Ldt;Lej;)Z]
+	Method[e(Laqr;Ldt;)Z]
+	Method[b()I]
+	Method[b(Laqr;Ldt;Lbea;)V]
+	Method[a(Laqr;Ldt;Lbea;II)Z]
+}
+
+

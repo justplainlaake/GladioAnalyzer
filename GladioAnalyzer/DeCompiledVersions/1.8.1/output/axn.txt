@@ -1,0 +1,8 @@
+axn extends ato {
+	Method[<init>()V]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[a(Ljava/util/Random;)I]
+	Method[a(ILjava/util/Random;)I]
+}
+
+

@@ -1,0 +1,22 @@
+amt extends aln {
+	Field[aLjava/util/Map;]
+	Field[bLjava/util/Map;]
+	Method[<init>()V]
+	Method[h(Lamg;)Ljava/util/List;]
+	Method[e(I)Ljava/util/List;]
+	Method[b(Lamg;Laqr;Laha;)Lamg;]
+	Method[d(Lamg;)I]
+	Method[e(Lamg;)Lanl;]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+	Method[f(I)Z]
+	Method[g(I)I]
+	Method[a(Lamg;I)I]
+	Method[h(I)Z]
+	Method[a(Lamg;)Ljava/lang/String;]
+	Method[a(Lamg;Laha;Ljava/util/List;Z)V]
+	Method[f(Lamg;)Z]
+	Method[a(Laln;Lakc;Ljava/util/List;)V]
+	Method[<clinit>()V]
+}
+
+

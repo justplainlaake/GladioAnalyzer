@@ -1,0 +1,22 @@
+uo extends java/lang/Object {
+	Field[a[Lup;]
+	Field[bI]
+	Field[cI]
+	Field[dF]
+	Method[<init>()V]
+	Method[g(I)I]
+	Method[a(II)I]
+	Method[a(I)Ljava/lang/Object;]
+	Method[b(I)Z]
+	Method[c(I)Lup;]
+	Method[a(ILjava/lang/Object;)V]
+	Method[h(I)V]
+	Method[a([Lup;)V]
+	Method[d(I)Ljava/lang/Object;]
+	Method[e(I)Lup;]
+	Method[c()V]
+	Method[a(IILjava/lang/Object;I)V]
+	Method[f(I)I]
+}
+
+

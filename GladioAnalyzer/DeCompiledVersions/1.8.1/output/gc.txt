@@ -1,0 +1,16 @@
+gc extends gd {
+	Field[bLjava/lang/String;]
+	Method[<init>()V]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a(Ljava/io/DataOutput;)V]
+	Method[a(Ljava/io/DataInput;ILfx;)V]
+	Method[a()B]
+	Method[toString()Ljava/lang/String;]
+	Method[b()Lgd;]
+	Method[c_()Z]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[a_()Ljava/lang/String;]
+}
+
+

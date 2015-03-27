@@ -1,0 +1,10 @@
+vw extends java/lang/Object {
+	Field[aLvv;]
+	Field[bF]
+	Method[<init>(Lvv;JJF)V]
+	Method[b()F]
+	Method[c()F]
+	Method[a(Lvv;JJF)F]
+}
+
+

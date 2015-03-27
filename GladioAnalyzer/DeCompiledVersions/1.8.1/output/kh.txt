@@ -1,0 +1,12 @@
+kh extends java/lang/Enum {
+	Field[aLkh;]
+	Field[bLkh;]
+	Field[cLkh;]
+	Field[d[Lkh;]
+	Method[values()[Lkh;]
+	Method[valueOf(Ljava/lang/String;)Lkh;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

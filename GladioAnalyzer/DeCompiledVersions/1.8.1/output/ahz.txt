@@ -1,0 +1,6 @@
+ahz extends wc {
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<init>(Lhp;I)V]
+}
+
+

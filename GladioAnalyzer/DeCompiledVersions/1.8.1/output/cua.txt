@@ -1,0 +1,28 @@
+cua extends cto {
+	Field[hLorg/apache/logging/log4j/Logger;]
+	Field[fLob;]
+	Field[gLob;]
+	Field[iLjava/util/List;]
+	Field[jLjava/util/Map;]
+	Field[kLjava/util/Map;]
+	Field[lLjava/lang/String;]
+	Field[mLcts;]
+	Field[nI]
+	Field[oLcue;]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;Lcts;)V]
+	Method[g()V]
+	Method[a(Lcvk;)V]
+	Method[a(Lcvk;Lcts;)V]
+	Method[b(Lcvk;)V]
+	Method[a(Lob;I)Lob;]
+	Method[a(Ljava/lang/String;)Lcue;]
+	Method[d()V]
+	Method[a(Lob;)Lcue;]
+	Method[e()V]
+	Method[a(I)V]
+	Method[f()Lcue;]
+	Method[<clinit>()V]
+}
+
+

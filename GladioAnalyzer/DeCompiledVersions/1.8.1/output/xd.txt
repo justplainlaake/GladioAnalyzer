@@ -1,0 +1,26 @@
+xd extends java/lang/Object {
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Field[cLjava/util/Map;]
+	Field[dLjava/util/Map;]
+	Field[eLjava/util/Map;]
+	Field[fLjava/util/Map;]
+	Field[gLjava/util/Map;]
+	Field[aLjava/util/Map;]
+	Method[a(Ljava/lang/Class;Ljava/lang/String;I)V]
+	Method[a(Ljava/lang/Class;Ljava/lang/String;III)V]
+	Method[a(Ljava/lang/String;Laqr;)Lwx;]
+	Method[a(Lfn;Laqr;)Lwx;]
+	Method[a(ILaqr;)Lwx;]
+	Method[a(Lwx;)I]
+	Method[a(I)Ljava/lang/Class;]
+	Method[b(Lwx;)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)I]
+	Method[b(I)Ljava/lang/String;]
+	Method[a()V]
+	Method[b()Ljava/util/List;]
+	Method[a(Lwx;Ljava/lang/String;)Z]
+	Method[b(Ljava/lang/String;)Z]
+	Method[<clinit>()V]
+}
+
+

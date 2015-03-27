@@ -1,0 +1,8 @@
+czf extends paulscode/sound/SoundSystem {
+	Field[aLcza;]
+	Method[<init>(Lcza;)V]
+	Method[playing(Ljava/lang/String;)Z]
+	Method[<init>(Lcza;Lczb;)V]
+}
+
+

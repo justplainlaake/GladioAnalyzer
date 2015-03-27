@@ -1,0 +1,8 @@
+aqq extends java/lang/Object {
+	Field[a[I]
+	Method[a([I)V]
+	Method[a(DD)I]
+	Method[<clinit>()V]
+}
+
+

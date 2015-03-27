@@ -1,0 +1,17 @@
+beb extends java/lang/Object {
+	Field[aLcom/google/common/base/Joiner;]
+	Field[bLcom/google/common/base/Function;]
+	Field[cLato;]
+	Field[dLcom/google/common/collect/ImmutableList;]
+	Field[eLcom/google/common/collect/ImmutableList;]
+	Method[<init>(Lato;[Lbev;)V]
+	Method[a()Lcom/google/common/collect/ImmutableList;]
+	Method[e()Ljava/util/List;]
+	Method[b()Lbea;]
+	Method[c()Lato;]
+	Method[d()Ljava/util/Collection;]
+	Method[toString()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

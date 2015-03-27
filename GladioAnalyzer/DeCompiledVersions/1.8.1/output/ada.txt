@@ -1,0 +1,13 @@
+ada extends wx {
+	Field[aLacz;]
+	Field[bLjava/lang/String;]
+	Method[<init>(Lacz;Ljava/lang/String;FF)V]
+	Method[h()V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[ad()Z]
+	Method[a(Lwj;F)Z]
+	Method[k(Lwx;)Z]
+}
+
+

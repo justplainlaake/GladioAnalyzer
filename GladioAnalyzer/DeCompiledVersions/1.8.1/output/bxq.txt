@@ -1,0 +1,17 @@
+bxq extends bxe {
+	Field[fLbxe;]
+	Field[aLjava/lang/String;]
+	Field[gLbtm;]
+	Field[hLbus;]
+	Field[i[Lbtp;]
+	Method[<init>(Lbxe;Lbtm;)V]
+	Method[b()V]
+	Method[k()V]
+	Method[a(Lbue;)V]
+	Method[a(III)V]
+	Method[b(III)V]
+	Method[a(IIF)V]
+	Method[<clinit>()V]
+}
+
+

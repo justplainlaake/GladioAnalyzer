@@ -1,0 +1,12 @@
+ale extends ali {
+	Field[bZ]
+	Method[<init>(Z)V]
+	Method[h(Lamg;)I]
+	Method[i(Lamg;)F]
+	Method[j(Lamg;)Ljava/lang/String;]
+	Method[c(Lamg;Laqr;Laha;)V]
+	Method[a(Laln;Lakc;Ljava/util/List;)V]
+	Method[e_(Lamg;)Ljava/lang/String;]
+}
+
+

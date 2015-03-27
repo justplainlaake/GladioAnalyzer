@@ -1,0 +1,21 @@
+ahh extends wx {
+	Field[aD]
+	Field[bD]
+	Field[cD]
+	Field[dI]
+	Field[eZ]
+	Method[<init>(Laqr;)V]
+	Method[h()V]
+	Method[a(D)Z]
+	Method[<init>(Laqr;DDD)V]
+	Method[a(Ldt;)V]
+	Method[i(DDD)V]
+	Method[t_()V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[c(F)F]
+	Method[b(F)I]
+	Method[aD()Z]
+}
+
+

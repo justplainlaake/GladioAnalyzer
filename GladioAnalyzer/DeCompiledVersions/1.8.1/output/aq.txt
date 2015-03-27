@@ -1,0 +1,8 @@
+aq extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Method[<init>(Ljava/util/Map;)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

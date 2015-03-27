@@ -1,0 +1,12 @@
+aoq extends java/lang/Object {
+	Field[aLamg;]
+	Field[bLjava/util/List;]
+	Method[<init>(Lamg;Ljava/util/List;)V]
+	Method[b()Lamg;]
+	Method[b(Laik;)[Lamg;]
+	Method[a(Laik;Laqr;)Z]
+	Method[a(Laik;)Lamg;]
+	Method[a()I]
+}
+
+

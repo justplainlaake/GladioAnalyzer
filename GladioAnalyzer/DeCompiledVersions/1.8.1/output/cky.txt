@@ -1,0 +1,7 @@
+cky extends cjb {
+	Method[<init>()V]
+	Method[a(Laqi;)V]
+	Method[a()V]
+}
+
+

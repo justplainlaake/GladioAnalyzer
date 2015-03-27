@@ -1,0 +1,7 @@
+net/minecraft/client/main/Main extends java/lang/Object {
+	Method[<init>()V]
+	Method[main([Ljava/lang/String;)V]
+	Method[a(Ljava/lang/String;)Z]
+}
+
+

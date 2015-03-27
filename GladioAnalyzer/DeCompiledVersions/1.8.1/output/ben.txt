@@ -1,0 +1,9 @@
+ben extends java/lang/Object {
+	Field[aLato;]
+	Method[<init>(Lato;)V]
+	Method[a(Lato;)Lben;]
+	Method[a(Lbea;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

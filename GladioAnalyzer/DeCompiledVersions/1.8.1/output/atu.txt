@@ -1,0 +1,13 @@
+atu extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bF]
+	Field[cF]
+	Method[<init>(Ljava/lang/String;FF)V]
+	Method[d()F]
+	Method[e()F]
+	Method[a()Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+}
+
+

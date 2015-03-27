@@ -1,0 +1,14 @@
+beg extends java/lang/Object {
+	Field[aLaqr;]
+	Field[bLdt;]
+	Field[cLbea;]
+	Field[dLbck;]
+	Field[eZ]
+	Method[<init>(Laqr;Ldt;)V]
+	Method[a()Lbea;]
+	Method[b()Lbck;]
+	Method[d()Ldt;]
+	Method[a(Lcom/google/common/base/Predicate;)Lcom/google/common/base/Predicate;]
+}
+
+

@@ -1,0 +1,6 @@
+bsk extends bsg {
+	Field[jLts;]
+	Method[<init>(Lts;)V]
+}
+
+

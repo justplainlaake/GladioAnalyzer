@@ -1,0 +1,15 @@
+bfd extends java/lang/Object {
+	Field[a[B]
+	Method[<init>()V]
+	Method[<init>([B)V]
+	Method[a(III)I]
+	Method[a(IIII)V]
+	Method[b(III)I]
+	Method[a(I)I]
+	Method[a(II)V]
+	Method[b(I)Z]
+	Method[c(I)I]
+	Method[a()[B]
+}
+
+

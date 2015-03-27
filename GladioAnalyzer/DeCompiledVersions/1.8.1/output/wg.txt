@@ -1,0 +1,7 @@
+wg extends java/lang/Object {
+	Method[a(Lej;)[I]
+	Method[a(ILamg;Lej;)Z]
+	Method[b(ILamg;Lej;)Z]
+}
+
+

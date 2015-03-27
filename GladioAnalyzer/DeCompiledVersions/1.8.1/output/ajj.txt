@@ -1,0 +1,6 @@
+ajj extends amo {
+	Method[<init>(Lato;)V]
+	Method[a(I)I]
+}
+
+

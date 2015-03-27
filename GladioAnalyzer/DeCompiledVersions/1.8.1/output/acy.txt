@@ -1,0 +1,7 @@
+acy extends java/lang/Object {
+	Method[bu()F]
+	Method[bn()F]
+	Method[f_()Lhp;]
+}
+
+

@@ -1,0 +1,15 @@
+cac extends bus {
+	Field[uLbss;]
+	Field[vLjava/util/List;]
+	Method[<init>(Lbss;IILjava/util/List;)V]
+	Method[a(IILckx;)V]
+	Method[e()Ljava/lang/String;]
+	Method[f()Ljava/util/List;]
+	Method[b()I]
+	Method[c(I)Lbzx;]
+	Method[c()I]
+	Method[d()I]
+	Method[b(I)Lbut;]
+}
+
+

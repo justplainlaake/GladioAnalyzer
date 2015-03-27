@@ -1,0 +1,7 @@
+bfx extends java/lang/Object {
+	Field[aLaqj;]
+	Field[bLfn;]
+	Method[<init>(Laqj;Lfn;)V]
+}
+
+

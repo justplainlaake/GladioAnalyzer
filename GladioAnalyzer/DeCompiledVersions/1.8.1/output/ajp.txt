@@ -1,0 +1,12 @@
+ajp extends ajr {
+	Method[<init>()V]
+	Method[a(Lamg;Laha;Laqr;Ldt;Lej;FFF)Z]
+	Method[a(Lamg;)Ljava/lang/String;]
+	Method[a(Lamg;Laha;Ljava/util/List;Z)V]
+	Method[a(Lamg;I)I]
+	Method[a(Laln;Lakc;Ljava/util/List;)V]
+	Method[c()Lakc;]
+	Method[h(Lamg;)Laks;]
+}
+
+

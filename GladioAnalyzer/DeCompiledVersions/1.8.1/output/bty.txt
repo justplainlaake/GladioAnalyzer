@@ -1,0 +1,8 @@
+bty extends java/lang/Object {
+	Field[aLbtx;]
+	Method[<init>(Lbtx;)V]
+	Method[a(Lbry;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

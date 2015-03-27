@@ -1,0 +1,8 @@
+bqs extends java/lang/Object {
+	Field[aLbqm;]
+	Method[<init>(Lbqm;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

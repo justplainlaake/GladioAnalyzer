@@ -1,0 +1,10 @@
+fr extends gd {
+	Method[<init>()V]
+	Method[a(Ljava/io/DataInput;ILfx;)V]
+	Method[a(Ljava/io/DataOutput;)V]
+	Method[a()B]
+	Method[toString()Ljava/lang/String;]
+	Method[b()Lgd;]
+}
+
+

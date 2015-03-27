@@ -1,0 +1,20 @@
+bdh extends bck {
+	Field[a[Lhp;]
+	Field[fI]
+	Field[gZ]
+	Field[hLaha;]
+	Field[iLaf;]
+	Method[<init>()V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[y_()Lie;]
+	Method[b()Z]
+	Method[a(Z)V]
+	Method[a(Laha;)V]
+	Method[c()Laha;]
+	Method[b(Laha;)Z]
+	Method[d()Laf;]
+	Method[a(Lbdh;)Laf;]
+}
+
+

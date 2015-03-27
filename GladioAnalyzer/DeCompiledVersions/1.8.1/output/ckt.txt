@@ -1,0 +1,12 @@
+ckt extends java/lang/Object {
+	Field[aF]
+	Field[bF]
+	Field[cF]
+	Field[dLjava/nio/FloatBuffer;]
+	Field[eI]
+	Method[<init>(Ljava/nio/FloatBuffer;FFFI)V]
+	Method[a(Ljava/lang/Integer;Ljava/lang/Integer;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

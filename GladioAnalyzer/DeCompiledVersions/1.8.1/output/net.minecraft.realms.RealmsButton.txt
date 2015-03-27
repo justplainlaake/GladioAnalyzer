@@ -1,0 +1,23 @@
+net/minecraft/realms/RealmsButton extends java/lang/Object {
+	Field[WIDGETS_LOCATIONLob;]
+	Field[proxyLbvp;]
+	Method[<init>(IIILjava/lang/String;)V]
+	Method[<init>(IIIIILjava/lang/String;)V]
+	Method[getProxy()Lbue;]
+	Method[id()I]
+	Method[active()Z]
+	Method[active(Z)V]
+	Method[msg(Ljava/lang/String;)V]
+	Method[getWidth()I]
+	Method[getHeight()I]
+	Method[y()I]
+	Method[render(II)V]
+	Method[clicked(II)V]
+	Method[released(II)V]
+	Method[blit(IIIIII)V]
+	Method[renderBg(II)V]
+	Method[getYImage(Z)I]
+	Method[<clinit>()V]
+}
+
+

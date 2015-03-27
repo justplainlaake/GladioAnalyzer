@@ -1,0 +1,5 @@
+coq extends java/lang/Object {
+	Method[a(Laqr;Lckn;Ldt;I)Lcop;]
+}
+
+

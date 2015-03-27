@@ -1,0 +1,10 @@
+bzz extends bzx {
+	Field[cLcvs;]
+	Method[<init>(Lbzw;Lcvs;)V]
+	Method[c()V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+	Method[i()Lcvs;]
+}
+
+

@@ -1,0 +1,16 @@
+yu extends ze {
+	Field[aLacv;]
+	Field[bLaha;]
+	Field[cLaqr;]
+	Field[dF]
+	Field[eI]
+	Method[<init>(Lacv;F)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+	Method[a(Laha;)Z]
+}
+
+

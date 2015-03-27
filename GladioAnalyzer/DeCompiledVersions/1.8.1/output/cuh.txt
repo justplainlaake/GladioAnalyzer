@@ -1,0 +1,9 @@
+cuh extends java/lang/Object {
+	Field[aLcui;]
+	Field[bLcug;]
+	Method[<init>(Lcug;Lcui;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,21 @@
+ys extends ze {
+	Field[cLcom/google/common/base/Predicate;]
+	Field[aLxx;]
+	Field[dD]
+	Field[eD]
+	Field[bLwx;]
+	Field[fF]
+	Field[gLbpt;]
+	Field[hLabc;]
+	Field[iLjava/lang/Class;]
+	Field[jLcom/google/common/base/Predicate;]
+	Method[<init>(Lxx;Ljava/lang/Class;FDD)V]
+	Method[<init>(Lxx;Ljava/lang/Class;Lcom/google/common/base/Predicate;FDD)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+}
+
+

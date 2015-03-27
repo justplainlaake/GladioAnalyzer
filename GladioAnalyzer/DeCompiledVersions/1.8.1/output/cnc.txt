@@ -1,0 +1,9 @@
+cnc extends java/lang/Object {
+	Field[bLjava/util/Map;]
+	Method[<init>()V]
+	Method[a(Ljava/util/Map;)Ljava/lang/String;]
+	Method[a(Lato;)Ljava/util/Map;]
+	Method[a(Lbea;)Lcxl;]
+}
+
+

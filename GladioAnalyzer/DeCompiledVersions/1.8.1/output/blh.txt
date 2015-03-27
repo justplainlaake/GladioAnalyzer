@@ -1,0 +1,6 @@
+blh extends java/lang/Object {
+	Field[a[I]
+	Method[<clinit>()V]
+}
+
+

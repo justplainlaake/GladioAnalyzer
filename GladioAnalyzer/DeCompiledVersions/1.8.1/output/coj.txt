@@ -1,0 +1,11 @@
+coj extends java/lang/Object {
+	Field[aLcoa;]
+	Field[bLcok;]
+	Field[cLcoh;]
+	Method[<init>(Lcoh;Lcoa;Lcok;)V]
+	Method[a(Ljava/util/List;)V]
+	Method[onFailure(Ljava/lang/Throwable;)V]
+	Method[onSuccess(Ljava/lang/Object;)V]
+}
+
+

@@ -1,0 +1,27 @@
+cpu extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcpt;]
+	Field[cF]
+	Field[dF]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lwx;Lcox;DDD)Z]
+	Method[a(Lwx;DDDFF)V]
+	Method[a(Lwx;DDD)V]
+	Method[b(Lwx;)Z]
+	Method[a(Lwx;DDDLjava/lang/String;FD)V]
+	Method[a(Lwx;)Lob;]
+	Method[c(Lwx;)Z]
+	Method[a(Lob;)V]
+	Method[a(Lwx;DDDF)V]
+	Method[c(Lwx;DDDFF)V]
+	Method[a()Laqr;]
+	Method[a(Lato;DDDLdt;FFDDD)V]
+	Method[a(Lbrr;DDD)V]
+	Method[b(Lwx;DDDFF)V]
+	Method[c()Lbtw;]
+	Method[a(Lwx;Ljava/lang/String;DDDI)V]
+	Method[d()Lcpt;]
+	Method[<clinit>()V]
+}
+
+

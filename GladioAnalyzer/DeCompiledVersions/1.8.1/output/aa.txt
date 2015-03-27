@@ -1,0 +1,11 @@
+aa extends java/lang/Object {
+	Field[aD]
+	Field[bD]
+	Field[cZ]
+	Method[<init>(DDZ)V]
+	Method[a()D]
+	Method[b()D]
+	Method[c()Z]
+}
+
+

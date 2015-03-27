@@ -1,0 +1,7 @@
+caz extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lcer;Lcer;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

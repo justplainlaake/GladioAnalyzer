@@ -1,0 +1,8 @@
+ckf extends java/lang/Object {
+	Field[aLcjq;]
+	Field[bI]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

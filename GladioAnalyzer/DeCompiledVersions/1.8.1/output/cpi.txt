@@ -1,0 +1,9 @@
+cpi extends cqz {
+	Field[aLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Laen;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,11 @@
+ahr extends aho {
+	Method[<init>(Laqr;)V]
+	Method[<init>(Laqr;Lxo;)V]
+	Method[<init>(Laqr;DDD)V]
+	Method[m()F]
+	Method[j()F]
+	Method[l()F]
+	Method[a(Lbrs;)V]
+}
+
+

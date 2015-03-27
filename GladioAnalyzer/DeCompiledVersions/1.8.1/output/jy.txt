@@ -1,0 +1,20 @@
+jy extends java/lang/Object {
+	Field[aI]
+	Field[bB]
+	Field[c[Lbqb;]
+	Field[dI]
+	Field[eI]
+	Field[fI]
+	Field[gI]
+	Field[h[B]
+	Method[<init>()V]
+	Method[<init>(IBLjava/util/Collection;[BIIII)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()I]
+	Method[a(Lbqc;)V]
+	Method[a(Lhh;)V]
+}
+
+

@@ -1,0 +1,16 @@
+bqb extends java/lang/Object {
+	Field[aB]
+	Field[bB]
+	Field[cB]
+	Field[dB]
+	Method[<init>(BBBB)V]
+	Method[<init>(Lbqb;)V]
+	Method[a()B]
+	Method[b()B]
+	Method[c()B]
+	Method[d()B]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+}
+
+

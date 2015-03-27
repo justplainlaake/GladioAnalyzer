@@ -1,0 +1,4 @@
+bxj extends java/lang/Object {
+}
+
+

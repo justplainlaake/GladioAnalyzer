@@ -1,0 +1,11 @@
+ig extends java/lang/Enum {
+	Field[aLig;]
+	Field[bLig;]
+	Field[c[Lig;]
+	Method[values()[Lig;]
+	Method[valueOf(Ljava/lang/String;)Lig;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

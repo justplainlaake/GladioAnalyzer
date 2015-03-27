@@ -1,0 +1,11 @@
+crn extends cqz {
+	Field[aLob;]
+	Method[<init>(Lcpt;)V]
+	Method[b(Lagc;)F]
+	Method[a(Lagc;)Lob;]
+	Method[b(Lxo;)F]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

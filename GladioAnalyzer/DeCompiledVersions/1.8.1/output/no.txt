@@ -1,0 +1,11 @@
+no extends java/lang/Object {
+	Field[aJ]
+	Method[<init>()V]
+	Method[<init>(J)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lnn;)V]
+	Method[a(Lhh;)V]
+}
+
+

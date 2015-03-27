@@ -1,0 +1,10 @@
+bct extends bck {
+	Field[aI]
+	Method[<init>()V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[b()I]
+	Method[a(I)V]
+}
+
+

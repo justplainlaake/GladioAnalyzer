@@ -1,0 +1,8 @@
+btd extends java/lang/Object {
+	Field[aLbss;]
+	Method[<init>(Lbss;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

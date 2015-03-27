@@ -1,0 +1,10 @@
+cax extends java/lang/Object {
+	Field[aLcau;]
+	Field[bLjava/util/List;]
+	Field[cI]
+	Method[<init>(Lcau;Ljava/util/List;I)V]
+	Method[a(I)Lcav;]
+	Method[b()I]
+}
+
+

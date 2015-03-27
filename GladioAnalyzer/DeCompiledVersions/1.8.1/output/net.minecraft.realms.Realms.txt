@@ -1,0 +1,20 @@
+net/minecraft/realms/Realms extends java/lang/Object {
+	Method[<init>()V]
+	Method[isTouchScreen()Z]
+	Method[getProxy()Ljava/net/Proxy;]
+	Method[sessionId()Ljava/lang/String;]
+	Method[userName()Ljava/lang/String;]
+	Method[currentTimeMillis()J]
+	Method[getSessionId()Ljava/lang/String;]
+	Method[getUUID()Ljava/lang/String;]
+	Method[getName()Ljava/lang/String;]
+	Method[uuidToName(Ljava/lang/String;)Ljava/lang/String;]
+	Method[setScreen(Lnet/minecraft/realms/RealmsScreen;)V]
+	Method[getGameDirectoryPath()Ljava/lang/String;]
+	Method[survivalId()I]
+	Method[creativeId()I]
+	Method[adventureId()I]
+	Method[spectatorId()I]
+}
+
+

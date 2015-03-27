@@ -1,0 +1,6 @@
+tz extends java/lang/Object {
+	Method[a(Lcom/google/gson/JsonElement;)V]
+	Method[a()Lcom/google/gson/JsonElement;]
+}
+
+

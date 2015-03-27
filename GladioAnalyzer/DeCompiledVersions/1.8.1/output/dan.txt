@@ -1,0 +1,18 @@
+dan extends java/lang/Enum {
+	Field[aLdan;]
+	Field[bLdan;]
+	Field[cLdan;]
+	Field[dLdan;]
+	Field[eLdan;]
+	Field[fLdan;]
+	Field[gLdan;]
+	Field[hLdan;]
+	Field[iLdan;]
+	Field[j[Ldan;]
+	Method[values()[Ldan;]
+	Method[valueOf(Ljava/lang/String;)Ldan;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

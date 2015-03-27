@@ -1,0 +1,18 @@
+agx extends java/lang/Object {
+	Field[aZ]
+	Field[bZ]
+	Field[cZ]
+	Field[dZ]
+	Field[eZ]
+	Field[fF]
+	Field[gF]
+	Method[<init>()V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a()F]
+	Method[a(F)V]
+	Method[b()F]
+	Method[b(F)V]
+}
+
+

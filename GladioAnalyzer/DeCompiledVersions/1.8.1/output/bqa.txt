@@ -1,0 +1,12 @@
+bqa extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bZ]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[c()V]
+	Method[a(Z)V]
+	Method[d()Z]
+}
+
+

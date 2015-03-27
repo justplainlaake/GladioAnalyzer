@@ -1,0 +1,12 @@
+jc extends java/lang/Object {
+	Field[bS]
+	Field[cLbea;]
+	Field[aLjb;]
+	Method[<init>(Ljb;SLbea;)V]
+	Method[<init>(Ljb;SLbff;)V]
+	Method[a()Ldt;]
+	Method[b()S]
+	Method[c()Lbea;]
+}
+
+

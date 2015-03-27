@@ -1,0 +1,11 @@
+dz extends java/lang/Object {
+	Method[a()D]
+	Method[b()D]
+	Method[c()D]
+	Method[d()Ldt;]
+	Method[e()Lato;]
+	Method[f()I]
+	Method[h()Lbck;]
+}
+
+

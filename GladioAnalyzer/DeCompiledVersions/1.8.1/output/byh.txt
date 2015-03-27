@@ -1,0 +1,15 @@
+byh extends java/lang/Object {
+	Field[bLbsp;]
+	Field[cLjava/lang/String;]
+	Field[dLbue;]
+	Field[eLbue;]
+	Field[aLbye;]
+	Method[<init>(Lbye;Lbsp;)V]
+	Method[a(IIIIIIIZ)V]
+	Method[a(IIIIII)Z]
+	Method[b(IIIIII)V]
+	Method[a(III)V]
+	Method[<init>(Lbye;Lbsp;Lbyf;)V]
+}
+
+

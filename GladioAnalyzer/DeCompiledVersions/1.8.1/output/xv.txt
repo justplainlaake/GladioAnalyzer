@@ -1,0 +1,12 @@
+xv extends java/lang/Enum {
+	Field[aLxv;]
+	Field[bLxv;]
+	Field[cLxv;]
+	Field[d[Lxv;]
+	Method[values()[Lxv;]
+	Method[valueOf(Ljava/lang/String;)Lxv;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,6 @@
+cl extends ab {
+	Method[<init>()V]
+	Method[a(Lae;Lac;ILjava/lang/String;[Ljava/lang/Object;)V]
+}
+
+

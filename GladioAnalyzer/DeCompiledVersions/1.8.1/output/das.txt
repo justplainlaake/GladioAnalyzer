@@ -1,0 +1,7 @@
+das extends java/lang/Thread {
+	Field[aLdar;]
+	Method[<init>(Ldar;Ljava/lang/String;)V]
+	Method[run()V]
+}
+
+

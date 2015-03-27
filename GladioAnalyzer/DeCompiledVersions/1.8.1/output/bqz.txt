@@ -1,0 +1,23 @@
+bqz extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Field[cJ]
+	Field[dJ]
+	Field[eZ]
+	Field[fLaqz;]
+	Field[gZ]
+	Field[hZ]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;JJLaqz;ZZZ)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+	Method[c()J]
+	Method[d()Z]
+	Method[e()J]
+	Method[a(Lbqz;)I]
+	Method[f()Laqz;]
+	Method[g()Z]
+	Method[h()Z]
+	Method[compareTo(Ljava/lang/Object;)I]
+}
+
+

@@ -1,0 +1,25 @@
+clr extends java/lang/Enum {
+	Field[aLclr;]
+	Field[bLclr;]
+	Field[cLclr;]
+	Field[dLclr;]
+	Field[eLclr;]
+	Field[fLclr;]
+	Field[gI]
+	Field[hI]
+	Field[iI]
+	Field[jI]
+	Field[k[Lclr;]
+	Field[l[Lclr;]
+	Method[values()[Lclr;]
+	Method[valueOf(Ljava/lang/String;)Lclr;]
+	Method[<init>(Ljava/lang/String;IIIII)V]
+	Method[a(Lej;)Lclr;]
+	Method[a(Lclr;)I]
+	Method[b(Lclr;)I]
+	Method[c(Lclr;)I]
+	Method[d(Lclr;)I]
+	Method[<clinit>()V]
+}
+
+

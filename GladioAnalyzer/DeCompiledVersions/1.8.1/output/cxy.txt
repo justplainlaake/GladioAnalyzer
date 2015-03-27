@@ -1,0 +1,9 @@
+cxy extends cxt {
+	Method[a(Lob;F)Lcxy;]
+	Method[a(Lob;)Lcxy;]
+	Method[a(Lob;FFF)Lcxy;]
+	Method[<init>(Lob;FFFFF)V]
+	Method[<init>(Lob;FFZILcyf;FFF)V]
+}
+
+

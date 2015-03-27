@@ -1,0 +1,25 @@
+ia extends hk {
+	Field[dLjava/lang/String;]
+	Field[e[Ljava/lang/Object;]
+	Field[fLjava/lang/Object;]
+	Field[gJ]
+	Field[bLjava/util/List;]
+	Field[cLjava/util/regex/Pattern;]
+	Method[<init>(Ljava/lang/String;[Ljava/lang/Object;)V]
+	Method[g()V]
+	Method[b(Ljava/lang/String;)V]
+	Method[a(I)Lhp;]
+	Method[a(Lhw;)Lhp;]
+	Method[iterator()Ljava/util/Iterator;]
+	Method[e()Ljava/lang/String;]
+	Method[h()Lia;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[toString()Ljava/lang/String;]
+	Method[i()Ljava/lang/String;]
+	Method[j()[Ljava/lang/Object;]
+	Method[f()Lhp;]
+	Method[<clinit>()V]
+}
+
+

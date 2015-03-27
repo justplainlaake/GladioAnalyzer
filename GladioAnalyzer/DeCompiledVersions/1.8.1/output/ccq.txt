@@ -1,0 +1,17 @@
+ccq extends ccp {
+	Field[aLcdx;]
+	Field[bLcdx;]
+	Field[cLcdx;]
+	Field[dLcdx;]
+	Field[eLcdx;]
+	Field[fLcdx;]
+	Field[gLcdx;]
+	Field[hLcdx;]
+	Field[iI]
+	Method[<init>()V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(FFFFFFLwx;)V]
+	Method[a(Lxo;FFF)V]
+}
+
+

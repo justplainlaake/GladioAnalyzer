@@ -1,0 +1,11 @@
+cpv extends cpu {
+	Field[aLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lxm;DDDFF)V]
+	Method[a(Lxm;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,9 @@
+cjo extends java/lang/Object {
+	Field[aLcjq;]
+	Field[bI]
+	Field[cF]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

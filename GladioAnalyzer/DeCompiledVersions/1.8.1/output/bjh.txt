@@ -1,0 +1,11 @@
+bjh extends bmq {
+	Method[<init>()V]
+	Method[<init>(ILjava/util/Random;Lbiz;Lej;)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Ljava/util/List;Ljava/util/Random;IIILej;)Lbiz;]
+	Method[a(Lbmq;Ljava/util/List;Ljava/util/Random;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+}
+
+

@@ -1,0 +1,9 @@
+aal extends zi {
+	Field[eI]
+	Field[fLagn;]
+	Method[<init>(Lagn;)V]
+	Method[c()V]
+	Method[e()V]
+}
+
+

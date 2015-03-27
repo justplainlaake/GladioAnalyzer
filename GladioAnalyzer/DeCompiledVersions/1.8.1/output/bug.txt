@@ -1,0 +1,6 @@
+bug extends java/lang/Object {
+	Method[a(Ljava/lang/String;Z)Ljava/lang/String;]
+	Method[a(Lhp;ILbtw;ZZ)Ljava/util/List;]
+}
+
+

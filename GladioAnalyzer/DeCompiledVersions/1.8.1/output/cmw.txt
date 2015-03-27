@@ -1,0 +1,12 @@
+cmw extends java/lang/Object {
+	Field[aLorg/lwjgl/util/vector/Vector3f;]
+	Field[bLorg/lwjgl/util/vector/Vector3f;]
+	Field[cLorg/lwjgl/util/vector/Vector3f;]
+	Method[<init>()V]
+	Method[a(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lcmv;]
+	Method[a(Lcom/google/gson/JsonObject;Ljava/lang/String;Lorg/lwjgl/util/vector/Vector3f;)Lorg/lwjgl/util/vector/Vector3f;]
+	Method[deserialize(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;]
+	Method[<clinit>()V]
+}
+
+

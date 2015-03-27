@@ -1,0 +1,10 @@
+vb extends java/lang/Object {
+	Field[aF]
+	Field[bF]
+	Field[cF]
+	Method[<init>()V]
+	Method[a(FF)F]
+	Method[a()V]
+}
+
+

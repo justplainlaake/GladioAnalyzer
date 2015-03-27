@@ -1,0 +1,8 @@
+avw extends java/lang/Object {
+	Field[aLavv;]
+	Method[<init>(Lavv;)V]
+	Method[a(Lavx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

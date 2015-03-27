@@ -1,0 +1,12 @@
+ng extends java/lang/Object {
+	Field[aI]
+	Method[<init>()V]
+	Method[<init>(I)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lnd;)V]
+	Method[a()I]
+	Method[a(Lhh;)V]
+}
+
+

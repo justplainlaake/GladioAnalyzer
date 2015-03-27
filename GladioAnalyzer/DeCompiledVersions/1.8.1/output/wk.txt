@@ -1,0 +1,12 @@
+wk extends wj {
+	Field[qLwx;]
+	Field[rZ]
+	Method[<init>(Ljava/lang/String;Lwx;)V]
+	Method[v()Lwk;]
+	Method[w()Z]
+	Method[j()Lwx;]
+	Method[b(Lxo;)Lhp;]
+	Method[r()Z]
+}
+
+

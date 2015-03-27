@@ -1,0 +1,17 @@
+cfz extends cgv {
+	Field[azI]
+	Field[aALcgw;]
+	Field[aBLfv;]
+	Field[aZ]
+	Method[<init>(Laqr;DDDDDDLcgw;Lfn;)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[t_()V]
+	Method[l()Z]
+	Method[a(DDDDDD[I[IZZ)V]
+	Method[a(DI[I[IZZ)V]
+	Method[a(D[[D[I[IZZZ)V]
+	Method[a([I[IZZ)V]
+	Method[a()I]
+}
+
+

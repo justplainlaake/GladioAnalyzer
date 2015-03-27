@@ -1,0 +1,17 @@
+cnw extends cnp {
+	Field[dLob;]
+	Field[eLob;]
+	Field[fLob;]
+	Field[gLob;]
+	Field[cLcnw;]
+	Field[hLcda;]
+	Field[iLcda;]
+	Method[<init>()V]
+	Method[a(Lbdk;DDDFI)V]
+	Method[a(Lcno;)V]
+	Method[a(FFFLej;FILcom/mojang/authlib/GameProfile;I)V]
+	Method[a(Lbck;DDDFI)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,12 @@
+ckx extends java/lang/Object {
+	Field[aLciu;]
+	Field[bLcix;]
+	Field[cLckx;]
+	Method[a()Lckx;]
+	Method[<init>(I)V]
+	Method[b()I]
+	Method[c()Lciu;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,10 @@
+awz extends awq {
+	Method[<init>()V]
+	Method[l()Laqi;]
+	Method[a(Laqr;Laha;Ldt;Lbea;Lbck;)V]
+	Method[a(Ljava/util/Random;)I]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[j()I]
+}
+
+

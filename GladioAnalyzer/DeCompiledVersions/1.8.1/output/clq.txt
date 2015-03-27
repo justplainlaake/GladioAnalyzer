@@ -1,0 +1,13 @@
+clq extends java/lang/Object {
+	Field[b[F]
+	Field[c[I]
+	Field[aLcln;]
+	Method[<init>(Lcln;)V]
+	Method[a(Lara;Lato;Ldt;Lej;[FLjava/util/BitSet;)V]
+	Method[a(IIII)I]
+	Method[a(IIIIFFFF)I]
+	Method[a(Lclq;)[I]
+	Method[b(Lclq;)[F]
+}
+
+

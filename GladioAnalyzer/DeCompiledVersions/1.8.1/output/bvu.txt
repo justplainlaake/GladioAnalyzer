@@ -1,0 +1,13 @@
+bvu extends bxe {
+	Field[a[Lbtp;]
+	Field[fLbxe;]
+	Field[gLbtm;]
+	Field[hLjava/lang/String;]
+	Method[<init>(Lbxe;Lbtm;)V]
+	Method[b()V]
+	Method[a(Lbue;)V]
+	Method[a(IIF)V]
+	Method[<clinit>()V]
+}
+
+

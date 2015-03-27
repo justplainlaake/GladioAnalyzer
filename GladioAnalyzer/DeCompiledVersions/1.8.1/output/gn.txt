@@ -1,0 +1,8 @@
+gn extends io/netty/handler/codec/MessageToMessageDecoder {
+	Field[aLgm;]
+	Method[<init>(Ljavax/crypto/Cipher;)V]
+	Method[a(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;Ljava/util/List;)V]
+	Method[decode(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;Ljava/util/List;)V]
+}
+
+

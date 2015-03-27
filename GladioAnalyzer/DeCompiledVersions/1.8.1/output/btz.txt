@@ -1,0 +1,21 @@
+btz extends java/lang/Object {
+	Field[bLob;]
+	Field[cLob;]
+	Field[dLob;]
+	Field[eF]
+	Method[<init>()V]
+	Method[a(IIII)V]
+	Method[b(IIII)V]
+	Method[a(IIIII)V]
+	Method[a(IIIIII)V]
+	Method[a(Lbtw;Ljava/lang/String;III)V]
+	Method[c(Lbtw;Ljava/lang/String;III)V]
+	Method[b(IIIIII)V]
+	Method[a(FFIIII)V]
+	Method[a(IILcue;II)V]
+	Method[a(IIFFIIFF)V]
+	Method[a(IIFFIIIIFF)V]
+	Method[<clinit>()V]
+}
+
+

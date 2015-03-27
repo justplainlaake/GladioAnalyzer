@@ -1,0 +1,14 @@
+cxl extends ob {
+	Field[cLjava/lang/String;]
+	Method[<init>(I[Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[<init>(Lob;Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[b(Ljava/lang/String;)[Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[toString()Ljava/lang/String;]
+}
+
+

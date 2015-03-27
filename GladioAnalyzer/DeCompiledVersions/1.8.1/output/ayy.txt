@@ -1,0 +1,7 @@
+ayy extends ato {
+	Method[<init>(Lbod;Lbof;)V]
+	Method[h()Z]
+	Method[a(Lara;Ldt;Lbea;Lej;)I]
+}
+
+

@@ -1,0 +1,15 @@
+czz extends java/lang/Object {
+	Method[a(Ltv/twitch/ErrorCode;Ltv/twitch/AuthToken;)V]
+	Method[a(Ltv/twitch/ErrorCode;)V]
+	Method[a(Ltv/twitch/ErrorCode;[Ltv/twitch/broadcast/GameInfo;)V]
+	Method[a(Lczy;)V]
+	Method[a()V]
+	Method[a(Ltv/twitch/broadcast/StreamInfo;)V]
+	Method[a(Ltv/twitch/broadcast/IngestList;)V]
+	Method[b(Ltv/twitch/ErrorCode;)V]
+	Method[b()V]
+	Method[c()V]
+	Method[c(Ltv/twitch/ErrorCode;)V]
+}
+
+

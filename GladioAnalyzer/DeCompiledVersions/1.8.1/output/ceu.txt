@@ -1,0 +1,12 @@
+ceu extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bI]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()I]
+	Method[a(Ljava/lang/String;)Lceu;]
+	Method[b(Ljava/lang/String;)[Ljava/lang/String;]
+	Method[a(Ljava/lang/String;I)I]
+}
+
+

@@ -1,0 +1,15 @@
+bri extends java/lang/Object {
+	Method[<init>()V]
+	Method[d()Lbqm;]
+	Method[c()V]
+	Method[a(Lbgb;)Lbfo;]
+	Method[a(Lbqm;Lfn;)V]
+	Method[a(Lbqm;)V]
+	Method[e()Lbrj;]
+	Method[a()V]
+	Method[a(Ljava/lang/String;)Ljava/io/File;]
+	Method[g()Ljava/lang/String;]
+	Method[b()Ljava/io/File;]
+}
+
+

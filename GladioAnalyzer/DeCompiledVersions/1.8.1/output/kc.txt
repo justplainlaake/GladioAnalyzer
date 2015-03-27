@@ -1,0 +1,9 @@
+kc extends jz {
+	Method[<init>()V]
+	Method[<init>(IBBZ)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lhh;)V]
+}
+
+

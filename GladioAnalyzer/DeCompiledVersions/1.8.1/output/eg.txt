@@ -1,0 +1,11 @@
+eg extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Ldz;Lamg;)Lamg;]
+	Method[b(Ldz;Lamg;)Lamg;]
+	Method[a(Laqr;Lamg;ILej;Lex;)V]
+	Method[a(Ldz;)V]
+	Method[a(Ldz;Lej;)V]
+	Method[a(Lej;)I]
+}
+
+

@@ -1,0 +1,8 @@
+cbk extends java/net/Authenticator {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[getPasswordAuthentication()Ljava/net/PasswordAuthentication;]
+}
+
+

@@ -1,0 +1,24 @@
+clp extends java/lang/Enum {
+	Field[aLclp;]
+	Field[bLclp;]
+	Field[cLclp;]
+	Field[dLclp;]
+	Field[eLclp;]
+	Field[fLclp;]
+	Field[g[Lej;]
+	Field[hF]
+	Field[iZ]
+	Field[j[Lcls;]
+	Field[k[Lcls;]
+	Field[l[Lcls;]
+	Field[m[Lcls;]
+	Field[n[Lclp;]
+	Field[o[Lclp;]
+	Method[values()[Lclp;]
+	Method[valueOf(Ljava/lang/String;)Lclp;]
+	Method[<init>(Ljava/lang/String;I[Lej;FZ[Lcls;[Lcls;[Lcls;[Lcls;)V]
+	Method[a(Lej;)Lclp;]
+	Method[<clinit>()V]
+}
+
+

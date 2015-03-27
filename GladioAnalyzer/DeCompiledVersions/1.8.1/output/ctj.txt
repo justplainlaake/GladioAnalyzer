@@ -1,0 +1,19 @@
+ctj extends java/lang/Enum {
+	Field[aLctj;]
+	Field[bLctj;]
+	Field[cLjava/lang/String;]
+	Field[dLjava/lang/String;]
+	Field[eI]
+	Field[fLjava/util/Map;]
+	Field[g[Lctj;]
+	Method[values()[Lctj;]
+	Method[valueOf(Ljava/lang/String;)Lctj;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;I)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+	Method[c()I]
+	Method[d()Ljava/util/Map;]
+	Method[<clinit>()V]
+}
+
+

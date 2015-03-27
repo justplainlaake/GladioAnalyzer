@@ -1,0 +1,8 @@
+ug extends com/google/common/collect/AbstractIterator {
+	Field[aLjava/util/Iterator;]
+	Field[bLue;]
+	Method[<init>(Lue;Ljava/util/Iterator;)V]
+	Method[computeNext()Ljava/lang/Object;]
+}
+
+

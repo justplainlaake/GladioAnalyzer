@@ -1,0 +1,7 @@
+bmd extends bms {
+	Method[<init>()V]
+	Method[a(Ljava/util/Random;IIIZ)V]
+	Method[<init>(Lblq;)V]
+}
+
+

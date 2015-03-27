@@ -1,0 +1,8 @@
+cyl extends java/lang/Object {
+	Field[aLcyk;]
+	Method[<init>(Lcyk;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

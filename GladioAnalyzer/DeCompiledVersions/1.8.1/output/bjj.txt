@@ -1,0 +1,10 @@
+bjj extends bmk {
+	Field[dLjava/util/List;]
+	Method[<init>()V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/util/List;]
+	Method[a(II)Z]
+	Method[b(II)Lbmt;]
+}
+
+

@@ -1,0 +1,16 @@
+ld extends java/lang/Object {
+	Field[aF]
+	Field[bI]
+	Field[cF]
+	Method[<init>()V]
+	Method[<init>(FIF)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()F]
+	Method[b()I]
+	Method[c()F]
+	Method[a(Lhh;)V]
+}
+
+

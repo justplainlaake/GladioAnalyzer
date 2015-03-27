@@ -1,0 +1,14 @@
+ix extends java/lang/Object {
+	Field[aLdt;]
+	Field[bLbea;]
+	Method[<init>()V]
+	Method[<init>(Laqr;Ldt;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Lbea;]
+	Method[b()Ldt;]
+	Method[a(Lhh;)V]
+}
+
+

@@ -1,0 +1,17 @@
+brw extends java/lang/Object {
+	Field[aLbsb;]
+	Field[bLjava/lang/String;]
+	Field[cLbsi;]
+	Field[dLbsj;]
+	Field[eLjava/lang/String;]
+	Method[<init>(Lbsb;Ljava/lang/String;Lbsi;)V]
+	Method[a()Lbsb;]
+	Method[b()Ljava/lang/String;]
+	Method[c()Lbsi;]
+	Method[d()Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)V]
+	Method[e()Lbsj;]
+	Method[a(Lbsj;)V]
+}
+
+

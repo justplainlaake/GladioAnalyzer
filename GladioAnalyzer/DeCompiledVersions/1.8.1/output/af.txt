@@ -1,0 +1,16 @@
+af extends java/lang/Object {
+	Field[aI]
+	Field[b[Ljava/lang/String;]
+	Field[c[Ljava/lang/String;]
+	Field[d[Ljava/lang/String;]
+	Method[<init>()V]
+	Method[a(Lae;Lag;I)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Laf;Lag;Ljava/lang/String;Ljava/lang/String;)V]
+	Method[a(Laf;Lag;)V]
+	Method[a(Laf;)V]
+	Method[<clinit>()V]
+}
+
+

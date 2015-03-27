@@ -1,0 +1,5 @@
+afq extends java/lang/Object {
+	Method[a(Lxo;F)V]
+}
+
+

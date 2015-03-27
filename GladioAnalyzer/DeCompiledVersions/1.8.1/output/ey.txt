@@ -1,0 +1,11 @@
+ey extends java/lang/Object {
+	Field[aD]
+	Field[bD]
+	Field[cD]
+	Method[<init>(DDD)V]
+	Method[a()D]
+	Method[b()D]
+	Method[c()D]
+}
+
+

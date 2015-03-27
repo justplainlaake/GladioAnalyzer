@@ -1,0 +1,22 @@
+bpr extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[jI]
+	Field[dI]
+	Field[eF]
+	Field[fF]
+	Field[gF]
+	Field[hLbpr;]
+	Field[iZ]
+	Method[<init>(III)V]
+	Method[a(III)I]
+	Method[a(Lbpr;)F]
+	Method[b(Lbpr;)F]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[a()Z]
+	Method[toString()Ljava/lang/String;]
+}
+
+

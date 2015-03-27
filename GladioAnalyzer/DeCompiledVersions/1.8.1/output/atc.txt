@@ -1,0 +1,9 @@
+atc extends ato {
+	Method[<init>()V]
+	Method[b()I]
+	Method[c()Z]
+	Method[g()F]
+	Method[a(Laqr;Ldt;Lbea;FI)V]
+}
+
+

@@ -1,0 +1,18 @@
+ju extends java/lang/Object {
+	Field[aI]
+	Field[bLdt;]
+	Field[cI]
+	Field[dZ]
+	Method[<init>()V]
+	Method[<init>(ILdt;IZ)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Z]
+	Method[b()I]
+	Method[c()I]
+	Method[d()Ldt;]
+	Method[a(Lhh;)V]
+}
+
+

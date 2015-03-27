@@ -1,0 +1,16 @@
+mp extends java/lang/Enum {
+	Field[aLmp;]
+	Field[bLmp;]
+	Field[cLmp;]
+	Field[dLmp;]
+	Field[eLmp;]
+	Field[fLmp;]
+	Field[gLmp;]
+	Field[h[Lmp;]
+	Method[values()[Lmp;]
+	Method[valueOf(Ljava/lang/String;)Lmp;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

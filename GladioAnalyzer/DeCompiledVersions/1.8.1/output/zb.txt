@@ -1,0 +1,8 @@
+zb extends ze {
+	Field[aLxq;]
+	Method[<init>(Lxq;)V]
+	Method[a()Z]
+	Method[e()V]
+}
+
+

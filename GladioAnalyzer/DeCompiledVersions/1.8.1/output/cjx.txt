@@ -1,0 +1,9 @@
+cjx extends java/lang/Object {
+	Field[aLcjq;]
+	Field[bZ]
+	Field[cI]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

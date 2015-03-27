@@ -1,0 +1,12 @@
+aje extends wc {
+	Field[aLbcy;]
+	Method[<init>()V]
+	Method[a(Lbcy;)V]
+	Method[a(Lfv;)V]
+	Method[h()Lfv;]
+	Method[a(Laha;)Z]
+	Method[b(Laha;)V]
+	Method[c(Laha;)V]
+}
+
+

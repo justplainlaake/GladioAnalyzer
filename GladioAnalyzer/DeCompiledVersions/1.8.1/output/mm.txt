@@ -1,0 +1,16 @@
+mm extends java/lang/Object {
+	Field[aLdt;]
+	Field[bLej;]
+	Field[cLmn;]
+	Method[<init>()V]
+	Method[<init>(Lmn;Ldt;Lej;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[a()Ldt;]
+	Method[b()Lej;]
+	Method[c()Lmn;]
+	Method[a(Lhh;)V]
+}
+
+

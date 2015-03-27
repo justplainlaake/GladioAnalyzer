@@ -1,0 +1,17 @@
+wh extends java/lang/Object {
+	Field[aLwj;]
+	Field[bI]
+	Field[cF]
+	Field[dF]
+	Field[eLjava/lang/String;]
+	Field[fF]
+	Method[<init>(Lwj;IFFLjava/lang/String;F)V]
+	Method[a()Lwj;]
+	Method[c()F]
+	Method[f()Z]
+	Method[g()Ljava/lang/String;]
+	Method[h()Lhp;]
+	Method[i()F]
+}
+
+

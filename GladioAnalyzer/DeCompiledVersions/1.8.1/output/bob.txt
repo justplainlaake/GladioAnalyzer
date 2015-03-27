@@ -1,0 +1,8 @@
+bob extends bod {
+	Method[<init>(Lbof;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()Z]
+}
+
+

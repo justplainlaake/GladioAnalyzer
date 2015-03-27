@@ -1,0 +1,23 @@
+ctw extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/util/Set;]
+	Field[cLjava/util/List;]
+	Field[dI]
+	Field[eI]
+	Field[fI]
+	Field[gI]
+	Field[hZ]
+	Field[iI]
+	Method[<init>(IIZII)V]
+	Method[a()I]
+	Method[b()I]
+	Method[a(Lcue;)V]
+	Method[c()V]
+	Method[d()Ljava/util/List;]
+	Method[b(II)I]
+	Method[a(Lctx;)Z]
+	Method[b(Lctx;)Z]
+	Method[a(II)I]
+}
+
+

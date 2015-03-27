@@ -1,0 +1,11 @@
+cwp extends cwh {
+	Method[<init>()V]
+	Method[a(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lcwo;]
+	Method[a(ILcom/google/gson/JsonElement;)Lcwn;]
+	Method[a(Lcwo;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;]
+	Method[a()Ljava/lang/String;]
+	Method[deserialize(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;]
+	Method[serialize(Ljava/lang/Object;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;]
+}
+
+

@@ -1,0 +1,15 @@
+bke extends bmk {
+	Field[fI]
+	Field[gI]
+	Field[dLjava/util/List;]
+	Field[hLjava/util/List;]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/Map;)V]
+	Method[a()Ljava/lang/String;]
+	Method[a(II)Z]
+	Method[b(II)Lbmt;]
+	Method[b()Ljava/util/List;]
+	Method[<clinit>()V]
+}
+
+

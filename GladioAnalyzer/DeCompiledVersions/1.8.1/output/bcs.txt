@@ -1,0 +1,14 @@
+bcs extends aqc {
+	Field[aLbcr;]
+	Method[<init>(Lbcr;)V]
+	Method[c()Ldt;]
+	Method[d()Lbru;]
+	Method[e()Laqr;]
+	Method[a(Ljava/lang/String;)V]
+	Method[h()V]
+	Method[i()I]
+	Method[a(Lio/netty/buffer/ByteBuf;)V]
+	Method[f()Lwx;]
+}
+
+

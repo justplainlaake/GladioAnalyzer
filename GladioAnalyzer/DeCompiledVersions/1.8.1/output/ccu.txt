@@ -1,0 +1,15 @@
+ccu extends ccp {
+	Field[aLcdx;]
+	Field[bLcdx;]
+	Field[cLcdx;]
+	Field[dLcdx;]
+	Field[eLcdx;]
+	Field[fLcdx;]
+	Field[gF]
+	Field[hF]
+	Method[<init>(IF)V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(FFFFFFLwx;)V]
+}
+
+

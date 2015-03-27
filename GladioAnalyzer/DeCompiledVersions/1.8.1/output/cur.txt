@@ -1,0 +1,13 @@
+cur extends java/lang/Object {
+	Field[aI]
+	Field[bLcus;]
+	Field[cI]
+	Method[<init>(Lcus;)V]
+	Method[a()V]
+	Method[a(Ljava/nio/ByteBuffer;I)V]
+	Method[a(I)V]
+	Method[b()V]
+	Method[c()V]
+}
+
+

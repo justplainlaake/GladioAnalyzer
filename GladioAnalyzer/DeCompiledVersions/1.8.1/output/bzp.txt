@@ -1,0 +1,10 @@
+bzp extends java/lang/Object {
+	Field[aLbss;]
+	Method[<init>()V]
+	Method[a(IIIIIIIZ)V]
+	Method[a(III)V]
+	Method[a(IIIIII)Z]
+	Method[b(IIIIII)V]
+}
+
+

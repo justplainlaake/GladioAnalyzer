@@ -1,0 +1,7 @@
+apl extends vm {
+	Field[bLapc;]
+	Field[cI]
+	Method[<init>(Lapc;I)V]
+}
+
+

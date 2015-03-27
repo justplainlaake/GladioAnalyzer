@@ -1,0 +1,23 @@
+cyb extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bF]
+	Field[cF]
+	Field[dI]
+	Field[eLcyc;]
+	Field[fZ]
+	Method[<init>()V]
+	Method[a()Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)V]
+	Method[b()F]
+	Method[a(F)V]
+	Method[c()F]
+	Method[b(F)V]
+	Method[d()I]
+	Method[a(I)V]
+	Method[e()Lcyc;]
+	Method[a(Lcyc;)V]
+	Method[f()Z]
+	Method[a(Z)V]
+}
+
+

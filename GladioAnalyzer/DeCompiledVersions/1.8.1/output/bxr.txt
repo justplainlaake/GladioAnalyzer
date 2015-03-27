@@ -1,0 +1,20 @@
+bxr extends bxe {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[fLob;]
+	Field[gLob;]
+	Field[hI]
+	Field[iLjava/util/List;]
+	Field[rI]
+	Field[sF]
+	Method[<init>()V]
+	Method[e()V]
+	Method[a(CI)V]
+	Method[a()V]
+	Method[d()Z]
+	Method[b()V]
+	Method[b(IIF)V]
+	Method[a(IIF)V]
+	Method[<clinit>()V]
+}
+
+

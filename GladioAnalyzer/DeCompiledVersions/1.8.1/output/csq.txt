@@ -1,0 +1,6 @@
+csq extends java/lang/Object {
+	Method[a(Lxo;FFFFFFF)V]
+	Method[b()Z]
+}
+
+

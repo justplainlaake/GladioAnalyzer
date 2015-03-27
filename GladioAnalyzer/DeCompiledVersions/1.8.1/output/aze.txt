@@ -1,0 +1,11 @@
+aze extends java/lang/Enum {
+	Field[aLaze;]
+	Field[bLaze;]
+	Field[c[Laze;]
+	Method[values()[Laze;]
+	Method[valueOf(Ljava/lang/String;)Laze;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,7 @@
+ex extends java/lang/Object {
+	Method[a()D]
+	Method[b()D]
+	Method[c()D]
+}
+
+

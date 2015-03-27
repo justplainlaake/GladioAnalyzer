@@ -1,0 +1,12 @@
+ccf extends ccp {
+	Field[a[[I]
+	Field[b[[I]
+	Field[cI]
+	Field[d[Lcdx;]
+	Method[<init>()V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(FFFFFFLwx;)V]
+	Method[<clinit>()V]
+}
+
+

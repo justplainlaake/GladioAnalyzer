@@ -1,0 +1,8 @@
+blc extends bkz {
+	Field[oI]
+	Method[<init>()V]
+	Method[<init>(Lej;Lbiz;I)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+}
+
+

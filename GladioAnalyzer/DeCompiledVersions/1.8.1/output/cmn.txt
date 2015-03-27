@@ -1,0 +1,8 @@
+cmn extends clt {
+	Field[dLcue;]
+	Method[<init>(Lclt;Lcue;)V]
+	Method[e()V]
+	Method[a(I)V]
+}
+
+

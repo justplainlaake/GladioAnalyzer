@@ -1,0 +1,15 @@
+cf extends z {
+	Field[aLjava/util/Map;]
+	Method[<init>()V]
+	Method[c()Ljava/lang/String;]
+	Method[a()I]
+	Method[c(Lae;)Ljava/lang/String;]
+	Method[a(Lae;[Ljava/lang/String;)V]
+	Method[e(Ljava/lang/String;)I]
+	Method[a(Lae;[Ljava/lang/String;Ldt;)Ljava/util/List;]
+	Method[d()[Ljava/lang/String;]
+	Method[b([Ljava/lang/String;I)Z]
+	Method[<clinit>()V]
+}
+
+

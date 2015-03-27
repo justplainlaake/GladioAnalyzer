@@ -1,0 +1,9 @@
+cdl extends cdj {
+	Field[gZ]
+	Field[hLcdx;]
+	Field[iLcdx;]
+	Method[<init>(F)V]
+	Method[a(FFFFFFLwx;)V]
+}
+
+

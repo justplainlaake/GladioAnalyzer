@@ -1,0 +1,7 @@
+ces extends java/lang/Object {
+	Field[aLcer;]
+	Method[<init>(Lcer;)V]
+	Method[a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lob;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;)V]
+}
+
+

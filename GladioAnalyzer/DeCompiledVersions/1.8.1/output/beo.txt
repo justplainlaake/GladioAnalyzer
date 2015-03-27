@@ -1,0 +1,11 @@
+beo extends java/lang/Object {
+	Field[aLbeb;]
+	Field[bLjava/util/Map;]
+	Method[<init>(Lbeb;)V]
+	Method[a(Lato;)Lbeo;]
+	Method[a(Lbea;)Z]
+	Method[a(Lbev;Lcom/google/common/base/Predicate;)Lbeo;]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

@@ -1,0 +1,14 @@
+aeu extends aat {
+	Field[gLaha;]
+	Field[hI]
+	Field[iI]
+	Field[jLaer;]
+	Method[<init>(Laer;)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[b()Z]
+	Method[e()V]
+}
+
+

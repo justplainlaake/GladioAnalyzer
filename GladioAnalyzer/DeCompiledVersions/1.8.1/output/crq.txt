@@ -1,0 +1,7 @@
+crq extends crp {
+	Method[<init>(Lcpt;Lcqh;)V]
+	Method[a(Lahs;)Lamg;]
+	Method[d(Lwx;)Lamg;]
+}
+
+

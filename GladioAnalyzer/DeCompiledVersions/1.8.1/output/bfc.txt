@@ -1,0 +1,18 @@
+bfc extends java/lang/Object {
+	Method[a(II)Z]
+	Method[d(II)Lbff;]
+	Method[a(Ldt;)Lbff;]
+	Method[a(Lbfc;II)V]
+	Method[a(Lbfc;Lbff;II)Z]
+	Method[a(ZLva;)Z]
+	Method[d()Z]
+	Method[e()Z]
+	Method[f()Ljava/lang/String;]
+	Method[a(Lxs;Ldt;)Ljava/util/List;]
+	Method[a(Laqr;Ljava/lang/String;Ldt;)Ldt;]
+	Method[g()I]
+	Method[a(Lbff;II)V]
+	Method[c()V]
+}
+
+

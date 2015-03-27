@@ -1,0 +1,5 @@
+asp extends arj {
+	Method[<init>(I)V]
+}
+
+

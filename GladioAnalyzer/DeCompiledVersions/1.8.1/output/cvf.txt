@@ -1,0 +1,8 @@
+cvf extends cuy {
+	Method[<init>(Ljava/io/File;)V]
+	Method[a(Ljava/lang/String;)Ljava/io/InputStream;]
+	Method[b(Ljava/lang/String;)Z]
+	Method[c()Ljava/util/Set;]
+}
+
+

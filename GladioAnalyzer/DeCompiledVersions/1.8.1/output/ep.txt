@@ -1,0 +1,6 @@
+ep extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Ldz;Lamg;)Lamg;]
+}
+
+

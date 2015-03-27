@@ -1,0 +1,18 @@
+cru extends cqz {
+	Field[aLob;]
+	Field[eLob;]
+	Field[jLob;]
+	Field[kLob;]
+	Field[lLob;]
+	Field[mLob;]
+	Method[<init>(Lcpt;)V]
+	Method[g()Lcdj;]
+	Method[a(Lagn;)Lob;]
+	Method[a(Lagn;F)V]
+	Method[a(Lxo;F)V]
+	Method[b()Lccp;]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

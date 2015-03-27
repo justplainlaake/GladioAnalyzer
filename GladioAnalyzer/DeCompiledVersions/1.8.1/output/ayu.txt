@@ -1,0 +1,27 @@
+ayu extends java/lang/Enum {
+	Field[aLayu;]
+	Field[bLayu;]
+	Field[cLayu;]
+	Field[dLayu;]
+	Field[eLayu;]
+	Field[fLayu;]
+	Field[g[Layu;]
+	Field[hI]
+	Field[iLjava/lang/String;]
+	Field[jLjava/lang/String;]
+	Field[kLbof;]
+	Field[l[Layu;]
+	Method[values()[Layu;]
+	Method[valueOf(Ljava/lang/String;)Layu;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Lbof;)V]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;Lbof;)V]
+	Method[a()I]
+	Method[c()Lbof;]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Layu;]
+	Method[l()Ljava/lang/String;]
+	Method[d()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

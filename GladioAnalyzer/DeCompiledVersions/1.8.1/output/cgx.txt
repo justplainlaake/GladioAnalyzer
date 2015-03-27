@@ -1,0 +1,9 @@
+cgx extends java/lang/Object {
+	Field[aLcgv;]
+	Field[bLcgw;]
+	Method[<init>(Lcgw;Lcgv;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

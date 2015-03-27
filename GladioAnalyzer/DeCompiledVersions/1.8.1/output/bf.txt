@@ -1,0 +1,9 @@
+bf extends bp {
+	Method[<init>()V]
+	Method[c()Ljava/lang/String;]
+	Method[c(Lae;)Ljava/lang/String;]
+	Method[a(Lae;[Ljava/lang/String;)V]
+	Method[a(Laqz;)V]
+}
+
+

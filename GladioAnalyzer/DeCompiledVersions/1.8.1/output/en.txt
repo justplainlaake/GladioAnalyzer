@@ -1,0 +1,16 @@
+en extends java/lang/Enum {
+	Field[aLen;]
+	Field[bLen;]
+	Field[c[Len;]
+	Method[values()[Len;]
+	Method[valueOf(Ljava/lang/String;)Len;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[a()[Lej;]
+	Method[a(Ljava/util/Random;)Lej;]
+	Method[a(Lej;)Z]
+	Method[iterator()Ljava/util/Iterator;]
+	Method[apply(Ljava/lang/Object;)Z]
+	Method[<clinit>()V]
+}
+
+

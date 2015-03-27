@@ -1,0 +1,13 @@
+aqg extends vm {
+	Field[cLfn;]
+	Field[dLjava/lang/String;]
+	Field[bLaqf;]
+	Method[<init>(Laqf;Lfn;)V]
+	Method[<init>(Laqf;Lfn;Ljava/lang/String;)V]
+	Method[<init>(Laqf;Lfn;Ljava/lang/String;I)V]
+	Method[a()Lfn;]
+	Method[a(Laqg;)Ljava/lang/String;]
+	Method[b(Laqg;)Lfn;]
+}
+
+

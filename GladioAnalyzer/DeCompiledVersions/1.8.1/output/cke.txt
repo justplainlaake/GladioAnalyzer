@@ -1,0 +1,10 @@
+cke extends java/lang/Object {
+	Field[aLckd;]
+	Field[bLckd;]
+	Field[cLckd;]
+	Field[dLckd;]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

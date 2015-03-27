@@ -1,0 +1,8 @@
+bwi extends java/lang/Object {
+	Field[aLbwh;]
+	Method[<init>(Lbwh;)V]
+	Method[a(Ljava/lang/String;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

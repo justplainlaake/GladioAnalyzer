@@ -1,0 +1,9 @@
+bxz extends java/lang/Object {
+	Field[aLbxu;]
+	Field[bLbxy;]
+	Method[<init>(Lbxy;Lbxu;)V]
+	Method[a(Ltq;Ltq;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

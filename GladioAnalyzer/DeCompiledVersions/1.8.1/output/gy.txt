@@ -1,0 +1,9 @@
+gy extends java/lang/Object {
+	Field[aLie;]
+	Field[b[Lio/netty/util/concurrent/GenericFutureListener;]
+	Method[<init>(Lie;[Lio/netty/util/concurrent/GenericFutureListener;)V]
+	Method[a(Lgy;)Lie;]
+	Method[b(Lgy;)[Lio/netty/util/concurrent/GenericFutureListener;]
+}
+
+

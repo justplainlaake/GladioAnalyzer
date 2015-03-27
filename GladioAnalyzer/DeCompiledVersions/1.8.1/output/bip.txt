@@ -1,0 +1,12 @@
+bip extends bha {
+	Field[aI]
+	Field[bZ]
+	Field[cI]
+	Field[dI]
+	Method[<init>(Z)V]
+	Method[<init>(ZIIIZ)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+	Method[a(Laqr;Ldt;I)V]
+}
+
+

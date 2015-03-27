@@ -1,0 +1,6 @@
+dav extends org/lwjgl/util/vector/Matrix4f {
+	Method[<init>([F)V]
+	Method[<init>()V]
+}
+
+

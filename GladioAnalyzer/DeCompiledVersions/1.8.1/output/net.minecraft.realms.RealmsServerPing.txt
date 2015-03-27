@@ -1,0 +1,7 @@
+net/minecraft/realms/RealmsServerPing extends java/lang/Object {
+	Field[nrOfPlayersLjava/lang/String;]
+	Field[lastPingSnapshotJ]
+	Method[<init>()V]
+}
+
+

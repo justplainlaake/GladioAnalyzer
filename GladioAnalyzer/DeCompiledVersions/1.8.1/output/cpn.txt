@@ -1,0 +1,13 @@
+cpn extends cqz {
+	Field[aLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Laeq;F)V]
+	Method[a(Laeq;FF)I]
+	Method[a(Laeq;)Lob;]
+	Method[a(Lxo;F)V]
+	Method[a(Lxo;FF)I]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

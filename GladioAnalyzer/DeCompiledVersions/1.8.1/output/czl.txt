@@ -1,0 +1,9 @@
+czl extends fb {
+	Field[aLjava/util/Map;]
+	Method[<init>()V]
+	Method[b()Ljava/util/Map;]
+	Method[a(Lczg;)V]
+	Method[a()V]
+}
+
+

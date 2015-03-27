@@ -1,0 +1,9 @@
+bfi extends java/lang/Object {
+	Field[aLdt;]
+	Field[bLbff;]
+	Method[<init>(Lbff;Ldt;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

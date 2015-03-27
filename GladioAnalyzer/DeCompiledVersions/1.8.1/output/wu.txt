@@ -1,0 +1,25 @@
+wu extends xx {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[bmF]
+	Field[bnF]
+	Method[<init>(Laqr;)V]
+	Method[a(Lwu;)Lwu;]
+	Method[a(Laha;)Z]
+	Method[h()V]
+	Method[l()I]
+	Method[a(IZ)V]
+	Method[a(I)V]
+	Method[b(I)V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[m()V]
+	Method[n()V]
+	Method[j_()Z]
+	Method[a(Z)V]
+	Method[a(FF)V]
+	Method[a(F)V]
+}
+
+

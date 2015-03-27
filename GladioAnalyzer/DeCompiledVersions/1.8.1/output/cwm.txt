@@ -1,0 +1,9 @@
+cwm extends java/lang/Object {
+	Field[aLcwj;]
+	Field[bLjava/lang/Class;]
+	Field[cLcwk;]
+	Method[<init>(Lcwk;Lcwj;Ljava/lang/Class;)V]
+	Method[<init>(Lcwk;Lcwj;Ljava/lang/Class;Lcwl;)V]
+}
+
+

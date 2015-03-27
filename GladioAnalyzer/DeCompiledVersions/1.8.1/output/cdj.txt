@@ -1,0 +1,14 @@
+cdj extends ccp {
+	Field[aLcdx;]
+	Field[bLcdx;]
+	Field[cLcdx;]
+	Field[dLcdx;]
+	Field[eLcdx;]
+	Field[fLcdx;]
+	Method[<init>(F)V]
+	Method[<init>(FFII)V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(FFFFFFLwx;)V]
+}
+
+

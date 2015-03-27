@@ -1,0 +1,5 @@
+bny extends java/lang/Object {
+	Method[<init>()V]
+}
+
+

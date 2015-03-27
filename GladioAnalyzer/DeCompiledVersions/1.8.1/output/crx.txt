@@ -1,0 +1,14 @@
+crx extends cpu {
+	Field[aLob;]
+	Field[eLob;]
+	Field[fLcda;]
+	Method[<init>(Lcpt;)V]
+	Method[a(FFF)F]
+	Method[a(Laht;DDDFF)V]
+	Method[a(Laht;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,17 @@
+asr extends arj {
+	Field[aDLbie;]
+	Field[aELbim;]
+	Field[aFLbhz;]
+	Field[aGLbhz;]
+	Field[aHLbhe;]
+	Field[aII]
+	Method[<init>(II)V]
+	Method[a(Ljava/util/Random;)Lbha;]
+	Method[b(Ljava/util/Random;)Lbhn;]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbgi;IID)V]
+	Method[d(I)Larj;]
+	Method[<clinit>()V]
+}
+
+

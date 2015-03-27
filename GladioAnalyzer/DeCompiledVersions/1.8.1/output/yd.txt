@@ -1,0 +1,20 @@
+yd extends java/lang/Object {
+	Field[aD]
+	Field[bI]
+	Field[cLjava/lang/String;]
+	Field[dLjava/util/UUID;]
+	Field[eZ]
+	Method[<init>(Ljava/lang/String;DI)V]
+	Method[<init>(Ljava/util/UUID;Ljava/lang/String;DI)V]
+	Method[a()Ljava/util/UUID;]
+	Method[b()Ljava/lang/String;]
+	Method[c()I]
+	Method[d()D]
+	Method[e()Z]
+	Method[a(Z)Lyd;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[toString()Ljava/lang/String;]
+}
+
+

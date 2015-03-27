@@ -1,0 +1,9 @@
+cbv extends ccp {
+	Field[aLcdx;]
+	Field[bLcdx;]
+	Field[cLcdx;]
+	Method[<init>()V]
+	Method[a()V]
+}
+
+

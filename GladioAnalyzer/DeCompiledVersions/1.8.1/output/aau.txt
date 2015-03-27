@@ -1,0 +1,9 @@
+aau extends java/lang/Object {
+	Field[aLcom/google/common/base/Predicate;]
+	Field[bLaat;]
+	Method[<init>(Laat;Lcom/google/common/base/Predicate;)V]
+	Method[a(Lxo;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

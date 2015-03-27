@@ -1,0 +1,9 @@
+r extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/Object;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+}
+
+

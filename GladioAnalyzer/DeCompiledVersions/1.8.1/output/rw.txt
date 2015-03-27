@@ -1,0 +1,10 @@
+rw extends java/lang/Object {
+	Field[aLnet/minecraft/server/MinecraftServer;]
+	Field[bLgr;]
+	Method[<init>(Lnet/minecraft/server/MinecraftServer;Lgr;)V]
+	Method[a(Lhp;)V]
+	Method[a(Lny;)V]
+	Method[a(Lnx;)V]
+}
+
+

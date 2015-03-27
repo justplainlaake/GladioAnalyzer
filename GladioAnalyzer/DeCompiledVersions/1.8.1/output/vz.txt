@@ -1,0 +1,12 @@
+vz extends java/lang/Object {
+	Field[aLvz;]
+	Field[bLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a()Z]
+	Method[b()Ljava/lang/String;]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)Lvz;]
+	Method[<clinit>()V]
+}
+
+

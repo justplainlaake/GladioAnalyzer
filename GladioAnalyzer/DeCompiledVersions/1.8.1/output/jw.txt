@@ -1,0 +1,22 @@
+jw extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eF]
+	Field[fI]
+	Method[<init>()V]
+	Method[<init>(Ljava/lang/String;DDDFF)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()D]
+	Method[c()D]
+	Method[d()D]
+	Method[e()F]
+	Method[f()F]
+	Method[a(Lil;)V]
+	Method[a(Lhh;)V]
+}
+
+

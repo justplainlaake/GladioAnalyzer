@@ -1,0 +1,6 @@
+fy extends fx {
+	Method[<init>(J)V]
+	Method[a(J)V]
+}
+
+

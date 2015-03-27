@@ -1,0 +1,11 @@
+cko extends java/lang/Object {
+	Field[aD]
+	Field[bD]
+	Field[cD]
+	Field[dLckn;]
+	Method[<init>(Lckn;DDD)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

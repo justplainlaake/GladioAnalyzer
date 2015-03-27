@@ -1,0 +1,10 @@
+net/minecraft/realms/RealmsBridge extends net/minecraft/realms/RealmsScreen {
+	Field[LOGGERLorg/apache/logging/log4j/Logger;]
+	Field[previousScreenLbxe;]
+	Method[<init>()V]
+	Method[switchToRealms(Lbxe;)V]
+	Method[init()V]
+	Method[<clinit>()V]
+}
+
+

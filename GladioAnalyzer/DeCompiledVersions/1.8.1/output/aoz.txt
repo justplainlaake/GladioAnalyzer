@@ -1,0 +1,19 @@
+aoz extends apc {
+	Field[E[Ljava/lang/String;]
+	Field[F[I]
+	Field[G[I]
+	Field[H[I]
+	Field[aI]
+	Method[<init>(ILob;II)V]
+	Method[a(I)I]
+	Method[b(I)I]
+	Method[b()I]
+	Method[a(ILxv;)F]
+	Method[a()Ljava/lang/String;]
+	Method[a(Lapc;)Z]
+	Method[a(Lamg;)Z]
+	Method[a(Lxo;Lwx;I)V]
+	Method[<clinit>()V]
+}
+
+

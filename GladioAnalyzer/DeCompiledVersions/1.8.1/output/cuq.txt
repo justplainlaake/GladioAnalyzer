@@ -1,0 +1,7 @@
+cuq extends java/lang/Object {
+	Field[aLcus;]
+	Field[bLcus;]
+	Method[<clinit>()V]
+}
+
+

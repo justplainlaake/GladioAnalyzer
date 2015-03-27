@@ -1,0 +1,8 @@
+cwr extends java/lang/Object {
+	Field[a[F]
+	Field[b[F]
+	Field[c[F]
+	Method[<init>([F[F[F)V]
+}
+
+

@@ -1,0 +1,19 @@
+vv extends java/lang/Enum {
+	Field[aLvv;]
+	Field[bLvv;]
+	Field[cLvv;]
+	Field[dLvv;]
+	Field[e[Lvv;]
+	Field[fI]
+	Field[gLjava/lang/String;]
+	Field[h[Lvv;]
+	Method[values()[Lvv;]
+	Method[valueOf(Ljava/lang/String;)Lvv;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[a()I]
+	Method[a(I)Lvv;]
+	Method[b()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

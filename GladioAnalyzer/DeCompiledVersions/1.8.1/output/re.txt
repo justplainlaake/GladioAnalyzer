@@ -1,0 +1,7 @@
+re extends ur {
+	Method[<init>()V]
+	Method[a()Lio/netty/channel/nio/NioEventLoopGroup;]
+	Method[b()Ljava/lang/Object;]
+}
+
+

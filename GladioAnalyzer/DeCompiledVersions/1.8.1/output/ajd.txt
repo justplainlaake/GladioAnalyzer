@@ -1,0 +1,15 @@
+ajd extends ajh {
+	Field[aLajb;]
+	Field[bLaha;]
+	Field[cI]
+	Field[hLapy;]
+	Method[<init>(Laha;Lapy;Lajb;III)V]
+	Method[a(Lamg;)Z]
+	Method[a(I)Lamg;]
+	Method[a(Lamg;I)V]
+	Method[c(Lamg;)V]
+	Method[a(Laha;Lamg;)V]
+	Method[a(Lapz;Lamg;Lamg;)Z]
+}
+
+

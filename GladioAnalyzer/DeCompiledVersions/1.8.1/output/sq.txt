@@ -1,0 +1,13 @@
+sq extends java/lang/Object {
+	Field[aLsp;]
+	Method[<init>(Lsp;)V]
+	Method[a(Lbez;D)V]
+	Method[a(Lbez;DDJ)V]
+	Method[a(Lbez;DD)V]
+	Method[a(Lbez;I)V]
+	Method[b(Lbez;I)V]
+	Method[b(Lbez;D)V]
+	Method[c(Lbez;D)V]
+}
+
+

@@ -1,0 +1,14 @@
+ciw extends java/lang/Object {
+	Field[b[I]
+	Field[cI]
+	Field[dI]
+	Field[eLcus;]
+	Field[aLciu;]
+	Method[<init>(Lciu;[IIILcus;)V]
+	Method[a()[I]
+	Method[b()I]
+	Method[c()I]
+	Method[d()Lcus;]
+}
+
+

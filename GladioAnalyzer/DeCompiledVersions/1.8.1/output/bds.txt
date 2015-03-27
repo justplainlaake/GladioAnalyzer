@@ -1,0 +1,14 @@
+bds extends java/lang/Enum {
+	Field[aLbds;]
+	Field[bLbds;]
+	Field[cLjava/lang/String;]
+	Field[d[Lbds;]
+	Method[values()[Lbds;]
+	Method[valueOf(Ljava/lang/String;)Lbds;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

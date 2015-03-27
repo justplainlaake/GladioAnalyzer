@@ -1,0 +1,19 @@
+qq extends java/lang/Object {
+	Field[aLnet/minecraft/server/MinecraftServer;]
+	Field[bLqu;]
+	Method[<init>(Lnet/minecraft/server/MinecraftServer;Lqu;)V]
+	Method[a(IZDDDDDD[I)V]
+	Method[a(Lwx;)V]
+	Method[b(Lwx;)V]
+	Method[a(Ljava/lang/String;DDDFF)V]
+	Method[a(Laha;Ljava/lang/String;DDDFF)V]
+	Method[a(IIIIII)V]
+	Method[a(Ldt;)V]
+	Method[b(Ldt;)V]
+	Method[a(Ljava/lang/String;Ldt;)V]
+	Method[a(Laha;ILdt;I)V]
+	Method[a(ILdt;I)V]
+	Method[b(ILdt;I)V]
+}
+
+

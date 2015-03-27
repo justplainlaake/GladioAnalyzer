@@ -1,0 +1,10 @@
+aut extends atz {
+	Method[<init>()V]
+	Method[g(Lbea;)Lbof;]
+	Method[c(Lato;)Z]
+	Method[a(Laqr;Ldt;)Z]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[a(Laqr;Laha;Ldt;Lbea;Lbck;)V]
+}
+
+

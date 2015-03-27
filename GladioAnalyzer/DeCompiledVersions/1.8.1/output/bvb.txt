@@ -1,0 +1,27 @@
+bvb extends java/lang/Object {
+	Field[aLbss;]
+	Field[bLbtz;]
+	Field[cLbtz;]
+	Field[dLbtz;]
+	Method[<init>(Lbtz;Lbtz;)V]
+	Method[a()Lbtz;]
+	Method[b()Lbtz;]
+	Method[a(IIIIIIIZ)V]
+	Method[a(Lbtz;IIIZ)V]
+	Method[a(Lbue;IIIZ)V]
+	Method[a(Lbuj;IZ)V]
+	Method[a(Lbum;IIIZ)V]
+	Method[a(III)V]
+	Method[a(IIIIII)Z]
+	Method[a(Lbtz;III)Z]
+	Method[a(Lbue;III)Z]
+	Method[a(Lbuj;III)V]
+	Method[b(IIIIII)V]
+	Method[b(Lbtz;III)V]
+	Method[b(Lbue;III)V]
+	Method[a(Lbvb;)Lbtz;]
+	Method[b(Lbvb;)Lbtz;]
+	Method[c(Lbvb;)Lbtz;]
+}
+
+

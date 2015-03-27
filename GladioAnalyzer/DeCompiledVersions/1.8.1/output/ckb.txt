@@ -1,0 +1,11 @@
+ckb extends java/lang/Object {
+	Field[aLcka;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

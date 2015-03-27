@@ -1,0 +1,13 @@
+ckc extends java/lang/Enum {
+	Field[aLckc;]
+	Field[bLckc;]
+	Field[cLckc;]
+	Field[dLckc;]
+	Field[e[Lckc;]
+	Method[values()[Lckc;]
+	Method[valueOf(Ljava/lang/String;)Lckc;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,8 @@
+oq extends od {
+	Method[<init>()V]
+	Method[a(Laqr;Lex;)Lahl;]
+	Method[a()F]
+	Method[b()F]
+}
+
+

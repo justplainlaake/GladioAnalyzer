@@ -1,0 +1,10 @@
+abd extends abb {
+	Field[fLdt;]
+	Method[<init>(Lxq;Laqr;)V]
+	Method[a(Ldt;)Lbpt;]
+	Method[a(Lwx;)Lbpt;]
+	Method[a(Lwx;D)Z]
+	Method[k()V]
+}
+
+

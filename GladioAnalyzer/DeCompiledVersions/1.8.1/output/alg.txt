@@ -1,0 +1,10 @@
+alg extends aln {
+	Method[<init>()V]
+	Method[w_()Z]
+	Method[e()Z]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+	Method[f_(Lamg;)Z]
+	Method[b()I]
+}
+
+

@@ -1,0 +1,16 @@
+ary extends arj {
+	Field[aDLbhn;]
+	Field[aELbim;]
+	Field[aFI]
+	Field[aGI]
+	Field[aHI]
+	Field[aII]
+	Method[<init>(IZ)V]
+	Method[a(Ljava/util/Random;)Lbha;]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbgi;IID)V]
+	Method[b(Larj;)Lary;]
+	Method[d(I)Larj;]
+}
+
+

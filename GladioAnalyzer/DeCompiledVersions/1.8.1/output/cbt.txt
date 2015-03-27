@@ -1,0 +1,8 @@
+cbt extends cck {
+	Method[<init>()V]
+	Method[<init>(F)V]
+	Method[<init>(FII)V]
+	Method[a(FFFFFFLwx;)V]
+}
+
+

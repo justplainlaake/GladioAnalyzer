@@ -1,0 +1,8 @@
+cme extends java/lang/Object {
+	Field[aLcmc;]
+	Field[bLcmc;]
+	Method[<init>(Lcmc;)V]
+	Method[<init>(Lcmc;Lcmd;)V]
+}
+
+

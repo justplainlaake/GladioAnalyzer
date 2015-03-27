@@ -1,0 +1,16 @@
+brn extends java/lang/Object {
+	Field[aLbrn;]
+	Field[bLjava/util/List;]
+	Field[cJ]
+	Field[dJ]
+	Field[eZ]
+	Method[<init>()V]
+	Method[a()Lbrn;]
+	Method[run()V]
+	Method[c()V]
+	Method[a(Lbro;)V]
+	Method[b()V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,15 @@
+lu extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLdt;]
+	Method[<init>()V]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;Ldt;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ldt;]
+	Method[a(Lhh;)V]
+}
+
+

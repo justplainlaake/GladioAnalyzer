@@ -1,0 +1,8 @@
+bgh extends bgr {
+	Field[d[F]
+	Method[<init>()V]
+	Method[a(JIILbgi;DDDFFFIID)V]
+	Method[a(Laqr;IIIILbgi;)V]
+}
+
+

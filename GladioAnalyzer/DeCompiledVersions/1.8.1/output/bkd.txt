@@ -1,0 +1,12 @@
+bkd extends bjn {
+	Field[bLbka;]
+	Field[cLjava/util/List;]
+	Field[dLjava/util/List;]
+	Field[eLjava/util/List;]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/Random;II)V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+}
+
+

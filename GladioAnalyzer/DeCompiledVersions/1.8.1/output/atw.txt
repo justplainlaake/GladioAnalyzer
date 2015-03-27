@@ -1,0 +1,7 @@
+atw extends java/lang/Object {
+	Method[a(Laqr;Ldt;Lbea;Z)Z]
+	Method[a(Laqr;Ljava/util/Random;Ldt;Lbea;)Z]
+	Method[b(Laqr;Ljava/util/Random;Ldt;Lbea;)V]
+}
+
+

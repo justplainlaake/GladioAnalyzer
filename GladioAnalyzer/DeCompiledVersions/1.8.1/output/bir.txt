@@ -1,0 +1,6 @@
+bir extends bhn {
+	Method[<init>()V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+}
+
+

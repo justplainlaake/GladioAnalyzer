@@ -1,0 +1,9 @@
+aan extends aaz {
+	Field[aLacr;]
+	Field[bLxo;]
+	Method[<init>(Lacr;)V]
+	Method[a()Z]
+	Method[c()V]
+}
+
+

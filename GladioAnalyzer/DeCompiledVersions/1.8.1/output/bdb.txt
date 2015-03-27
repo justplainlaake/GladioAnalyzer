@@ -1,0 +1,8 @@
+bdb extends java/lang/Object {
+	Method[z()Laqr;]
+	Method[A()D]
+	Method[B()D]
+	Method[C()D]
+}
+
+

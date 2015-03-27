@@ -1,0 +1,5 @@
+w extends java/lang/Object {
+	Method[a()Lx;]
+}
+
+

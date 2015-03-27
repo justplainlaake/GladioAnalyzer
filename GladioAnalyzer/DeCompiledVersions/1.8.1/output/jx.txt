@@ -1,0 +1,26 @@
+jx extends java/lang/Object {
+	Field[aI]
+	Field[bZ]
+	Field[cLaqz;]
+	Field[dI]
+	Field[eLvv;]
+	Field[fI]
+	Field[gLarb;]
+	Field[hZ]
+	Method[<init>()V]
+	Method[<init>(ILaqz;ZILvv;ILarb;Z)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()I]
+	Method[b()Z]
+	Method[c()Laqz;]
+	Method[d()I]
+	Method[e()Lvv;]
+	Method[f()I]
+	Method[g()Larb;]
+	Method[h()Z]
+	Method[a(Lhh;)V]
+}
+
+

@@ -1,0 +1,14 @@
+jg extends java/lang/Object {
+	Field[aI]
+	Field[b[Lamg;]
+	Method[<init>()V]
+	Method[<init>(ILjava/util/List;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()I]
+	Method[b()[Lamg;]
+	Method[a(Lhh;)V]
+}
+
+

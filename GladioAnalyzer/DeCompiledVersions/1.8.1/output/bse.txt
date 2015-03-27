@@ -1,0 +1,18 @@
+bse extends java/lang/Enum {
+	Field[aLbse;]
+	Field[bLbse;]
+	Field[cLbse;]
+	Field[dLbse;]
+	Field[gLjava/util/Map;]
+	Field[eLjava/lang/String;]
+	Field[fI]
+	Field[h[Lbse;]
+	Method[values()[Lbse;]
+	Method[valueOf(Ljava/lang/String;)Lbse;]
+	Method[a()[Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)Lbse;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

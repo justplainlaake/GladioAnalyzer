@@ -1,0 +1,8 @@
+cwa extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Field[bLcvz;]
+	Method[<init>(Lcvz;Ljava/util/Map;)V]
+	Method[run()V]
+}
+
+

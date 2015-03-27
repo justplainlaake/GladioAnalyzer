@@ -1,0 +1,11 @@
+cps extends cqz {
+	Field[aLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Laew;)F]
+	Method[b(Laew;)Lob;]
+	Method[b(Lxo;)F]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

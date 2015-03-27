@@ -1,0 +1,17 @@
+aar extends ze {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLxq;]
+	Field[cLcom/google/common/base/Predicate;]
+	Field[dLaav;]
+	Field[eLxo;]
+	Method[<init>(Lxq;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[f()D]
+	Method[a(Laar;)Lxq;]
+	Method[<clinit>()V]
+}
+
+

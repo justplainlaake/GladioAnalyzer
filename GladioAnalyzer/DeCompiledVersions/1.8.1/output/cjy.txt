@@ -1,0 +1,11 @@
+cjy extends java/lang/Object {
+	Field[aLcjq;]
+	Field[bI]
+	Field[cF]
+	Field[dF]
+	Field[eF]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

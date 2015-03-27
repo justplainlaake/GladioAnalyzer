@@ -1,0 +1,10 @@
+cil extends java/lang/Object {
+	Field[aF]
+	Field[bF]
+	Field[cZ]
+	Field[dZ]
+	Method[<init>()V]
+	Method[a()V]
+}
+
+

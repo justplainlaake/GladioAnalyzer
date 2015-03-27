@@ -1,0 +1,23 @@
+czy extends java/lang/Enum {
+	Field[aLczy;]
+	Field[bLczy;]
+	Field[cLczy;]
+	Field[dLczy;]
+	Field[eLczy;]
+	Field[fLczy;]
+	Field[gLczy;]
+	Field[hLczy;]
+	Field[iLczy;]
+	Field[jLczy;]
+	Field[kLczy;]
+	Field[lLczy;]
+	Field[mLczy;]
+	Field[nLczy;]
+	Field[o[Lczy;]
+	Method[values()[Lczy;]
+	Method[valueOf(Ljava/lang/String;)Lczy;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

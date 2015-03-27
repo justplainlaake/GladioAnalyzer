@@ -1,0 +1,10 @@
+cdm extends ccp {
+	Field[a[Lcdx;]
+	Field[b[Lcdx;]
+	Method[<init>(F)V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(FFFFFFLwx;)V]
+	Method[a(Lxo;FFF)V]
+}
+
+

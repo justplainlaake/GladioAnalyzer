@@ -1,0 +1,15 @@
+ku extends java/lang/Enum {
+	Field[aLku;]
+	Field[bLku;]
+	Field[cLku;]
+	Field[dLku;]
+	Field[eLku;]
+	Field[fLku;]
+	Field[g[Lku;]
+	Method[values()[Lku;]
+	Method[valueOf(Ljava/lang/String;)Lku;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

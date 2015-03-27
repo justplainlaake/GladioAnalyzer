@@ -1,0 +1,19 @@
+bwr extends bxe {
+	Field[aLbxe;]
+	Field[fLbws;]
+	Field[gLbtm;]
+	Field[hLcwe;]
+	Field[iLbuu;]
+	Field[rLbuu;]
+	Method[<init>(Lbxe;Lbtm;Lcwe;)V]
+	Method[b()V]
+	Method[k()V]
+	Method[a(Lbue;)V]
+	Method[a(IIF)V]
+	Method[a(Lbwr;)Lcwe;]
+	Method[b(Lbwr;)Lbtm;]
+	Method[c(Lbwr;)Lbuu;]
+	Method[d(Lbwr;)Lbuu;]
+}
+
+

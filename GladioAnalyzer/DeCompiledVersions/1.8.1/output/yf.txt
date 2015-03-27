@@ -1,0 +1,16 @@
+yf extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Field[bLjava/util/Map;]
+	Field[cLcom/google/common/collect/Multimap;]
+	Method[<init>()V]
+	Method[a(Lyb;)Lyc;]
+	Method[a(Ljava/lang/String;)Lyc;]
+	Method[b(Lyb;)Lyc;]
+	Method[c(Lyb;)Lyc;]
+	Method[a()Ljava/util/Collection;]
+	Method[a(Lyc;)V]
+	Method[a(Lcom/google/common/collect/Multimap;)V]
+	Method[b(Lcom/google/common/collect/Multimap;)V]
+}
+
+

@@ -1,0 +1,8 @@
+qk extends qu {
+	Field[IJ]
+	Field[aLaqy;]
+	Method[<init>(Lnet/minecraft/server/MinecraftServer;Lbqw;Lbqm;ILuy;)V]
+	Method[<clinit>()V]
+}
+
+

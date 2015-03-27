@@ -1,0 +1,14 @@
+jl extends java/lang/Object {
+	Field[aI]
+	Field[bB]
+	Method[<init>()V]
+	Method[<init>(Lwx;B)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a(Laqr;)Lwx;]
+	Method[a()B]
+	Method[a(Lhh;)V]
+}
+
+

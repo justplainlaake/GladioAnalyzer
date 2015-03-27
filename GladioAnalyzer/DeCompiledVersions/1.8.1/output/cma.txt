@@ -1,0 +1,12 @@
+cma extends java/lang/Object {
+	Field[a[F]
+	Field[bI]
+	Method[<init>([FI)V]
+	Method[a(I)F]
+	Method[b(I)F]
+	Method[d(I)I]
+	Method[c(I)I]
+	Method[a([F)V]
+}
+
+

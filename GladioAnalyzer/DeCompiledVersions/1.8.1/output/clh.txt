@@ -1,0 +1,7 @@
+clh extends cnc {
+	Field[aLclc;]
+	Method[<init>(Lclc;)V]
+	Method[a(Lbea;)Lcxl;]
+}
+
+

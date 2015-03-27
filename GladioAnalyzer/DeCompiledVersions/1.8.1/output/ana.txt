@@ -1,0 +1,8 @@
+ana extends aln {
+	Method[<init>()V]
+	Method[a(Lamg;Laqr;Lato;Ldt;Lxo;)Z]
+	Method[b(Lato;)Z]
+	Method[a(Lamg;Lato;)F]
+}
+
+

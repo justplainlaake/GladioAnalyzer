@@ -1,0 +1,4 @@
+agi extends java/lang/Object {
+}
+
+

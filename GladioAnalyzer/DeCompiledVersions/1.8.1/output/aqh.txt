@@ -1,0 +1,15 @@
+aqh extends java/lang/Object {
+	Field[aLdt;]
+	Field[bLato;]
+	Field[cI]
+	Field[dI]
+	Method[<init>(Ldt;Lato;II)V]
+	Method[a()Ldt;]
+	Method[b()I]
+	Method[c()I]
+	Method[d()Lato;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[toString()Ljava/lang/String;]
+}
+
+

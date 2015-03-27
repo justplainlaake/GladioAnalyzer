@@ -1,0 +1,7 @@
+bdz extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Ljava/util/Map$Entry;)Ljava/lang/String;]
+	Method[apply(Ljava/lang/Object;)Ljava/lang/Object;]
+}
+
+

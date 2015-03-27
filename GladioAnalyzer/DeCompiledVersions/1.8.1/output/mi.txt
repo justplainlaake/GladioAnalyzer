@@ -1,0 +1,9 @@
+mi extends mh {
+	Method[<init>()V]
+	Method[<init>(DDDZ)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lhh;)V]
+}
+
+

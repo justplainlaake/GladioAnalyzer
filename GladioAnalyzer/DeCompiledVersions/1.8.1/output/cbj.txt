@@ -1,0 +1,9 @@
+cbj extends java/lang/Object {
+	Field[aLbtu;]
+	Field[bLcom/mojang/authlib/properties/PropertyMap;]
+	Field[cLcom/mojang/authlib/properties/PropertyMap;]
+	Field[dLjava/net/Proxy;]
+	Method[<init>(Lbtu;Lcom/mojang/authlib/properties/PropertyMap;Lcom/mojang/authlib/properties/PropertyMap;Ljava/net/Proxy;)V]
+}
+
+

@@ -1,0 +1,11 @@
+bdy extends java/lang/Object {
+	Field[aLcom/google/common/base/Joiner;]
+	Field[bLcom/google/common/base/Function;]
+	Method[<init>()V]
+	Method[a(Lbev;)Lbea;]
+	Method[a(Ljava/util/Collection;Ljava/lang/Object;)Ljava/lang/Object;]
+	Method[toString()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

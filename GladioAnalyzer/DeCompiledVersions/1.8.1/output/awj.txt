@@ -1,0 +1,9 @@
+awj extends ato {
+	Method[<init>(Lbod;)V]
+	Method[a(ILjava/util/Random;)I]
+	Method[a(Ljava/util/Random;)I]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[g(Lbea;)Lbof;]
+}
+
+

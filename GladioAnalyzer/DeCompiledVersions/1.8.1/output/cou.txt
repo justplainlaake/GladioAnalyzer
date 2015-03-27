@@ -1,0 +1,13 @@
+cou extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/util/BitSet;]
+	Method[<init>()V]
+	Method[a(Ljava/util/Set;)V]
+	Method[a(Lej;Lej;Z)V]
+	Method[a(Z)V]
+	Method[a(Lej;Lej;)Z]
+	Method[toString()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

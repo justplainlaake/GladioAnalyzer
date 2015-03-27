@@ -1,0 +1,7 @@
+ban extends ato {
+	Method[<init>()V]
+	Method[a(Laqr;Ldt;Lbea;)Lbrr;]
+	Method[a(Laqr;Ldt;Lbea;Lwx;)V]
+}
+
+

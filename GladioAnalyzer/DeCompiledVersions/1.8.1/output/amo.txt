@@ -1,0 +1,10 @@
+amo extends ajr {
+	Field[bLato;]
+	Field[cLcom/google/common/base/Function;]
+	Method[<init>(Lato;Lato;Lcom/google/common/base/Function;)V]
+	Method[<init>(Lato;Lato;[Ljava/lang/String;)V]
+	Method[a(I)I]
+	Method[e_(Lamg;)Ljava/lang/String;]
+}
+
+

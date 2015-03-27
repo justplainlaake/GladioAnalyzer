@@ -1,0 +1,12 @@
+brt extends java/lang/Enum {
+	Field[aLbrt;]
+	Field[bLbrt;]
+	Field[cLbrt;]
+	Field[d[Lbrt;]
+	Method[values()[Lbrt;]
+	Method[valueOf(Ljava/lang/String;)Lbrt;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

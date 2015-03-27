@@ -1,0 +1,12 @@
+bol extends java/lang/Enum {
+	Field[aLbol;]
+	Field[bLbol;]
+	Field[cLbol;]
+	Field[d[Lbol;]
+	Method[values()[Lbol;]
+	Method[valueOf(Ljava/lang/String;)Lbol;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

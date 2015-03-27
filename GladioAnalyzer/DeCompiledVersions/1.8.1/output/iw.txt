@@ -1,0 +1,18 @@
+iw extends java/lang/Object {
+	Field[aLdt;]
+	Field[bI]
+	Field[cI]
+	Field[dLato;]
+	Method[<init>()V]
+	Method[<init>(Ldt;Lato;II)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Ldt;]
+	Method[b()I]
+	Method[c()I]
+	Method[d()Lato;]
+	Method[a(Lhh;)V]
+}
+
+

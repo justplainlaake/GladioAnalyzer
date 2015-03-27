@@ -1,0 +1,8 @@
+ii extends java/lang/Object {
+	Field[aLie;]
+	Field[bLhh;]
+	Method[<init>(Lie;Lhh;)V]
+	Method[run()V]
+}
+
+

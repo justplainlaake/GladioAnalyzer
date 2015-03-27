@@ -1,0 +1,16 @@
+ye extends java/lang/Object {
+	Field[aLyb;]
+	Field[bLjava/lang/String;]
+	Field[cD]
+	Field[dZ]
+	Method[<init>(Lyb;Ljava/lang/String;D)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()D]
+	Method[c()Z]
+	Method[a(Z)Lye;]
+	Method[d()Lyb;]
+	Method[hashCode()I]
+	Method[equals(Ljava/lang/Object;)Z]
+}
+
+

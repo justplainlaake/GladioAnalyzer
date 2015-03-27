@@ -1,0 +1,11 @@
+aqm extends java/lang/Object {
+	Field[a[I]
+	Method[a([I)V]
+	Method[a(DD)I]
+	Method[a()I]
+	Method[b()I]
+	Method[c()I]
+	Method[<clinit>()V]
+}
+
+

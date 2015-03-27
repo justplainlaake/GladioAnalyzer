@@ -1,0 +1,10 @@
+axb extends bck {
+	Field[aLamg;]
+	Method[<init>()V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a()Lamg;]
+	Method[a(Lamg;)V]
+}
+
+

@@ -1,0 +1,8 @@
+bes extends bet {
+	Method[<init>(Ljava/lang/String;Ljava/util/Collection;)V]
+	Method[a(Ljava/lang/String;)Lbes;]
+	Method[a(Ljava/lang/String;Lcom/google/common/base/Predicate;)Lbes;]
+	Method[a(Ljava/lang/String;Ljava/util/Collection;)Lbes;]
+}
+
+

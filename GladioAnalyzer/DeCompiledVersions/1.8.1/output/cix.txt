@@ -1,0 +1,6 @@
+cix extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lciu;I)I]
+}
+
+

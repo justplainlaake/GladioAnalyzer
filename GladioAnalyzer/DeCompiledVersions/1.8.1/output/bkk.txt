@@ -1,0 +1,8 @@
+bkk extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lbld;)Z]
+	Method[a(Lej;Lbld;Ljava/util/Random;)Lbkz;]
+	Method[<init>(Lbkh;)V]
+}
+
+

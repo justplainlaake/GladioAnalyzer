@@ -1,0 +1,13 @@
+cph extends cqz {
+	Field[aLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Labr;)Lob;]
+	Method[a(Labr;F)V]
+	Method[a(Labr;FFF)V]
+	Method[a(Lxo;F)V]
+	Method[a(Lxo;FFF)V]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

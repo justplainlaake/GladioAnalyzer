@@ -1,0 +1,14 @@
+cti extends java/lang/Object {
+	Field[aLctj;]
+	Field[bLjava/lang/String;]
+	Field[cI]
+	Field[dI]
+	Method[<init>(Lctj;ILjava/lang/String;)V]
+	Method[a(Lctf;)V]
+	Method[b(Lctf;)V]
+	Method[a()Ljava/lang/String;]
+	Method[a(Lcvk;Lctj;Ljava/lang/String;)Lcti;]
+	Method[a(Ljava/io/BufferedInputStream;)[B]
+}
+
+

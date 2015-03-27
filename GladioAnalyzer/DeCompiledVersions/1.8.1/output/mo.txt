@@ -1,0 +1,16 @@
+mo extends java/lang/Object {
+	Field[aI]
+	Field[bLmp;]
+	Field[cI]
+	Method[<init>()V]
+	Method[<init>(Lwx;Lmp;)V]
+	Method[<init>(Lwx;Lmp;I)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[b()Lmp;]
+	Method[c()I]
+	Method[a(Lhh;)V]
+}
+
+

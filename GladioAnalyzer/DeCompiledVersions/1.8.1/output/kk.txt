@@ -1,0 +1,14 @@
+kk extends java/lang/Enum {
+	Field[aLkk;]
+	Field[bLkk;]
+	Field[cLkk;]
+	Field[dLkk;]
+	Field[eLkk;]
+	Field[f[Lkk;]
+	Method[values()[Lkk;]
+	Method[valueOf(Ljava/lang/String;)Lkk;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

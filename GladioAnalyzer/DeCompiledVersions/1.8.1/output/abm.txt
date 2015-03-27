@@ -1,0 +1,8 @@
+abm extends java/lang/Object {
+	Field[aLxo;]
+	Field[bI]
+	Field[cLabl;]
+	Method[<init>(Labl;Lxo;I)V]
+}
+
+

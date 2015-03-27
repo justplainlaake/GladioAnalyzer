@@ -1,0 +1,10 @@
+clm extends java/lang/Object {
+	Field[a[Lcue;]
+	Field[b[Lcue;]
+	Method[<init>()V]
+	Method[a()V]
+	Method[a(Lara;Lbea;Ldt;Lciu;)Z]
+	Method[a(Lara;Ldt;Lbod;)F]
+}
+
+

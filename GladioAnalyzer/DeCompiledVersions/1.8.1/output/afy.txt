@@ -1,0 +1,8 @@
+afy extends ze {
+	Field[aLafw;]
+	Method[<init>(Lafw;)V]
+	Method[a()Z]
+	Method[e()V]
+}
+
+

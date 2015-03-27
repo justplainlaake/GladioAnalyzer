@@ -1,0 +1,12 @@
+aci extends yo {
+	Field[cLacd;]
+	Field[dZ]
+	Field[bLacd;]
+	Method[<init>(Lacd;Lacd;)V]
+	Method[c()Z]
+	Method[d()Z]
+	Method[a(Z)V]
+	Method[b()V]
+}
+
+

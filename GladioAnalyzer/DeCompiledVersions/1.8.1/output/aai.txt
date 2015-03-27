@@ -1,0 +1,14 @@
+aai extends ze {
+	Field[aLagn;]
+	Field[bLacr;]
+	Field[cI]
+	Field[dZ]
+	Method[<init>(Lagn;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+}
+
+

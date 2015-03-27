@@ -1,0 +1,12 @@
+aeo extends ze {
+	Field[aLaen;]
+	Field[bI]
+	Field[cI]
+	Method[<init>(Laen;)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+}
+
+

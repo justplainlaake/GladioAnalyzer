@@ -1,0 +1,7 @@
+aju extends aln {
+	Method[<init>()V]
+	Method[f_(Lamg;)Z]
+	Method[b()I]
+}
+
+

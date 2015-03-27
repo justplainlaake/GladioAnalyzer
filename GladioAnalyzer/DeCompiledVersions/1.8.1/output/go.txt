@@ -1,0 +1,8 @@
+go extends io/netty/handler/codec/MessageToByteEncoder {
+	Field[aLgm;]
+	Method[<init>(Ljavax/crypto/Cipher;)V]
+	Method[a(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;Lio/netty/buffer/ByteBuf;)V]
+	Method[encode(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;Lio/netty/buffer/ByteBuf;)V]
+}
+
+

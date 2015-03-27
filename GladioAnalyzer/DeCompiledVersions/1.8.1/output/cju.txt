@@ -1,0 +1,10 @@
+cju extends java/lang/Object {
+	Field[aZ]
+	Field[bZ]
+	Field[cZ]
+	Field[dZ]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

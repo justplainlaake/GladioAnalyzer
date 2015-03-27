@@ -1,0 +1,20 @@
+ccp extends java/lang/Object {
+	Field[pF]
+	Field[qZ]
+	Field[rZ]
+	Field[sLjava/util/List;]
+	Field[aLjava/util/Map;]
+	Field[tI]
+	Field[uI]
+	Method[<init>()V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(FFFFFFLwx;)V]
+	Method[a(Lxo;FFF)V]
+	Method[a(Ljava/util/Random;)Lcdx;]
+	Method[a(Ljava/lang/String;II)V]
+	Method[a(Ljava/lang/String;)Lcdy;]
+	Method[a(Lcdx;Lcdx;)V]
+	Method[a(Lccp;)V]
+}
+
+

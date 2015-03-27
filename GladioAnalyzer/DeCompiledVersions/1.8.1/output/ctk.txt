@@ -1,0 +1,13 @@
+ctk extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLctk;]
+	Method[a()V]
+	Method[b()Lctk;]
+	Method[<init>()V]
+	Method[a(Lctf;)V]
+	Method[c()I]
+	Method[b(Lctf;)V]
+	Method[<clinit>()V]
+}
+
+

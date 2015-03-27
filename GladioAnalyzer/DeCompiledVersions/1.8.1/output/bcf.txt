@@ -1,0 +1,6 @@
+bcf extends avv {
+	Method[<init>()V]
+	Method[k()Lavz;]
+}
+
+

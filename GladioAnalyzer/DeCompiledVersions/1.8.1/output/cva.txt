@@ -1,0 +1,11 @@
+cva extends java/lang/Object {
+	Field[aLob;]
+	Field[bLob;]
+	Method[a()Lob;]
+	Method[a(Ljava/util/UUID;)Lob;]
+	Method[b(Ljava/util/UUID;)Ljava/lang/String;]
+	Method[c(Ljava/util/UUID;)Z]
+	Method[<clinit>()V]
+}
+
+

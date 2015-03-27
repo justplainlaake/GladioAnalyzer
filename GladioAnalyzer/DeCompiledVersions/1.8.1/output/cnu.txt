@@ -1,0 +1,8 @@
+cnu extends cnp {
+	Field[cLcll;]
+	Method[<init>()V]
+	Method[a(Lbdt;DDDFI)V]
+	Method[a(Lbck;DDDFI)V]
+}
+
+

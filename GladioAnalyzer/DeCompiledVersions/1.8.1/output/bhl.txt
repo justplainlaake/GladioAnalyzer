@@ -1,0 +1,11 @@
+bhl extends bhn {
+	Field[aLbeo;]
+	Field[bLbea;]
+	Field[cLbea;]
+	Field[dLbea;]
+	Method[<init>()V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+	Method[<clinit>()V]
+}
+
+

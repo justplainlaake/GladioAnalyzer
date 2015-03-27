@@ -1,0 +1,21 @@
+cmu extends java/lang/Enum {
+	Field[aLcmu;]
+	Field[bLcmu;]
+	Field[cLcmu;]
+	Field[dLcmu;]
+	Field[eLej;]
+	Field[fI]
+	Field[gI]
+	Field[h[Lcmu;]
+	Method[values()[Lcmu;]
+	Method[valueOf(Ljava/lang/String;)Lcmu;]
+	Method[<init>(Ljava/lang/String;ILej;II)V]
+	Method[a()Lej;]
+	Method[b()I]
+	Method[c()I]
+	Method[d()Z]
+	Method[a(Lcmu;)Z]
+	Method[<clinit>()V]
+}
+
+

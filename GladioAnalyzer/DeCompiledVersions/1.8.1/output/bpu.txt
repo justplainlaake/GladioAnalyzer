@@ -1,0 +1,13 @@
+bpu extends java/lang/Object {
+	Field[aLbpq;]
+	Field[b[Lbpr;]
+	Field[cLbps;]
+	Method[<init>(Lbps;)V]
+	Method[a(Lara;Lwx;Lwx;F)Lbpt;]
+	Method[a(Lara;Lwx;Ldt;F)Lbpt;]
+	Method[a(Lara;Lwx;DDDF)Lbpt;]
+	Method[a(Lwx;Lbpr;Lbpr;F)Lbpt;]
+	Method[a(Lbpr;Lbpr;)Lbpt;]
+}
+
+

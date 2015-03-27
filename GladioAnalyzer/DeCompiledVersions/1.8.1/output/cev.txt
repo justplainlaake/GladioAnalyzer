@@ -1,0 +1,25 @@
+cev extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Field[cLjava/lang/String;]
+	Field[dLjava/lang/String;]
+	Field[eJ]
+	Field[fI]
+	Field[gLjava/lang/String;]
+	Field[hZ]
+	Field[iLjava/lang/String;]
+	Field[jLcew;]
+	Field[kLjava/lang/String;]
+	Field[lZ]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;Z)V]
+	Method[a()Lfn;]
+	Method[b()Lcew;]
+	Method[a(Lcew;)V]
+	Method[a(Lfn;)Lcev;]
+	Method[c()Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)V]
+	Method[d()Z]
+	Method[a(Lcev;)V]
+}
+
+

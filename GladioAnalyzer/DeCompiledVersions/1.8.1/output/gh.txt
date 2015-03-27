@@ -1,0 +1,7 @@
+gh extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Method[<init>()V]
+	Method[a()Lgd;]
+}
+
+

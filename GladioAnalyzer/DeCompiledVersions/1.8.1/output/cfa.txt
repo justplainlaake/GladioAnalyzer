@@ -1,0 +1,9 @@
+cfa extends io/netty/channel/ChannelInitializer {
+	Field[aLceu;]
+	Field[bLcev;]
+	Field[cLcey;]
+	Method[<init>(Lcey;Lceu;Lcev;)V]
+	Method[initChannel(Lio/netty/channel/Channel;)V]
+}
+
+

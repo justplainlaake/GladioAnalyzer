@@ -1,0 +1,7 @@
+bcw extends bcv {
+	Method[<init>()V]
+	Method[e_()Ljava/lang/String;]
+	Method[k()Ljava/lang/String;]
+}
+
+

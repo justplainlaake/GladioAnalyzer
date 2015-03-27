@@ -1,0 +1,10 @@
+cfp extends cgv {
+	Field[aLbod;]
+	Field[azI]
+	Method[<init>(Laqr;DDDLbod;)V]
+	Method[b(F)I]
+	Method[c(F)F]
+	Method[t_()V]
+}
+
+

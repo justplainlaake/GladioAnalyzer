@@ -1,0 +1,7 @@
+cdy extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Method[<init>(II)V]
+}
+
+

@@ -1,0 +1,9 @@
+bxk extends bue {
+	Field[pLahe;]
+	Field[oLbxi;]
+	Method[<init>(Lbxi;IIIIILahe;)V]
+	Method[<init>(Lbxi;IIIIILahe;Lbxj;)V]
+	Method[a(Lbxk;)Lahe;]
+}
+
+

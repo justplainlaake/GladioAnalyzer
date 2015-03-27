@@ -1,0 +1,9 @@
+alj extends ali {
+	Method[<init>(IFZ)V]
+	Method[f(Lamg;)Z]
+	Method[g(Lamg;)Lamu;]
+	Method[c(Lamg;Laqr;Laha;)V]
+	Method[a(Laln;Lakc;Ljava/util/List;)V]
+}
+
+

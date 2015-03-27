@@ -1,0 +1,14 @@
+aro extends java/lang/Object {
+	Field[aLarw;]
+	Field[bJ]
+	Field[cLut;]
+	Field[dLjava/util/List;]
+	Method[<init>(Larw;)V]
+	Method[a(II)Larp;]
+	Method[a(IILarj;)Larj;]
+	Method[a()V]
+	Method[c(II)[Larj;]
+	Method[a(Laro;)Larw;]
+}
+
+

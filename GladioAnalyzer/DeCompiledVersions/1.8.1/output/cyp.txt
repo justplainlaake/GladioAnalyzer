@@ -1,0 +1,9 @@
+cyp extends java/lang/Object {
+	Field[aLjava/util/concurrent/atomic/AtomicInteger;]
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Method[a()Ljava/util/concurrent/atomic/AtomicInteger;]
+	Method[b()Lorg/apache/logging/log4j/Logger;]
+	Method[<clinit>()V]
+}
+
+

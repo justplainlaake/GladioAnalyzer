@@ -1,0 +1,7 @@
+crf extends csm {
+	Field[aLcre;]
+	Method[<init>(Lcre;Lcqv;)V]
+	Method[a()V]
+}
+
+

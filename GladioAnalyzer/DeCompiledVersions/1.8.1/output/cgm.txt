@@ -1,0 +1,14 @@
+cgm extends cgv {
+	Field[aLwx;]
+	Field[azLwx;]
+	Field[aAI]
+	Field[aBI]
+	Field[aCF]
+	Field[aDLcpt;]
+	Method[<init>(Laqr;Lwx;Lwx;F)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[t_()V]
+	Method[a()I]
+}
+
+

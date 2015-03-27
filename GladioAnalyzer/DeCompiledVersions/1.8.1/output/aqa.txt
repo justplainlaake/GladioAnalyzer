@@ -1,0 +1,12 @@
+aqa extends java/util/ArrayList {
+	Method[<init>()V]
+	Method[<init>(Lfn;)V]
+	Method[a(Lamg;Lamg;I)Lapz;]
+	Method[a(Lamg;Lamg;)Z]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)Laqa;]
+	Method[a(Lfn;)V]
+	Method[a()Lfn;]
+}
+
+

@@ -1,0 +1,6 @@
+ams extends ajr {
+	Method[<init>(Lato;)V]
+	Method[a(I)I]
+}
+
+

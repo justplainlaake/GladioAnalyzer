@@ -1,0 +1,28 @@
+cvo extends java/lang/Object {
+	Field[cLorg/apache/logging/log4j/Logger;]
+	Field[dLjava/io/FileFilter;]
+	Field[eLjava/io/File;]
+	Field[aLcvm;]
+	Field[fLjava/io/File;]
+	Field[bLcwk;]
+	Field[gLcvm;]
+	Field[hLjava/util/concurrent/locks/ReentrantLock;]
+	Field[iLcom/google/common/util/concurrent/ListenableFuture;]
+	Field[jLjava/util/List;]
+	Field[kLjava/util/List;]
+	Method[<init>(Ljava/io/File;Ljava/io/File;Lcvm;Lcwk;Lbtm;)V]
+	Method[g()V]
+	Method[h()Ljava/util/List;]
+	Method[a()V]
+	Method[b()Ljava/util/List;]
+	Method[c()Ljava/util/List;]
+	Method[a(Ljava/util/List;)V]
+	Method[d()Ljava/io/File;]
+	Method[a(Ljava/lang/String;Ljava/lang/String;)Lcom/google/common/util/concurrent/ListenableFuture;]
+	Method[a(Ljava/io/File;)Lcom/google/common/util/concurrent/ListenableFuture;]
+	Method[e()Lcvm;]
+	Method[f()V]
+	Method[<clinit>()V]
+}
+
+

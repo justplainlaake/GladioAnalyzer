@@ -1,0 +1,12 @@
+bxc extends bxe {
+	Field[aLced;]
+	Field[fI]
+	Method[<init>(Lced;)V]
+	Method[a(CI)V]
+	Method[b()V]
+	Method[e()V]
+	Method[a(IIF)V]
+	Method[d()Z]
+}
+
+

@@ -1,0 +1,7 @@
+byn extends byq {
+	Field[oLbym;]
+	Method[<init>(Lbym;III)V]
+	Method[b(II)V]
+}
+
+

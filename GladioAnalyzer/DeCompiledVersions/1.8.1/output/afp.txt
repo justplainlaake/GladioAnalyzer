@@ -1,0 +1,6 @@
+afp extends aao {
+	Method[<init>(Lafn;)V]
+	Method[a(Lxx;Lxo;)V]
+}
+
+

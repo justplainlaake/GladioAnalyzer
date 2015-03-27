@@ -1,0 +1,9 @@
+sm extends java/lang/Object {
+	Field[aLnet/minecraft/server/MinecraftServer;]
+	Field[bLjava/util/List;]
+	Method[<init>(Lnet/minecraft/server/MinecraftServer;Ljava/util/List;)V]
+	Method[onProfileLookupSucceeded(Lcom/mojang/authlib/GameProfile;)V]
+	Method[onProfileLookupFailed(Lcom/mojang/authlib/GameProfile;Ljava/lang/Exception;)V]
+}
+
+

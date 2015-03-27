@@ -1,0 +1,28 @@
+axe extends bbm {
+	Field[aLber;]
+	Field[bLber;]
+	Field[N[I]
+	Field[OI]
+	Field[PZ]
+	Method[<init>()V]
+	Method[G()I]
+	Method[h(Lbea;)I]
+	Method[a(Lara;Ldt;I)I]
+	Method[b(Laqr;Ldt;Lbea;)V]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[c(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[e(Laqr;Ldt;)V]
+	Method[a(Ljava/util/Random;)I]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[a(Laqr;Ldt;Lbea;FI)V]
+	Method[a(Laqr;Ldt;Lbea;I)V]
+	Method[d(Lbea;)I]
+	Method[c()Z]
+	Method[b(Z)V]
+	Method[l()Laqi;]
+	Method[v()Z]
+	Method[b(I)Layu;]
+	Method[<clinit>()V]
+}
+
+

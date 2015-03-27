@@ -1,0 +1,17 @@
+nq extends java/lang/Object {
+	Field[aLhp;]
+	Field[bLnr;]
+	Field[cLnu;]
+	Field[dLjava/lang/String;]
+	Method[<init>()V]
+	Method[a()Lhp;]
+	Method[a(Lhp;)V]
+	Method[b()Lnr;]
+	Method[a(Lnr;)V]
+	Method[c()Lnu;]
+	Method[a(Lnu;)V]
+	Method[a(Ljava/lang/String;)V]
+	Method[d()Ljava/lang/String;]
+}
+
+

@@ -1,0 +1,8 @@
+ajo extends akp {
+	Field[cLjava/util/Set;]
+	Method[<init>(Lamf;)V]
+	Method[a(Lamg;Lato;)F]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,7 @@
+wb extends java/lang/Object {
+	Method[e_()Ljava/lang/String;]
+	Method[l_()Z]
+	Method[f_()Lhp;]
+}
+
+

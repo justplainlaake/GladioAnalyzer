@@ -1,0 +1,7 @@
+oh extends eg {
+	Field[bLeg;]
+	Method[<init>()V]
+	Method[b(Ldz;Lamg;)Lamg;]
+}
+
+

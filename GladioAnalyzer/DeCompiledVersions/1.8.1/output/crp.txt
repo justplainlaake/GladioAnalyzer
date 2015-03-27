@@ -1,0 +1,10 @@
+crp extends cpu {
+	Field[aLaln;]
+	Field[eLcqh;]
+	Method[<init>(Lcpt;Laln;Lcqh;)V]
+	Method[a(Lwx;DDDFF)V]
+	Method[d(Lwx;)Lamg;]
+	Method[a(Lwx;)Lob;]
+}
+
+

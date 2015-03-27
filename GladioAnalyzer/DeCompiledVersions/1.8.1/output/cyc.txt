@@ -1,0 +1,13 @@
+cyc extends java/lang/Enum {
+	Field[aLcyc;]
+	Field[bLcyc;]
+	Field[cLjava/lang/String;]
+	Field[d[Lcyc;]
+	Method[values()[Lcyc;]
+	Method[valueOf(Ljava/lang/String;)Lcyc;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[a(Ljava/lang/String;)Lcyc;]
+	Method[<clinit>()V]
+}
+
+

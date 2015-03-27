@@ -1,0 +1,9 @@
+ags extends java/lang/Object {
+	Field[aLamg;]
+	Field[bLagu;]
+	Method[<init>(Laln;Lagu;)V]
+	Method[<init>(Lamg;Lagu;)V]
+	Method[a(Laqa;Ljava/util/Random;)V]
+}
+
+

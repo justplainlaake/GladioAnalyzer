@@ -1,0 +1,13 @@
+bow extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/util/List;]
+	Field[cLjava/util/List;]
+	Field[dLjava/util/List;]
+	Field[eLjava/util/List;]
+	Method[a(I)[I]
+	Method[a()V]
+	Method[b()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

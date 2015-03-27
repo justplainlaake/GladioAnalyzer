@@ -1,0 +1,10 @@
+boj extends boy {
+	Field[cLbol;]
+	Method[<init>(JLboy;Lbol;)V]
+	Method[a(IIII)[I]
+	Method[c(IIII)[I]
+	Method[d(IIII)[I]
+	Method[e(IIII)[I]
+}
+
+

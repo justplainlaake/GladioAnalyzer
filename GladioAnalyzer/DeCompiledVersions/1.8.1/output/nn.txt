@@ -1,0 +1,6 @@
+nn extends java/lang/Object {
+	Method[a(Lnp;)V]
+	Method[a(Lno;)V]
+}
+
+

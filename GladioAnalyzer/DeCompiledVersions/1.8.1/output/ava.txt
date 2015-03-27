@@ -1,0 +1,24 @@
+ava extends java/lang/Enum {
+	Field[aLava;]
+	Field[bLava;]
+	Field[cLava;]
+	Field[d[Lava;]
+	Field[eI]
+	Field[fLjava/lang/String;]
+	Field[gLjava/lang/String;]
+	Field[hLbof;]
+	Field[i[Lava;]
+	Method[values()[Lava;]
+	Method[valueOf(Ljava/lang/String;)Lava;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Lbof;)V]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;Lbof;)V]
+	Method[a()I]
+	Method[c()Ljava/lang/String;]
+	Method[d()Lbof;]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Lava;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

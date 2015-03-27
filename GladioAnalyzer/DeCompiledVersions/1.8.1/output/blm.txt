@@ -1,0 +1,10 @@
+blm extends bll {
+	Field[eZ]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/Random;II)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+}
+
+

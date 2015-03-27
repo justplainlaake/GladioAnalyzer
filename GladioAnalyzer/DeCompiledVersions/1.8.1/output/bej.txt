@@ -1,0 +1,8 @@
+bej extends com/google/common/cache/CacheLoader {
+	Field[aLaqr;]
+	Method[<init>(Laqr;)V]
+	Method[a(Ldt;)Lbeg;]
+	Method[load(Ljava/lang/Object;)Ljava/lang/Object;]
+}
+
+

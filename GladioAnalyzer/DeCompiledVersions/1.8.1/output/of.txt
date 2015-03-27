@@ -1,0 +1,6 @@
+of extends od {
+	Method[<init>()V]
+	Method[a(Laqr;Lex;)Lahl;]
+}
+
+

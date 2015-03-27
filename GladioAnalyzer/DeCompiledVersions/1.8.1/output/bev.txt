@@ -1,0 +1,8 @@
+bev extends java/lang/Object {
+	Method[a()Ljava/lang/String;]
+	Method[c()Ljava/util/Collection;]
+	Method[b()Ljava/lang/Class;]
+	Method[a(Ljava/lang/Comparable;)Ljava/lang/String;]
+}
+
+

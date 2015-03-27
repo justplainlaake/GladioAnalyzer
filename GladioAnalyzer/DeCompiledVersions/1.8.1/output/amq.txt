@@ -1,0 +1,6 @@
+amq extends aln {
+	Method[<init>()V]
+	Method[a(Lamg;Laha;Lxo;)Z]
+}
+
+

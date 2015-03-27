@@ -1,0 +1,12 @@
+avz extends java/lang/Enum {
+	Field[aLavz;]
+	Field[bLavz;]
+	Field[c[Lavz;]
+	Method[values()[Lavz;]
+	Method[valueOf(Ljava/lang/String;)Lavz;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[a()Lavv;]
+	Method[<clinit>()V]
+}
+
+

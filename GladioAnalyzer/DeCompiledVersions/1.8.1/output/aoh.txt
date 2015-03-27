@@ -1,0 +1,17 @@
+aoh extends java/lang/Object {
+	Field[aLaoh;]
+	Field[bLjava/util/Map;]
+	Field[cLjava/util/Map;]
+	Method[a()Laoh;]
+	Method[<init>()V]
+	Method[a(Lato;Lamg;F)V]
+	Method[a(Laln;Lamg;F)V]
+	Method[a(Lamg;Lamg;F)V]
+	Method[a(Lamg;)Lamg;]
+	Method[a(Lamg;Lamg;)Z]
+	Method[b()Ljava/util/Map;]
+	Method[b(Lamg;)F]
+	Method[<clinit>()V]
+}
+
+

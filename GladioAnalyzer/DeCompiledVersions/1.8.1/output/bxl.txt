@@ -1,0 +1,19 @@
+bxl extends bxe {
+	Field[aLbxe;]
+	Field[fLbtm;]
+	Field[gLjava/util/List;]
+	Field[hLjava/util/List;]
+	Field[iLjava/lang/String;]
+	Field[r[Ljava/lang/String;]
+	Field[sLbxm;]
+	Field[tLbue;]
+	Method[<init>(Lbxe;Lbtm;)V]
+	Method[b()V]
+	Method[k()V]
+	Method[a(Lbue;)V]
+	Method[a(IIF)V]
+	Method[a(Lbxl;)Ljava/util/List;]
+	Method[b(Lbxl;)Ljava/util/List;]
+}
+
+

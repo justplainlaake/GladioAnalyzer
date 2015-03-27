@@ -1,0 +1,6 @@
+ass extends arj {
+	Method[<init>(I)V]
+	Method[a(F)I]
+}
+
+

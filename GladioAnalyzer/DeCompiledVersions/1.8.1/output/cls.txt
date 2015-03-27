@@ -1,0 +1,22 @@
+cls extends java/lang/Enum {
+	Field[aLcls;]
+	Field[bLcls;]
+	Field[cLcls;]
+	Field[dLcls;]
+	Field[eLcls;]
+	Field[fLcls;]
+	Field[gLcls;]
+	Field[hLcls;]
+	Field[iLcls;]
+	Field[jLcls;]
+	Field[kLcls;]
+	Field[lLcls;]
+	Field[mI]
+	Field[n[Lcls;]
+	Method[values()[Lcls;]
+	Method[valueOf(Ljava/lang/String;)Lcls;]
+	Method[<init>(Ljava/lang/String;ILej;Z)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,25 @@
+amf extends java/lang/Enum {
+	Field[aLamf;]
+	Field[bLamf;]
+	Field[cLamf;]
+	Field[dLamf;]
+	Field[eLamf;]
+	Field[fI]
+	Field[gI]
+	Field[hF]
+	Field[iF]
+	Field[jI]
+	Field[k[Lamf;]
+	Method[values()[Lamf;]
+	Method[valueOf(Ljava/lang/String;)Lamf;]
+	Method[<init>(Ljava/lang/String;IIIFFI)V]
+	Method[a()I]
+	Method[b()F]
+	Method[c()F]
+	Method[d()I]
+	Method[e()I]
+	Method[f()Laln;]
+	Method[<clinit>()V]
+}
+
+

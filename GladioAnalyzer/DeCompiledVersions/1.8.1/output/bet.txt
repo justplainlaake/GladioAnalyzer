@@ -1,0 +1,14 @@
+bet extends beq {
+	Field[aLcom/google/common/collect/ImmutableSet;]
+	Field[bLjava/util/Map;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/Class;Ljava/util/Collection;)V]
+	Method[c()Ljava/util/Collection;]
+	Method[a(Ljava/lang/Enum;)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;Ljava/lang/Class;)Lbet;]
+	Method[a(Ljava/lang/String;Ljava/lang/Class;Lcom/google/common/base/Predicate;)Lbet;]
+	Method[a(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Enum;)Lbet;]
+	Method[a(Ljava/lang/String;Ljava/lang/Class;Ljava/util/Collection;)Lbet;]
+	Method[a(Ljava/lang/Comparable;)Ljava/lang/String;]
+}
+
+

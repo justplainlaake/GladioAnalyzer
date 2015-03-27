@@ -1,0 +1,9 @@
+aph extends java/lang/Object {
+	Field[aLxo;]
+	Field[bLwx;]
+	Method[<init>()V]
+	Method[a(Lapc;I)V]
+	Method[<init>(Lapf;)V]
+}
+
+

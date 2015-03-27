@@ -1,0 +1,7 @@
+bge extends bgb {
+	Method[<init>()V]
+	Method[k()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+}
+
+

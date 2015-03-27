@@ -1,0 +1,7 @@
+bax extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lej;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

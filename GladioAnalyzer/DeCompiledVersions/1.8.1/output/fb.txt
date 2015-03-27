@@ -1,0 +1,14 @@
+fb extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[cLjava/util/Map;]
+	Method[<init>()V]
+	Method[b()Ljava/util/Map;]
+	Method[a(Ljava/lang/Object;)Ljava/lang/Object;]
+	Method[a(Ljava/lang/Object;Ljava/lang/Object;)V]
+	Method[c()Ljava/util/Set;]
+	Method[d(Ljava/lang/Object;)Z]
+	Method[iterator()Ljava/util/Iterator;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,23 @@
+wi extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Field[bLxo;]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Field[fZ]
+	Field[gZ]
+	Field[hLjava/lang/String;]
+	Method[<init>(Lxo;)V]
+	Method[a()V]
+	Method[a(Lwj;FF)V]
+	Method[b()Lhp;]
+	Method[c()Lxo;]
+	Method[i()Lwh;]
+	Method[a(Lwh;)Ljava/lang/String;]
+	Method[f()I]
+	Method[j()V]
+	Method[g()V]
+	Method[h()Lxo;]
+}
+
+

@@ -1,0 +1,12 @@
+bdd extends bck {
+	Field[aLvz;]
+	Method[<init>()V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[r_()Z]
+	Method[i()Lvz;]
+	Method[a(Lvz;)V]
+	Method[f_()Lhp;]
+}
+
+

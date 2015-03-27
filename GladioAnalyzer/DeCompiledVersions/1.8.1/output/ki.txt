@@ -1,0 +1,16 @@
+ki extends java/lang/Object {
+	Field[aLkk;]
+	Field[bLjava/util/List;]
+	Method[<init>()V]
+	Method[<init>(Lkk;[Lqx;)V]
+	Method[<init>(Lkk;Ljava/lang/Iterable;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Ljava/util/List;]
+	Method[b()Lkk;]
+	Method[toString()Ljava/lang/String;]
+	Method[a(Lhh;)V]
+}
+
+

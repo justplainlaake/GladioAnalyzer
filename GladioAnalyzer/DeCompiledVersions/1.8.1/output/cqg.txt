@@ -1,0 +1,18 @@
+cqg extends cpu {
+	Field[aLob;]
+	Field[eLbss;]
+	Field[fLcxl;]
+	Field[gLcxl;]
+	Field[hLcqh;]
+	Method[<init>(Lcpt;Lcqh;)V]
+	Method[a(Ladl;DDDFF)V]
+	Method[a(Ladl;)Lob;]
+	Method[b(Ladl;)V]
+	Method[a(Ladl;DDD)V]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDD)V]
+	Method[a(Lwx;DDDFF)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,16 @@
+brs extends java/lang/Object {
+	Field[eLdt;]
+	Field[aLbrt;]
+	Field[bLej;]
+	Field[cLbru;]
+	Field[dLwx;]
+	Method[<init>(Lbru;Lej;Ldt;)V]
+	Method[<init>(Lbru;Lej;)V]
+	Method[<init>(Lwx;)V]
+	Method[<init>(Lbrt;Lbru;Lej;Ldt;)V]
+	Method[<init>(Lwx;Lbru;)V]
+	Method[a()Ldt;]
+	Method[toString()Ljava/lang/String;]
+}
+
+

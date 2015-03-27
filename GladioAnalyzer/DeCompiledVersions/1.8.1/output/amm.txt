@@ -1,0 +1,10 @@
+amm extends aln {
+	Field[aLeo;]
+	Field[bLaea;]
+	Method[<init>(Laea;)V]
+	Method[a(Lamg;Laha;Laqr;Ldt;Lej;FFF)Z]
+	Method[a(Lamm;)Laea;]
+	Method[<clinit>()V]
+}
+
+

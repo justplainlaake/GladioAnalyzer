@@ -1,0 +1,10 @@
+cbe extends java/lang/Object {
+	Field[aLcbj;]
+	Field[bLcbf;]
+	Field[cLcbg;]
+	Field[dLcbh;]
+	Field[eLcbi;]
+	Method[<init>(Lcbj;Lcbf;Lcbg;Lcbh;Lcbi;)V]
+}
+
+

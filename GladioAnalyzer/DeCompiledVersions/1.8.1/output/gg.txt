@@ -1,0 +1,18 @@
+gg extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/util/regex/Pattern;]
+	Method[a(Ljava/lang/String;)Lfn;]
+	Method[b(Ljava/lang/String;)I]
+	Method[a([Ljava/lang/String;)Lgh;]
+	Method[a(Ljava/lang/String;Ljava/lang/String;)Lgh;]
+	Method[a(Ljava/lang/String;Z)Lgh;]
+	Method[b(Ljava/lang/String;Z)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;I)Ljava/lang/String;]
+	Method[c(Ljava/lang/String;Z)Ljava/lang/String;]
+	Method[d(Ljava/lang/String;Z)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;C)I]
+	Method[b(Ljava/lang/String;I)Z]
+	Method[<clinit>()V]
+}
+
+

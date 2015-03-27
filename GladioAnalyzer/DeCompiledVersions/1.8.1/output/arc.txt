@@ -1,0 +1,12 @@
+arc extends java/lang/Enum {
+	Field[aLarc;]
+	Field[bLarc;]
+	Field[cI]
+	Field[d[Larc;]
+	Method[values()[Larc;]
+	Method[valueOf(Ljava/lang/String;)Larc;]
+	Method[<init>(Ljava/lang/String;II)V]
+	Method[<clinit>()V]
+}
+
+

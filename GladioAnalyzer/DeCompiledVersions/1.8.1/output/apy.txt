@@ -1,0 +1,11 @@
+apy extends java/lang/Object {
+	Method[a_(Laha;)V]
+	Method[v_()Laha;]
+	Method[b_(Laha;)Laqa;]
+	Method[a(Laqa;)V]
+	Method[a(Lapz;)V]
+	Method[a_(Lamg;)V]
+	Method[f_()Lhp;]
+}
+
+

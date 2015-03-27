@@ -1,0 +1,12 @@
+ara extends java/lang/Object {
+	Method[s(Ldt;)Lbck;]
+	Method[b(Ldt;I)I]
+	Method[p(Ldt;)Lbea;]
+	Method[d(Ldt;)Z]
+	Method[b(Ldt;)Larj;]
+	Method[W()Z]
+	Method[a(Ldt;Lej;)I]
+	Method[G()Larb;]
+}
+
+

@@ -1,0 +1,8 @@
+aas extends java/lang/Object {
+	Field[aLaar;]
+	Method[<init>(Laar;)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

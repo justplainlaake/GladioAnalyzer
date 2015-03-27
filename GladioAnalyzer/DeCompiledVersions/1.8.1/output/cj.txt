@@ -1,0 +1,10 @@
+cj extends z {
+	Method[<init>()V]
+	Method[c()Ljava/lang/String;]
+	Method[a()I]
+	Method[c(Lae;)Ljava/lang/String;]
+	Method[a(Lae;[Ljava/lang/String;)V]
+	Method[a(Lae;[Ljava/lang/String;Ldt;)Ljava/util/List;]
+}
+
+

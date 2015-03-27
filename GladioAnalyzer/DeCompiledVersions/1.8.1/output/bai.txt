@@ -1,0 +1,7 @@
+bai extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lbeg;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

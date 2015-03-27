@@ -1,0 +1,8 @@
+ckz extends cix {
+	Field[aLcur;]
+	Method[<init>()V]
+	Method[a(Lciu;I)I]
+	Method[a(Lcur;)V]
+}
+
+

@@ -1,0 +1,15 @@
+bua extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcug;]
+	Field[cLjava/util/Map;]
+	Method[<init>(Lcug;)V]
+	Method[a(Lbqc;)V]
+	Method[a(Lbqc;Z)V]
+	Method[b(Lbqc;)Lbuc;]
+	Method[a()V]
+	Method[a(Lbua;)Lcug;]
+	Method[b()Lob;]
+	Method[<clinit>()V]
+}
+
+

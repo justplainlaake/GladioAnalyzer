@@ -1,0 +1,12 @@
+xr extends java/lang/Enum {
+	Field[aLxr;]
+	Field[bLxr;]
+	Field[cLxr;]
+	Field[d[Lxr;]
+	Method[values()[Lxr;]
+	Method[valueOf(Ljava/lang/String;)Lxr;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

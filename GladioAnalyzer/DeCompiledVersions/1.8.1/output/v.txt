@@ -1,0 +1,8 @@
+v extends java/lang/Object {
+	Field[a[C]
+	Method[a(C)Z]
+	Method[a(Ljava/lang/String;)Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

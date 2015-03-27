@@ -1,0 +1,9 @@
+csi extends java/lang/Object {
+	Field[aLctc;]
+	Method[<init>(Lctc;)V]
+	Method[a(Lcik;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+}
+
+

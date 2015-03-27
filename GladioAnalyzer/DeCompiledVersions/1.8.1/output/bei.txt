@@ -1,0 +1,15 @@
+bei extends java/lang/Object {
+	Field[a[[[Lcom/google/common/base/Predicate;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Method[<init>([[[Lcom/google/common/base/Predicate;)V]
+	Method[b()I]
+	Method[c()I]
+	Method[a(Ldt;Lej;Lej;Lcom/google/common/cache/LoadingCache;)Lbek;]
+	Method[a(Laqr;Ldt;)Lbek;]
+	Method[a(Laqr;)Lcom/google/common/cache/LoadingCache;]
+	Method[a(Ldt;Lej;Lej;III)Ldt;]
+}
+
+

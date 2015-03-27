@@ -1,0 +1,13 @@
+aeb extends aee {
+	Method[<init>(Laqr;)V]
+	Method[<init>(Laqr;DDD)V]
+	Method[a(Lwj;)V]
+	Method[o_()I]
+	Method[s()Laea;]
+	Method[u()Lbea;]
+	Method[w()I]
+	Method[k()Ljava/lang/String;]
+	Method[a(Lagy;Laha;)Lahy;]
+}
+
+

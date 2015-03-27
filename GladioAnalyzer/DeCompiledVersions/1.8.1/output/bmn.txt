@@ -1,0 +1,8 @@
+bmn extends java/lang/Object {
+	Field[aLbmk;]
+	Method[<init>(Lbmk;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

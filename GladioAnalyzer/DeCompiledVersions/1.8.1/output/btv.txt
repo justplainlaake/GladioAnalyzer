@@ -1,0 +1,14 @@
+btv extends java/lang/Enum {
+	Field[aLbtv;]
+	Field[bLbtv;]
+	Field[cLjava/util/Map;]
+	Field[dLjava/lang/String;]
+	Field[e[Lbtv;]
+	Method[values()[Lbtv;]
+	Method[valueOf(Ljava/lang/String;)Lbtv;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[a(Ljava/lang/String;)Lbtv;]
+	Method[<clinit>()V]
+}
+
+

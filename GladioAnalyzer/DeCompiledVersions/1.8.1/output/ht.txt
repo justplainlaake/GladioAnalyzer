@@ -1,0 +1,19 @@
+ht extends java/lang/Enum {
+	Field[aLht;]
+	Field[bLht;]
+	Field[cLht;]
+	Field[dLht;]
+	Field[eLjava/util/Map;]
+	Field[fZ]
+	Field[gLjava/lang/String;]
+	Field[h[Lht;]
+	Method[values()[Lht;]
+	Method[valueOf(Ljava/lang/String;)Lht;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;Z)V]
+	Method[a()Z]
+	Method[b()Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)Lht;]
+	Method[<clinit>()V]
+}
+
+

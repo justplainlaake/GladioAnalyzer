@@ -1,0 +1,8 @@
+cxw extends cxu {
+	Field[kLady;]
+	Field[lF]
+	Method[<init>(Lady;)V]
+	Method[c()V]
+}
+
+

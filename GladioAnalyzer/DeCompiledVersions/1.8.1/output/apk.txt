@@ -1,0 +1,9 @@
+apk extends java/lang/Object {
+	Field[aI]
+	Field[bLwj;]
+	Method[<init>()V]
+	Method[a(Lapc;I)V]
+	Method[<init>(Lapf;)V]
+}
+
+

@@ -1,0 +1,9 @@
+sg extends rz {
+	Method[<init>(Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;Ljava/util/Date;Ljava/lang/String;)V]
+	Method[<init>(Lcom/google/gson/JsonObject;)V]
+	Method[b(Lcom/google/gson/JsonObject;)Ljava/lang/String;]
+	Method[a(Lcom/google/gson/JsonObject;)V]
+}
+
+

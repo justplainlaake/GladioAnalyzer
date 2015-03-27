@@ -1,0 +1,20 @@
+bvp extends bue {
+	Field[oLnet/minecraft/realms/RealmsButton;]
+	Method[<init>(Lnet/minecraft/realms/RealmsButton;IIILjava/lang/String;)V]
+	Method[<init>(Lnet/minecraft/realms/RealmsButton;IIILjava/lang/String;II)V]
+	Method[c()I]
+	Method[d()Z]
+	Method[b(Z)V]
+	Method[a(Ljava/lang/String;)V]
+	Method[b()I]
+	Method[e()I]
+	Method[c(Lbss;II)Z]
+	Method[a(II)V]
+	Method[b(Lbss;II)V]
+	Method[f()Lnet/minecraft/realms/RealmsButton;]
+	Method[a(Z)I]
+	Method[c(Z)I]
+	Method[g()I]
+}
+
+

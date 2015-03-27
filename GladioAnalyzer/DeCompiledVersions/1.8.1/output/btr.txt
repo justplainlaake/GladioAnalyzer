@@ -1,0 +1,12 @@
+btr extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/text/DateFormat;]
+	Field[cLjava/nio/IntBuffer;]
+	Field[d[I]
+	Method[a(Ljava/io/File;IILckw;)Lhp;]
+	Method[a(Ljava/io/File;Ljava/lang/String;IILckw;)Lhp;]
+	Method[a(Ljava/io/File;)Ljava/io/File;]
+	Method[<clinit>()V]
+}
+
+

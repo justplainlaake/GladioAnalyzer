@@ -1,0 +1,23 @@
+aqr: (World)
+	* i() contains entity info
+ato: (Base Block)
+	* 
+bff: (Chunk)
+	* Contains a bfk[16] which is 16 subchunks
+bfk: (SubChunk)
+	*
+bfd: (Chunk Nibble Array)
+	*
+wx: (BaseEntity)
+	* Fields
+		- l & m: Riding and Rider
+	* e(fn) contains all field values for entities
+brr: (Box)
+	* Used for collisions, AABB 
+xy: (EntityData)
+	* Contains method for xz
+xz: (EntityDataEntry)
+bru: (Locale/PositionVector)
+	* has 3 doubles and is used in entities
+	* Possibly the head location for entities
+ej: (BlockFace?)

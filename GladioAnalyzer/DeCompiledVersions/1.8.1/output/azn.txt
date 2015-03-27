@@ -1,0 +1,6 @@
+azn extends avv {
+	Method[<init>()V]
+	Method[k()Lavz;]
+}
+
+

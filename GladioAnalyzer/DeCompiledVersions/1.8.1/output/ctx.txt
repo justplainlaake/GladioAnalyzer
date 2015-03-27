@@ -1,0 +1,20 @@
+ctx extends java/lang/Object {
+	Field[aLcue;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eZ]
+	Field[fF]
+	Method[<init>(Lcue;I)V]
+	Method[a()Lcue;]
+	Method[b()I]
+	Method[c()I]
+	Method[d()V]
+	Method[e()Z]
+	Method[a(I)V]
+	Method[toString()Ljava/lang/String;]
+	Method[a(Lctx;)I]
+	Method[compareTo(Ljava/lang/Object;)I]
+}
+
+

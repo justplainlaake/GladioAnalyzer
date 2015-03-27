@@ -1,0 +1,7 @@
+aiq extends ajh {
+	Field[aLain;]
+	Method[<init>(Lain;Lvs;III)V]
+	Method[a(Lamg;)Z]
+}
+
+

@@ -1,0 +1,9 @@
+cef extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLced;]
+	Method[<init>(Lced;Ljava/lang/String;)V]
+	Method[onSuccess(Ljava/lang/Object;)V]
+	Method[onFailure(Ljava/lang/Throwable;)V]
+}
+
+

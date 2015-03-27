@@ -1,0 +1,5 @@
+ash extends arj {
+	Method[<init>(I)V]
+}
+
+

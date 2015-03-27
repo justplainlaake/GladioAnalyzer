@@ -1,0 +1,13 @@
+aif extends ahy {
+	Field[aLvs;]
+	Field[fLajh;]
+	Field[gI]
+	Method[<init>(Lagy;Lvs;)V]
+	Method[a(Laii;)V]
+	Method[b()V]
+	Method[b(II)V]
+	Method[a(Laha;)Z]
+	Method[b(Laha;I)Lamg;]
+}
+
+

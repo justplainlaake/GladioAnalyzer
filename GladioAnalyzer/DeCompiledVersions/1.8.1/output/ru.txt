@@ -1,0 +1,7 @@
+ru extends java/lang/Thread {
+	Field[aLrs;]
+	Method[<init>(Lrs;Ljava/lang/String;)V]
+	Method[run()V]
+}
+
+

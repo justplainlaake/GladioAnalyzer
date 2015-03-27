@@ -1,0 +1,12 @@
+aad extends ze {
+	Field[aLxx;]
+	Field[bLabk;]
+	Method[<init>(Lxx;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+}
+
+

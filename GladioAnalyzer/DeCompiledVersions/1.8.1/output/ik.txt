@@ -1,0 +1,19 @@
+ik extends java/lang/Enum {
+	Field[aLik;]
+	Field[bLik;]
+	Field[cLik;]
+	Field[dLik;]
+	Field[eLik;]
+	Field[fI]
+	Field[g[Lik;]
+	Method[values()[Lik;]
+	Method[valueOf(Ljava/lang/String;)Lik;]
+	Method[<init>(Ljava/lang/String;II)V]
+	Method[a()I]
+	Method[b(I)Z]
+	Method[a(I)Ljava/util/Set;]
+	Method[a(Ljava/util/Set;)I]
+	Method[<clinit>()V]
+}
+
+

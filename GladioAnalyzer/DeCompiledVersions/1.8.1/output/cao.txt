@@ -1,0 +1,11 @@
+cao extends java/lang/Object {
+	Field[aLcom/mojang/authlib/GameProfile;]
+	Field[bLob;]
+	Method[<init>(Lcom/mojang/authlib/GameProfile;)V]
+	Method[a(Lcaq;)V]
+	Method[A_()Lhp;]
+	Method[a(FI)V]
+	Method[B_()Z]
+}
+
+

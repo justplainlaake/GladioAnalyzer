@@ -1,0 +1,14 @@
+aaf extends ze {
+	Field[aLabw;]
+	Field[bD]
+	Field[cD]
+	Field[dD]
+	Field[eD]
+	Method[<init>(Labw;D)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[b()Z]
+	Method[e()V]
+}
+
+

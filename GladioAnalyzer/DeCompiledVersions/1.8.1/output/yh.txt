@@ -1,0 +1,27 @@
+yh extends java/lang/Object {
+	Field[aLyf;]
+	Field[bLyb;]
+	Field[cLjava/util/Map;]
+	Field[dLjava/util/Map;]
+	Field[eLjava/util/Map;]
+	Field[fD]
+	Field[gZ]
+	Field[hD]
+	Method[<init>(Lyf;Lyb;)V]
+	Method[a()Lyb;]
+	Method[b()D]
+	Method[a(D)V]
+	Method[a(I)Ljava/util/Collection;]
+	Method[c()Ljava/util/Collection;]
+	Method[a(Ljava/util/UUID;)Lyd;]
+	Method[a(Lyd;)Z]
+	Method[b(Lyd;)V]
+	Method[f()V]
+	Method[c(Lyd;)V]
+	Method[d()V]
+	Method[e()D]
+	Method[g()D]
+	Method[b(I)Ljava/util/Collection;]
+}
+
+

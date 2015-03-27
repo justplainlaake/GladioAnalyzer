@@ -1,0 +1,9 @@
+yo extends java/lang/Object {
+	Field[bLxq;]
+	Field[aZ]
+	Method[<init>(Lxq;)V]
+	Method[a()V]
+	Method[b()V]
+}
+
+

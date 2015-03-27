@@ -1,0 +1,9 @@
+csw extends java/lang/Object {
+	Field[aLcrt;]
+	Method[<init>(Lcrt;)V]
+	Method[a(Lacr;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+}
+
+

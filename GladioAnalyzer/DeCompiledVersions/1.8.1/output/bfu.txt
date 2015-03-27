@@ -1,0 +1,9 @@
+bfu extends java/io/ByteArrayOutputStream {
+	Field[bI]
+	Field[cI]
+	Field[aLbft;]
+	Method[<init>(Lbft;II)V]
+	Method[close()V]
+}
+
+

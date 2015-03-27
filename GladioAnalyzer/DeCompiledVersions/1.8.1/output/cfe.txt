@@ -1,0 +1,7 @@
+cfe extends cgv {
+	Method[<init>(Laqr;DDDLaln;)V]
+	Method[a()I]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+}
+
+

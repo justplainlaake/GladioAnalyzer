@@ -1,0 +1,12 @@
+avl extends atd {
+	Method[<init>()V]
+	Method[d()Z]
+	Method[c(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[c()Z]
+	Method[b()I]
+	Method[a(Laqr;I)Lbck;]
+	Method[a(Laqr;Ldt;Lbea;Laha;Lej;FFF)Z]
+	Method[a(Laqr;Ldt;Lbea;Lxo;Lamg;)V]
+}
+
+

@@ -1,0 +1,24 @@
+su extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLcom/google/gson/Gson;]
+	Field[cLjava/io/File;]
+	Field[dLjava/util/Map;]
+	Field[eZ]
+	Field[fLjava/lang/reflect/ParameterizedType;]
+	Method[<init>(Ljava/io/File;)V]
+	Method[b()Z]
+	Method[a(Z)V]
+	Method[a(Lst;)V]
+	Method[b(Ljava/lang/Object;)Lst;]
+	Method[c(Ljava/lang/Object;)V]
+	Method[a()[Ljava/lang/String;]
+	Method[a(Ljava/lang/Object;)Ljava/lang/String;]
+	Method[d(Ljava/lang/Object;)Z]
+	Method[h()V]
+	Method[a(Lcom/google/gson/JsonObject;)Lst;]
+	Method[e()Ljava/util/Map;]
+	Method[f()V]
+	Method[<clinit>()V]
+}
+
+

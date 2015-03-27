@@ -1,0 +1,15 @@
+ahc extends java/lang/Enum {
+	Field[aLahc;]
+	Field[bLahc;]
+	Field[cLahc;]
+	Field[dLahc;]
+	Field[eLahc;]
+	Field[fLahc;]
+	Field[g[Lahc;]
+	Method[values()[Lahc;]
+	Method[valueOf(Ljava/lang/String;)Lahc;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

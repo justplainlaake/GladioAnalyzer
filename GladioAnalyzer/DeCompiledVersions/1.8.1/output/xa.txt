@@ -1,0 +1,8 @@
+xa extends java/lang/Object {
+	Field[aLwx;]
+	Method[<init>(Lwx;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

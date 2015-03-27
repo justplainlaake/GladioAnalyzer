@@ -1,0 +1,8 @@
+cxj extends java/lang/Object {
+	Field[aLjava/util/Set;]
+	Field[bLcxh;]
+	Method[<init>(Lcxh;Ljava/util/Set;)V]
+	Method[a(Lcua;)V]
+}
+
+

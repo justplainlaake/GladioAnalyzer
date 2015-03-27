@@ -1,0 +1,21 @@
+apd extends java/lang/Enum {
+	Field[aLapd;]
+	Field[bLapd;]
+	Field[cLapd;]
+	Field[dLapd;]
+	Field[eLapd;]
+	Field[fLapd;]
+	Field[gLapd;]
+	Field[hLapd;]
+	Field[iLapd;]
+	Field[jLapd;]
+	Field[kLapd;]
+	Field[l[Lapd;]
+	Method[values()[Lapd;]
+	Method[valueOf(Ljava/lang/String;)Lapd;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[a(Laln;)Z]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,7 @@
+age extends java/lang/Object {
+	Field[aI]
+	Method[<init>()V]
+	Method[a(Ljava/util/Random;)V]
+}
+
+

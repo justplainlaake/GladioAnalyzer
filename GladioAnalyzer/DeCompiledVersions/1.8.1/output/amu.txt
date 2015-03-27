@@ -1,0 +1,15 @@
+amu extends java/lang/Enum {
+	Field[aLamu;]
+	Field[bLamu;]
+	Field[cLamu;]
+	Field[dLamu;]
+	Field[eLa;]
+	Field[fLjava/lang/String;]
+	Field[g[Lamu;]
+	Method[values()[Lamu;]
+	Method[valueOf(Ljava/lang/String;)Lamu;]
+	Method[<init>(Ljava/lang/String;ILa;Ljava/lang/String;)V]
+	Method[<clinit>()V]
+}
+
+

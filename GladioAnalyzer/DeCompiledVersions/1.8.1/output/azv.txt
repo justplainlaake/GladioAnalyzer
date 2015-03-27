@@ -1,0 +1,7 @@
+azv extends java/lang/Object {
+	Field[aLdt;]
+	Field[bJ]
+	Method[<init>(Ldt;J)V]
+}
+
+

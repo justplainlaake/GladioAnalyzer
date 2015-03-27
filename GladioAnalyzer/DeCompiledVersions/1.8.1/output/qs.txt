@@ -1,0 +1,22 @@
+qs extends java/lang/Object {
+	Field[bLjava/util/List;]
+	Field[cLaqj;]
+	Field[d[S]
+	Field[eI]
+	Field[fI]
+	Field[gJ]
+	Field[aLqr;]
+	Method[<init>(Lqr;II)V]
+	Method[a(Lqx;)V]
+	Method[b(Lqx;)V]
+	Method[a()V]
+	Method[a(Lbff;)V]
+	Method[a(III)V]
+	Method[a(Lie;)V]
+	Method[b()V]
+	Method[a(Lbck;)V]
+	Method[a(Lqs;)Laqj;]
+	Method[b(Lqs;)Ljava/util/List;]
+}
+
+

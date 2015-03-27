@@ -1,0 +1,23 @@
+fd extends java/lang/Object {
+	Field[bLfd;]
+	Field[aI]
+	Field[cI]
+	Field[dI]
+	Method[<init>(III)V]
+	Method[<init>(DDD)V]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[g(Lfd;)I]
+	Method[n()I]
+	Method[o()I]
+	Method[p()I]
+	Method[d(Lfd;)Lfd;]
+	Method[c(DDD)D]
+	Method[d(DDD)D]
+	Method[i(Lfd;)D]
+	Method[toString()Ljava/lang/String;]
+	Method[compareTo(Ljava/lang/Object;)I]
+	Method[<clinit>()V]
+}
+
+

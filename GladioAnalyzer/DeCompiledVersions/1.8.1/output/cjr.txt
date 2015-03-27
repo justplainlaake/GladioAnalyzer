@@ -1,0 +1,9 @@
+cjr extends java/lang/Object {
+	Field[aD]
+	Field[bLcjs;]
+	Field[cI]
+	Method[<init>()V]
+	Method[<init>(Lcjn;)V]
+}
+
+

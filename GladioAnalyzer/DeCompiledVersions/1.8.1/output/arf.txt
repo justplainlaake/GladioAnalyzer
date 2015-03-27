@@ -1,0 +1,7 @@
+arf extends dt {
+	Field[cJ]
+	Field[dLare;]
+	Method[<init>(Lare;Ldt;J)V]
+}
+
+

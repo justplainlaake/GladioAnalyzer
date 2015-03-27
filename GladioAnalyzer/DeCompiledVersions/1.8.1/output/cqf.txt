@@ -1,0 +1,13 @@
+cqf extends cpu {
+	Field[aLcqh;]
+	Field[eLjava/util/Random;]
+	Method[<init>(Lcpt;Lcqh;)V]
+	Method[a(Ladx;DDDFLcxe;)I]
+	Method[a(Lamg;)I]
+	Method[a(Ladx;DDDFF)V]
+	Method[a(Ladx;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+}
+
+

@@ -1,0 +1,15 @@
+blv extends bmi {
+	Field[aZ]
+	Field[bZ]
+	Field[cZ]
+	Field[eZ]
+	Method[<init>()V]
+	Method[<init>(ILjava/util/Random;Lbiz;Lej;)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Lbmq;Ljava/util/List;Ljava/util/Random;)V]
+	Method[a(Ljava/util/List;Ljava/util/Random;IIILej;I)Lblv;]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+}
+
+

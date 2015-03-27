@@ -1,0 +1,19 @@
+bur extends java/lang/Enum {
+	Field[aLbur;]
+	Field[bLbur;]
+	Field[cLbur;]
+	Field[dLbur;]
+	Field[eLbur;]
+	Field[fLbur;]
+	Field[gI]
+	Field[hI]
+	Field[i[Lbur;]
+	Method[values()[Lbur;]
+	Method[valueOf(Ljava/lang/String;)Lbur;]
+	Method[<init>(Ljava/lang/String;III)V]
+	Method[a()I]
+	Method[b()I]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,5 @@
+vc extends java/lang/Object {
+	Method[l()Ljava/lang/String;]
+}
+
+

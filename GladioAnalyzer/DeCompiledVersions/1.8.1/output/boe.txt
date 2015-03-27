@@ -1,0 +1,6 @@
+boe extends bod {
+	Method[<init>(Lbof;)V]
+	Method[c()Z]
+}
+
+

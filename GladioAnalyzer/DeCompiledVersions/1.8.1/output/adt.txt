@@ -1,0 +1,12 @@
+adt extends ads {
+	Field[bI]
+	Field[aJ]
+	Field[cI]
+	Method[<init>(Laqr;DDD)V]
+	Method[t_()V]
+	Method[h()V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+}
+
+

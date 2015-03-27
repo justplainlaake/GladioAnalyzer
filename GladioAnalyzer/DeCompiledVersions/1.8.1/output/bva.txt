@@ -1,0 +1,7 @@
+bva extends bvd {
+	Field[aLcom/google/common/base/Predicate;]
+	Method[<init>(ILjava/lang/String;ZLcom/google/common/base/Predicate;)V]
+	Method[a()Lcom/google/common/base/Predicate;]
+}
+
+

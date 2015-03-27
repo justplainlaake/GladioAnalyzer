@@ -1,0 +1,8 @@
+bgd extends bez {
+	Field[aLbgc;]
+	Method[<init>(Lbgc;)V]
+	Method[f()D]
+	Method[g()D]
+}
+
+

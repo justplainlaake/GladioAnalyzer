@@ -1,0 +1,14 @@
+cnp extends java/lang/Object {
+	Field[a[Lob;]
+	Field[bLcno;]
+	Method[<init>()V]
+	Method[a(Lbck;DDDFI)V]
+	Method[a(Lob;)V]
+	Method[b()Laqr;]
+	Method[a(Lcno;)V]
+	Method[c()Lbtw;]
+	Method[a()Z]
+	Method[<clinit>()V]
+}
+
+

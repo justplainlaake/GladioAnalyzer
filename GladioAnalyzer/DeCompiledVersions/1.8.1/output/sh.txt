@@ -1,0 +1,13 @@
+sh extends java/lang/Object {
+	Field[eLorg/apache/logging/log4j/Logger;]
+	Field[aLjava/io/File;]
+	Field[bLjava/io/File;]
+	Field[cLjava/io/File;]
+	Field[dLjava/io/File;]
+	Method[a(Lnet/minecraft/server/MinecraftServer;Ljava/util/Collection;Lcom/mojang/authlib/ProfileLookupCallback;)V]
+	Method[a(Ljava/lang/String;)Ljava/lang/String;]
+	Method[a()Lorg/apache/logging/log4j/Logger;]
+	Method[<clinit>()V]
+}
+
+

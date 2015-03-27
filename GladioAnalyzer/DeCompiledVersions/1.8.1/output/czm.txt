@@ -1,0 +1,6 @@
+czm extends java/lang/Object {
+	Method[a()I]
+	Method[g()Ljava/lang/Object;]
+}
+
+

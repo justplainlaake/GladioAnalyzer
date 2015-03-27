@@ -1,0 +1,12 @@
+att extends java/lang/Enum {
+	Field[aLatt;]
+	Field[bLatt;]
+	Field[cLatt;]
+	Field[d[Latt;]
+	Method[values()[Latt;]
+	Method[valueOf(Ljava/lang/String;)Latt;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

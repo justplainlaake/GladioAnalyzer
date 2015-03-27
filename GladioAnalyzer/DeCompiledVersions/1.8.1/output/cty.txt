@@ -1,0 +1,17 @@
+cty extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eLjava/util/List;]
+	Field[fLctx;]
+	Method[<init>(IIII)V]
+	Method[a()Lctx;]
+	Method[b()I]
+	Method[c()I]
+	Method[a(Lctx;)Z]
+	Method[a(Ljava/util/List;)V]
+	Method[toString()Ljava/lang/String;]
+}
+
+

@@ -1,0 +1,12 @@
+csg extends java/lang/Object {
+	Field[aLob;]
+	Field[bLcpn;]
+	Field[cLccd;]
+	Method[<init>(Lcpn;)V]
+	Method[a(Laeq;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[<clinit>()V]
+}
+
+

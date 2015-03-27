@@ -1,0 +1,13 @@
+bka extends java/lang/Object {
+	Field[aLjava/lang/Class;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eZ]
+	Method[<init>(Ljava/lang/Class;IIZ)V]
+	Method[<init>(Ljava/lang/Class;II)V]
+	Method[a(I)Z]
+	Method[a()Z]
+}
+
+

@@ -1,0 +1,7 @@
+bhd extends bha {
+	Field[aZ]
+	Method[<init>(ZZ)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+}
+
+

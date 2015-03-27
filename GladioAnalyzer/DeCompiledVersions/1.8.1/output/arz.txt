@@ -1,0 +1,14 @@
+arz extends arw {
+	Field[bLarj;]
+	Field[cF]
+	Method[<init>(Larj;F)V]
+	Method[a(Ldt;)Larj;]
+	Method[a([Larj;IIII)[Larj;]
+	Method[a([FIIII)[F]
+	Method[b([Larj;IIII)[Larj;]
+	Method[a([Larj;IIIIZ)[Larj;]
+	Method[a(IIILjava/util/List;Ljava/util/Random;)Ldt;]
+	Method[a(IIILjava/util/List;)Z]
+}
+
+

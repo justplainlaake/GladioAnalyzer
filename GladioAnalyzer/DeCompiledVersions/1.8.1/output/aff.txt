@@ -1,0 +1,8 @@
+aff extends afm {
+	Method[<init>(Laqr;)V]
+	Method[aS()F]
+	Method[aX()V]
+	Method[a(Ldt;)F]
+}
+
+

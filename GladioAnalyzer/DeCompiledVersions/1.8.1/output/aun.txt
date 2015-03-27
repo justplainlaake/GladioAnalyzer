@@ -1,0 +1,9 @@
+aun extends java/lang/Object {
+	Field[aLej;]
+	Field[bLaum;]
+	Method[<init>(Laum;Lej;)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

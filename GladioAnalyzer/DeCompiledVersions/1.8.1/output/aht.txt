@@ -1,0 +1,16 @@
+aht extends ahi {
+	Method[<init>(Laqr;)V]
+	Method[<init>(Laqr;Lxo;DDD)V]
+	Method[j()F]
+	Method[<init>(Laqr;DDDDDD)V]
+	Method[at()Z]
+	Method[a(Laql;Laqr;Ldt;Lbea;)F]
+	Method[a(Lbrs;)V]
+	Method[ad()Z]
+	Method[a(Lwj;F)Z]
+	Method[h()V]
+	Method[l()Z]
+	Method[a(Z)V]
+}
+
+

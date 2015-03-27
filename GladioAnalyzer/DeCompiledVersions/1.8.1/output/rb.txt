@@ -1,0 +1,11 @@
+rb extends io/netty/channel/ChannelInboundHandlerAdapter {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLrd;]
+	Method[<init>(Lrd;)V]
+	Method[channelRead(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;)V]
+	Method[a(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;)V]
+	Method[a(Ljava/lang/String;)Lio/netty/buffer/ByteBuf;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,14 @@
+bnh extends bnl {
+	Field[aLjava/util/List;]
+	Field[bZ]
+	Method[<init>()V]
+	Method[<init>(Lbni;ILjava/util/Random;Lbiz;Lej;)V]
+	Method[a(Lbni;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbnh;]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+	Method[c(II)I]
+	Method[<clinit>()V]
+}
+
+

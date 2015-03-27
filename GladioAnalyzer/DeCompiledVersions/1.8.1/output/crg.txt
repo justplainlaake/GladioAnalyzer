@@ -1,0 +1,16 @@
+crg extends cqz {
+	Field[aLob;]
+	Field[eLob;]
+	Field[jLob;]
+	Field[kLob;]
+	Field[lLob;]
+	Field[mLob;]
+	Field[nLob;]
+	Field[oLob;]
+	Method[<init>(Lcpt;Lccp;F)V]
+	Method[a(Lacd;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

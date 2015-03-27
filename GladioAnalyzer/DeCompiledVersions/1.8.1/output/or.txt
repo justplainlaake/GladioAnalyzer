@@ -1,0 +1,7 @@
+or extends java/lang/Object {
+	Field[bLeg;]
+	Method[<init>()V]
+	Method[a(Ldz;Lamg;)Lamg;]
+}
+
+

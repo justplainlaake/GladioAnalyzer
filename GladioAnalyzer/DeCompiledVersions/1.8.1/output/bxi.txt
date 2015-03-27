@@ -1,0 +1,12 @@
+bxi extends bxe {
+	Field[aLbxe;]
+	Field[fLjava/lang/String;]
+	Method[<init>(Lbxe;)V]
+	Method[b()V]
+	Method[a(Lbue;)V]
+	Method[a(IIF)V]
+	Method[a(Lahe;)Ljava/lang/String;]
+	Method[a(Lbxi;Lahe;)Ljava/lang/String;]
+}
+
+

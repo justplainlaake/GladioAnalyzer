@@ -1,0 +1,7 @@
+byc extends java/lang/Object {
+	Field[c_[Ljava/lang/String;]
+	Method[a()V]
+	Method[<clinit>()V]
+}
+
+

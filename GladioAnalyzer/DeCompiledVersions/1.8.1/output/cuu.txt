@@ -1,0 +1,24 @@
+cuu extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLcuv;]
+	Field[cLcuw;]
+	Field[dI]
+	Field[eI]
+	Field[fI]
+	Method[<init>(ILcuv;Lcuw;I)V]
+	Method[a(I)V]
+	Method[a()I]
+	Method[a(ILcuw;)Z]
+	Method[b()Lcuv;]
+	Method[c()Lcuw;]
+	Method[d()I]
+	Method[e()I]
+	Method[toString()Ljava/lang/String;]
+	Method[f()I]
+	Method[g()Z]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[<clinit>()V]
+}
+
+

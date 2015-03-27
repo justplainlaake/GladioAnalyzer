@@ -1,0 +1,8 @@
+ckd extends java/lang/Object {
+	Field[aLcjq;]
+	Field[bI]
+	Field[cI]
+	Method[<init>(II)V]
+}
+
+

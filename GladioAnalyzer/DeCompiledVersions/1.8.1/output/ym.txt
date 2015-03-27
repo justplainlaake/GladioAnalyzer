@@ -1,0 +1,10 @@
+ym extends java/lang/Object {
+	Field[aLxo;]
+	Field[bI]
+	Field[cF]
+	Method[<init>(Lxo;)V]
+	Method[a()V]
+	Method[a(FFF)F]
+}
+
+

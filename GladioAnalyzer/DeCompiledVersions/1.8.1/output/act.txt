@@ -1,0 +1,10 @@
+act extends java/lang/Object {
+	Field[aLcom/google/common/base/Predicate;]
+	Field[bLxx;]
+	Field[cLacs;]
+	Method[<init>(Lacs;Lcom/google/common/base/Predicate;Lxx;)V]
+	Method[a(Lxo;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

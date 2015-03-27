@@ -1,0 +1,17 @@
+cdi extends ccp {
+	Field[aLcdx;]
+	Field[bLcdx;]
+	Field[cLcdx;]
+	Field[dLcdx;]
+	Field[eLcdx;]
+	Field[fLcdx;]
+	Method[<init>()V]
+	Method[<init>(F)V]
+	Method[<init>(FF)V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(FFFFFFLwx;)V]
+	Method[a(Lxo;FFF)V]
+	Method[a(FF)F]
+}
+
+

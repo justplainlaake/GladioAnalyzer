@@ -1,0 +1,16 @@
+cvb extends java/lang/Object {
+	Field[aLjava/util/Set;]
+	Field[bLjava/util/Map;]
+	Method[<init>(Ljava/util/Map;)V]
+	Method[a(Lob;)Ljava/io/InputStream;]
+	Method[c(Lob;)Ljava/io/InputStream;]
+	Method[d(Lob;)Ljava/io/InputStream;]
+	Method[b(Lob;)Z]
+	Method[c()Ljava/util/Set;]
+	Method[a(Lcwk;Ljava/lang/String;)Lcwi;]
+	Method[a()Ljava/awt/image/BufferedImage;]
+	Method[b()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

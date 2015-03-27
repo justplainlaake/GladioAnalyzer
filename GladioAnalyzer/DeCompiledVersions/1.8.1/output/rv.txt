@@ -1,0 +1,15 @@
+rv extends java/lang/Enum {
+	Field[aLrv;]
+	Field[bLrv;]
+	Field[cLrv;]
+	Field[dLrv;]
+	Field[eLrv;]
+	Field[fLrv;]
+	Field[g[Lrv;]
+	Method[values()[Lrv;]
+	Method[valueOf(Ljava/lang/String;)Lrv;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

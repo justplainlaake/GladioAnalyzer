@@ -1,0 +1,12 @@
+arq extends java/lang/Object {
+	Field[aLaru;]
+	Field[bLaru;]
+	Field[cLaru;]
+	Method[a(Lara;Ldt;Laru;)I]
+	Method[a(Lara;Ldt;)I]
+	Method[b(Lara;Ldt;)I]
+	Method[c(Lara;Ldt;)I]
+	Method[<clinit>()V]
+}
+
+

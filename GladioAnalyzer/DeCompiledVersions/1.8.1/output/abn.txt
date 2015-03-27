@@ -1,0 +1,18 @@
+abn extends java/lang/Object {
+	Field[aLaqr;]
+	Field[bZ]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Field[fLabl;]
+	Field[gI]
+	Field[hI]
+	Field[iI]
+	Method[<init>(Laqr;)V]
+	Method[a()V]
+	Method[b()Z]
+	Method[c()Z]
+	Method[a(Ldt;)Lbru;]
+}
+
+

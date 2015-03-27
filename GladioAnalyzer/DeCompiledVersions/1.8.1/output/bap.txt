@@ -1,0 +1,19 @@
+bap extends awq {
+	Field[aLbet;]
+	Method[<init>(Lbod;)V]
+	Method[a(Lbea;)I]
+	Method[a(Laln;Lakc;Ljava/util/List;)V]
+	Method[g(Lbea;)Lbof;]
+	Method[l()Laqi;]
+	Method[a(Ljava/util/Random;)I]
+	Method[H()Z]
+	Method[d()Z]
+	Method[a(I)Lbea;]
+	Method[c(Laqr;Ldt;Lbea;)V]
+	Method[b(Laqr;Ldt;Lbea;)V]
+	Method[c(Lbea;)I]
+	Method[e()Lbeb;]
+	Method[<clinit>()V]
+}
+
+

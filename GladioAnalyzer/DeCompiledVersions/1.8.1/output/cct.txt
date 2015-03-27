@@ -1,0 +1,11 @@
+cct extends java/lang/Object {
+	Field[a[Lcdh;]
+	Field[bI]
+	Field[cZ]
+	Method[<init>([Lcdh;)V]
+	Method[<init>([Lcdh;IIIIFF)V]
+	Method[a()V]
+	Method[a(Lciu;F)V]
+}
+
+

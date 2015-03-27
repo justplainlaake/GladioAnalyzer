@@ -1,0 +1,11 @@
+aag extends ze {
+	Field[aLya;]
+	Field[bZ]
+	Method[<init>(Lya;)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[a(Z)V]
+}
+
+

@@ -1,0 +1,8 @@
+avy extends java/lang/Object {
+	Field[aLavz;]
+	Method[<init>(Lavz;)V]
+	Method[a(Lavx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

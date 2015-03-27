@@ -1,0 +1,18 @@
+ahs extends aho {
+	Field[cLamg;]
+	Method[<init>(Laqr;)V]
+	Method[<init>(Laqr;Lxo;I)V]
+	Method[<init>(Laqr;Lxo;Lamg;)V]
+	Method[<init>(Laqr;DDDI)V]
+	Method[<init>(Laqr;DDDLamg;)V]
+	Method[m()F]
+	Method[j()F]
+	Method[l()F]
+	Method[a(I)V]
+	Method[o()I]
+	Method[a(Lbrs;)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+}
+
+

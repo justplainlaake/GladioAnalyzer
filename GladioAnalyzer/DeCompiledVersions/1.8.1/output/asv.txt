@@ -1,0 +1,11 @@
+asv extends ato {
+	Method[<init>()V]
+	Method[b()I]
+	Method[a(Laqr;Ldt;Lbea;)Lbrr;]
+	Method[c()Z]
+	Method[a(Lbea;Z)Z]
+	Method[a(Laqr;Ldt;Lbea;FI)V]
+	Method[a(Laqr;Ldt;)Z]
+}
+
+

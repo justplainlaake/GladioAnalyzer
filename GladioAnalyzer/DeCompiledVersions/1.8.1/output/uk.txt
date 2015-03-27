@@ -1,0 +1,15 @@
+uk extends java/lang/Object {
+	Field[aLcom/google/common/util/concurrent/ListeningExecutorService;]
+	Field[bLjava/util/concurrent/atomic/AtomicInteger;]
+	Field[cLorg/apache/logging/log4j/Logger;]
+	Method[a(Ljava/util/Map;)Ljava/lang/String;]
+	Method[a(Ljava/net/URL;Ljava/util/Map;Z)Ljava/lang/String;]
+	Method[a(Ljava/net/URL;Ljava/lang/String;Z)Ljava/lang/String;]
+	Method[a(Ljava/io/File;Ljava/lang/String;Ljava/util/Map;ILva;Ljava/net/Proxy;)Lcom/google/common/util/concurrent/ListenableFuture;]
+	Method[a()I]
+	Method[a(Ljava/net/URL;)Ljava/lang/String;]
+	Method[b()Lorg/apache/logging/log4j/Logger;]
+	Method[<clinit>()V]
+}
+
+

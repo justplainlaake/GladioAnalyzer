@@ -1,0 +1,17 @@
+bel extends java/lang/Object {
+	Field[aLcom/google/common/base/Joiner;]
+	Field[bLjava/util/List;]
+	Field[cLjava/util/Map;]
+	Field[dI]
+	Field[eI]
+	Method[<init>()V]
+	Method[a([Ljava/lang/String;)Lbel;]
+	Method[a()Lbel;]
+	Method[a(CLcom/google/common/base/Predicate;)Lbel;]
+	Method[b()Lbei;]
+	Method[c()[[[Lcom/google/common/base/Predicate;]
+	Method[d()V]
+	Method[<clinit>()V]
+}
+
+

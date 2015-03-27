@@ -1,0 +1,9 @@
+cgr extends cgv {
+	Field[aLxo;]
+	Method[<init>(Laqr;DDD)V]
+	Method[a()I]
+	Method[t_()V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+}
+
+

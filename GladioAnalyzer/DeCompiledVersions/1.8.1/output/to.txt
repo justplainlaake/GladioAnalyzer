@@ -1,0 +1,5 @@
+to extends java/lang/Object {
+	Method[a(Ljava/lang/String;)Ljava/lang/String;]
+}
+
+

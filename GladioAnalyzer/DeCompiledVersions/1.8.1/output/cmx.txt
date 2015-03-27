@@ -1,0 +1,11 @@
+cmx extends java/lang/Object {
+	Field[aLcmx;]
+	Field[bLcmv;]
+	Field[cLcmv;]
+	Field[dLcmv;]
+	Field[eLcmv;]
+	Method[<init>(Lcmv;Lcmv;Lcmv;Lcmv;)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,12 @@
+cba extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Method[<init>()V]
+	Method[a()Ljava/util/List;]
+	Method[b()Lhp;]
+	Method[a(Lcaq;)V]
+	Method[A_()Lhp;]
+	Method[a(FI)V]
+	Method[B_()Z]
+}
+
+

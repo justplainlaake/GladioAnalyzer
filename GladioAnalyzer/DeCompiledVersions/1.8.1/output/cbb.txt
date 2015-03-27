@@ -1,0 +1,13 @@
+cbb extends java/lang/Object {
+	Field[bLbrx;]
+	Field[cLob;]
+	Field[dLjava/util/List;]
+	Field[aLcba;]
+	Method[<init>(Lcba;Lbrx;)V]
+	Method[a(Lcaq;)V]
+	Method[A_()Lhp;]
+	Method[a(FI)V]
+	Method[B_()Z]
+}
+
+

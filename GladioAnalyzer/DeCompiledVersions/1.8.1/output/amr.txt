@@ -1,0 +1,9 @@
+amr extends akp {
+	Field[cLjava/util/Set;]
+	Method[<init>(Lamf;)V]
+	Method[b(Lato;)Z]
+	Method[a(Lamg;Lato;)F]
+	Method[<clinit>()V]
+}
+
+

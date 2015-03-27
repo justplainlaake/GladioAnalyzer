@@ -1,0 +1,12 @@
+bpv extends bps {
+	Method[<init>()V]
+	Method[a(Lara;Lwx;)V]
+	Method[a()V]
+	Method[a(Lwx;)Lbpr;]
+	Method[a(Lwx;DDD)Lbpr;]
+	Method[a([Lbpr;Lwx;Lbpr;Lbpr;F)I]
+	Method[a(Lwx;III)Lbpr;]
+	Method[b(Lwx;III)I]
+}
+
+

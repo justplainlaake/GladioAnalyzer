@@ -1,0 +1,7 @@
+aye extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Layu;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

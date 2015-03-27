@@ -1,0 +1,19 @@
+afm extends xx {
+	Method[<init>(Laqr;)V]
+	Method[m()V]
+	Method[t_()V]
+	Method[P()Ljava/lang/String;]
+	Method[aa()Ljava/lang/String;]
+	Method[a(Lwj;F)Z]
+	Method[bo()Ljava/lang/String;]
+	Method[bp()Ljava/lang/String;]
+	Method[n(I)Ljava/lang/String;]
+	Method[r(Lwx;)Z]
+	Method[a(Ldt;)F]
+	Method[n_()Z]
+	Method[bR()Z]
+	Method[aX()V]
+	Method[ba()Z]
+}
+
+

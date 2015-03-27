@@ -1,0 +1,8 @@
+acq extends ze {
+	Field[aLacp;]
+	Method[<init>(Lacp;)V]
+	Method[a()Z]
+	Method[e()V]
+}
+
+

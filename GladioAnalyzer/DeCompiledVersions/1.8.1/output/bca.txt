@@ -1,0 +1,12 @@
+bca extends ato {
+	Method[<init>()V]
+	Method[a(Laqr;Ldt;Lbea;Lwx;)V]
+	Method[c()Z]
+	Method[a(Laqr;Ldt;Lbea;)Lbrr;]
+	Method[d()Z]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[H()Z]
+	Method[l()Laqi;]
+}
+
+

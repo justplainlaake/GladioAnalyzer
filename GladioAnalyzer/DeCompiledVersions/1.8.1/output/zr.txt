@@ -1,0 +1,13 @@
+zr extends ze {
+	Field[aLxx;]
+	Field[bD]
+	Field[cD]
+	Field[dD]
+	Field[eD]
+	Method[<init>(Lxx;D)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+}
+
+

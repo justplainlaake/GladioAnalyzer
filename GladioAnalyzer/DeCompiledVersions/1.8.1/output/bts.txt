@@ -1,0 +1,5 @@
+bts extends java/lang/Error {
+	Method[<init>()V]
+}
+
+

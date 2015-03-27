@@ -1,0 +1,9 @@
+csm extends csb {
+	Method[<init>(Lcqv;)V]
+	Method[a()V]
+	Method[a(Lcck;I)V]
+	Method[a(Lcck;)V]
+	Method[a(Lccp;I)V]
+}
+
+

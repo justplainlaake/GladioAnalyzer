@@ -1,0 +1,9 @@
+csf extends java/lang/Object {
+	Field[aLcpr;]
+	Method[<init>(Lcpr;)V]
+	Method[a(Laer;FFFFFFF)V]
+	Method[b()Z]
+	Method[a(Lxo;FFFFFFF)V]
+}
+
+

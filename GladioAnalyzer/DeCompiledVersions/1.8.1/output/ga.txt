@@ -1,0 +1,7 @@
+ga extends java/lang/Object {
+	Method[a(Lfn;)Lcom/mojang/authlib/GameProfile;]
+	Method[a(Lfn;Lcom/mojang/authlib/GameProfile;)Lfn;]
+	Method[a(Lgd;Lgd;Z)Z]
+}
+
+

@@ -1,0 +1,19 @@
+cth extends java/lang/Object {
+	Field[cLctf;]
+	Field[aLckw;]
+	Field[bLckw;]
+	Field[dLjava/util/List;]
+	Field[eLjava/util/List;]
+	Field[fLjava/util/List;]
+	Field[gLjava/util/List;]
+	Field[hLorg/lwjgl/util/vector/Matrix4f;]
+	Method[<init>(Lcvk;Ljava/lang/String;Lckw;Lckw;)V]
+	Method[b()V]
+	Method[a(Ljava/lang/String;Ljava/lang/Object;II)V]
+	Method[d()V]
+	Method[a(Lorg/lwjgl/util/vector/Matrix4f;)V]
+	Method[a(F)V]
+	Method[c()Lctf;]
+}
+
+

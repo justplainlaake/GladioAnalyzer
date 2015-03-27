@@ -1,0 +1,10 @@
+abi extends java/lang/Object {
+	Field[aLbru;]
+	Method[a(Lxx;II)Lbru;]
+	Method[a(Lxx;IILbru;)Lbru;]
+	Method[b(Lxx;IILbru;)Lbru;]
+	Method[c(Lxx;IILbru;)Lbru;]
+	Method[<clinit>()V]
+}
+
+

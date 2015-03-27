@@ -1,0 +1,9 @@
+amj extends ajr {
+	Field[bLaxe;]
+	Method[<init>(Laxe;)V]
+	Method[a(I)I]
+	Method[a(Lamg;I)I]
+	Method[e_(Lamg;)Ljava/lang/String;]
+}
+
+

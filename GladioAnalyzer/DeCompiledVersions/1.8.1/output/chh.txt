@@ -1,0 +1,6 @@
+chh extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(ILaqr;DDDDDD[I)Lcgv;]
+}
+
+

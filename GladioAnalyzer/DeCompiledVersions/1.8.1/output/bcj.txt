@@ -1,0 +1,10 @@
+bcj extends java/lang/Object {
+	Field[a[F]
+	Field[bI]
+	Method[<init>([F)V]
+	Method[a()V]
+	Method[b()[F]
+	Method[c()I]
+}
+
+

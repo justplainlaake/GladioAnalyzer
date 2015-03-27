@@ -1,0 +1,11 @@
+adq extends vm {
+	Field[bLamg;]
+	Field[cF]
+	Field[dZ]
+	Method[<init>(Lamg;I)V]
+	Method[a(Ljava/util/Random;)Lamg;]
+	Method[a(F)Ladq;]
+	Method[a()Ladq;]
+}
+
+

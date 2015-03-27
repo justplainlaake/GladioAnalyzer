@@ -1,0 +1,15 @@
+bsj extends java/lang/Enum {
+	Field[aLbsj;]
+	Field[bLbsj;]
+	Field[cLjava/util/Map;]
+	Field[dLjava/lang/String;]
+	Field[e[Lbsj;]
+	Method[values()[Lbsj;]
+	Method[valueOf(Ljava/lang/String;)Lbsj;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[a()Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)Lbsj;]
+	Method[<clinit>()V]
+}
+
+

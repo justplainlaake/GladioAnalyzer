@@ -1,0 +1,12 @@
+sd extends java/lang/Object {
+	Field[bLcom/mojang/authlib/GameProfile;]
+	Field[cLjava/util/Date;]
+	Field[aLsa;]
+	Method[<init>(Lsa;Lcom/mojang/authlib/GameProfile;Ljava/util/Date;)V]
+	Method[a()Lcom/mojang/authlib/GameProfile;]
+	Method[b()Ljava/util/Date;]
+	Method[<init>(Lsa;Lcom/mojang/authlib/GameProfile;Ljava/util/Date;Lsb;)V]
+	Method[a(Lsd;)Ljava/util/Date;]
+}
+
+

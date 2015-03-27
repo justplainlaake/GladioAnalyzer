@@ -1,0 +1,7 @@
+aaw extends aat {
+	Field[gLya;]
+	Method[<init>(Lya;Ljava/lang/Class;ZLcom/google/common/base/Predicate;)V]
+	Method[a()Z]
+}
+
+

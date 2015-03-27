@@ -1,0 +1,21 @@
+bzj extends byk {
+	Field[uLorg/apache/logging/log4j/Logger;]
+	Field[vLob;]
+	Field[wLapy;]
+	Field[xLbzk;]
+	Field[yLbzk;]
+	Field[zI]
+	Field[ALhp;]
+	Method[<init>(Lagy;Lapy;Laqr;)V]
+	Method[b()V]
+	Method[b(II)V]
+	Method[e()V]
+	Method[a(Lbue;)V]
+	Method[a(FII)V]
+	Method[a(IIF)V]
+	Method[a()Lapy;]
+	Method[f()Lob;]
+	Method[<clinit>()V]
+}
+
+

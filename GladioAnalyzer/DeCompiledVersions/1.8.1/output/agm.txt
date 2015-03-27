@@ -1,0 +1,4 @@
+agm extends java/lang/Object {
+}
+
+

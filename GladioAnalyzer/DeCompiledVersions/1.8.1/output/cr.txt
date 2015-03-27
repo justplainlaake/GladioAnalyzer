@@ -1,0 +1,15 @@
+cr extends z {
+	Method[<init>()V]
+	Method[c()Ljava/lang/String;]
+	Method[a()I]
+	Method[c(Lae;)Ljava/lang/String;]
+	Method[a(Lae;[Ljava/lang/String;)V]
+	Method[a(Lae;Ljava/util/List;Lcs;DDLaqr;Z)V]
+	Method[b(Ljava/util/List;)I]
+	Method[a(Lcs;DLaqr;Ljava/util/Random;DDDD[Lcs;Z)I]
+	Method[a(Ljava/util/List;Laqr;[Lcs;Z)D]
+	Method[a(Ljava/util/Random;IDDDD)[Lcs;]
+	Method[a(Lae;[Ljava/lang/String;Ldt;)Ljava/util/List;]
+}
+
+

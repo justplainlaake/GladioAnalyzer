@@ -1,0 +1,18 @@
+cwe extends java/lang/Object {
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Field[cLcwk;]
+	Field[dLjava/lang/String;]
+	Field[aLcwf;]
+	Field[eLjava/util/Map;]
+	Method[<init>(Lcwk;Ljava/lang/String;)V]
+	Method[a(Ljava/util/List;)V]
+	Method[a(Lcvk;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[a(Lcwd;)V]
+	Method[c()Lcwd;]
+	Method[d()Ljava/util/SortedSet;]
+	Method[<clinit>()V]
+}
+
+

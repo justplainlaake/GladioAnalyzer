@@ -1,0 +1,9 @@
+bxw extends java/lang/Object {
+	Field[aLbxu;]
+	Field[bLbxv;]
+	Method[<init>(Lbxv;Lbxu;)V]
+	Method[a(Ltq;Ltq;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

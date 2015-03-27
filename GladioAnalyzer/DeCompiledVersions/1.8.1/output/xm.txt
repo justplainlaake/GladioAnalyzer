@@ -1,0 +1,27 @@
+xm extends wx {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Field[fLaha;]
+	Field[gI]
+	Method[<init>(Laqr;DDDI)V]
+	Method[s_()Z]
+	Method[<init>(Laqr;)V]
+	Method[h()V]
+	Method[b(F)I]
+	Method[t_()V]
+	Method[W()Z]
+	Method[f(I)V]
+	Method[a(Lwj;F)Z]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[d(Laha;)V]
+	Method[j()I]
+	Method[l()I]
+	Method[a(I)I]
+	Method[aD()Z]
+}
+
+

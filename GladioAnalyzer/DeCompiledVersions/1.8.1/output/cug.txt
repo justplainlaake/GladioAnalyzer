@@ -1,0 +1,19 @@
+cug extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/util/Map;]
+	Field[cLjava/util/List;]
+	Field[dLjava/util/Map;]
+	Field[eLcvk;]
+	Method[<init>(Lcvk;)V]
+	Method[a(Lob;)V]
+	Method[a(Lob;Lcul;)Z]
+	Method[a(Lob;Lcui;)Z]
+	Method[b(Lob;)Lcui;]
+	Method[a(Ljava/lang/String;Lctp;)Lob;]
+	Method[e()V]
+	Method[c(Lob;)V]
+	Method[a(Lcvk;)V]
+	Method[<clinit>()V]
+}
+
+

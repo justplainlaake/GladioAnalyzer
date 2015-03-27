@@ -1,0 +1,8 @@
+coo extends cop {
+	Field[dI]
+	Method[<init>(Laqr;Lckn;Ldt;I)V]
+	Method[a(Laqi;Lcok;)I]
+	Method[a()V]
+}
+
+

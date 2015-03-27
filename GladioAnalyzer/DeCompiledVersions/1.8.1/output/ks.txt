@@ -1,0 +1,20 @@
+ks extends java/lang/Object {
+	Field[aLku;]
+	Field[bI]
+	Field[cD]
+	Field[dD]
+	Field[eD]
+	Field[fD]
+	Field[gJ]
+	Field[hI]
+	Field[iI]
+	Method[<init>()V]
+	Method[<init>(Lbez;Lku;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a(Lbez;)V]
+	Method[a(Lhh;)V]
+}
+
+

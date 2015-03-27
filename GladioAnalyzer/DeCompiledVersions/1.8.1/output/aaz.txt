@@ -1,0 +1,19 @@
+aaz extends ze {
+	Field[eLxx;]
+	Field[fZ]
+	Field[aZ]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Method[<init>(Lxx;Z)V]
+	Method[<init>(Lxx;ZZ)V]
+	Method[b()Z]
+	Method[f()D]
+	Method[c()V]
+	Method[d()V]
+	Method[a(Lxq;Lxo;ZZ)Z]
+	Method[a(Lxo;Z)Z]
+	Method[a(Lxo;)Z]
+}
+
+

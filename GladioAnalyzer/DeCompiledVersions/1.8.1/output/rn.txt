@@ -1,0 +1,7 @@
+rn extends java/lang/Object {
+	Field[aLrl;]
+	Method[<init>(Lrl;)V]
+	Method[run()V]
+}
+
+

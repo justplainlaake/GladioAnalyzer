@@ -1,0 +1,10 @@
+aay extends aaz {
+	Field[aLya;]
+	Field[bLxo;]
+	Field[cI]
+	Method[<init>(Lya;)V]
+	Method[a()Z]
+	Method[c()V]
+}
+
+

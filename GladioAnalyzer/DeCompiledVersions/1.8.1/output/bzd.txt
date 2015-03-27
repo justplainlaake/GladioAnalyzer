@@ -1,0 +1,12 @@
+bzd extends java/lang/Object {
+	Field[aLbzd;]
+	Field[bLjava/util/Random;]
+	Field[c[Ljava/lang/String;]
+	Method[<init>()V]
+	Method[a()Lbzd;]
+	Method[b()Ljava/lang/String;]
+	Method[a(J)V]
+	Method[<clinit>()V]
+}
+
+

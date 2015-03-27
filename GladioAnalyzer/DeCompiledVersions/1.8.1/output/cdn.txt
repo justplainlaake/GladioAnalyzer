@@ -1,0 +1,16 @@
+cdn extends ccp {
+	Field[aLcdx;]
+	Field[bLcdx;]
+	Field[cLcdx;]
+	Field[dLcdx;]
+	Field[eLcdx;]
+	Field[fLcdx;]
+	Field[gLcdx;]
+	Field[hLcdx;]
+	Method[<init>()V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(Lxo;FFF)V]
+	Method[a(FFFFFFLwx;)V]
+}
+
+

@@ -1,0 +1,12 @@
+cie extends cgv {
+	Field[aLwx;]
+	Field[azI]
+	Field[aAI]
+	Field[aBLew;]
+	Method[<init>(Laqr;Lwx;Lew;)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[t_()V]
+	Method[a()I]
+}
+
+

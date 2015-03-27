@@ -1,0 +1,12 @@
+beq extends java/lang/Object {
+	Field[aLjava/lang/Class;]
+	Field[bLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/Class;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/Class;]
+	Method[toString()Ljava/lang/String;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+}
+
+

@@ -1,0 +1,6 @@
+com extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Laqr;Lckn;Ldt;I)Lcop;]
+}
+
+

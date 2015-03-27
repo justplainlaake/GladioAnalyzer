@@ -1,0 +1,9 @@
+bwq extends bvv {
+	Method[<init>()V]
+	Method[b()V]
+	Method[a(CI)V]
+	Method[a(Lbue;)V]
+	Method[f()V]
+}
+
+

@@ -1,0 +1,8 @@
+yt extends java/lang/Object {
+	Field[aLys;]
+	Method[<init>(Lys;)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

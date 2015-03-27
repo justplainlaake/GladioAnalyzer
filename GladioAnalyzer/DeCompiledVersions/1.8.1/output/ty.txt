@@ -1,0 +1,11 @@
+ty extends java/lang/Object {
+	Field[aI]
+	Field[bLtz;]
+	Method[<init>()V]
+	Method[a()I]
+	Method[a(I)V]
+	Method[b()Ltz;]
+	Method[a(Ltz;)V]
+}
+
+

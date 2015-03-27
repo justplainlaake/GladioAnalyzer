@@ -1,0 +1,12 @@
+cpp extends cpu {
+	Field[aLob;]
+	Field[eLccp;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Ladb;DDDFF)V]
+	Method[a(Ladb;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+	Method[<clinit>()V]
+}
+
+

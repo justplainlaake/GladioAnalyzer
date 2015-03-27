@@ -1,0 +1,7 @@
+anm extends ank {
+	Method[<init>(Lato;)V]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+	Method[a(Lamg;I)I]
+}
+
+

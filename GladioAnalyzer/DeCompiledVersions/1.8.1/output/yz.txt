@@ -1,0 +1,16 @@
+yz extends ze {
+	Field[bLcom/google/common/base/Predicate;]
+	Field[cLxq;]
+	Field[dLaqr;]
+	Field[aI]
+	Method[<init>(Lxq;)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[b()Z]
+	Method[f()I]
+	Method[e()V]
+	Method[<clinit>()V]
+}
+
+

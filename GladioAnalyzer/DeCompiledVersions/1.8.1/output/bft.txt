@@ -1,0 +1,24 @@
+bft extends java/lang/Object {
+	Field[a[B]
+	Field[bLjava/io/File;]
+	Field[cLjava/io/RandomAccessFile;]
+	Field[d[I]
+	Field[e[I]
+	Field[fLjava/util/List;]
+	Field[gI]
+	Field[hJ]
+	Method[<init>(Ljava/io/File;)V]
+	Method[a(II)Ljava/io/DataInputStream;]
+	Method[b(II)Ljava/io/DataOutputStream;]
+	Method[a(II[BI)V]
+	Method[a(I[BI)V]
+	Method[d(II)Z]
+	Method[e(II)I]
+	Method[c(II)Z]
+	Method[a(III)V]
+	Method[b(III)V]
+	Method[c()V]
+	Method[<clinit>()V]
+}
+
+

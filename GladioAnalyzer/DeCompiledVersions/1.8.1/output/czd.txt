@@ -1,0 +1,7 @@
+czd extends java/net/URLStreamHandler {
+	Field[aLob;]
+	Method[<init>(Lob;)V]
+	Method[openConnection(Ljava/net/URL;)Ljava/net/URLConnection;]
+}
+
+

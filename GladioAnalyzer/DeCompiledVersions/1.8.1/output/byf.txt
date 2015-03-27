@@ -1,0 +1,4 @@
+byf extends java/lang/Object {
+}
+
+

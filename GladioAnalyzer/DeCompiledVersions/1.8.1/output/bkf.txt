@@ -1,0 +1,14 @@
+bkf extends bmt {
+	Field[cLjava/util/Set;]
+	Field[dZ]
+	Method[<init>()V]
+	Method[<init>(Laqr;Ljava/util/Random;II)V]
+	Method[b(Laqr;Ljava/util/Random;II)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)V]
+	Method[a(Laqj;)Z]
+	Method[b(Laqj;)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+}
+
+

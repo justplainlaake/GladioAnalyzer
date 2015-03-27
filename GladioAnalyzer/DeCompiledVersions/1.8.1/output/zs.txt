@@ -1,0 +1,16 @@
+zs extends ze {
+	Field[aLxx;]
+	Field[bLxo;]
+	Field[cD]
+	Field[dD]
+	Field[eD]
+	Field[fD]
+	Field[gF]
+	Method[<init>(Lxx;DF)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[d()V]
+	Method[c()V]
+}
+
+

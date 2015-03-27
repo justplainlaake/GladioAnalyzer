@@ -1,0 +1,7 @@
+bin extends bha {
+	Method[<init>()V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+	Method[a(Laqr;Ldt;I)V]
+}
+
+

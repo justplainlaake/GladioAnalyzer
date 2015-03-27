@@ -1,0 +1,11 @@
+cmm extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/util/List;]
+	Method[<init>(Ljava/lang/String;Ljava/util/List;)V]
+	Method[b()Ljava/util/List;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[a(Lcmm;)Ljava/lang/String;]
+}
+
+

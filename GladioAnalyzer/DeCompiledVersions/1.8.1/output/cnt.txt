@@ -1,0 +1,8 @@
+cnt extends cnp {
+	Method[<init>()V]
+	Method[a(Lbde;DDDFI)V]
+	Method[a(Laqf;DDDF)V]
+	Method[a(Lbck;DDDFI)V]
+}
+
+

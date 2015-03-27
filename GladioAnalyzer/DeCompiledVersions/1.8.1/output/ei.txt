@@ -1,0 +1,7 @@
+ei extends fb {
+	Field[aLjava/lang/Object;]
+	Method[<init>(Ljava/lang/Object;)V]
+	Method[a(Ljava/lang/Object;)Ljava/lang/Object;]
+}
+
+

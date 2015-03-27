@@ -1,0 +1,14 @@
+bws extends bvi {
+	Field[vLjava/util/List;]
+	Field[wLjava/util/Map;]
+	Field[uLbwr;]
+	Method[<init>(Lbwr;Lbss;)V]
+	Method[b()I]
+	Method[a(IZII)V]
+	Method[a(I)Z]
+	Method[k()I]
+	Method[a()V]
+	Method[a(IIIIII)V]
+}
+
+

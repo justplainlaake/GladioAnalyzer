@@ -1,0 +1,8 @@
+amn extends eg {
+	Field[bLeg;]
+	Method[<init>()V]
+	Method[b(Ldz;Lamg;)Lamg;]
+	Method[a(Ldz;)V]
+}
+
+

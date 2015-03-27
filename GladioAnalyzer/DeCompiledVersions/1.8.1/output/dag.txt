@@ -1,0 +1,12 @@
+dag extends java/lang/Enum {
+	Field[aLdag;]
+	Field[bLdag;]
+	Field[cLdag;]
+	Field[d[Ldag;]
+	Method[values()[Ldag;]
+	Method[valueOf(Ljava/lang/String;)Ldag;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

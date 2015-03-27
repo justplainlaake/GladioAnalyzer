@@ -1,0 +1,13 @@
+daf extends java/lang/Enum {
+	Field[aLdaf;]
+	Field[bLdaf;]
+	Field[cLdaf;]
+	Field[dLdaf;]
+	Field[e[Ldaf;]
+	Method[values()[Ldaf;]
+	Method[valueOf(Ljava/lang/String;)Ldaf;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

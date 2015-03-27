@@ -1,0 +1,5 @@
+hd extends gz {
+	Method[<init>(Ljava/lang/String;II)V]
+}
+
+

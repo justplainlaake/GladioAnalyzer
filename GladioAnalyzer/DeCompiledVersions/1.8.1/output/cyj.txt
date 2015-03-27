@@ -1,0 +1,11 @@
+cyj extends sp {
+	Field[fLfn;]
+	Method[<init>(Lcyk;)V]
+	Method[b(Lqx;)V]
+	Method[a(Ljava/net/SocketAddress;Lcom/mojang/authlib/GameProfile;)Ljava/lang/String;]
+	Method[b()Lcyk;]
+	Method[t()Lfn;]
+	Method[c()Lnet/minecraft/server/MinecraftServer;]
+}
+
+

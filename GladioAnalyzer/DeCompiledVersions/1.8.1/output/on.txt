@@ -1,0 +1,8 @@
+on extends eg {
+	Method[<init>()V]
+	Method[b(Ldz;Lamg;)Lamg;]
+	Method[a(Ldz;)V]
+	Method[a(Ldz;Lej;)V]
+}
+
+

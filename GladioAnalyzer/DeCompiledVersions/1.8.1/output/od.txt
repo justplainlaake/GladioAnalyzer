@@ -1,0 +1,10 @@
+od extends eg {
+	Method[<init>()V]
+	Method[b(Ldz;Lamg;)Lamg;]
+	Method[a(Ldz;)V]
+	Method[a(Laqr;Lex;)Lahl;]
+	Method[a()F]
+	Method[b()F]
+}
+
+

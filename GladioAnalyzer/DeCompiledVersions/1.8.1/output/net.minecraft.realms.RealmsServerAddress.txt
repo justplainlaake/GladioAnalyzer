@@ -1,0 +1,10 @@
+net/minecraft/realms/RealmsServerAddress extends java/lang/Object {
+	Field[hostLjava/lang/String;]
+	Field[portI]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[getHost()Ljava/lang/String;]
+	Method[getPort()I]
+	Method[parseString(Ljava/lang/String;)Lnet/minecraft/realms/RealmsServerAddress;]
+}
+
+

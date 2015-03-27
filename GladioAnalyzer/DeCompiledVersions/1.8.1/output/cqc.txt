@@ -1,0 +1,22 @@
+cqc extends cqz {
+	Field[eLob;]
+	Field[jLob;]
+	Field[kLob;]
+	Field[aI]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lafg;Lcox;DDD)Z]
+	Method[a(Lxo;DF)Lbru;]
+	Method[a(Lafg;DDDFF)V]
+	Method[a(Lafg;F)V]
+	Method[a(Lafg;)Lob;]
+	Method[a(Lxq;DDDFF)V]
+	Method[a(Lxq;Lcox;DDD)Z]
+	Method[a(Lxo;F)V]
+	Method[a(Lxo;DDDFF)V]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+	Method[a(Lwx;Lcox;DDD)Z]
+	Method[<clinit>()V]
+}
+
+

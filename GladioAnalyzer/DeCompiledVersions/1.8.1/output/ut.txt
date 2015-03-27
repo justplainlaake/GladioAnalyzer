@@ -1,0 +1,25 @@
+ut extends java/lang/Object {
+	Field[a[Luu;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eF]
+	Field[fI]
+	Method[<init>()V]
+	Method[g(J)I]
+	Method[a(I)I]
+	Method[a(II)I]
+	Method[a()I]
+	Method[a(J)Ljava/lang/Object;]
+	Method[b(J)Z]
+	Method[c(J)Luu;]
+	Method[a(JLjava/lang/Object;)V]
+	Method[b(I)V]
+	Method[a([Luu;)V]
+	Method[d(J)Ljava/lang/Object;]
+	Method[e(J)Luu;]
+	Method[a(IJLjava/lang/Object;I)V]
+	Method[f(J)I]
+}
+
+

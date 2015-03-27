@@ -1,0 +1,23 @@
+cmp extends java/lang/Object {
+	Field[aF]
+	Field[bF]
+	Method[<init>()V]
+	Method[a(Lorg/lwjgl/util/vector/Vector3f;Lorg/lwjgl/util/vector/Vector3f;Lclx;Lcue;Lej;Lcxf;Lclz;ZZ)Lclt;]
+	Method[a(Lclx;Lcue;Lej;[FLcxf;Lclz;ZZ)[I]
+	Method[a(Lej;)I]
+	Method[b(Lej;)F]
+	Method[a(Lorg/lwjgl/util/vector/Vector3f;Lorg/lwjgl/util/vector/Vector3f;)[F]
+	Method[a([IILej;Lclx;[FLcue;Lcxf;Lclz;ZZ)V]
+	Method[a([IIILorg/lwjgl/util/vector/Vector3f;ILcue;Lcma;)V]
+	Method[a(Lorg/lwjgl/util/vector/Vector3f;Lclz;)V]
+	Method[a(Lorg/lwjgl/util/vector/Vector3f;Lej;ILcxf;Z)I]
+	Method[a(Lorg/lwjgl/util/vector/Vector3f;Lorg/lwjgl/util/vector/Vector3f;Lorg/lwjgl/util/vector/Matrix4f;Lorg/lwjgl/util/vector/Vector3f;)V]
+	Method[a()Lorg/lwjgl/util/vector/Matrix4f;]
+	Method[a([I)Lej;]
+	Method[a([ILej;Lcma;Lcue;)V]
+	Method[a([ILej;)V]
+	Method[a(I[ILej;Lcma;Lcue;)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,11 @@
+cri extends cqz {
+	Field[aLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lafs;)F]
+	Method[b(Lafs;)Lob;]
+	Method[b(Lxo;)F]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

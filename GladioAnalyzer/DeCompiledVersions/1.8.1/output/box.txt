@@ -1,0 +1,6 @@
+box extends boy {
+	Method[<init>(J)V]
+	Method[a(IIII)[I]
+}
+
+

@@ -1,0 +1,21 @@
+j extends java/lang/Object {
+	Field[aLb;]
+	Field[bLjava/lang/String;]
+	Field[cLjava/util/List;]
+	Field[d[Ljava/lang/StackTraceElement;]
+	Method[<init>(Lb;Ljava/lang/String;)V]
+	Method[a(DDD)Ljava/lang/String;]
+	Method[a(Ldt;)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;Ljava/util/concurrent/Callable;)V]
+	Method[a(Ljava/lang/String;Ljava/lang/Object;)V]
+	Method[a(Ljava/lang/String;Ljava/lang/Throwable;)V]
+	Method[a(I)I]
+	Method[a(Ljava/lang/StackTraceElement;Ljava/lang/StackTraceElement;)Z]
+	Method[b(I)V]
+	Method[a(Ljava/lang/StringBuilder;)V]
+	Method[a()[Ljava/lang/StackTraceElement;]
+	Method[a(Lj;Ldt;Lato;I)V]
+	Method[a(Lj;Ldt;Lbea;)V]
+}
+
+

@@ -1,0 +1,8 @@
+csn extends java/lang/Object {
+	Field[aLcqv;]
+	Method[<init>(Lcqv;)V]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[b()Z]
+}
+
+

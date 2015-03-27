@@ -1,0 +1,6 @@
+cmj extends java/lang/RuntimeException {
+	Field[aLcmh;]
+	Method[<init>(Lcmh;)V]
+}
+
+

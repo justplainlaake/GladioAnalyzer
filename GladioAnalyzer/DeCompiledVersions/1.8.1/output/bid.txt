@@ -1,0 +1,10 @@
+bid extends bhn {
+	Field[aLbea;]
+	Field[bI]
+	Field[cLcom/google/common/base/Predicate;]
+	Method[<init>(Lbea;I)V]
+	Method[<init>(Lbea;ILcom/google/common/base/Predicate;)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+}
+
+

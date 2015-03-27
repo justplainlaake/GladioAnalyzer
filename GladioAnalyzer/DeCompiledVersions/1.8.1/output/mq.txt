@@ -1,0 +1,18 @@
+mq extends java/lang/Object {
+	Field[aF]
+	Field[bF]
+	Field[cZ]
+	Field[dZ]
+	Method[<init>()V]
+	Method[<init>(FFZZ)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[a()F]
+	Method[b()F]
+	Method[c()Z]
+	Method[d()Z]
+	Method[a(Lhh;)V]
+}
+
+

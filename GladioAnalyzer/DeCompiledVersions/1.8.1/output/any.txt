@@ -1,0 +1,8 @@
+any extends java/lang/Object {
+	Field[a[[Ljava/lang/String;]
+	Field[b[[Laln;]
+	Method[<init>()V]
+	Method[a(Laom;)V]
+}
+
+

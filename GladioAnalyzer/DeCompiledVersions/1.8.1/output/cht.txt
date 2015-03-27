@@ -1,0 +1,5 @@
+cht extends cih {
+	Method[<init>(Laqr;DDDDDD)V]
+}
+
+

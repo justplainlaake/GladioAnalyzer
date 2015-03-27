@@ -1,0 +1,23 @@
+ctq extends ctv {
+	Field[gLorg/apache/logging/log4j/Logger;]
+	Field[hLjava/util/concurrent/atomic/AtomicInteger;]
+	Field[iLjava/io/File;]
+	Field[jLjava/lang/String;]
+	Field[kLckh;]
+	Field[lLjava/awt/image/BufferedImage;]
+	Field[mLjava/lang/Thread;]
+	Field[nZ]
+	Method[<init>(Ljava/io/File;Ljava/lang/String;Lob;Lckh;)V]
+	Method[g()V]
+	Method[b()I]
+	Method[a(Ljava/awt/image/BufferedImage;)V]
+	Method[a(Lcvk;)V]
+	Method[d()V]
+	Method[a(Lctq;)Ljava/lang/String;]
+	Method[b(Lctq;)Ljava/io/File;]
+	Method[f()Lorg/apache/logging/log4j/Logger;]
+	Method[c(Lctq;)Lckh;]
+	Method[<clinit>()V]
+}
+
+

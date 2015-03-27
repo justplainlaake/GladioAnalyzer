@@ -1,0 +1,19 @@
+bvq extends bvi {
+	Field[uLnet/minecraft/realms/RealmsClickableScrolledSelectionList;]
+	Method[<init>(Lnet/minecraft/realms/RealmsClickableScrolledSelectionList;IIIII)V]
+	Method[b()I]
+	Method[a(IZII)V]
+	Method[a(I)Z]
+	Method[a()V]
+	Method[a(IIIIII)V]
+	Method[e()I]
+	Method[f()I]
+	Method[g()I]
+	Method[k()I]
+	Method[d()I]
+	Method[p()V]
+	Method[a(IIILnet/minecraft/realms/Tezzelator;)V]
+	Method[b(IIII)V]
+}
+
+

@@ -1,0 +1,16 @@
+cik extends aha {
+	Field[aLcer;]
+	Method[<init>(Laqr;Lcom/mojang/authlib/GameProfile;)V]
+	Method[v()Z]
+	Method[a()Z]
+	Method[b()Lcer;]
+	Method[g()Z]
+	Method[i()Lob;]
+	Method[k()Lob;]
+	Method[a(Lob;Ljava/lang/String;)Lctq;]
+	Method[c(Ljava/lang/String;)Lob;]
+	Method[l()Ljava/lang/String;]
+	Method[o()F]
+}
+
+

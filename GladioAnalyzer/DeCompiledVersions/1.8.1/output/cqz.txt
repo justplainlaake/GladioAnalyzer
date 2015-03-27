@@ -1,0 +1,16 @@
+cqz extends cqv {
+	Method[<init>(Lcpt;Lccp;F)V]
+	Method[b(Lxq;)Z]
+	Method[a(Lxq;Lcox;DDD)Z]
+	Method[a(Lxq;DDDFF)V]
+	Method[a(Lxq;F)V]
+	Method[a(DDD)D]
+	Method[b(Lxq;DDDFF)V]
+	Method[a(Lxo;)Z]
+	Method[a(Lxo;DDDFF)V]
+	Method[b(Lwx;)Z]
+	Method[a(Lwx;DDDFF)V]
+	Method[a(Lwx;Lcox;DDD)Z]
+}
+
+

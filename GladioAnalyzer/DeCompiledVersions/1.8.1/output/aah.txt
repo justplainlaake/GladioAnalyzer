@@ -1,0 +1,11 @@
+aah extends ze {
+	Field[aLaeq;]
+	Field[bLxo;]
+	Method[<init>(Laeq;)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+}
+
+

@@ -1,0 +1,8 @@
+bhp extends bip {
+	Field[aI]
+	Field[bI]
+	Method[<init>(II)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+}
+
+

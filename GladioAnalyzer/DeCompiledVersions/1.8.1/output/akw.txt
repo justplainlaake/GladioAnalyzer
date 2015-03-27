@@ -1,0 +1,6 @@
+akw extends akb {
+	Method[<init>()V]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+}
+
+

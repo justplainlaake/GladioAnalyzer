@@ -1,0 +1,24 @@
+cok extends java/lang/Object {
+	Field[aLcok;]
+	Field[b[Z]
+	Field[c[Z]
+	Field[dZ]
+	Field[eLjava/util/List;]
+	Field[fLcou;]
+	Field[gLciw;]
+	Method[<init>()V]
+	Method[a()Z]
+	Method[a(Laqi;)V]
+	Method[b(Laqi;)Z]
+	Method[c(Laqi;)V]
+	Method[d(Laqi;)Z]
+	Method[b()Ljava/util/List;]
+	Method[a(Lbck;)V]
+	Method[a(Lej;Lej;)Z]
+	Method[a(Lcou;)V]
+	Method[c()Lciw;]
+	Method[a(Lciw;)V]
+	Method[<clinit>()V]
+}
+
+

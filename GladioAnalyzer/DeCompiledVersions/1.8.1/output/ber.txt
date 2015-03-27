@@ -1,0 +1,10 @@
+ber extends beq {
+	Field[aLcom/google/common/collect/ImmutableSet;]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[c()Ljava/util/Collection;]
+	Method[a(Ljava/lang/String;)Lber;]
+	Method[a(Ljava/lang/Boolean;)Ljava/lang/String;]
+	Method[a(Ljava/lang/Comparable;)Ljava/lang/String;]
+}
+
+

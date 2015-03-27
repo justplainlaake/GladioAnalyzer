@@ -1,0 +1,10 @@
+cvz extends java/lang/Object {
+	Field[aLcom/mojang/authlib/GameProfile;]
+	Field[bZ]
+	Field[cLcwb;]
+	Field[dLcvw;]
+	Method[<init>(Lcvw;Lcom/mojang/authlib/GameProfile;ZLcwb;)V]
+	Method[run()V]
+}
+
+

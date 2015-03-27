@@ -1,0 +1,6 @@
+bun extends bue {
+	Method[<init>(III)V]
+	Method[a(Lbss;II)V]
+}
+
+

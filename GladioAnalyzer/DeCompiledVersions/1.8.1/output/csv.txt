@@ -1,0 +1,6 @@
+csv extends csm {
+	Method[<init>(Lcqv;)V]
+	Method[a()V]
+}
+
+

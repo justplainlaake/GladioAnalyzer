@@ -1,0 +1,10 @@
+bmv extends bmt {
+	Field[cZ]
+	Method[<init>()V]
+	Method[<init>(Laqr;Ljava/util/Random;III)V]
+	Method[d()Z]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+}
+
+

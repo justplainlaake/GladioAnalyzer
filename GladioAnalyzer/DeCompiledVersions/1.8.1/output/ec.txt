@@ -1,0 +1,4 @@
+ec extends java/lang/Object {
+}
+
+

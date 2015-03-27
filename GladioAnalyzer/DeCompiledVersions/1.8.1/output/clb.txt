@@ -1,0 +1,6 @@
+clb extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lato;F)V]
+}
+
+

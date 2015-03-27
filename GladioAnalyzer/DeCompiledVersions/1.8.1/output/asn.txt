@@ -1,0 +1,10 @@
+asn extends arj {
+	Field[aDLbij;]
+	Method[<init>(I)V]
+	Method[a(Ljava/util/Random;)Lbha;]
+	Method[d(I)Larj;]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[<clinit>()V]
+}
+
+

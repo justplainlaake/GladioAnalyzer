@@ -1,0 +1,5 @@
+czq extends czs {
+	Method[<init>(Lxo;Lxo;)V]
+}
+
+

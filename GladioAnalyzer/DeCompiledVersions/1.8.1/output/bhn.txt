@@ -1,0 +1,12 @@
+bhn extends java/lang/Object {
+	Field[aZ]
+	Method[<init>()V]
+	Method[<init>(Z)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+	Method[e()V]
+	Method[a(Laqr;Ldt;Lato;)V]
+	Method[a(Laqr;Ldt;Lato;I)V]
+	Method[a(Laqr;Ldt;Lbea;)V]
+}
+
+

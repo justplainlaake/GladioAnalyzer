@@ -1,0 +1,6 @@
+axs extends axr {
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[d()Lbea;]
+}
+
+

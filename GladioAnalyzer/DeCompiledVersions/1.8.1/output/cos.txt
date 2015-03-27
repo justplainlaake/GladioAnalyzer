@@ -1,0 +1,20 @@
+cos extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dLjava/util/BitSet;]
+	Field[e[I]
+	Field[fI]
+	Method[<init>()V]
+	Method[a(Ldt;)V]
+	Method[c(Ldt;)I]
+	Method[a(III)I]
+	Method[a()Lcou;]
+	Method[b(Ldt;)Ljava/util/Set;]
+	Method[a(I)Ljava/util/Set;]
+	Method[a(ILjava/util/Set;)V]
+	Method[a(ILej;)I]
+	Method[<clinit>()V]
+}
+
+

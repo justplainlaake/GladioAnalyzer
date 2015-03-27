@@ -1,0 +1,15 @@
+em extends java/lang/Enum {
+	Field[aLem;]
+	Field[bLem;]
+	Field[cI]
+	Field[dLjava/lang/String;]
+	Field[e[Lem;]
+	Method[values()[Lem;]
+	Method[valueOf(Ljava/lang/String;)Lem;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

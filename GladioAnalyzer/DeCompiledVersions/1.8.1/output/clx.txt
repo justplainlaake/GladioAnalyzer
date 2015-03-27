@@ -1,0 +1,11 @@
+clx extends java/lang/Object {
+	Field[aLej;]
+	Field[bLej;]
+	Field[cI]
+	Field[dLjava/lang/String;]
+	Field[eLcma;]
+	Method[<init>(Lej;ILjava/lang/String;Lcma;)V]
+	Method[<clinit>()V]
+}
+
+

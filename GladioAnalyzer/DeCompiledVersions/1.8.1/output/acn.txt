@@ -1,0 +1,7 @@
+acn extends ahy {
+	Field[aLacm;]
+	Method[<init>(Lacm;)V]
+	Method[a(Laha;)Z]
+}
+
+

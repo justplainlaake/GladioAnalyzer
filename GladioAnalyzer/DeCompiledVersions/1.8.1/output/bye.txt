@@ -1,0 +1,16 @@
+bye extends bus {
+	Field[uLbyi;]
+	Field[vLbss;]
+	Field[w[Lbut;]
+	Field[xI]
+	Method[<init>(Lbyi;Lbss;)V]
+	Method[b()I]
+	Method[b(I)Lbut;]
+	Method[d()I]
+	Method[c()I]
+	Method[a(Lbye;)Lbss;]
+	Method[b(Lbye;)Lbyi;]
+	Method[c(Lbye;)I]
+}
+
+

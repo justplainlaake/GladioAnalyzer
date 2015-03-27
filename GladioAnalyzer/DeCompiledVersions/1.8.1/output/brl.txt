@@ -1,0 +1,15 @@
+brl extends java/lang/Object {
+	Field[bLbqw;]
+	Field[aLjava/util/Map;]
+	Field[cLjava/util/List;]
+	Field[dLjava/util/Map;]
+	Method[<init>(Lbqw;)V]
+	Method[a(Ljava/lang/Class;Ljava/lang/String;)Lbqa;]
+	Method[a(Ljava/lang/String;Lbqa;)V]
+	Method[a()V]
+	Method[a(Lbqa;)V]
+	Method[b()V]
+	Method[a(Ljava/lang/String;)I]
+}
+
+

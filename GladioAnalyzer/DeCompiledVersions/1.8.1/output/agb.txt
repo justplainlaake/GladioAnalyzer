@@ -1,0 +1,10 @@
+agb extends ze {
+	Field[aLafw;]
+	Field[bF]
+	Field[cI]
+	Method[<init>(Lafw;)V]
+	Method[a()Z]
+	Method[e()V]
+}
+
+

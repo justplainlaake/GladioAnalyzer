@@ -1,0 +1,21 @@
+byi extends bxe {
+	Field[h[Lbtp;]
+	Field[iLbxe;]
+	Field[aLjava/lang/String;]
+	Field[rLbtm;]
+	Field[fLbsp;]
+	Field[gJ]
+	Field[sLbye;]
+	Field[tLbue;]
+	Method[<init>(Lbxe;Lbtm;)V]
+	Method[b()V]
+	Method[k()V]
+	Method[a(Lbue;)V]
+	Method[a(III)V]
+	Method[b(III)V]
+	Method[a(CI)V]
+	Method[a(IIF)V]
+	Method[<clinit>()V]
+}
+
+

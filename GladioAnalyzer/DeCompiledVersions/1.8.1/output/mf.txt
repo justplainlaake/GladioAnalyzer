@@ -1,0 +1,12 @@
+mf extends java/lang/Enum {
+	Field[aLmf;]
+	Field[bLmf;]
+	Field[cLmf;]
+	Field[d[Lmf;]
+	Method[values()[Lmf;]
+	Method[valueOf(Ljava/lang/String;)Lmf;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

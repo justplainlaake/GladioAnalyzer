@@ -1,0 +1,16 @@
+nf extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/security/PublicKey;]
+	Field[c[B]
+	Method[<init>()V]
+	Method[<init>(Ljava/lang/String;Ljava/security/PublicKey;[B)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lnd;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/security/PublicKey;]
+	Method[c()[B]
+	Method[a(Lhh;)V]
+}
+
+

@@ -1,0 +1,11 @@
+lh extends java/lang/Enum {
+	Field[aLlh;]
+	Field[bLlh;]
+	Field[c[Llh;]
+	Method[values()[Llh;]
+	Method[valueOf(Ljava/lang/String;)Llh;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

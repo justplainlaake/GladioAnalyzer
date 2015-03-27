@@ -1,0 +1,8 @@
+ak extends java/lang/Object {
+	Field[aLbrr;]
+	Method[<init>(Lbrr;)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

@@ -1,0 +1,25 @@
+bcg extends bck {
+	Field[aI]
+	Field[fLfv;]
+	Field[gZ]
+	Field[hLjava/util/List;]
+	Field[iLjava/util/List;]
+	Field[jLjava/lang/String;]
+	Method[<init>()V]
+	Method[a(Lamg;)V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;ILfv;)V]
+	Method[a(Lfn;)V]
+	Method[y_()Lie;]
+	Method[b()I]
+	Method[b(Lamg;)I]
+	Method[c(Lamg;)I]
+	Method[c()Ljava/util/List;]
+	Method[d()Lfv;]
+	Method[e()Ljava/util/List;]
+	Method[g()Ljava/lang/String;]
+	Method[h()V]
+	Method[e(Lamg;)V]
+}
+
+

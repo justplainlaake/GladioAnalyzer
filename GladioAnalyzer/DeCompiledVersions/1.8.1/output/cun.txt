@@ -1,0 +1,10 @@
+cun extends cue {
+	Field[jD]
+	Field[kD]
+	Field[lLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[j()V]
+	Method[a(Laqr;DDDZZ)V]
+}
+
+

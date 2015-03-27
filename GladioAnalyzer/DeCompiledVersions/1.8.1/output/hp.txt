@@ -1,0 +1,13 @@
+hp extends java/lang/Object {
+	Method[a(Lhw;)Lhp;]
+	Method[b()Lhw;]
+	Method[a(Ljava/lang/String;)Lhp;]
+	Method[a(Lhp;)Lhp;]
+	Method[e()Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+	Method[d()Ljava/lang/String;]
+	Method[a()Ljava/util/List;]
+	Method[f()Lhp;]
+}
+
+

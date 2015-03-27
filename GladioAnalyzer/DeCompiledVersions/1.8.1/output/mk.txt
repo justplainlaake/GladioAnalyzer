@@ -1,0 +1,9 @@
+mk extends mh {
+	Method[<init>()V]
+	Method[<init>(FFZ)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lhh;)V]
+}
+
+

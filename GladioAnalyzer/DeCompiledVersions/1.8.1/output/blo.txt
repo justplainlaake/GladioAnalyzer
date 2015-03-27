@@ -1,0 +1,6 @@
+blo extends bmt {
+	Method[<init>()V]
+	Method[<init>(Laqr;Ljava/util/Random;II)V]
+}
+
+

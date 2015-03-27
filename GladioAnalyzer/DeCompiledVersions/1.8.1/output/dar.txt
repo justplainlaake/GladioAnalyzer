@@ -1,0 +1,8 @@
+dar extends java/lang/Thread {
+	Field[aLcom/mojang/authlib/properties/Property;]
+	Field[bLdaq;]
+	Method[<init>(Ldaq;Ljava/lang/String;Lcom/mojang/authlib/properties/Property;)V]
+	Method[run()V]
+}
+
+

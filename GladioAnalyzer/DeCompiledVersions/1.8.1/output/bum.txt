@@ -1,0 +1,24 @@
+bum extends btz {
+	Field[aI]
+	Field[fI]
+	Field[gI]
+	Field[hI]
+	Field[kLjava/util/List;]
+	Field[iI]
+	Field[lZ]
+	Field[jZ]
+	Field[mZ]
+	Field[nI]
+	Field[oI]
+	Field[pI]
+	Field[qI]
+	Field[rLbtw;]
+	Field[sI]
+	Method[<init>(Lbtw;IIIIII)V]
+	Method[a(Ljava/lang/String;)V]
+	Method[a()Lbum;]
+	Method[a(Lbss;II)V]
+	Method[b(Lbss;II)V]
+}
+
+

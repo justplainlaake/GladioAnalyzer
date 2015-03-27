@@ -1,0 +1,5 @@
+ads extends wx {
+	Method[<init>(Laqr;)V]
+}
+
+

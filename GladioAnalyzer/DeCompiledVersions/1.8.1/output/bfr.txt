@@ -1,0 +1,6 @@
+bfr extends java/lang/Object {
+	Method[a(Lfn;)Lbfs;]
+	Method[a(Lbfs;Lfn;Larw;)V]
+}
+
+

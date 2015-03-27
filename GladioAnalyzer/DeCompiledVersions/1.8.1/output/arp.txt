@@ -1,0 +1,12 @@
+arp extends java/lang/Object {
+	Field[a[F]
+	Field[b[Larj;]
+	Field[cI]
+	Field[dI]
+	Field[eJ]
+	Field[fLaro;]
+	Method[<init>(Laro;II)V]
+	Method[a(II)Larj;]
+}
+
+

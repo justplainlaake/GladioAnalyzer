@@ -1,0 +1,12 @@
+byv extends byk {
+	Field[uLob;]
+	Field[vLvs;]
+	Field[wLvs;]
+	Field[xI]
+	Method[<init>(Lvs;Lvs;)V]
+	Method[b(II)V]
+	Method[a(FII)V]
+	Method[<clinit>()V]
+}
+
+

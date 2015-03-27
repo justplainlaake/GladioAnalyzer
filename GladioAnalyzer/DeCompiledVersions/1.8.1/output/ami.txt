@@ -1,0 +1,7 @@
+ami extends aln {
+	Method[<init>()V]
+	Method[a(Lamg;Laha;Laqr;Ldt;Lej;FFF)Z]
+	Method[a(Laha;Laqr;Ldt;)Z]
+}
+
+

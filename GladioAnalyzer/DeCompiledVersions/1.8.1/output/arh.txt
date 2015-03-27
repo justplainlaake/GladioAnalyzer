@@ -1,0 +1,19 @@
+arh extends java/lang/Object {
+	Field[dJ]
+	Field[eLato;]
+	Field[aLdt;]
+	Field[bJ]
+	Field[cI]
+	Field[fJ]
+	Method[<init>(Ldt;Lato;)V]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[a(J)Larh;]
+	Method[a(I)V]
+	Method[a(Larh;)I]
+	Method[toString()Ljava/lang/String;]
+	Method[a()Lato;]
+	Method[compareTo(Ljava/lang/Object;)I]
+}
+
+

@@ -1,0 +1,11 @@
+gm extends java/lang/Object {
+	Field[aLjavax/crypto/Cipher;]
+	Field[b[B]
+	Field[c[B]
+	Method[<init>(Ljavax/crypto/Cipher;)V]
+	Method[a(Lio/netty/buffer/ByteBuf;)[B]
+	Method[a(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;)Lio/netty/buffer/ByteBuf;]
+	Method[a(Lio/netty/buffer/ByteBuf;Lio/netty/buffer/ByteBuf;)V]
+}
+
+

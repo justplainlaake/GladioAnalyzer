@@ -1,0 +1,19 @@
+yq extends java/lang/Object {
+	Field[aLxq;]
+	Field[bD]
+	Field[cD]
+	Field[dD]
+	Field[eD]
+	Field[fZ]
+	Method[<init>(Lxq;)V]
+	Method[a()Z]
+	Method[b()D]
+	Method[a(DDDD)V]
+	Method[c()V]
+	Method[a(FFF)F]
+	Method[d()D]
+	Method[e()D]
+	Method[f()D]
+}
+
+

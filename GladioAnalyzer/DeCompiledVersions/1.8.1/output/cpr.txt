@@ -1,0 +1,15 @@
+cpr extends cqz {
+	Field[aLob;]
+	Field[eLcce;]
+	Field[jLjava/util/Random;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Laer;DDDFF)V]
+	Method[a(Laer;)Lob;]
+	Method[a(Lxq;DDDFF)V]
+	Method[a(Lxo;DDDFF)V]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+	Method[<clinit>()V]
+}
+
+

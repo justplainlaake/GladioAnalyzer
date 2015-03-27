@@ -1,0 +1,7 @@
+bil extends bhn {
+	Field[aLato;]
+	Method[<init>(Lato;)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+}
+
+

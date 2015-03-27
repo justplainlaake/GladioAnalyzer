@@ -1,0 +1,7 @@
+bqi extends java/lang/Object {
+	Field[aLbqh;]
+	Method[<init>(Lbqh;)V]
+	Method[accept(Ljava/io/File;Ljava/lang/String;)Z]
+}
+
+

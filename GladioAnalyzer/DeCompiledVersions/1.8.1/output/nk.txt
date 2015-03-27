@@ -1,0 +1,14 @@
+nk extends java/lang/Object {
+	Field[a[B]
+	Field[b[B]
+	Method[<init>()V]
+	Method[<init>(Ljavax/crypto/SecretKey;Ljava/security/PublicKey;[B)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lni;)V]
+	Method[a(Ljava/security/PrivateKey;)Ljavax/crypto/SecretKey;]
+	Method[b(Ljava/security/PrivateKey;)[B]
+	Method[a(Lhh;)V]
+}
+
+

@@ -1,0 +1,9 @@
+bpg extends boy {
+	Field[cLboy;]
+	Field[dLboy;]
+	Method[<init>(JLboy;Lboy;)V]
+	Method[a(J)V]
+	Method[a(IIII)[I]
+}
+
+

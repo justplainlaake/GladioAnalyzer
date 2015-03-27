@@ -1,0 +1,6 @@
+ajx extends ali {
+	Method[<init>(I)V]
+	Method[b(Lamg;Laqr;Laha;)Lamg;]
+}
+
+

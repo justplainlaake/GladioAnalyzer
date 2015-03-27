@@ -1,0 +1,12 @@
+cml extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lcmk;]
+	Method[a(Ljava/lang/String;)Lob;]
+	Method[d(Lcom/google/gson/JsonObject;)Z]
+	Method[a(Lcom/google/gson/JsonObject;)Lcxf;]
+	Method[b(Lcom/google/gson/JsonObject;)Ljava/lang/String;]
+	Method[c(Lcom/google/gson/JsonObject;)I]
+	Method[deserialize(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;]
+}
+
+

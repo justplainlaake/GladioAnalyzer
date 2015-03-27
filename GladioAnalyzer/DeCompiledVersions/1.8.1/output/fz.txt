@@ -1,0 +1,14 @@
+fz extends java/lang/Object {
+	Method[a(Ljava/io/InputStream;)Lfn;]
+	Method[a(Lfn;Ljava/io/OutputStream;)V]
+	Method[a(Lfn;Ljava/io/File;)V]
+	Method[b(Lfn;Ljava/io/File;)V]
+	Method[a(Ljava/io/File;)Lfn;]
+	Method[a(Ljava/io/DataInputStream;)Lfn;]
+	Method[a(Ljava/io/DataInput;Lfx;)Lfn;]
+	Method[a(Lfn;Ljava/io/DataOutput;)V]
+	Method[a(Lgd;Ljava/io/DataOutput;)V]
+	Method[a(Ljava/io/DataInput;ILfx;)Lgd;]
+}
+
+

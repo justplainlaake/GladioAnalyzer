@@ -1,0 +1,14 @@
+hq extends java/lang/Object {
+	Field[aLcom/google/gson/Gson;]
+	Method[<init>()V]
+	Method[a(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lhp;]
+	Method[a(Lhw;Lcom/google/gson/JsonObject;Lcom/google/gson/JsonSerializationContext;)V]
+	Method[a(Lhp;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;]
+	Method[a(Lhp;)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)Lhp;]
+	Method[serialize(Ljava/lang/Object;Ljava/lang/reflect/Type;Lcom/google/gson/JsonSerializationContext;)Lcom/google/gson/JsonElement;]
+	Method[deserialize(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;]
+	Method[<clinit>()V]
+}
+
+

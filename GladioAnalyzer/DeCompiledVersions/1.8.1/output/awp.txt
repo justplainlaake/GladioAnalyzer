@@ -1,0 +1,6 @@
+awp extends bbd {
+	Method[<init>()V]
+	Method[k()Z]
+}
+
+

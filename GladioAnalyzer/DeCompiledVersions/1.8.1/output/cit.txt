@@ -1,0 +1,9 @@
+cit extends java/lang/Object {
+	Field[aF]
+	Field[bI]
+	Field[cLjava/lang/String;]
+	Field[dZ]
+	Method[a(Lacy;Z)V]
+}
+
+

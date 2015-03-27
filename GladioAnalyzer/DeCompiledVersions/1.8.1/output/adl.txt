@@ -1,0 +1,26 @@
+adl extends adk {
+	Field[cF]
+	Method[<init>(Laqr;)V]
+	Method[<init>(Laqr;Ldt;Lej;)V]
+	Method[h()V]
+	Method[ao()F]
+	Method[a(Lwj;F)Z]
+	Method[l()I]
+	Method[m()I]
+	Method[a(D)Z]
+	Method[b(Lwx;)V]
+	Method[a(Lwx;Z)V]
+	Method[b(Lamg;)V]
+	Method[o()Lamg;]
+	Method[a(Lamg;)V]
+	Method[a(Lamg;Z)V]
+	Method[p()I]
+	Method[a(I)V]
+	Method[a(IZ)V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[e(Laha;)Z]
+	Method[q()I]
+}
+
+

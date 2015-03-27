@@ -1,0 +1,20 @@
+zc extends ze {
+	Field[dLya;]
+	Field[eLxo;]
+	Field[aLaqr;]
+	Field[fD]
+	Field[gLabc;]
+	Field[hI]
+	Field[bF]
+	Field[cF]
+	Field[iZ]
+	Method[<init>(Lya;DFF)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[a(Ldt;)Z]
+	Method[e()V]
+}
+
+

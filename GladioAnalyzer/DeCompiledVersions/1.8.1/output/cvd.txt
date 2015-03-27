@@ -1,0 +1,11 @@
+cvd extends java/io/InputStream {
+	Field[aLjava/io/InputStream;]
+	Field[bLjava/lang/String;]
+	Field[cZ]
+	Method[<init>(Ljava/io/InputStream;Lob;Ljava/lang/String;)V]
+	Method[close()V]
+	Method[finalize()V]
+	Method[read()I]
+}
+
+

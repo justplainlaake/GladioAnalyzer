@@ -1,0 +1,22 @@
+bfw extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/util/List;]
+	Field[cLjava/util/Set;]
+	Field[dLjava/lang/Object;]
+	Field[eLjava/io/File;]
+	Method[<init>(Ljava/io/File;)V]
+	Method[a(Laqr;II)Lbff;]
+	Method[a(Laqr;IILfn;)Lbff;]
+	Method[a(Laqr;Lbff;)V]
+	Method[a(Laqj;Lfn;)V]
+	Method[c()Z]
+	Method[a(Lbfx;)V]
+	Method[b(Laqr;Lbff;)V]
+	Method[a()V]
+	Method[b()V]
+	Method[a(Lbff;Laqr;Lfn;)V]
+	Method[a(Laqr;Lfn;)Lbff;]
+	Method[<clinit>()V]
+}
+
+

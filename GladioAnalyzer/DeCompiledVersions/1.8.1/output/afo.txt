@@ -1,0 +1,6 @@
+afo extends aat {
+	Method[<init>(Lafn;)V]
+	Method[a()Z]
+}
+
+

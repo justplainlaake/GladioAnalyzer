@@ -1,0 +1,15 @@
+akx extends aln {
+	Method[<init>()V]
+	Method[f(Lamg;)Z]
+	Method[f_(Lamg;)Z]
+	Method[g(Lamg;)Lamu;]
+	Method[h(Lamg;)Lfv;]
+	Method[a(Lamg;Laha;Ljava/util/List;Z)V]
+	Method[a(Lamg;Lapl;)V]
+	Method[a(Lapl;)Lamg;]
+	Method[a(Lapc;Ljava/util/List;)V]
+	Method[b(Ljava/util/Random;)Lvn;]
+	Method[a(Ljava/util/Random;III)Lvn;]
+}
+
+

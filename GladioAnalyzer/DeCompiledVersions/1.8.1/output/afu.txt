@@ -1,0 +1,10 @@
+afu extends ze {
+	Field[aLafs;]
+	Field[bI]
+	Method[<init>(Lafs;)V]
+	Method[f()V]
+	Method[a()Z]
+	Method[e()V]
+}
+
+

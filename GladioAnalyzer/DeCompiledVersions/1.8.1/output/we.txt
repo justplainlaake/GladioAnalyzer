@@ -1,0 +1,7 @@
+we extends java/util/TimerTask {
+	Field[aLwd;]
+	Method[<init>(Lwd;)V]
+	Method[run()V]
+}
+
+

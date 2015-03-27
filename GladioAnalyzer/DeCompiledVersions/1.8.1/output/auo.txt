@@ -1,0 +1,14 @@
+auo extends java/lang/Enum {
+	Field[aLauo;]
+	Field[bLauo;]
+	Field[cLjava/lang/String;]
+	Field[d[Lauo;]
+	Method[values()[Lauo;]
+	Method[valueOf(Ljava/lang/String;)Lauo;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

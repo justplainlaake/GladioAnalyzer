@@ -1,0 +1,20 @@
+arg extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[c[[Lbff;]
+	Field[dZ]
+	Field[eLaqr;]
+	Method[<init>(Laqr;Ldt;Ldt;I)V]
+	Method[W()Z]
+	Method[s(Ldt;)Lbck;]
+	Method[b(Ldt;I)I]
+	Method[p(Ldt;)Lbea;]
+	Method[b(Ldt;)Larj;]
+	Method[a(Larc;Ldt;)I]
+	Method[d(Ldt;)Z]
+	Method[b(Larc;Ldt;)I]
+	Method[a(Ldt;Lej;)I]
+	Method[G()Larb;]
+}
+
+

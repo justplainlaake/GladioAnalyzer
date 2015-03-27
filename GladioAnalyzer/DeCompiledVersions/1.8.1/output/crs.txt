@@ -1,0 +1,9 @@
+crs extends cpu {
+	Method[<init>(Lcpt;)V]
+	Method[a(Lael;DDDFF)V]
+	Method[a(Lael;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+}
+
+

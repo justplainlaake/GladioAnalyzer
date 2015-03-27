@@ -1,0 +1,7 @@
+cyn extends java/lang/Object {
+	Field[aLcyk;]
+	Method[<init>(Lcyk;)V]
+	Method[run()V]
+}
+
+

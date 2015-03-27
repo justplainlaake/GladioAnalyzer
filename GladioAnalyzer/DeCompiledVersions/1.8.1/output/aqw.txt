@@ -1,0 +1,5 @@
+aqw extends java/lang/Exception {
+	Method[<init>(Ljava/lang/String;)V]
+}
+
+

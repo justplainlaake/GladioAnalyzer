@@ -1,0 +1,10 @@
+cjk extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cLcjh;]
+	Method[<init>(Lcjh;II)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

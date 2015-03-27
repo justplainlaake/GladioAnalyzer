@@ -1,0 +1,9 @@
+ajy extends aln {
+	Field[aLato;]
+	Method[<init>(Lato;)V]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+	Method[a(Lamg;Laha;Laln;)Lamg;]
+	Method[a(Laqr;Ldt;)Z]
+}
+
+

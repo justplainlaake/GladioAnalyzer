@@ -1,0 +1,6 @@
+akz extends aln {
+	Method[<init>()V]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+}
+
+

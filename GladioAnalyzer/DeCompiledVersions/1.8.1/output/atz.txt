@@ -1,0 +1,17 @@
+atz extends ato {
+	Method[<init>()V]
+	Method[<init>(Lbod;)V]
+	Method[<init>(Lbod;Lbof;)V]
+	Method[d(Laqr;Ldt;)Z]
+	Method[c(Lato;)Z]
+	Method[a(Laqr;Ldt;Lbea;Lato;)V]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[e(Laqr;Ldt;Lbea;)V]
+	Method[f(Laqr;Ldt;Lbea;)Z]
+	Method[a(Laqr;Ldt;Lbea;)Lbrr;]
+	Method[c()Z]
+	Method[d()Z]
+	Method[l()Laqi;]
+}
+
+

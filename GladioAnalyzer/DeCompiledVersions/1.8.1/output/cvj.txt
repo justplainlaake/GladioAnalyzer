@@ -1,0 +1,9 @@
+cvj extends java/lang/Object {
+	Method[a()Lob;]
+	Method[b()Ljava/io/InputStream;]
+	Method[c()Z]
+	Method[a(Ljava/lang/String;)Lcwi;]
+	Method[d()Ljava/lang/String;]
+}
+
+

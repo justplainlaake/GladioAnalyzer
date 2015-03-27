@@ -1,0 +1,12 @@
+cqt extends cpu {
+	Field[aLob;]
+	Field[eLccn;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Ladm;DDDFF)V]
+	Method[a(Ladm;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,9 @@
+agj extends java/lang/Object {
+	Field[aZ]
+	Field[bZ]
+	Field[cLagh;]
+	Method[<init>(Lagh;ZZ)V]
+	Method[<init>(Lagh;ZZLagi;)V]
+}
+
+

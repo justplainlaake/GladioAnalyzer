@@ -1,0 +1,24 @@
+sa extends java/lang/Object {
+	Field[aLjava/text/SimpleDateFormat;]
+	Field[cLjava/util/Map;]
+	Field[dLjava/util/Map;]
+	Field[eLjava/util/LinkedList;]
+	Field[fLnet/minecraft/server/MinecraftServer;]
+	Field[bLcom/google/gson/Gson;]
+	Field[gLjava/io/File;]
+	Field[hLjava/lang/reflect/ParameterizedType;]
+	Method[<init>(Lnet/minecraft/server/MinecraftServer;Ljava/io/File;)V]
+	Method[a(Lnet/minecraft/server/MinecraftServer;Ljava/lang/String;)Lcom/mojang/authlib/GameProfile;]
+	Method[a(Lcom/mojang/authlib/GameProfile;)V]
+	Method[a(Lcom/mojang/authlib/GameProfile;Ljava/util/Date;)V]
+	Method[a(Ljava/lang/String;)Lcom/mojang/authlib/GameProfile;]
+	Method[a()[Ljava/lang/String;]
+	Method[a(Ljava/util/UUID;)Lcom/mojang/authlib/GameProfile;]
+	Method[b(Ljava/util/UUID;)Lsd;]
+	Method[b()V]
+	Method[c()V]
+	Method[a(I)Ljava/util/List;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,11 @@
+bwp extends bxe {
+	Field[aLjava/lang/String;]
+	Field[fLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[b()V]
+	Method[a(IIF)V]
+	Method[a(CI)V]
+	Method[a(Lbue;)V]
+}
+
+

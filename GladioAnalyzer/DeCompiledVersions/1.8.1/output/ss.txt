@@ -1,0 +1,10 @@
+ss extends st {
+	Field[aI]
+	Method[<init>(Lcom/mojang/authlib/GameProfile;I)V]
+	Method[<init>(Lcom/google/gson/JsonObject;)V]
+	Method[a()I]
+	Method[a(Lcom/google/gson/JsonObject;)V]
+	Method[b(Lcom/google/gson/JsonObject;)Lcom/mojang/authlib/GameProfile;]
+}
+
+

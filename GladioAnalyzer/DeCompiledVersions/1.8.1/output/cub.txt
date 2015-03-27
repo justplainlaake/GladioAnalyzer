@@ -1,0 +1,9 @@
+cub extends java/lang/Object {
+	Field[aLcue;]
+	Field[bLcua;]
+	Method[<init>(Lcua;Lcue;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

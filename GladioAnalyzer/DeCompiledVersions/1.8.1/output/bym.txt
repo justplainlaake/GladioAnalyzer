@@ -1,0 +1,20 @@
+bym extends byk {
+	Field[uLorg/apache/logging/log4j/Logger;]
+	Field[vLob;]
+	Field[wLvs;]
+	Field[xLbyo;]
+	Field[yZ]
+	Method[<init>(Lagy;Lvs;)V]
+	Method[b()V]
+	Method[e()V]
+	Method[a(Lbue;)V]
+	Method[b(II)V]
+	Method[a(FII)V]
+	Method[a()Lob;]
+	Method[a(Lbym;Ljava/lang/String;II)V]
+	Method[b(Lbym;Ljava/lang/String;II)V]
+	Method[c(Lbym;Ljava/lang/String;II)V]
+	Method[<clinit>()V]
+}
+
+

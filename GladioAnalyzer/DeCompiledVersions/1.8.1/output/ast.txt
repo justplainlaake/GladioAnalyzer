@@ -1,0 +1,7 @@
+ast extends arv {
+	Field[MLbhn;]
+	Method[<init>()V]
+	Method[a(Larj;)V]
+}
+
+

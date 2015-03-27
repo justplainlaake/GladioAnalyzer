@@ -1,0 +1,9 @@
+nu extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bI]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()I]
+}
+
+

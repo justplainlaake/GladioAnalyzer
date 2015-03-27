@@ -1,0 +1,22 @@
+byu extends bxe {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[fLbuj;]
+	Field[gLbuj;]
+	Field[hLaqc;]
+	Field[iLbue;]
+	Field[rLbue;]
+	Field[sLbue;]
+	Field[tZ]
+	Method[<init>(Laqc;)V]
+	Method[e()V]
+	Method[b()V]
+	Method[m()V]
+	Method[a(Lbue;)V]
+	Method[a(CI)V]
+	Method[a(III)V]
+	Method[a(IIF)V]
+	Method[a()V]
+	Method[<clinit>()V]
+}
+
+

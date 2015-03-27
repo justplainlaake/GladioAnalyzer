@@ -1,0 +1,13 @@
+bbz extends atz {
+	Method[<init>()V]
+	Method[a(Laqr;Ldt;Lbea;Lbrr;Ljava/util/List;Lwx;)V]
+	Method[a(Laqr;Ldt;Lbea;)Lbrr;]
+	Method[G()I]
+	Method[h(Lbea;)I]
+	Method[a(Lara;Ldt;I)I]
+	Method[c(Lato;)Z]
+	Method[f(Laqr;Ldt;Lbea;)Z]
+	Method[c(Lbea;)I]
+}
+
+

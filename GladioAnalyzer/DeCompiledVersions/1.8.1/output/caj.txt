@@ -1,0 +1,19 @@
+caj extends bxe {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[fLhp;]
+	Field[gLbxe;]
+	Field[hLcal;]
+	Field[iLjava/util/List;]
+	Field[rLjava/util/List;]
+	Method[<init>(Lbxe;Lcal;)V]
+	Method[<init>(Lbxe;Lcal;Ljava/util/List;)V]
+	Method[b()V]
+	Method[m()V]
+	Method[a(IIF)V]
+	Method[a(Lbue;)V]
+	Method[a(Ljava/lang/String;)V]
+	Method[a(Lbxe;)V]
+	Method[<clinit>()V]
+}
+
+

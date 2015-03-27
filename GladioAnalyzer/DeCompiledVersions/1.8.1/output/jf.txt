@@ -1,0 +1,23 @@
+jf extends java/lang/Object {
+	Field[aI]
+	Field[bLjava/lang/String;]
+	Field[cLhp;]
+	Field[dI]
+	Field[eI]
+	Method[<init>()V]
+	Method[<init>(ILjava/lang/String;Lhp;)V]
+	Method[<init>(ILjava/lang/String;Lhp;I)V]
+	Method[<init>(ILjava/lang/String;Lhp;II)V]
+	Method[a(Lil;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a()I]
+	Method[b()Ljava/lang/String;]
+	Method[c()Lhp;]
+	Method[d()I]
+	Method[e()I]
+	Method[f()Z]
+	Method[a(Lhh;)V]
+}
+
+

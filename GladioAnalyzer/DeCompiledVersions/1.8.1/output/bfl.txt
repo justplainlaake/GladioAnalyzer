@@ -1,0 +1,9 @@
+bfl extends java/lang/Object {
+	Field[a[B]
+	Field[bI]
+	Field[cI]
+	Method[<init>([BI)V]
+	Method[a(III)I]
+}
+
+

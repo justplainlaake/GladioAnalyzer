@@ -1,0 +1,19 @@
+blp extends java/lang/Object {
+	Field[b[Lbly;]
+	Field[cLjava/util/List;]
+	Field[dLjava/lang/Class;]
+	Field[aI]
+	Field[eLbmd;]
+	Method[a()V]
+	Method[b()V]
+	Method[d()Z]
+	Method[a(Ljava/lang/Class;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmi;]
+	Method[b(Lbmf;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmi;]
+	Method[c(Lbmf;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmq;]
+	Method[a(Lbmf;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmq;]
+	Method[a(Ljava/lang/Class;)Ljava/lang/Class;]
+	Method[c()Lbmd;]
+	Method[<clinit>()V]
+}
+
+

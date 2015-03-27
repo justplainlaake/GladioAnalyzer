@@ -1,0 +1,7 @@
+cpf extends csm {
+	Field[aLcpe;]
+	Method[<init>(Lcpe;Lcqv;)V]
+	Method[a()V]
+}
+
+

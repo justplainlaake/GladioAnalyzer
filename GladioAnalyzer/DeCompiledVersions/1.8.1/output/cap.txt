@@ -1,0 +1,8 @@
+cap extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Method[<init>()V]
+	Method[a()Ljava/util/List;]
+	Method[b()Lhp;]
+}
+
+

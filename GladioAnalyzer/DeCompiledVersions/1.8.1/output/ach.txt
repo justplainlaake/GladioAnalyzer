@@ -1,0 +1,6 @@
+ach extends java/lang/Object {
+	Field[aI]
+	Method[<init>(I)V]
+}
+
+

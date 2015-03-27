@@ -1,0 +1,8 @@
+rm extends java/lang/Object {
+	Field[aLhz;]
+	Field[bLrl;]
+	Method[<init>(Lrl;Lhz;)V]
+	Method[operationComplete(Lio/netty/util/concurrent/Future;)V]
+}
+
+

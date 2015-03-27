@@ -1,0 +1,5 @@
+cgn extends chi {
+	Method[<init>(Laqr;DDDDDD)V]
+}
+
+

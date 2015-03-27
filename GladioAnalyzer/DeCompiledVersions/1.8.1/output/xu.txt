@@ -1,0 +1,7 @@
+xu extends java/lang/Object {
+	Field[aLjava/util/HashMap;]
+	Method[a(Ljava/lang/Class;)Lxr;]
+	Method[<clinit>()V]
+}
+
+

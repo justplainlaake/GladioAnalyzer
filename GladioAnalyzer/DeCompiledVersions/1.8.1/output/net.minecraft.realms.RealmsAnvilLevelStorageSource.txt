@@ -1,0 +1,16 @@
+net/minecraft/realms/RealmsAnvilLevelStorageSource extends java/lang/Object {
+	Field[levelStorageSourceLbqy;]
+	Method[<init>(Lbqy;)V]
+	Method[getName()Ljava/lang/String;]
+	Method[levelExists(Ljava/lang/String;)Z]
+	Method[convertLevel(Ljava/lang/String;Lva;)Z]
+	Method[requiresConversion(Ljava/lang/String;)Z]
+	Method[isNewLevelIdAcceptable(Ljava/lang/String;)Z]
+	Method[deleteLevel(Ljava/lang/String;)Z]
+	Method[isConvertible(Ljava/lang/String;)Z]
+	Method[renameLevel(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[clearAll()V]
+	Method[getLevelList()Ljava/util/List;]
+}
+
+

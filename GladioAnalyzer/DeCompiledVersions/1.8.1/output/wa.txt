@@ -1,0 +1,7 @@
+wa extends java/lang/Object {
+	Method[r_()Z]
+	Method[a(Lvz;)V]
+	Method[i()Lvz;]
+}
+
+

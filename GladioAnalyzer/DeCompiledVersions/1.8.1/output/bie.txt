@@ -1,0 +1,6 @@
+bie extends bha {
+	Method[<init>()V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+}
+
+

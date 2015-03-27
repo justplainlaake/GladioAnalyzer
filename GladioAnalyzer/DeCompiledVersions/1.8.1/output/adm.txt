@@ -1,0 +1,20 @@
+adm extends adk {
+	Method[<init>(Laqr;)V]
+	Method[<init>(Laqr;Ldt;)V]
+	Method[h()V]
+	Method[a(Lej;)V]
+	Method[l()I]
+	Method[m()I]
+	Method[aS()F]
+	Method[a(D)Z]
+	Method[b(Lwx;)V]
+	Method[d(Lfn;)Z]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[e(Laha;)Z]
+	Method[j()Z]
+	Method[a(Laqr;Ldt;)Ladm;]
+	Method[b(Laqr;Ldt;)Ladm;]
+}
+
+

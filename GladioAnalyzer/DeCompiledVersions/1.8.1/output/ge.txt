@@ -1,0 +1,11 @@
+ge extends gd {
+	Method[<init>()V]
+	Method[c()J]
+	Method[d()I]
+	Method[e()S]
+	Method[f()B]
+	Method[g()D]
+	Method[h()F]
+}
+
+

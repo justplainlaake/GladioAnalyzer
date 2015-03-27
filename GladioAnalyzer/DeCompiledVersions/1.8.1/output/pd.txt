@@ -1,0 +1,11 @@
+pd extends java/io/PrintStream {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/lang/String;]
+	Method[<init>(Ljava/lang/String;Ljava/io/OutputStream;)V]
+	Method[println(Ljava/lang/String;)V]
+	Method[println(Ljava/lang/Object;)V]
+	Method[a(Ljava/lang/String;)V]
+	Method[<clinit>()V]
+}
+
+

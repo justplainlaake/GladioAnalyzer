@@ -1,0 +1,20 @@
+lg extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Field[cI]
+	Field[dLlh;]
+	Method[<init>()V]
+	Method[<init>(Lbry;)V]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;Lbrw;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+	Method[c()I]
+	Method[d()Llh;]
+	Method[a(Lhh;)V]
+}
+
+

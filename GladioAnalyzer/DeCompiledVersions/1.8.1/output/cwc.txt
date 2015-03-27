@@ -1,0 +1,7 @@
+cwc extends java/lang/Object {
+	Field[aLcwf;]
+	Method[a(Lcwf;)V]
+	Method[a(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;]
+}
+
+

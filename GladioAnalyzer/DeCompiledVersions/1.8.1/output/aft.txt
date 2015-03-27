@@ -1,0 +1,11 @@
+aft extends aab {
+	Field[aLafs;]
+	Field[bLej;]
+	Field[cZ]
+	Method[<init>(Lafs;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+}
+
+

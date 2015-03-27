@@ -1,0 +1,23 @@
+azu extends bbj {
+	Field[bLjava/util/Map;]
+	Field[NZ]
+	Method[a(Laqr;Ldt;Z)Z]
+	Method[<init>(Z)V]
+	Method[a(Laqr;)I]
+	Method[c(Laqr;Ldt;Lbea;)V]
+	Method[b(Laqr;Ldt;Lbea;)V]
+	Method[a(Lara;Ldt;Lbea;Lej;)I]
+	Method[g(Laqr;Ldt;Lbea;)Z]
+	Method[a(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[a(Laqr;Ldt;Lbea;Lato;)V]
+	Method[b(Lara;Ldt;Lbea;Lej;)I]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[h()Z]
+	Method[c(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[c(Laqr;Ldt;)Laln;]
+	Method[b(Lato;)Z]
+	Method[<clinit>()V]
+}
+
+

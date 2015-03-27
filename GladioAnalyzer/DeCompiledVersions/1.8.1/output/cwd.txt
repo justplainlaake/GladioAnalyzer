@@ -1,0 +1,16 @@
+cwd extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Field[cLjava/lang/String;]
+	Field[dZ]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Z)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Z]
+	Method[toString()Ljava/lang/String;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[a(Lcwd;)I]
+	Method[compareTo(Ljava/lang/Object;)I]
+}
+
+

@@ -1,0 +1,22 @@
+acf extends java/lang/Enum {
+	Field[aLacf;]
+	Field[bLacf;]
+	Field[cLacf;]
+	Field[dLacf;]
+	Field[eLacf;]
+	Field[fF]
+	Field[gF]
+	Field[hI]
+	Field[iI]
+	Field[j[Lacf;]
+	Method[values()[Lacf;]
+	Method[valueOf(Ljava/lang/String;)Lacf;]
+	Method[<init>(Ljava/lang/String;IFFII)V]
+	Method[a()F]
+	Method[b()F]
+	Method[c()I]
+	Method[d()I]
+	Method[<clinit>()V]
+}
+
+

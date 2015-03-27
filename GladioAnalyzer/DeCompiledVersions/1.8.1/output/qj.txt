@@ -1,0 +1,14 @@
+qj extends java/lang/Object {
+	Field[aI]
+	Field[bLdt;]
+	Field[cI]
+	Field[dI]
+	Method[<init>(ILdt;)V]
+	Method[b()Ldt;]
+	Method[a(I)V]
+	Method[c()I]
+	Method[b(I)V]
+	Method[d()I]
+}
+
+

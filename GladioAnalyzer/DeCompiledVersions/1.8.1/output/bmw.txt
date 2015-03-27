@@ -1,0 +1,13 @@
+bmw extends java/lang/Object {
+	Method[a()V]
+	Method[a(Ljava/util/Random;I)Ljava/util/List;]
+	Method[a(Ljava/util/List;)I]
+	Method[a(Lbni;Lbnc;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbnl;]
+	Method[c(Lbni;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbnl;]
+	Method[d(Lbni;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmq;]
+	Method[e(Lbni;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmq;]
+	Method[a(Lbni;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmq;]
+	Method[b(Lbni;Ljava/util/List;Ljava/util/Random;IIILej;I)Lbmq;]
+}
+
+

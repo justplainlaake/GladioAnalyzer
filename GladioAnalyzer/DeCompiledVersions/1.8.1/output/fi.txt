@@ -1,0 +1,12 @@
+fi extends java/lang/Object {
+	Field[aLfj;]
+	Field[bLfj;]
+	Method[a(Ljava/lang/String;)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;]
+	Method[b(Ljava/lang/String;)Ljava/lang/String;]
+	Method[c(Ljava/lang/String;)Z]
+	Method[a()J]
+	Method[<clinit>()V]
+}
+
+

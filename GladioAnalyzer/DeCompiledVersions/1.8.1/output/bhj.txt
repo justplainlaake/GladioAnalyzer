@@ -1,0 +1,8 @@
+bhj extends bhn {
+	Field[aLato;]
+	Field[bI]
+	Method[<init>(I)V]
+	Method[b(Laqr;Ljava/util/Random;Ldt;)Z]
+}
+
+

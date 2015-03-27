@@ -1,0 +1,8 @@
+acw extends java/lang/Object {
+	Field[aLacv;]
+	Method[<init>(Lacv;)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

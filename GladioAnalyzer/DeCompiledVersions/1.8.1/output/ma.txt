@@ -1,0 +1,14 @@
+ma extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Method[<init>()V]
+	Method[<init>(II)V]
+	Method[a(Llt;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a()I]
+	Method[b()I]
+	Method[a(Lhh;)V]
+}
+
+

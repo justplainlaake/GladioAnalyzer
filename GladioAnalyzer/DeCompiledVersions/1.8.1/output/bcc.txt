@@ -1,0 +1,5 @@
+bcc extends aua {
+	Method[<init>()V]
+}
+
+

@@ -1,0 +1,8 @@
+xp extends java/lang/Object {
+	Field[aLxo;]
+	Method[<init>(Lxo;)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

@@ -1,0 +1,4 @@
+bub extends java/lang/Object {
+}
+
+

@@ -1,0 +1,26 @@
+bru extends java/lang/Object {
+	Field[aD]
+	Field[bD]
+	Field[cD]
+	Method[<init>(DDD)V]
+	Method[<init>(Lfd;)V]
+	Method[a(Lbru;)Lbru;]
+	Method[a()Lbru;]
+	Method[b(Lbru;)D]
+	Method[c(Lbru;)Lbru;]
+	Method[d(Lbru;)Lbru;]
+	Method[a(DDD)Lbru;]
+	Method[e(Lbru;)Lbru;]
+	Method[b(DDD)Lbru;]
+	Method[f(Lbru;)D]
+	Method[g(Lbru;)D]
+	Method[b()D]
+	Method[a(Lbru;D)Lbru;]
+	Method[b(Lbru;D)Lbru;]
+	Method[c(Lbru;D)Lbru;]
+	Method[toString()Ljava/lang/String;]
+	Method[a(F)Lbru;]
+	Method[b(F)Lbru;]
+}
+
+

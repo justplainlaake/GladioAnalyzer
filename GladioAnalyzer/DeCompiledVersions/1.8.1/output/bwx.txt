@@ -1,0 +1,11 @@
+bwx extends bxe {
+	Field[aI]
+	Field[fI]
+	Method[<init>()V]
+	Method[b()V]
+	Method[a(Lbue;)V]
+	Method[e()V]
+	Method[a(IIF)V]
+}
+
+

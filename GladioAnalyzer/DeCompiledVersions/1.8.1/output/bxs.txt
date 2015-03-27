@@ -1,0 +1,21 @@
+bxs extends btz {
+	Field[aLob;]
+	Field[fLbss;]
+	Field[gI]
+	Field[hI]
+	Field[iLjava/lang/String;]
+	Field[jLjava/lang/String;]
+	Field[kLtm;]
+	Field[lJ]
+	Field[mLcqh;]
+	Field[nZ]
+	Method[<init>(Lbss;)V]
+	Method[a(Ltm;)V]
+	Method[b(Ltm;)V]
+	Method[c()V]
+	Method[a()V]
+	Method[b()V]
+	Method[<clinit>()V]
+}
+
+

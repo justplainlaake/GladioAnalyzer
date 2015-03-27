@@ -1,0 +1,8 @@
+auy extends ato {
+	Field[OLbes;]
+	Method[<init>(Lbod;)V]
+	Method[<init>(Lbod;Lbof;)V]
+	Method[<clinit>()V]
+}
+
+

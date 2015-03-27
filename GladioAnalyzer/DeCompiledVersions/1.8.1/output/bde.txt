@@ -1,0 +1,12 @@
+bde extends bck {
+	Field[aLaqf;]
+	Method[<init>()V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[c()V]
+	Method[y_()Lie;]
+	Method[c(II)Z]
+	Method[b()Laqf;]
+}
+
+

@@ -1,0 +1,12 @@
+bfj extends java/lang/Enum {
+	Field[aLbfj;]
+	Field[bLbfj;]
+	Field[cLbfj;]
+	Field[d[Lbfj;]
+	Method[values()[Lbfj;]
+	Method[valueOf(Ljava/lang/String;)Lbfj;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

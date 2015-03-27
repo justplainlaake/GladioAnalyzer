@@ -1,0 +1,9 @@
+vd extends java/lang/Object {
+	Field[aLjava/util/regex/Pattern;]
+	Method[a(I)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)Ljava/lang/String;]
+	Method[b(Ljava/lang/String;)Z]
+	Method[<clinit>()V]
+}
+
+

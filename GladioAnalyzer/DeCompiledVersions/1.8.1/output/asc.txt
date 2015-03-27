@@ -1,0 +1,7 @@
+asc extends asi {
+	Field[aDLasa;]
+	Method[<init>(Lasa;ILarj;)V]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+}
+
+

@@ -1,0 +1,8 @@
+ayx extends aur {
+	Method[<init>()V]
+	Method[k()Laln;]
+	Method[m()Laln;]
+	Method[a(Laqr;Ldt;Lbea;FI)V]
+}
+
+

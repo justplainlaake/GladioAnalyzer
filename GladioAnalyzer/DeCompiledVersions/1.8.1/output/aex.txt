@@ -1,0 +1,7 @@
+aex extends java/lang/Object {
+	Field[dLcom/google/common/base/Predicate;]
+	Field[eLcom/google/common/base/Predicate;]
+	Method[<clinit>()V]
+}
+
+

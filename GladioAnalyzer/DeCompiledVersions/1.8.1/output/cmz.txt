@@ -1,0 +1,14 @@
+cmz extends java/lang/Enum {
+	Field[aLcmz;]
+	Field[bLcmz;]
+	Field[cLcmz;]
+	Field[dLcmz;]
+	Field[eLcmz;]
+	Field[f[Lcmz;]
+	Method[values()[Lcmz;]
+	Method[valueOf(Ljava/lang/String;)Lcmz;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

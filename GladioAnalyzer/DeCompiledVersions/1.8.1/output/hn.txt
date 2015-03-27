@@ -1,0 +1,12 @@
+hn extends java/lang/Object {
+	Field[aLho;]
+	Field[bLjava/lang/String;]
+	Method[<init>(Lho;Ljava/lang/String;)V]
+	Method[a()Lho;]
+	Method[b()Ljava/lang/String;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[toString()Ljava/lang/String;]
+	Method[hashCode()I]
+}
+
+

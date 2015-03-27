@@ -1,0 +1,21 @@
+qo extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLqu;]
+	Field[cLjava/util/Set;]
+	Field[dLuo;]
+	Field[eI]
+	Method[<init>(Lqu;)V]
+	Method[a(Lwx;)V]
+	Method[a(Lwx;II)V]
+	Method[a(Lwx;IIZ)V]
+	Method[b(Lwx;)V]
+	Method[a()V]
+	Method[a(Lqx;)V]
+	Method[a(Lwx;Lie;)V]
+	Method[b(Lwx;Lie;)V]
+	Method[b(Lqx;)V]
+	Method[a(Lqx;Lbff;)V]
+	Method[<clinit>()V]
+}
+
+

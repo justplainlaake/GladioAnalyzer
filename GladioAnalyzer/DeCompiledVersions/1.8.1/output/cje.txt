@@ -1,0 +1,4 @@
+cje extends java/lang/Object {
+}
+
+

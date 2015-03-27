@@ -1,0 +1,17 @@
+zk extends ze {
+	Field[aLxq;]
+	Field[bLwx;]
+	Field[cF]
+	Field[eI]
+	Field[fF]
+	Field[dLjava/lang/Class;]
+	Method[<init>(Lxq;Ljava/lang/Class;F)V]
+	Method[<init>(Lxq;Ljava/lang/Class;FF)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+}
+
+

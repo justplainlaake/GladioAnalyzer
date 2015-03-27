@@ -1,0 +1,10 @@
+cvm extends java/lang/Object {
+	Method[a(Lob;)Ljava/io/InputStream;]
+	Method[b(Lob;)Z]
+	Method[c()Ljava/util/Set;]
+	Method[a(Lcwk;Ljava/lang/String;)Lcwi;]
+	Method[a()Ljava/awt/image/BufferedImage;]
+	Method[b()Ljava/lang/String;]
+}
+
+

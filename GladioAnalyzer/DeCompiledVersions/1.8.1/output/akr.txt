@@ -1,0 +1,6 @@
+akr extends amo {
+	Method[<init>(Lato;Lato;Lcom/google/common/base/Function;)V]
+	Method[a(Lamg;I)I]
+}
+
+

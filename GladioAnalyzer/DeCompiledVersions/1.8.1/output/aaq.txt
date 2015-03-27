@@ -1,0 +1,8 @@
+aaq extends java/lang/Object {
+	Field[aLaap;]
+	Method[<init>(Laap;)V]
+	Method[a(Lxo;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

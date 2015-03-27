@@ -1,0 +1,7 @@
+afk extends yq {
+	Field[gLafg;]
+	Method[<init>(Lafg;)V]
+	Method[c()V]
+}
+
+

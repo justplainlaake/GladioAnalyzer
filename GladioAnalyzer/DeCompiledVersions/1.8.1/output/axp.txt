@@ -1,0 +1,16 @@
+axp extends ato {
+	Field[aLbet;]
+	Method[<init>()V]
+	Method[a(Ljava/util/Random;)I]
+	Method[d(Lbea;)Z]
+	Method[i(Lbea;)Lamg;]
+	Method[a(Laqr;Ldt;Lbea;FI)V]
+	Method[j(Laqr;Ldt;)I]
+	Method[a(Laln;Lakc;Ljava/util/List;)V]
+	Method[a(I)Lbea;]
+	Method[c(Lbea;)I]
+	Method[e()Lbeb;]
+	Method[<clinit>()V]
+}
+
+

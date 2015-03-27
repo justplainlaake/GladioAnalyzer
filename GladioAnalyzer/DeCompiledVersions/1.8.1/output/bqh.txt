@@ -1,0 +1,19 @@
+bqh extends bql {
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Method[<init>(Ljava/io/File;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/util/List;]
+	Method[c()I]
+	Method[d()V]
+	Method[a(Ljava/lang/String;Z)Lbqw;]
+	Method[a(Ljava/lang/String;)Z]
+	Method[b(Ljava/lang/String;)Z]
+	Method[a(Ljava/lang/String;Lva;)Z]
+	Method[g(Ljava/lang/String;)V]
+	Method[a(Ljava/io/File;Ljava/lang/Iterable;Larw;IILva;)V]
+	Method[a(Ljava/io/File;Ljava/io/File;Larw;IILva;)V]
+	Method[a(Ljava/io/File;Ljava/util/Collection;)V]
+	Method[<clinit>()V]
+}
+
+

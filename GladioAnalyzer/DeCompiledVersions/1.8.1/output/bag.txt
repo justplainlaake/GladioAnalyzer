@@ -1,0 +1,15 @@
+bag extends atd {
+	Method[<init>()V]
+	Method[a(Laqr;Ldt;Lbea;)Lbrr;]
+	Method[b(Laqr;Ldt;)Lbrr;]
+	Method[d()Z]
+	Method[b(Lara;Ldt;)Z]
+	Method[c()Z]
+	Method[a(Laqr;I)Lbck;]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[c(Laqr;Ldt;)Laln;]
+	Method[a(Laqr;Ldt;Lbea;Laha;Lej;FFF)Z]
+	Method[d(Laqr;Ldt;)Z]
+}
+
+

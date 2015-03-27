@@ -1,0 +1,14 @@
+aat extends aaz {
+	Field[aLjava/lang/Class;]
+	Field[gI]
+	Field[bLaav;]
+	Field[cLcom/google/common/base/Predicate;]
+	Field[dLxo;]
+	Method[<init>(Lxx;Ljava/lang/Class;Z)V]
+	Method[<init>(Lxx;Ljava/lang/Class;ZZ)V]
+	Method[<init>(Lxx;Ljava/lang/Class;IZZLcom/google/common/base/Predicate;)V]
+	Method[a()Z]
+	Method[c()V]
+}
+
+

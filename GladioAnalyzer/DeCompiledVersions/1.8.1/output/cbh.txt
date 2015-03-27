@@ -1,0 +1,7 @@
+cbh extends java/lang/Object {
+	Field[aZ]
+	Field[bLjava/lang/String;]
+	Method[<init>(ZLjava/lang/String;)V]
+}
+
+

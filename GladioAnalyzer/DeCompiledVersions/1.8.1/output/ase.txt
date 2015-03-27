@@ -1,0 +1,11 @@
+ase extends arj {
+	Field[aDZ]
+	Field[aELbhv;]
+	Field[aFLbhu;]
+	Method[<init>(IZ)V]
+	Method[a(Laqr;Ljava/util/Random;Ldt;)V]
+	Method[a(Ljava/util/Random;)Lbha;]
+	Method[d(I)Larj;]
+}
+
+

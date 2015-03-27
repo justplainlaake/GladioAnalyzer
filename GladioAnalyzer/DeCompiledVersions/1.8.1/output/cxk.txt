@@ -1,0 +1,14 @@
+cxk extends java/lang/Object {
+	Field[aLez;]
+	Field[bLcua;]
+	Field[cLclc;]
+	Field[dLcxe;]
+	Method[<init>(Lcua;)V]
+	Method[a(Lcvk;)V]
+	Method[a(Lcxl;)Lcxe;]
+	Method[a()Lcxe;]
+	Method[b()Lcua;]
+	Method[c()Lclc;]
+}
+
+

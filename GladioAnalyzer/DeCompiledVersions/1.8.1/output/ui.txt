@@ -1,0 +1,17 @@
+ui extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Method[a()Ljavax/crypto/SecretKey;]
+	Method[b()Ljava/security/KeyPair;]
+	Method[a(Ljava/lang/String;Ljava/security/PublicKey;Ljavax/crypto/SecretKey;)[B]
+	Method[a(Ljava/lang/String;[[B)[B]
+	Method[a([B)Ljava/security/PublicKey;]
+	Method[a(Ljava/security/PrivateKey;[B)Ljavax/crypto/SecretKey;]
+	Method[a(Ljava/security/Key;[B)[B]
+	Method[b(Ljava/security/Key;[B)[B]
+	Method[a(ILjava/security/Key;[B)[B]
+	Method[a(ILjava/lang/String;Ljava/security/Key;)Ljavax/crypto/Cipher;]
+	Method[a(ILjava/security/Key;)Ljavax/crypto/Cipher;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,7 @@
+tq extends ts {
+	Field[aLaln;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;Lhp;Laln;)V]
+	Method[a()Laln;]
+}
+
+

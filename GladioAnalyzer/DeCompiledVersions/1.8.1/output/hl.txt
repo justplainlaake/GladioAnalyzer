@@ -1,0 +1,7 @@
+hl extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lhp;)Ljava/util/Iterator;]
+	Method[apply(Ljava/lang/Object;)Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,12 @@
+buw extends java/lang/Object {
+	Field[aLbss;]
+	Field[bLbue;]
+	Field[cLbue;]
+	Method[<init>(Lbue;Lbue;)V]
+	Method[a(IIIIIIIZ)V]
+	Method[a(IIIIII)Z]
+	Method[b(IIIIII)V]
+	Method[a(III)V]
+}
+
+

@@ -1,0 +1,6 @@
+agu extends vk {
+	Method[<init>(II)V]
+	Method[a(Ljava/util/Random;)I]
+}
+
+

@@ -1,0 +1,27 @@
+bcx extends bck {
+	Field[aI]
+	Field[fF]
+	Field[gF]
+	Field[hF]
+	Field[iF]
+	Field[jF]
+	Field[kF]
+	Field[lF]
+	Field[mF]
+	Field[nF]
+	Field[oLjava/util/Random;]
+	Field[pLjava/lang/String;]
+	Method[<init>()V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[c()V]
+	Method[e_()Ljava/lang/String;]
+	Method[l_()Z]
+	Method[a(Ljava/lang/String;)V]
+	Method[f_()Lhp;]
+	Method[a(Lagy;Laha;)Lahy;]
+	Method[k()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

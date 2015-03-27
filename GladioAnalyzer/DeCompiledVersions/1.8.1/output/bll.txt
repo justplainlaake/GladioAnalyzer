@@ -1,0 +1,13 @@
+bll extends bmq {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/Random;IIIIII)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Laqr;Lbiz;I)Z]
+}
+
+

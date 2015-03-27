@@ -1,0 +1,12 @@
+clu extends java/lang/Object {
+	Field[aLorg/lwjgl/util/vector/Vector3f;]
+	Field[bLorg/lwjgl/util/vector/Vector3f;]
+	Field[cLjava/util/Map;]
+	Field[dLclz;]
+	Field[eZ]
+	Method[<init>(Lorg/lwjgl/util/vector/Vector3f;Lorg/lwjgl/util/vector/Vector3f;Ljava/util/Map;Lclz;Z)V]
+	Method[a()V]
+	Method[a(Lej;)[F]
+}
+
+

@@ -1,0 +1,22 @@
+jr extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cLjs;]
+	Field[dZ]
+	Method[<init>()V]
+	Method[<init>(Lbff;ZI)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()[B]
+	Method[a(IZZ)I]
+	Method[a(Lbff;ZZI)Ljs;]
+	Method[a([B[BI)I]
+	Method[b()I]
+	Method[c()I]
+	Method[d()I]
+	Method[e()Z]
+	Method[a(Lhh;)V]
+}
+
+

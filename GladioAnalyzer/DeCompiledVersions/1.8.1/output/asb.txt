@@ -1,0 +1,7 @@
+asb extends asi {
+	Field[aDLasa;]
+	Method[<init>(Lasa;ILarj;)V]
+	Method[a(Ljava/util/Random;)Lbha;]
+}
+
+

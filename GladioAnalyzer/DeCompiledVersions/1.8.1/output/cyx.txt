@@ -1,0 +1,10 @@
+cyx extends java/lang/Object {
+	Field[aLjava/util/Random;]
+	Field[bLbss;]
+	Field[cLcye;]
+	Field[dI]
+	Method[<init>(Lbss;)V]
+	Method[c()V]
+}
+
+

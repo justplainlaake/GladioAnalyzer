@@ -1,0 +1,12 @@
+lr extends java/lang/Object {
+	Field[bLjava/lang/String;]
+	Field[cD]
+	Field[dLjava/util/Collection;]
+	Field[aLlq;]
+	Method[<init>(Llq;Ljava/lang/String;DLjava/util/Collection;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()D]
+	Method[c()Ljava/util/Collection;]
+}
+
+

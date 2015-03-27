@@ -1,0 +1,12 @@
+nj extends java/lang/Object {
+	Field[aLcom/mojang/authlib/GameProfile;]
+	Method[<init>()V]
+	Method[<init>(Lcom/mojang/authlib/GameProfile;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lni;)V]
+	Method[a()Lcom/mojang/authlib/GameProfile;]
+	Method[a(Lhh;)V]
+}
+
+

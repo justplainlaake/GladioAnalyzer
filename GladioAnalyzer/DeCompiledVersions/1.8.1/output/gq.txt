@@ -1,0 +1,11 @@
+gq extends io/netty/handler/codec/MessageToByteEncoder {
+	Field[a[B]
+	Field[bLjava/util/zip/Deflater;]
+	Field[cI]
+	Method[<init>(I)V]
+	Method[a(Lio/netty/channel/ChannelHandlerContext;Lio/netty/buffer/ByteBuf;Lio/netty/buffer/ByteBuf;)V]
+	Method[a(I)V]
+	Method[encode(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;Lio/netty/buffer/ByteBuf;)V]
+}
+
+

@@ -1,0 +1,12 @@
+cah extends bvi {
+	Field[uLcag;]
+	Method[<init>(Lcag;Lbss;)V]
+	Method[b()I]
+	Method[a(IZII)V]
+	Method[a(I)Z]
+	Method[a()V]
+	Method[a(IIIIII)V]
+	Method[d()I]
+}
+
+

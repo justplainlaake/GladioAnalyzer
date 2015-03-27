@@ -1,0 +1,27 @@
+bdt extends bck {
+	Field[aLbea;]
+	Field[fLej;]
+	Field[gZ]
+	Field[hZ]
+	Field[iF]
+	Field[jF]
+	Field[kLjava/util/List;]
+	Method[<init>()V]
+	Method[<init>(Lbea;Lej;ZZ)V]
+	Method[b()Lbea;]
+	Method[u()I]
+	Method[d()Z]
+	Method[e()Lej;]
+	Method[g()Z]
+	Method[a(F)F]
+	Method[b(F)F]
+	Method[c(F)F]
+	Method[d(F)F]
+	Method[a(FF)V]
+	Method[h()V]
+	Method[c()V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+}
+
+

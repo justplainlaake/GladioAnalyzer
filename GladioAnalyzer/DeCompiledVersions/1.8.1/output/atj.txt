@@ -1,0 +1,14 @@
+atj extends atd {
+	Method[<init>()V]
+	Method[a(Laqr;I)Lbck;]
+	Method[a(Laqr;Ldt;Lbea;Laha;Lej;FFF)Z]
+	Method[c()Z]
+	Method[d()Z]
+	Method[b()I]
+	Method[a(Laqr;Ldt;Lbea;Lxo;Lamg;)V]
+	Method[a(Laqr;Ldt;Lbea;Lato;)V]
+	Method[l()Laqi;]
+	Method[f(Laqr;Ldt;)V]
+}
+
+

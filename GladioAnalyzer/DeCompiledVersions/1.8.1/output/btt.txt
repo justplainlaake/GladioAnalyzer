@@ -1,0 +1,16 @@
+btt extends java/lang/Object {
+	Field[aF]
+	Field[fD]
+	Field[bI]
+	Field[cF]
+	Field[dF]
+	Field[eF]
+	Field[gJ]
+	Field[hJ]
+	Field[iJ]
+	Field[jD]
+	Method[<init>(F)V]
+	Method[a()V]
+}
+
+

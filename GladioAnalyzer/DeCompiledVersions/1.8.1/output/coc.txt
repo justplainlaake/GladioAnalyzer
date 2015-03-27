@@ -1,0 +1,11 @@
+coc extends java/lang/Enum {
+	Field[aLcoc;]
+	Field[bLcoc;]
+	Field[c[Lcoc;]
+	Method[values()[Lcoc;]
+	Method[valueOf(Ljava/lang/String;)Lcoc;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

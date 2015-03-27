@@ -1,0 +1,16 @@
+coh extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLcod;]
+	Field[cLcja;]
+	Method[<init>(Lcod;)V]
+	Method[<init>(Lcod;Lcja;)V]
+	Method[run()V]
+	Method[a(Lcoa;)V]
+	Method[b()Lcja;]
+	Method[b(Lcoa;)V]
+	Method[a(Lcoh;Lcoa;)V]
+	Method[a()Lorg/apache/logging/log4j/Logger;]
+	Method[<clinit>()V]
+}
+
+

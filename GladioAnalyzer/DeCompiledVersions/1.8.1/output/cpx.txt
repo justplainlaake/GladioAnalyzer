@@ -1,0 +1,10 @@
+cpx extends cpu {
+	Field[aF]
+	Method[<init>(Lcpt;F)V]
+	Method[a(Lahi;DDDFF)V]
+	Method[a(Lahi;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[a(Lwx;DDDFF)V]
+}
+
+

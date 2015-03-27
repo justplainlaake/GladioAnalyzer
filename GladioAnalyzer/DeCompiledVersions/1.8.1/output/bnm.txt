@@ -1,0 +1,6 @@
+bnm extends bnl {
+	Method[<init>()V]
+	Method[<init>(Lbni;I)V]
+}
+
+

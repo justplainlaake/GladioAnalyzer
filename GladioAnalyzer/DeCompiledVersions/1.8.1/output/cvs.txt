@@ -1,0 +1,21 @@
+cvs extends java/lang/Object {
+	Field[bLjava/io/File;]
+	Field[cLcvm;]
+	Field[dLcwx;]
+	Field[eLjava/awt/image/BufferedImage;]
+	Field[fLob;]
+	Field[aLcvo;]
+	Method[<init>(Lcvo;Ljava/io/File;)V]
+	Method[a()V]
+	Method[a(Lcug;)V]
+	Method[b()V]
+	Method[c()Lcvm;]
+	Method[d()Ljava/lang/String;]
+	Method[e()Ljava/lang/String;]
+	Method[equals(Ljava/lang/Object;)Z]
+	Method[hashCode()I]
+	Method[toString()Ljava/lang/String;]
+	Method[<init>(Lcvo;Ljava/io/File;Lcvp;)V]
+}
+
+

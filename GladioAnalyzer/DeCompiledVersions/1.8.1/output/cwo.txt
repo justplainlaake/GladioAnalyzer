@@ -1,0 +1,20 @@
+cwo extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eZ]
+	Method[<init>(Ljava/util/List;IIIZ)V]
+	Method[a()I]
+	Method[b()I]
+	Method[c()I]
+	Method[d()I]
+	Method[e()Z]
+	Method[d(I)Lcwn;]
+	Method[a(I)I]
+	Method[b(I)Z]
+	Method[c(I)I]
+	Method[f()Ljava/util/Set;]
+}
+
+

@@ -1,0 +1,20 @@
+ag extends java/lang/Enum {
+	Field[aLag;]
+	Field[bLag;]
+	Field[cLag;]
+	Field[dLag;]
+	Field[eLag;]
+	Field[fI]
+	Field[gLjava/lang/String;]
+	Field[h[Lag;]
+	Method[values()[Lag;]
+	Method[valueOf(Ljava/lang/String;)Lag;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[a()I]
+	Method[b()Ljava/lang/String;]
+	Method[c()[Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)Lag;]
+	Method[<clinit>()V]
+}
+
+

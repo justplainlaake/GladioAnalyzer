@@ -1,0 +1,9 @@
+u extends java/lang/RuntimeException {
+	Field[aLb;]
+	Method[<init>(Lb;)V]
+	Method[a()Lb;]
+	Method[getCause()Ljava/lang/Throwable;]
+	Method[getMessage()Ljava/lang/String;]
+}
+
+

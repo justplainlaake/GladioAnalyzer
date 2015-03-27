@@ -1,0 +1,12 @@
+ano extends aln {
+	Method[<init>()V]
+	Method[b(Lfn;)Z]
+	Method[h(Lamg;)I]
+	Method[a(Lamg;)Ljava/lang/String;]
+	Method[a(Lamg;Laha;Ljava/util/List;Z)V]
+	Method[a(Lamg;Laqr;Laha;)Lamg;]
+	Method[a(Lamg;Laha;)V]
+	Method[f(Lamg;)Z]
+}
+
+

@@ -1,0 +1,21 @@
+cdp extends ccp {
+	Field[aLcdx;]
+	Field[bLcdx;]
+	Field[cLcdx;]
+	Field[dLcdx;]
+	Field[eLcdx;]
+	Field[fLcdx;]
+	Field[gLcdx;]
+	Field[hLcdx;]
+	Field[iLcdx;]
+	Field[jLcdx;]
+	Field[kLcdx;]
+	Field[lLcdx;]
+	Field[mF]
+	Method[<init>(F)V]
+	Method[a(Lxo;FFF)V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(D)F]
+}
+
+

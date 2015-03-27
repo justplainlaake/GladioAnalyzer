@@ -1,0 +1,14 @@
+awo extends java/lang/Enum {
+	Field[aLawo;]
+	Field[bLawo;]
+	Field[cLjava/lang/String;]
+	Field[d[Lawo;]
+	Method[values()[Lawo;]
+	Method[valueOf(Ljava/lang/String;)Lawo;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

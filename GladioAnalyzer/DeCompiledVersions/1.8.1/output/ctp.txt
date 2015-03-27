@@ -1,0 +1,12 @@
+ctp extends cto {
+	Field[f[I]
+	Field[gI]
+	Field[hI]
+	Method[<init>(Ljava/awt/image/BufferedImage;)V]
+	Method[<init>(II)V]
+	Method[a(Lcvk;)V]
+	Method[d()V]
+	Method[e()[I]
+}
+
+

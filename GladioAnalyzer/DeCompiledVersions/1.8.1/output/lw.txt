@@ -1,0 +1,12 @@
+lw extends java/lang/Object {
+	Field[aLlx;]
+	Method[<init>()V]
+	Method[<init>(Llx;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[a()Llx;]
+	Method[a(Lhh;)V]
+}
+
+

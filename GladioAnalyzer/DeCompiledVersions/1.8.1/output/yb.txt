@@ -1,0 +1,9 @@
+yb extends java/lang/Object {
+	Method[a()Ljava/lang/String;]
+	Method[a(D)D]
+	Method[b()D]
+	Method[c()Z]
+	Method[d()Lyb;]
+}
+
+

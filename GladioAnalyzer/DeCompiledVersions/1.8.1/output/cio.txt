@@ -1,0 +1,20 @@
+cio extends cik {
+	Field[aZ]
+	Field[bI]
+	Field[cD]
+	Field[dD]
+	Field[eD]
+	Field[fD]
+	Field[gD]
+	Method[<init>(Laqr;Lcom/mojang/authlib/GameProfile;)V]
+	Method[a(Lwj;F)Z]
+	Method[a(DDDFFIZ)V]
+	Method[t_()V]
+	Method[m()V]
+	Method[c(ILamg;)V]
+	Method[a(Lhp;)V]
+	Method[a(ILjava/lang/String;)Z]
+	Method[c()Ldt;]
+}
+
+

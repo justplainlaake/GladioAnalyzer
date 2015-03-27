@@ -1,0 +1,6 @@
+and extends aln {
+	Method[<init>()V]
+	Method[f(Lamg;)Z]
+}
+
+

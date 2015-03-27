@@ -1,0 +1,5 @@
+et extends java/lang/Object {
+	Method[i()Laqr;]
+}
+
+

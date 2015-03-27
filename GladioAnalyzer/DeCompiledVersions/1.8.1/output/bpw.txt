@@ -1,0 +1,25 @@
+bpw extends bps {
+	Field[fZ]
+	Field[gZ]
+	Field[hZ]
+	Field[iZ]
+	Field[jZ]
+	Method[<init>()V]
+	Method[a(Lara;Lwx;)V]
+	Method[a()V]
+	Method[a(Lwx;)Lbpr;]
+	Method[a(Lwx;DDD)Lbpr;]
+	Method[a([Lbpr;Lwx;Lbpr;Lbpr;F)I]
+	Method[a(Lwx;IIII)Lbpr;]
+	Method[a(Lwx;III)I]
+	Method[a(Lara;Lwx;IIIIIIZZZ)I]
+	Method[a(Z)V]
+	Method[b(Z)V]
+	Method[c(Z)V]
+	Method[d(Z)V]
+	Method[b()Z]
+	Method[d()Z]
+	Method[e()Z]
+}
+
+

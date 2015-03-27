@@ -1,0 +1,9 @@
+czc extends paulscode/sound/SoundSystemLogger {
+	Field[aLczb;]
+	Method[<init>(Lczb;)V]
+	Method[message(Ljava/lang/String;I)V]
+	Method[importantMessage(Ljava/lang/String;I)V]
+	Method[errorMessage(Ljava/lang/String;Ljava/lang/String;I)V]
+}
+
+

@@ -1,0 +1,17 @@
+bvs extends bvi {
+	Field[uLnet/minecraft/realms/RealmsScrolledSelectionList;]
+	Method[<init>(Lnet/minecraft/realms/RealmsScrolledSelectionList;IIIII)V]
+	Method[b()I]
+	Method[a(IZII)V]
+	Method[a(I)Z]
+	Method[a()V]
+	Method[a(IIIIII)V]
+	Method[e()I]
+	Method[f()I]
+	Method[g()I]
+	Method[k()I]
+	Method[d()I]
+	Method[p()V]
+}
+
+

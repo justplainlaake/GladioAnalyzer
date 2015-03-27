@@ -1,0 +1,6 @@
+bcu extends bck {
+	Method[<init>()V]
+	Method[c()V]
+}
+
+

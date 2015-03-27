@@ -1,0 +1,11 @@
+bmp extends bqa {
+	Field[bLfn;]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;II)V]
+	Method[b(II)Ljava/lang/String;]
+	Method[a()Lfn;]
+}
+
+

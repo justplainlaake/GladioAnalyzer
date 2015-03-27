@@ -1,0 +1,13 @@
+bzf extends byk {
+	Field[uLob;]
+	Field[vLagy;]
+	Field[wLvs;]
+	Method[<init>(Lagy;Lvs;)V]
+	Method[b(II)V]
+	Method[a(FII)V]
+	Method[h(I)I]
+	Method[i(I)I]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,23 @@
+zn extends ze {
+	Field[aLaqr;]
+	Field[bLxx;]
+	Field[cI]
+	Field[dD]
+	Field[eZ]
+	Field[fLbpt;]
+	Field[gLjava/lang/Class;]
+	Field[hI]
+	Field[iD]
+	Field[jD]
+	Field[kD]
+	Method[<init>(Lxx;Ljava/lang/Class;DZ)V]
+	Method[<init>(Lxx;DZ)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[e()V]
+	Method[a(Lxo;)D]
+}
+
+

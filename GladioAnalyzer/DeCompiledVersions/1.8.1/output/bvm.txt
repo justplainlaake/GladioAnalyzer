@@ -1,0 +1,21 @@
+bvm extends btz {
+	Field[fLob;]
+	Field[aLob;]
+	Field[gLbss;]
+	Field[hJ]
+	Field[iLcaq;]
+	Method[<init>(Lbss;)V]
+	Method[a(I)V]
+	Method[c()F]
+	Method[a(Lbud;F)V]
+	Method[a(Lbud;FIFLcax;)V]
+	Method[a(IIFFLcav;)V]
+	Method[a(Lbud;)V]
+	Method[a(Lcaq;)V]
+	Method[a()Z]
+	Method[b(I)V]
+	Method[b()V]
+	Method[<clinit>()V]
+}
+
+

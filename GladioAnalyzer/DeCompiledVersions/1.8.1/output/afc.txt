@@ -1,0 +1,9 @@
+afc extends yq {
+	Field[gLafa;]
+	Field[hI]
+	Method[<init>(Lafa;)V]
+	Method[c()V]
+	Method[b(DDDD)Z]
+}
+
+

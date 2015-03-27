@@ -1,0 +1,13 @@
+cjc extends java/lang/Object {
+	Field[aLcjc;]
+	Field[bLbcp;]
+	Field[cLbcp;]
+	Field[dLbcy;]
+	Field[eLbcg;]
+	Field[fLbdk;]
+	Method[<init>()V]
+	Method[a(Lamg;)V]
+	Method[<clinit>()V]
+}
+
+

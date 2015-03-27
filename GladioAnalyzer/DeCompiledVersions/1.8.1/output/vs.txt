@@ -1,0 +1,19 @@
+vs extends java/lang/Object {
+	Method[o_()I]
+	Method[a(I)Lamg;]
+	Method[a(II)Lamg;]
+	Method[b(I)Lamg;]
+	Method[a(ILamg;)V]
+	Method[q_()I]
+	Method[p_()V]
+	Method[a(Laha;)Z]
+	Method[b(Laha;)V]
+	Method[c(Laha;)V]
+	Method[b(ILamg;)Z]
+	Method[a_(I)I]
+	Method[b(II)V]
+	Method[g()I]
+	Method[l()V]
+}
+
+

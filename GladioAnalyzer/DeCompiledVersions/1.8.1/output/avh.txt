@@ -1,0 +1,25 @@
+avh extends java/lang/Enum {
+	Field[aLavh;]
+	Field[bLavh;]
+	Field[cLavh;]
+	Field[dLavh;]
+	Field[eLavh;]
+	Field[fLavh;]
+	Field[g[Lavh;]
+	Field[hI]
+	Field[iLjava/lang/String;]
+	Field[jLjava/lang/String;]
+	Field[k[Lavh;]
+	Method[values()[Lavh;]
+	Method[valueOf(Ljava/lang/String;)Lavh;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Lavh;]
+	Method[l()Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,27 @@
+bzr extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/util/concurrent/ThreadPoolExecutor;]
+	Field[cLob;]
+	Field[dLob;]
+	Field[eLbzo;]
+	Field[fLbss;]
+	Field[gLcev;]
+	Field[hLob;]
+	Field[iLjava/lang/String;]
+	Field[jLctp;]
+	Field[kJ]
+	Method[<init>(Lbzo;Lcev;)V]
+	Method[a(IIIIIIIZ)V]
+	Method[a(IILob;)V]
+	Method[b()Z]
+	Method[c()V]
+	Method[a(IIIIII)Z]
+	Method[a(III)V]
+	Method[b(IIIIII)V]
+	Method[a()Lcev;]
+	Method[a(Lbzr;)Lcev;]
+	Method[b(Lbzr;)Lbzo;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,6 @@
+cne extends cnc {
+	Method[<init>()V]
+	Method[a(Lbea;)Lcxl;]
+}
+
+

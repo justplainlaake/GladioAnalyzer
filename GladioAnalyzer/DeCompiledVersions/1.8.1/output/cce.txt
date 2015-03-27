@@ -1,0 +1,8 @@
+cce extends cck {
+	Field[aZ]
+	Field[bZ]
+	Method[<init>(F)V]
+	Method[a(FFFFFFLwx;)V]
+}
+
+

@@ -1,0 +1,7 @@
+rg extends ur {
+	Method[<init>()V]
+	Method[a()Lio/netty/channel/local/LocalEventLoopGroup;]
+	Method[b()Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,9 @@
+avj extends avb {
+	Field[PLeo;]
+	Method[<init>()V]
+	Method[a(Lamg;)Leo;]
+	Method[a(Laqr;I)Lbck;]
+	Method[f(Laqr;Ldt;)V]
+}
+
+

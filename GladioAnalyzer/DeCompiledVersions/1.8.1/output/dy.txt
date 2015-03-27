@@ -1,0 +1,17 @@
+dy extends dt {
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Method[<init>()V]
+	Method[<init>(III)V]
+	Method[n()I]
+	Method[o()I]
+	Method[p()I]
+	Method[c(III)Ldy;]
+	Method[d(Lfd;)Lfd;]
+	Method[a(Ldy;I)I]
+	Method[b(Ldy;I)I]
+	Method[c(Ldy;I)I]
+}
+
+

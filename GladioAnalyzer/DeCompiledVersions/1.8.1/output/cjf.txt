@@ -1,0 +1,11 @@
+cjf extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eI]
+	Field[fI]
+	Method[<clinit>()V]
+}
+
+

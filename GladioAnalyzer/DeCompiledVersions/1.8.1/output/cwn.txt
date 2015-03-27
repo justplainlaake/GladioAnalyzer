@@ -1,0 +1,11 @@
+cwn extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Method[<init>(I)V]
+	Method[<init>(II)V]
+	Method[a()Z]
+	Method[b()I]
+	Method[c()I]
+}
+
+

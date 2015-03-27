@@ -1,0 +1,18 @@
+biu extends java/lang/Object {
+	Field[aI]
+	Field[bLbea;]
+	Field[cI]
+	Field[dI]
+	Method[<init>(ILato;)V]
+	Method[<init>(IILato;)V]
+	Method[<init>(IILato;I)V]
+	Method[b()I]
+	Method[c()Lbea;]
+	Method[e()Lato;]
+	Method[f()I]
+	Method[d()I]
+	Method[b(I)V]
+	Method[toString()Ljava/lang/String;]
+}
+
+

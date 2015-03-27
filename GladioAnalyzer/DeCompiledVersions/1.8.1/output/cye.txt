@@ -1,0 +1,13 @@
+cye extends java/lang/Object {
+	Method[a()Lob;]
+	Method[b()Z]
+	Method[d()I]
+	Method[e()F]
+	Method[f()F]
+	Method[g()F]
+	Method[h()F]
+	Method[i()F]
+	Method[j()Lcyf;]
+}
+
+

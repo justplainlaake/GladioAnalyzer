@@ -1,0 +1,10 @@
+bav extends axj {
+	Method[<init>(Lbod;)V]
+	Method[a(Laqr;Ldt;Lbea;Lato;)V]
+	Method[f(Laqr;Ldt;Lbea;)V]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[f(Laqr;Ldt;)Z]
+	Method[m(Laqr;Ldt;)Z]
+}
+
+

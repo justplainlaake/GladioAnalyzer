@@ -1,0 +1,9 @@
+bwz extends java/lang/Object {
+	Field[aLaln;]
+	Field[bI]
+	Field[cLjava/lang/String;]
+	Field[dLjava/lang/String;]
+	Method[<init>(Laln;ILjava/lang/String;Ljava/lang/String;)V]
+}
+
+

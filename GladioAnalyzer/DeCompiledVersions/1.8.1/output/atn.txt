@@ -1,0 +1,14 @@
+atn extends java/lang/Enum {
+	Field[aLatn;]
+	Field[bLatn;]
+	Field[cLjava/lang/String;]
+	Field[d[Latn;]
+	Method[values()[Latn;]
+	Method[valueOf(Ljava/lang/String;)Latn;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

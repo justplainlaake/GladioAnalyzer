@@ -1,0 +1,14 @@
+buh extends btz {
+	Field[aLbss;]
+	Field[fLbtw;]
+	Method[<init>(Lbss;)V]
+	Method[a(Lbud;)V]
+	Method[d()Z]
+	Method[a()V]
+	Method[b(Lbud;)V]
+	Method[b()Ljava/util/List;]
+	Method[c()Ljava/util/List;]
+	Method[a(J)J]
+}
+
+

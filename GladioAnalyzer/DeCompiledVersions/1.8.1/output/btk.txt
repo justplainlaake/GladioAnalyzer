@@ -1,0 +1,10 @@
+btk extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Method[<init>()V]
+	Method[a()V]
+	Method[b()V]
+	Method[c()V]
+}
+
+

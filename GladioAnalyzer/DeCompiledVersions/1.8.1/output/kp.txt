@@ -1,0 +1,14 @@
+kp extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLjava/lang/String;]
+	Method[<init>()V]
+	Method[<init>(Ljava/lang/String;Ljava/lang/String;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/String;]
+	Method[a(Lhh;)V]
+}
+
+

@@ -1,0 +1,11 @@
+ckq extends java/lang/Object {
+	Field[aLcop;]
+	Field[bLej;]
+	Field[cLjava/util/Set;]
+	Field[dI]
+	Field[eLckn;]
+	Method[<init>(Lckn;Lcop;Lej;I)V]
+	Method[<init>(Lckn;Lcop;Lej;ILcko;)V]
+}
+
+

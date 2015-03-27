@@ -1,0 +1,11 @@
+bgi extends java/lang/Object {
+	Field[a[S]
+	Field[bLbea;]
+	Method[<init>()V]
+	Method[a(III)Lbea;]
+	Method[a(I)Lbea;]
+	Method[a(IIILbea;)V]
+	Method[a(ILbea;)V]
+}
+
+

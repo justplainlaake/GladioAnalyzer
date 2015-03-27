@@ -1,0 +1,19 @@
+jt extends java/lang/Object {
+	Field[a[I]
+	Field[b[I]
+	Field[c[Ljs;]
+	Field[dZ]
+	Method[<init>()V]
+	Method[<init>(Ljava/util/List;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a(I)I]
+	Method[b(I)I]
+	Method[a()I]
+	Method[c(I)[B]
+	Method[d(I)I]
+	Method[a(Lhh;)V]
+}
+
+

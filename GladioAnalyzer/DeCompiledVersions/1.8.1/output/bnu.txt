@@ -1,0 +1,10 @@
+bnu extends bny {
+	Field[a[Lbnx;]
+	Field[bI]
+	Method[<init>(Ljava/util/Random;I)V]
+	Method[a(DD)D]
+	Method[a([DDDIIDDD)[D]
+	Method[a([DDDIIDDDD)[D]
+}
+
+

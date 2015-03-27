@@ -1,0 +1,6 @@
+nw extends java/lang/Object {
+	Method[a(Lnx;)V]
+	Method[a(Lny;)V]
+}
+
+

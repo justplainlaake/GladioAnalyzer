@@ -1,0 +1,13 @@
+bmj extends java/lang/Enum {
+	Field[aLbmj;]
+	Field[bLbmj;]
+	Field[cLbmj;]
+	Field[dLbmj;]
+	Field[e[Lbmj;]
+	Method[values()[Lbmj;]
+	Method[valueOf(Ljava/lang/String;)Lbmj;]
+	Method[<init>(Ljava/lang/String;I)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,23 @@
+arw extends java/lang/Object {
+	Field[bLboy;]
+	Field[cLboy;]
+	Field[dLaro;]
+	Field[eLjava/util/List;]
+	Field[fLjava/lang/String;]
+	Method[<init>()V]
+	Method[<init>(JLarb;Ljava/lang/String;)V]
+	Method[<init>(Laqr;)V]
+	Method[a()Ljava/util/List;]
+	Method[a(Ldt;)Larj;]
+	Method[a(Ldt;Larj;)Larj;]
+	Method[a([FIIII)[F]
+	Method[a(FI)F]
+	Method[a([Larj;IIII)[Larj;]
+	Method[b([Larj;IIII)[Larj;]
+	Method[a([Larj;IIIIZ)[Larj;]
+	Method[a(IIILjava/util/List;)Z]
+	Method[a(IIILjava/util/List;Ljava/util/Random;)Ldt;]
+	Method[b()V]
+}
+
+

@@ -1,0 +1,14 @@
+md extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLhe;]
+	Method[<init>()V]
+	Method[<init>(Ljava/lang/String;Lhe;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Lhe;]
+	Method[a(Lhh;)V]
+}
+
+

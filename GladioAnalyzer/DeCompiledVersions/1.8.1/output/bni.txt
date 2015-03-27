@@ -1,0 +1,14 @@
+bni extends bnn {
+	Field[aLarw;]
+	Field[bZ]
+	Field[cI]
+	Field[dLbnc;]
+	Field[eLjava/util/List;]
+	Field[fLjava/util/List;]
+	Field[gLjava/util/List;]
+	Method[<init>()V]
+	Method[<init>(Larw;ILjava/util/Random;IILjava/util/List;I)V]
+	Method[e()Larw;]
+}
+
+

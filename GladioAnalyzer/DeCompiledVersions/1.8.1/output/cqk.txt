@@ -1,0 +1,9 @@
+cqk extends java/lang/Object {
+	Field[aLamg;]
+	Field[bLcqh;]
+	Method[<init>(Lcqh;Lamg;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

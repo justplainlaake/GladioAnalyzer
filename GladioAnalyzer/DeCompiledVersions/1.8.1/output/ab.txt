@@ -1,0 +1,17 @@
+ab extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/util/Map;]
+	Field[cLjava/util/Set;]
+	Method[<init>()V]
+	Method[a(Lae;Ljava/lang/String;)I]
+	Method[a(Lae;[Ljava/lang/String;Lac;Ljava/lang/String;)Z]
+	Method[a(Lac;)Lac;]
+	Method[a([Ljava/lang/String;)[Ljava/lang/String;]
+	Method[a(Lae;Ljava/lang/String;Ldt;)Ljava/util/List;]
+	Method[a(Lae;)Ljava/util/List;]
+	Method[a()Ljava/util/Map;]
+	Method[a(Lac;[Ljava/lang/String;)I]
+	Method[<clinit>()V]
+}
+
+

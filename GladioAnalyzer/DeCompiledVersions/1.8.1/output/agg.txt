@@ -1,0 +1,23 @@
+agg extends afm {
+	Field[aLjava/util/UUID;]
+	Field[bLyd;]
+	Field[c[Laln;]
+	Field[bmI]
+	Method[<init>(Laqr;)V]
+	Method[h()V]
+	Method[z()Ljava/lang/String;]
+	Method[bo()Ljava/lang/String;]
+	Method[bp()Ljava/lang/String;]
+	Method[a(Z)V]
+	Method[n()Z]
+	Method[aX()V]
+	Method[m()V]
+	Method[a(B)V]
+	Method[c(Lwj;F)F]
+	Method[b(ZI)V]
+	Method[a(Lxo;F)V]
+	Method[aS()F]
+	Method[<clinit>()V]
+}
+
+

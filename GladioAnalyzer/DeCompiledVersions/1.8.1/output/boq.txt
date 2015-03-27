@@ -1,0 +1,11 @@
+boq extends boy {
+	Field[c[Larj;]
+	Field[d[Larj;]
+	Field[e[Larj;]
+	Field[f[Larj;]
+	Field[gLbgj;]
+	Method[<init>(JLboy;Larb;Ljava/lang/String;)V]
+	Method[a(IIII)[I]
+}
+
+

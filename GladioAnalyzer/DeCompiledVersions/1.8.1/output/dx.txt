@@ -1,0 +1,9 @@
+dx extends com/google/common/collect/AbstractIterator {
+	Field[bLdy;]
+	Field[aLdw;]
+	Method[<init>(Ldw;)V]
+	Method[a()Ldy;]
+	Method[computeNext()Ljava/lang/Object;]
+}
+
+

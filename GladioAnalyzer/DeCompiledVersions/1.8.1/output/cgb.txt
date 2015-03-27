@@ -1,0 +1,10 @@
+cgb extends cgv {
+	Field[aF]
+	Method[<init>(Laqr;DDDDDD)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[b(F)I]
+	Method[c(F)F]
+	Method[t_()V]
+}
+
+

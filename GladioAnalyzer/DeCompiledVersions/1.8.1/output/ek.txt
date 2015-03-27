@@ -1,0 +1,8 @@
+ek extends java/lang/Object {
+	Field[a[I]
+	Field[b[I]
+	Field[c[I]
+	Method[<clinit>()V]
+}
+
+

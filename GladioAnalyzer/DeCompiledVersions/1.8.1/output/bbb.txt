@@ -1,0 +1,22 @@
+bbb extends java/lang/Enum {
+	Field[aLbbb;]
+	Field[bLbbb;]
+	Field[cLbbb;]
+	Field[dLbbb;]
+	Field[e[Lbbb;]
+	Field[fI]
+	Field[gLjava/lang/String;]
+	Field[hLjava/lang/String;]
+	Field[i[Lbbb;]
+	Method[values()[Lbbb;]
+	Method[valueOf(Ljava/lang/String;)Lbbb;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Ljava/lang/String;)V]
+	Method[a()I]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Lbbb;]
+	Method[l()Ljava/lang/String;]
+	Method[c()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

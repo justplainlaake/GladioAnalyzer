@@ -1,0 +1,7 @@
+xh extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

@@ -1,0 +1,18 @@
+be extends z {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bJ]
+	Field[cI]
+	Method[<init>()V]
+	Method[c()Ljava/lang/String;]
+	Method[a()I]
+	Method[c(Lae;)Ljava/lang/String;]
+	Method[a(Lae;[Ljava/lang/String;)V]
+	Method[a(JI)V]
+	Method[b(JI)Ljava/lang/String;]
+	Method[a(ILjava/lang/String;Ljava/lang/StringBuilder;)V]
+	Method[d()Ljava/lang/String;]
+	Method[a(Lae;[Ljava/lang/String;Ldt;)Ljava/util/List;]
+	Method[<clinit>()V]
+}
+
+

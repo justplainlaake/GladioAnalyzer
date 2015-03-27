@@ -1,0 +1,12 @@
+mr extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLms;]
+	Method[<init>()V]
+	Method[<init>(Ljava/lang/String;Lms;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Llt;)V]
+	Method[a(Lhh;)V]
+}
+
+

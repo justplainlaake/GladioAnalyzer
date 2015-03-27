@@ -1,0 +1,17 @@
+net/minecraft/realms/RealmsLevelSummary extends java/lang/Object {
+	Field[levelSummaryLbqz;]
+	Method[<init>(Lbqz;)V]
+	Method[getGameMode()I]
+	Method[getLevelId()Ljava/lang/String;]
+	Method[hasCheats()Z]
+	Method[isHardcore()Z]
+	Method[isRequiresConversion()Z]
+	Method[getLevelName()Ljava/lang/String;]
+	Method[getLastPlayed()J]
+	Method[compareTo(Lbqz;)I]
+	Method[getSizeOnDisk()J]
+	Method[compareTo(Lnet/minecraft/realms/RealmsLevelSummary;)I]
+	Method[compareTo(Ljava/lang/Object;)I]
+}
+
+

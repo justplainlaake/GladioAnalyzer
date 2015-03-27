@@ -1,0 +1,7 @@
+si extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Ljava/lang/String;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

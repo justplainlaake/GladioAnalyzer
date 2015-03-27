@@ -1,0 +1,8 @@
+bnn extends bnl {
+	Method[<init>()V]
+	Method[<init>(Lbni;ILjava/util/Random;II)V]
+	Method[a(Lbmq;Ljava/util/List;Ljava/util/Random;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+}
+
+

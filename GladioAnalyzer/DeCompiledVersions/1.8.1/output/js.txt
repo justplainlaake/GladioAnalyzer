@@ -1,0 +1,7 @@
+js extends java/lang/Object {
+	Field[a[B]
+	Field[bI]
+	Method[<init>()V]
+}
+
+

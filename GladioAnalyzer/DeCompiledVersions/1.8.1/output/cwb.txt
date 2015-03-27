@@ -1,0 +1,5 @@
+cwb extends java/lang/Object {
+	Method[a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lob;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;)V]
+}
+
+

@@ -1,0 +1,23 @@
+bvz extends bxe {
+	Field[aLjava/util/concurrent/atomic/AtomicInteger;]
+	Field[fLorg/apache/logging/log4j/Logger;]
+	Field[gLgr;]
+	Field[hZ]
+	Field[iLbxe;]
+	Method[<init>(Lbxe;Lbss;Lcev;)V]
+	Method[<init>(Lbxe;Lbss;Ljava/lang/String;I)V]
+	Method[a(Ljava/lang/String;I)V]
+	Method[e()V]
+	Method[a(CI)V]
+	Method[b()V]
+	Method[a(Lbue;)V]
+	Method[a(IIF)V]
+	Method[a(Lbvz;)Z]
+	Method[a(Lbvz;Lgr;)Lgr;]
+	Method[b(Lbvz;)Lgr;]
+	Method[c(Lbvz;)Lbxe;]
+	Method[a()Lorg/apache/logging/log4j/Logger;]
+	Method[<clinit>()V]
+}
+
+

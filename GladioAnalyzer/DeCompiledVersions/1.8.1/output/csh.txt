@@ -1,0 +1,8 @@
+csh extends java/lang/Object {
+	Field[aLcdx;]
+	Method[<init>(Lcdx;)V]
+	Method[a(Lxo;FFFFFFF)V]
+	Method[b()Z]
+}
+
+

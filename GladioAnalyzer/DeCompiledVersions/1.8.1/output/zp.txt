@@ -1,0 +1,18 @@
+zp extends ze {
+	Field[aLxx;]
+	Field[bD]
+	Field[cLbpt;]
+	Field[dLabk;]
+	Field[eZ]
+	Field[fLjava/util/List;]
+	Method[<init>(Lxx;DZ)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()V]
+	Method[d()V]
+	Method[a(Labl;)Labk;]
+	Method[a(Labk;)Z]
+	Method[f()V]
+}
+
+

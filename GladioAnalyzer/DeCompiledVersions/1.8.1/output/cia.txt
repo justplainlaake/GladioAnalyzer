@@ -1,0 +1,5 @@
+cia extends cic {
+	Method[<init>(Laqr;DDDDDDLbea;)V]
+}
+
+

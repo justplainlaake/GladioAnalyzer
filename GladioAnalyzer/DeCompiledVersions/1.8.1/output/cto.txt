@@ -1,0 +1,15 @@
+cto extends java/lang/Object {
+	Field[aI]
+	Field[bZ]
+	Field[cZ]
+	Field[dZ]
+	Field[eZ]
+	Method[<init>()V]
+	Method[a(ZZ)V]
+	Method[b(ZZ)V]
+	Method[a()V]
+	Method[b()I]
+	Method[c()V]
+}
+
+

@@ -1,0 +1,8 @@
+aqd extends java/lang/Object {
+	Field[aLaqc;]
+	Method[<init>(Laqc;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

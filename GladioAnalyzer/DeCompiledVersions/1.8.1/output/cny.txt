@@ -1,0 +1,13 @@
+cny extends cnp {
+	Field[dLob;]
+	Field[eLob;]
+	Field[fLjava/util/Random;]
+	Field[cLjava/nio/FloatBuffer;]
+	Method[<init>()V]
+	Method[a(Lbdl;DDDFI)V]
+	Method[a(FFFF)Ljava/nio/FloatBuffer;]
+	Method[a(Lbck;DDDFI)V]
+	Method[<clinit>()V]
+}
+
+

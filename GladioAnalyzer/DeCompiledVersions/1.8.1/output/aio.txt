@@ -1,0 +1,8 @@
+aio extends wc {
+	Field[aLain;]
+	Method[<init>(Lain;Ljava/lang/String;ZI)V]
+	Method[q_()I]
+	Method[p_()V]
+}
+
+

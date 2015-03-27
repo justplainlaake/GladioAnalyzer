@@ -1,0 +1,7 @@
+bky extends bkz {
+	Method[<init>()V]
+	Method[<init>(Lej;Lbiz;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+}
+
+

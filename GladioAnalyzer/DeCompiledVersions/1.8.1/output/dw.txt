@@ -1,0 +1,8 @@
+dw extends java/lang/Object {
+	Field[aLdt;]
+	Field[bLdt;]
+	Method[<init>(Ldt;Ldt;)V]
+	Method[iterator()Ljava/util/Iterator;]
+}
+
+

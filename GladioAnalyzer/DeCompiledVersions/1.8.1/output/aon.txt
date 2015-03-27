@@ -1,0 +1,8 @@
+aon extends java/lang/Object {
+	Field[aLaom;]
+	Method[<init>(Laom;)V]
+	Method[a(Laol;Laol;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

@@ -1,0 +1,16 @@
+iv extends java/lang/Object {
+	Field[aLdt;]
+	Field[bI]
+	Field[cLfn;]
+	Method[<init>()V]
+	Method[<init>(Ldt;ILfn;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()Ldt;]
+	Method[b()I]
+	Method[c()Lfn;]
+	Method[a(Lhh;)V]
+}
+
+

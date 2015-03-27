@@ -1,0 +1,22 @@
+bsc extends bqa {
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Field[cLbsb;]
+	Field[dLfn;]
+	Method[<init>()V]
+	Method[<init>(Ljava/lang/String;)V]
+	Method[a(Lbsb;)V]
+	Method[a(Lfn;)V]
+	Method[a(Lfv;)V]
+	Method[a(Lbrx;Lfv;)V]
+	Method[c(Lfn;)V]
+	Method[b(Lfv;)V]
+	Method[c(Lfv;)V]
+	Method[b(Lfn;)V]
+	Method[a()Lfv;]
+	Method[d(Lfn;)V]
+	Method[b()Lfv;]
+	Method[e()Lfv;]
+	Method[<clinit>()V]
+}
+
+

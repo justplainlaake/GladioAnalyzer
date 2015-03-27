@@ -1,0 +1,11 @@
+cpa extends java/lang/Object {
+	Field[a[[F]
+	Field[b[F]
+	Field[c[F]
+	Field[d[F]
+	Method[<init>()V]
+	Method[a([FDDD)D]
+	Method[b(DDDDDD)Z]
+}
+
+

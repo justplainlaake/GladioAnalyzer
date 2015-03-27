@@ -1,0 +1,18 @@
+cuw extends java/lang/Enum {
+	Field[aLcuw;]
+	Field[bLcuw;]
+	Field[cLcuw;]
+	Field[dLcuw;]
+	Field[eLcuw;]
+	Field[fLcuw;]
+	Field[gLcuw;]
+	Field[hLjava/lang/String;]
+	Field[i[Lcuw;]
+	Method[values()[Lcuw;]
+	Method[valueOf(Ljava/lang/String;)Lcuw;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[a()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

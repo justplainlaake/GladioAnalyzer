@@ -1,0 +1,9 @@
+apj extends java/lang/Object {
+	Field[aF]
+	Field[bLxv;]
+	Method[<init>()V]
+	Method[a(Lapc;I)V]
+	Method[<init>(Lapf;)V]
+}
+
+

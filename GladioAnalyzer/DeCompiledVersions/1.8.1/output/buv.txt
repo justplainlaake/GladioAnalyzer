@@ -1,0 +1,12 @@
+buv extends bus {
+	Field[uLjava/util/List;]
+	Method[<init>(Lbss;IIIII[Lbtp;)V]
+	Method[a(Lbss;IILbtp;)Lbue;]
+	Method[c(I)Lbuw;]
+	Method[b()I]
+	Method[c()I]
+	Method[d()I]
+	Method[b(I)Lbut;]
+}
+
+

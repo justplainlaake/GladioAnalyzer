@@ -1,0 +1,23 @@
+ajm extends java/lang/Enum {
+	Field[aLajm;]
+	Field[bLajm;]
+	Field[cLajm;]
+	Field[dLajm;]
+	Field[eLajm;]
+	Field[fLjava/lang/String;]
+	Field[gI]
+	Field[h[I]
+	Field[iI]
+	Field[j[Lajm;]
+	Method[values()[Lajm;]
+	Method[valueOf(Ljava/lang/String;)Lajm;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;I[II)V]
+	Method[a(I)I]
+	Method[b(I)I]
+	Method[a()I]
+	Method[b()Laln;]
+	Method[c()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

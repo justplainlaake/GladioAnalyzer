@@ -1,0 +1,11 @@
+aao extends aaz {
+	Field[aZ]
+	Field[bI]
+	Field[c[Ljava/lang/Class;]
+	Method[<init>(Lxx;Z[Ljava/lang/Class;)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[a(Lxx;Lxo;)V]
+}
+
+

@@ -1,0 +1,7 @@
+wq extends wr {
+	Method[<init>(ILob;ZI)V]
+	Method[b()Z]
+	Method[a(II)Z]
+}
+
+

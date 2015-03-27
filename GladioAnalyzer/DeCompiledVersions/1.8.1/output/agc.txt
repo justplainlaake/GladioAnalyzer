@@ -1,0 +1,24 @@
+agc extends afm {
+	Method[<init>(Laqr;)V]
+	Method[an()D]
+	Method[b(Laqr;)Labc;]
+	Method[h()V]
+	Method[t_()V]
+	Method[aX()V]
+	Method[z()Ljava/lang/String;]
+	Method[bo()Ljava/lang/String;]
+	Method[bp()Ljava/lang/String;]
+	Method[a(Ldt;Lato;)V]
+	Method[A()Laln;]
+	Method[b(ZI)V]
+	Method[k_()Z]
+	Method[aA()V]
+	Method[bz()Lxv;]
+	Method[d(Lws;)Z]
+	Method[n()Z]
+	Method[a(Z)V]
+	Method[a(Lvw;Lxt;)Lxt;]
+	Method[aS()F]
+}
+
+

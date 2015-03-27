@@ -1,0 +1,6 @@
+ace extends zn {
+	Method[<init>(Lacd;)V]
+	Method[a(Lxo;)D]
+}
+
+

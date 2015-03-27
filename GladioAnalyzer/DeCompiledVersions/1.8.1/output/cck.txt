@@ -1,0 +1,23 @@
+cck extends ccp {
+	Field[eLcdx;]
+	Field[fLcdx;]
+	Field[gLcdx;]
+	Field[hLcdx;]
+	Field[iLcdx;]
+	Field[jLcdx;]
+	Field[kLcdx;]
+	Field[lI]
+	Field[mI]
+	Field[nZ]
+	Field[oZ]
+	Method[<init>()V]
+	Method[<init>(F)V]
+	Method[<init>(FFII)V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(FFFFFFLwx;)V]
+	Method[a(Lccp;)V]
+	Method[a(Z)V]
+	Method[a(F)V]
+}
+
+

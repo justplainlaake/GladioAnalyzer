@@ -1,0 +1,10 @@
+cnn extends cnp {
+	Field[cLob;]
+	Method[<init>()V]
+	Method[a(Lbci;DDDFI)V]
+	Method[a()Z]
+	Method[a(Lbck;DDDFI)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,14 @@
+ub extends java/lang/Object {
+	Field[aLjava/util/Map;]
+	Method[<init>()V]
+	Method[a(Ltm;)Z]
+	Method[b(Ltm;)Z]
+	Method[c(Ltm;)I]
+	Method[b(Laha;Lts;I)V]
+	Method[a(Laha;Lts;I)V]
+	Method[a(Lts;)I]
+	Method[b(Lts;)Ltz;]
+	Method[a(Lts;Ltz;)Ltz;]
+}
+
+

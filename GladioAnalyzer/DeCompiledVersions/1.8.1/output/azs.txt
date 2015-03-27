@@ -1,0 +1,15 @@
+azs extends java/lang/Enum {
+	Field[aLazs;]
+	Field[bLazs;]
+	Field[cLazs;]
+	Field[dLjava/lang/String;]
+	Field[e[Lazs;]
+	Method[values()[Lazs;]
+	Method[valueOf(Ljava/lang/String;)Lazs;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;)V]
+	Method[toString()Ljava/lang/String;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

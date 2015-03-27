@@ -1,0 +1,8 @@
+ed extends java/lang/Object {
+	Method[<init>()V]
+	Method[a([Ljava/lang/Object;)Ljava/util/List;]
+	Method[apply(Ljava/lang/Object;)Ljava/lang/Object;]
+	Method[<init>(Lec;)V]
+}
+
+

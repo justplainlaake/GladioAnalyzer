@@ -1,0 +1,17 @@
+avi extends ato {
+	Method[<init>()V]
+	Method[c(Laqr;Ldt;Lbea;)V]
+	Method[a(Laqr;Ldt;Lbea;Lato;)V]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[e(Laqr;Ldt;)V]
+	Method[a(Laqr;Ldt;Lbea;Laha;Lej;FFF)Z]
+	Method[a(Laqr;Ldt;Laha;)V]
+	Method[f(Laqr;Ldt;)V]
+	Method[a(Laqr;)I]
+	Method[c()Z]
+	Method[d()Z]
+	Method[a(Lara;Ldt;Lej;)Z]
+	Method[c(Laqr;Ldt;)Laln;]
+}
+
+

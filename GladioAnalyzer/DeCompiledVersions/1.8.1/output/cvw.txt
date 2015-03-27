@@ -1,0 +1,16 @@
+cvw extends java/lang/Object {
+	Field[aLjava/util/concurrent/ExecutorService;]
+	Field[bLcug;]
+	Field[cLjava/io/File;]
+	Field[dLcom/mojang/authlib/minecraft/MinecraftSessionService;]
+	Field[eLcom/google/common/cache/LoadingCache;]
+	Method[<init>(Lcug;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V]
+	Method[a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;)Lob;]
+	Method[a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lcwb;)Lob;]
+	Method[a(Lcom/mojang/authlib/GameProfile;Lcwb;Z)V]
+	Method[a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;]
+	Method[a(Lcvw;)Lcom/mojang/authlib/minecraft/MinecraftSessionService;]
+	Method[<clinit>()V]
+}
+
+

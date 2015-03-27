@@ -1,0 +1,9 @@
+aj extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Method[<init>(II)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

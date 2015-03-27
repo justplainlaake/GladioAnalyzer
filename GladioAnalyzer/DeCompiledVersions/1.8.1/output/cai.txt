@@ -1,0 +1,17 @@
+cai extends bxe {
+	Field[a[Lbtp;]
+	Field[f[Lbtp;]
+	Field[gLbxe;]
+	Field[hLbtm;]
+	Field[iLjava/lang/String;]
+	Field[rLjava/lang/String;]
+	Field[sI]
+	Field[tZ]
+	Method[<init>(Lbxe;Lbtm;)V]
+	Method[b()V]
+	Method[a(Lbue;)V]
+	Method[a(IIF)V]
+	Method[<clinit>()V]
+}
+
+

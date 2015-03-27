@@ -1,0 +1,13 @@
+cgd extends cgv {
+	Field[aLob;]
+	Field[azI]
+	Field[aAI]
+	Field[aBLcug;]
+	Method[<init>(Lcug;Laqr;DDD)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[t_()V]
+	Method[a()I]
+	Method[<clinit>()V]
+}
+
+

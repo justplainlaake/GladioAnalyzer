@@ -1,0 +1,18 @@
+iq extends java/lang/Object {
+	Field[aI]
+	Field[bLdt;]
+	Field[cLej;]
+	Field[dLjava/lang/String;]
+	Method[<init>()V]
+	Method[<init>(Ladn;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()I]
+	Method[b()Ldt;]
+	Method[c()Lej;]
+	Method[d()Ljava/lang/String;]
+	Method[a(Lhh;)V]
+}
+
+

@@ -1,0 +1,7 @@
+wf extends java/lang/Object {
+	Method[a(Lwd;)V]
+	Method[b(Lwd;)V]
+	Method[ac()Z]
+}
+
+

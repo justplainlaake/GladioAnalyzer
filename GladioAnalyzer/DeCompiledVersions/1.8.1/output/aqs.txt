@@ -1,0 +1,9 @@
+aqs extends java/lang/Object {
+	Field[aLdt;]
+	Field[bLaqr;]
+	Method[<init>(Laqr;Ldt;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,7 @@
+cvk extends java/lang/Object {
+	Method[a()Ljava/util/Set;]
+	Method[a(Lob;)Lcvj;]
+	Method[b(Lob;)Ljava/util/List;]
+}
+
+

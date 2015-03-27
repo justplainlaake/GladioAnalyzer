@@ -1,0 +1,13 @@
+coz extends java/lang/Object {
+	Field[aLcpa;]
+	Field[bD]
+	Field[cD]
+	Field[dD]
+	Method[<init>()V]
+	Method[<init>(Lcpa;)V]
+	Method[a(DDD)V]
+	Method[b(DDDDDD)Z]
+	Method[a(Lbrr;)Z]
+}
+
+

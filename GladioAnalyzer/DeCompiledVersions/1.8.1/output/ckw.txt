@@ -1,0 +1,28 @@
+ckw extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Field[dI]
+	Field[eZ]
+	Field[fI]
+	Field[gI]
+	Field[hI]
+	Field[i[F]
+	Field[jI]
+	Method[<init>(IIZ)V]
+	Method[a(II)V]
+	Method[a()V]
+	Method[b(II)V]
+	Method[a(I)V]
+	Method[b()V]
+	Method[c()V]
+	Method[d()V]
+	Method[a(Z)V]
+	Method[e()V]
+	Method[a(FFFF)V]
+	Method[c(II)V]
+	Method[a(IIZ)V]
+	Method[f()V]
+}
+
+

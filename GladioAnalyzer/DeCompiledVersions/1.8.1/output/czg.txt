@@ -1,0 +1,17 @@
+czg extends java/lang/Object {
+	Field[aLjava/util/List;]
+	Field[bLjava/util/Random;]
+	Field[cLob;]
+	Field[dLcxz;]
+	Field[eD]
+	Field[fD]
+	Method[<init>(Lob;DDLcxz;)V]
+	Method[a()I]
+	Method[b()Lcyz;]
+	Method[a(Lczm;)V]
+	Method[c()Lob;]
+	Method[d()Lcxz;]
+	Method[g()Ljava/lang/Object;]
+}
+
+

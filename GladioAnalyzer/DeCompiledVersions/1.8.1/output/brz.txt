@@ -1,0 +1,7 @@
+brz extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lbry;Lbry;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

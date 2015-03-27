@@ -1,0 +1,9 @@
+ap extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bZ]
+	Method[<init>(Ljava/lang/String;Z)V]
+	Method[a(Lwx;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

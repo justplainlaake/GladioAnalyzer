@@ -1,0 +1,6 @@
+eu extends java/lang/Object {
+	Method[b(Ljava/lang/Iterable;Ljava/lang/Iterable;)Ljava/util/Map;]
+	Method[a(Ljava/lang/Iterable;Ljava/lang/Iterable;Ljava/util/Map;)Ljava/util/Map;]
+}
+
+

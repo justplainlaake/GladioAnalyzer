@@ -1,0 +1,13 @@
+bus extends bvi {
+	Method[<init>(Lbss;IIIII)V]
+	Method[a(IZII)V]
+	Method[a(I)Z]
+	Method[a()V]
+	Method[a(IIIIII)V]
+	Method[a(III)V]
+	Method[b(III)Z]
+	Method[c(III)Z]
+	Method[b(I)Lbut;]
+}
+
+

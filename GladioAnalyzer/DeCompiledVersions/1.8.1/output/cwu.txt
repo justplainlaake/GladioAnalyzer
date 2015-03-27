@@ -1,0 +1,7 @@
+cwu extends java/lang/Object {
+	Field[aLjava/util/Collection;]
+	Method[<init>(Ljava/util/Collection;)V]
+	Method[a()Ljava/util/Collection;]
+}
+
+

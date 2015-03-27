@@ -1,0 +1,11 @@
+cxb extends java/lang/Object {
+	Field[aZ]
+	Field[bZ]
+	Field[cLjava/util/List;]
+	Method[<init>(ZZLjava/util/List;)V]
+	Method[a()Z]
+	Method[b()Z]
+	Method[c()Ljava/util/List;]
+}
+
+

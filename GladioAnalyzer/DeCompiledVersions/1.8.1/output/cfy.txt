@@ -1,0 +1,23 @@
+cfy extends cgv {
+	Field[aI]
+	Field[azZ]
+	Field[aAZ]
+	Field[aBLcgw;]
+	Field[aCF]
+	Field[aDF]
+	Field[aEF]
+	Field[aFZ]
+	Method[<init>(Laqr;DDDDDDLcgw;)V]
+	Method[a(Z)V]
+	Method[i(Z)V]
+	Method[a(I)V]
+	Method[b(I)V]
+	Method[S()Lbrr;]
+	Method[ae()Z]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[t_()V]
+	Method[b(F)I]
+	Method[c(F)F]
+}
+
+

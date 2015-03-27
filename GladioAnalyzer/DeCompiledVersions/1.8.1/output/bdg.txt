@@ -1,0 +1,11 @@
+bdg extends bck {
+	Field[aB]
+	Field[fZ]
+	Method[<init>()V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[b()V]
+	Method[a(Laqr;Ldt;)V]
+}
+
+

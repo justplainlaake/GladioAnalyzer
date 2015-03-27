@@ -1,0 +1,19 @@
+cjd extends java/lang/Enum {
+	Field[aLcjd;]
+	Field[bLcjd;]
+	Field[cLcjd;]
+	Field[dLcjd;]
+	Field[eLcjd;]
+	Field[fLcjd;]
+	Field[g[Lcjd;]
+	Field[h[Lcjg;]
+	Field[i[Lcjd;]
+	Method[values()[Lcjd;]
+	Method[valueOf(Ljava/lang/String;)Lcjd;]
+	Method[a(Lej;)Lcjd;]
+	Method[<init>(Ljava/lang/String;I[Lcjg;)V]
+	Method[a(I)Lcjg;]
+	Method[<clinit>()V]
+}
+
+

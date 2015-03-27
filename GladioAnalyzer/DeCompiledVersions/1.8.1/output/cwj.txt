@@ -1,0 +1,5 @@
+cwj extends java/lang/Object {
+	Method[a()Ljava/lang/String;]
+}
+
+

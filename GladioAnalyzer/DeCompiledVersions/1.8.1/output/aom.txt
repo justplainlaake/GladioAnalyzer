@@ -1,0 +1,15 @@
+aom extends java/lang/Object {
+	Field[aLaom;]
+	Field[bLjava/util/List;]
+	Method[a()Laom;]
+	Method[<init>()V]
+	Method[a(Lamg;[Ljava/lang/Object;)Laop;]
+	Method[b(Lamg;[Ljava/lang/Object;)V]
+	Method[a(Laol;)V]
+	Method[a(Laik;Laqr;)Lamg;]
+	Method[b(Laik;Laqr;)[Lamg;]
+	Method[b()Ljava/util/List;]
+	Method[<clinit>()V]
+}
+
+

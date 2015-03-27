@@ -1,0 +1,12 @@
+aob extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Laik;Laqr;)Z]
+	Method[a(Laik;)Lamg;]
+	Method[a()I]
+	Method[b()Lamg;]
+	Method[b(Laik;)[Lamg;]
+	Method[c(Laik;)Lbch;]
+	Method[<init>(Laoa;)V]
+}
+
+

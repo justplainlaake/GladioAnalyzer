@@ -1,0 +1,10 @@
+sr extends su {
+	Method[<init>(Ljava/io/File;)V]
+	Method[a(Lcom/google/gson/JsonObject;)Lst;]
+	Method[a()[Ljava/lang/String;]
+	Method[b(Lcom/mojang/authlib/GameProfile;)Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)Lcom/mojang/authlib/GameProfile;]
+	Method[a(Ljava/lang/Object;)Ljava/lang/String;]
+}
+
+

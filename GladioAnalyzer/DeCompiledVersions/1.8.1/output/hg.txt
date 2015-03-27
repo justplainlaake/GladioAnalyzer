@@ -1,0 +1,11 @@
+hg extends io/netty/handler/codec/MessageToByteEncoder {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLorg/apache/logging/log4j/Marker;]
+	Field[cLig;]
+	Method[<init>(Lig;)V]
+	Method[a(Lio/netty/channel/ChannelHandlerContext;Lie;Lio/netty/buffer/ByteBuf;)V]
+	Method[encode(Lio/netty/channel/ChannelHandlerContext;Ljava/lang/Object;Lio/netty/buffer/ByteBuf;)V]
+	Method[<clinit>()V]
+}
+
+

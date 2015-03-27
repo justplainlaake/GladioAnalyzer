@@ -1,0 +1,11 @@
+cwk extends java/lang/Object {
+	Field[aLez;]
+	Field[bLcom/google/gson/GsonBuilder;]
+	Field[cLcom/google/gson/Gson;]
+	Method[<init>()V]
+	Method[a(Lcwj;Ljava/lang/Class;)V]
+	Method[a(Ljava/lang/String;Lcom/google/gson/JsonObject;)Lcwi;]
+	Method[a()Lcom/google/gson/Gson;]
+}
+
+

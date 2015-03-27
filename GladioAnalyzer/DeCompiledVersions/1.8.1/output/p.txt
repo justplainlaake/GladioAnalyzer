@@ -1,0 +1,8 @@
+p extends java/lang/Object {
+	Field[aLbea;]
+	Method[<init>(Lbea;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

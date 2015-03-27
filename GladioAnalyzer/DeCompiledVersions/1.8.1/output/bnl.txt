@@ -1,0 +1,22 @@
+bnl extends bmq {
+	Field[hI]
+	Field[aI]
+	Field[bZ]
+	Method[<init>()V]
+	Method[<init>(Lbni;I)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Lbni;Ljava/util/List;Ljava/util/Random;II)Lbmq;]
+	Method[b(Lbni;Ljava/util/List;Ljava/util/Random;II)Lbmq;]
+	Method[b(Laqr;Lbiz;)I]
+	Method[a(Lbiz;)Z]
+	Method[a(Laqr;Lbiz;IIII)V]
+	Method[c(II)I]
+	Method[a(Lbea;)Lbea;]
+	Method[a(Laqr;Lbea;IIILbiz;)V]
+	Method[a(Laqr;Lbiz;IIIIIILbea;Lbea;Z)V]
+	Method[b(Laqr;Lbea;IIILbiz;)V]
+	Method[a(Z)V]
+}
+
+

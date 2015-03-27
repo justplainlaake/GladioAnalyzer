@@ -1,0 +1,21 @@
+ho extends java/lang/Enum {
+	Field[aLho;]
+	Field[bLho;]
+	Field[cLho;]
+	Field[dLho;]
+	Field[eLho;]
+	Field[fLho;]
+	Field[gLjava/util/Map;]
+	Field[hZ]
+	Field[iLjava/lang/String;]
+	Field[j[Lho;]
+	Method[values()[Lho;]
+	Method[valueOf(Ljava/lang/String;)Lho;]
+	Method[<init>(Ljava/lang/String;ILjava/lang/String;Z)V]
+	Method[a()Z]
+	Method[b()Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)Lho;]
+	Method[<clinit>()V]
+}
+
+

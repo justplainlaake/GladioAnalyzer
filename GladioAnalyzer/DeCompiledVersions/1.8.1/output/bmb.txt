@@ -1,0 +1,7 @@
+bmb extends blw {
+	Method[<init>()V]
+	Method[a(Lbmq;Ljava/util/List;Ljava/util/Random;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;)Z]
+}
+
+

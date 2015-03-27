@@ -1,0 +1,27 @@
+bwb extends bxe {
+	Field[aLbwd;]
+	Field[fLbit;]
+	Field[gLjava/lang/String;]
+	Field[hLjava/lang/String;]
+	Field[iLjava/lang/String;]
+	Field[rLbwc;]
+	Field[sLbue;]
+	Field[tLbue;]
+	Field[uLbue;]
+	Method[<init>(Lbwd;Ljava/lang/String;)V]
+	Method[a()Ljava/lang/String;]
+	Method[a(Ljava/lang/String;)V]
+	Method[b()V]
+	Method[k()V]
+	Method[a(Lbue;)V]
+	Method[f()V]
+	Method[g()Z]
+	Method[a(IIF)V]
+	Method[a(Lbwb;)F]
+	Method[b(Lbwb;)F]
+	Method[c(Lbwb;)F]
+	Method[d(Lbwb;)F]
+	Method[e(Lbwb;)Lbit;]
+}
+
+

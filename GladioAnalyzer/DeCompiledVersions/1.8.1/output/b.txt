@@ -1,0 +1,27 @@
+b extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/lang/String;]
+	Field[cLjava/lang/Throwable;]
+	Field[dLj;]
+	Field[eLjava/util/List;]
+	Field[fLjava/io/File;]
+	Field[gZ]
+	Field[h[Ljava/lang/StackTraceElement;]
+	Method[<init>(Ljava/lang/String;Ljava/lang/Throwable;)V]
+	Method[h()V]
+	Method[a()Ljava/lang/String;]
+	Method[b()Ljava/lang/Throwable;]
+	Method[a(Ljava/lang/StringBuilder;)V]
+	Method[d()Ljava/lang/String;]
+	Method[e()Ljava/lang/String;]
+	Method[f()Ljava/io/File;]
+	Method[a(Ljava/io/File;)Z]
+	Method[g()Lj;]
+	Method[a(Ljava/lang/String;)Lj;]
+	Method[a(Ljava/lang/String;I)Lj;]
+	Method[i()Ljava/lang/String;]
+	Method[a(Ljava/lang/Throwable;Ljava/lang/String;)Lb;]
+	Method[<clinit>()V]
+}
+
+

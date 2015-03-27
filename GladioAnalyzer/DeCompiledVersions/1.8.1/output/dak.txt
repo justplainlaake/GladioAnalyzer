@@ -1,0 +1,7 @@
+dak extends java/lang/Object {
+	Field[aLdai;]
+	Method[<init>(Ldai;)V]
+	Method[statCallback(Ltv/twitch/broadcast/StatType;J)V]
+}
+
+

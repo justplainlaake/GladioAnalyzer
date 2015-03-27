@@ -1,0 +1,9 @@
+fo extends java/lang/Object {
+	Field[aLjava/lang/String;]
+	Field[bLfn;]
+	Method[<init>(Lfn;Ljava/lang/String;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,8 @@
+bed extends java/lang/Object {
+	Field[aLbeb;]
+	Method[<init>(Lbeb;)V]
+	Method[a(Lbev;Lbev;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

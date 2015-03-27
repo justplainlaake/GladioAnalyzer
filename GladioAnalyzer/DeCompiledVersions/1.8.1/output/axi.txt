@@ -1,0 +1,27 @@
+axi extends java/lang/Enum {
+	Field[aLaxi;]
+	Field[bLaxi;]
+	Field[cLaxi;]
+	Field[dLaxi;]
+	Field[eLaxi;]
+	Field[fLaxi;]
+	Field[gLaxi;]
+	Field[hLaxi;]
+	Field[i[Laxi;]
+	Field[jI]
+	Field[kLjava/lang/String;]
+	Field[lLej;]
+	Field[m[Laxi;]
+	Method[values()[Laxi;]
+	Method[valueOf(Ljava/lang/String;)Laxi;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;Lej;)V]
+	Method[a()I]
+	Method[c()Lej;]
+	Method[toString()Ljava/lang/String;]
+	Method[a(I)Laxi;]
+	Method[a(Lej;Lej;)Laxi;]
+	Method[l()Ljava/lang/String;]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,7 @@
+aok extends java/lang/Object {
+	Field[a[[Ljava/lang/Object;]
+	Method[<init>()V]
+	Method[a(Laom;)V]
+}
+
+

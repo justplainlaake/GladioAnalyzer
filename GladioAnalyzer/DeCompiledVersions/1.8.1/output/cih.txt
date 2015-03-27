@@ -1,0 +1,6 @@
+cih extends cgv {
+	Method[<init>(Laqr;DDD)V]
+	Method[t_()V]
+}
+
+

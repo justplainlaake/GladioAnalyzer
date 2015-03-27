@@ -1,0 +1,10 @@
+agr extends java/lang/Object {
+	Field[aLamg;]
+	Field[bLagu;]
+	Field[cLamg;]
+	Field[dLagu;]
+	Method[<init>(Laln;Lagu;Laln;Lagu;)V]
+	Method[a(Laqa;Ljava/util/Random;)V]
+}
+
+

@@ -1,0 +1,10 @@
+cly extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Lclx;]
+	Method[a(Lcom/google/gson/JsonObject;)I]
+	Method[b(Lcom/google/gson/JsonObject;)Ljava/lang/String;]
+	Method[c(Lcom/google/gson/JsonObject;)Lej;]
+	Method[deserialize(Lcom/google/gson/JsonElement;Ljava/lang/reflect/Type;Lcom/google/gson/JsonDeserializationContext;)Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,10 @@
+cre extends cqe {
+	Field[jLob;]
+	Method[<init>(Lcpt;)V]
+	Method[a(Lafn;)Lob;]
+	Method[a(Lxq;)Lob;]
+	Method[a(Lwx;)Lob;]
+	Method[<clinit>()V]
+}
+
+

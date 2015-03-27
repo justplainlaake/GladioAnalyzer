@@ -1,0 +1,13 @@
+bsq extends java/lang/Object {
+	Field[aLjava/nio/FloatBuffer;]
+	Field[bLbru;]
+	Field[cLbru;]
+	Method[a()V]
+	Method[b()V]
+	Method[a(DDDD)Ljava/nio/FloatBuffer;]
+	Method[a(FFFF)Ljava/nio/FloatBuffer;]
+	Method[c()V]
+	Method[<clinit>()V]
+}
+
+

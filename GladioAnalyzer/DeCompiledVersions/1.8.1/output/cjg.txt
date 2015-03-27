@@ -1,0 +1,9 @@
+cjg extends java/lang/Object {
+	Field[aI]
+	Field[bI]
+	Field[cI]
+	Method[<init>(III)V]
+	Method[<init>(IIILcje;)V]
+}
+
+

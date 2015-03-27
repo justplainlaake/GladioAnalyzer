@@ -1,0 +1,15 @@
+ev extends fb {
+	Field[aLer;]
+	Field[bLjava/util/Map;]
+	Method[<init>()V]
+	Method[a(ILjava/lang/Object;Ljava/lang/Object;)V]
+	Method[b()Ljava/util/Map;]
+	Method[a(Ljava/lang/Object;)Ljava/lang/Object;]
+	Method[c(Ljava/lang/Object;)Ljava/lang/Object;]
+	Method[d(Ljava/lang/Object;)Z]
+	Method[b(Ljava/lang/Object;)I]
+	Method[a(I)Ljava/lang/Object;]
+	Method[iterator()Ljava/util/Iterator;]
+}
+
+

@@ -1,0 +1,24 @@
+xx extends xq {
+	Field[bkLjava/util/UUID;]
+	Field[blLyd;]
+	Field[aLdt;]
+	Field[bF]
+	Field[cLze;]
+	Field[bmZ]
+	Method[<init>(Laqr;)V]
+	Method[a(Ldt;)F]
+	Method[bR()Z]
+	Method[cf()Z]
+	Method[cg()Z]
+	Method[e(Ldt;)Z]
+	Method[a(Ldt;I)V]
+	Method[ch()Ldt;]
+	Method[ci()F]
+	Method[cj()V]
+	Method[ck()Z]
+	Method[ca()V]
+	Method[o(F)V]
+	Method[<clinit>()V]
+}
+
+

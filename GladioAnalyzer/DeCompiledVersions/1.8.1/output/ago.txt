@@ -1,0 +1,8 @@
+ago extends java/lang/Object {
+	Field[aLaln;]
+	Field[bLagu;]
+	Method[<init>(Laln;Lagu;)V]
+	Method[a(Laqa;Ljava/util/Random;)V]
+}
+
+

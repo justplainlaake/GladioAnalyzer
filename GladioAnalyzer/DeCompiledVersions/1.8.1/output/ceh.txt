@@ -1,0 +1,7 @@
+ceh extends java/lang/Object {
+	Field[aLceg;]
+	Method[<init>(Lceg;)V]
+	Method[a(ZI)V]
+}
+
+

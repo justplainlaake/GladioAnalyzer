@@ -1,0 +1,8 @@
+coe extends java/lang/Object {
+	Field[aLcoa;]
+	Field[bLcod;]
+	Method[<init>(Lcod;Lcoa;)V]
+	Method[run()V]
+}
+
+

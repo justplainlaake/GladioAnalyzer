@@ -1,0 +1,19 @@
+bdk extends bck {
+	Field[aI]
+	Field[fI]
+	Field[gLcom/mojang/authlib/GameProfile;]
+	Method[<init>()V]
+	Method[b(Lfn;)V]
+	Method[a(Lfn;)V]
+	Method[b()Lcom/mojang/authlib/GameProfile;]
+	Method[y_()Lie;]
+	Method[a(I)V]
+	Method[a(Lcom/mojang/authlib/GameProfile;)V]
+	Method[e()V]
+	Method[b(Lcom/mojang/authlib/GameProfile;)Lcom/mojang/authlib/GameProfile;]
+	Method[c()I]
+	Method[d()I]
+	Method[b(I)V]
+}
+
+

@@ -1,0 +1,7 @@
+ayl extends ato {
+	Method[<init>()V]
+	Method[a(Lbea;Ljava/util/Random;I)Laln;]
+	Method[g(Lbea;)Lbof;]
+}
+
+

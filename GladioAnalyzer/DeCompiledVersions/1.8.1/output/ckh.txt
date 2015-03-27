@@ -1,0 +1,6 @@
+ckh extends java/lang/Object {
+	Method[a(Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;]
+	Method[a()V]
+}
+
+

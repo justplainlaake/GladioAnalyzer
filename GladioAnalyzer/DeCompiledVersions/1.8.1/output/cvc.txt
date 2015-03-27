@@ -1,0 +1,16 @@
+cvc extends java/lang/Object {
+	Field[bLorg/apache/logging/log4j/Logger;]
+	Field[aLjava/util/List;]
+	Field[cLcwk;]
+	Method[<init>(Lcwk;)V]
+	Method[a(Lcvm;)V]
+	Method[a()Ljava/util/Set;]
+	Method[a(Lob;)Lcvj;]
+	Method[a(Lob;Lcvm;)Ljava/io/InputStream;]
+	Method[b(Lob;)Ljava/util/List;]
+	Method[c(Lob;)Lob;]
+	Method[b()Lorg/apache/logging/log4j/Logger;]
+	Method[<clinit>()V]
+}
+
+

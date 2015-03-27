@@ -1,0 +1,8 @@
+ta extends st {
+	Method[<init>(Lcom/mojang/authlib/GameProfile;)V]
+	Method[<init>(Lcom/google/gson/JsonObject;)V]
+	Method[a(Lcom/google/gson/JsonObject;)V]
+	Method[b(Lcom/google/gson/JsonObject;)Lcom/mojang/authlib/GameProfile;]
+}
+
+

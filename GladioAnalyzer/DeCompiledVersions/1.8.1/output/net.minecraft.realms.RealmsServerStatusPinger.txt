@@ -1,0 +1,12 @@
+net/minecraft/realms/RealmsServerStatusPinger extends java/lang/Object {
+	Field[LOGGERLorg/apache/logging/log4j/Logger;]
+	Field[connectionsLjava/util/List;]
+	Method[<init>()V]
+	Method[pingServer(Ljava/lang/String;Lnet/minecraft/realms/RealmsServerPing;)V]
+	Method[tick()V]
+	Method[removeAll()V]
+	Method[access$000()Lorg/apache/logging/log4j/Logger;]
+	Method[<clinit>()V]
+}
+
+

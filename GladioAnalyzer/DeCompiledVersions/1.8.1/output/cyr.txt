@@ -1,0 +1,9 @@
+cyr extends java/lang/Thread {
+	Field[aLcys;]
+	Field[bLjava/net/InetAddress;]
+	Field[cLjava/net/MulticastSocket;]
+	Method[<init>(Lcys;)V]
+	Method[run()V]
+}
+
+

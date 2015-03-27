@@ -1,0 +1,15 @@
+bmi extends bmq {
+	Field[dLbmj;]
+	Method[<init>()V]
+	Method[<init>(I)V]
+	Method[a(Lfn;)V]
+	Method[b(Lfn;)V]
+	Method[a(Laqr;Ljava/util/Random;Lbiz;Lbmj;III)V]
+	Method[a(Ljava/util/Random;)Lbmj;]
+	Method[a(Lbmf;Ljava/util/List;Ljava/util/Random;II)Lbmq;]
+	Method[b(Lbmf;Ljava/util/List;Ljava/util/Random;II)Lbmq;]
+	Method[c(Lbmf;Ljava/util/List;Ljava/util/Random;II)Lbmq;]
+	Method[a(Lbiz;)Z]
+}
+
+

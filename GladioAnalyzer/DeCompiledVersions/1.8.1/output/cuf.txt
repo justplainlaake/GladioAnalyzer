@@ -1,0 +1,9 @@
+cuf extends java/lang/Object {
+	Field[a[[I]
+	Field[bLcue;]
+	Method[<init>(Lcue;[[I)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

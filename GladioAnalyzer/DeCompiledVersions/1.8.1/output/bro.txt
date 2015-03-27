@@ -1,0 +1,5 @@
+bro extends java/lang/Object {
+	Method[c()Z]
+}
+
+

@@ -1,0 +1,13 @@
+bve extends bvd {
+	Field[aLbul;]
+	Field[bF]
+	Field[cF]
+	Field[dF]
+	Method[<init>(ILjava/lang/String;ZLbul;FFF)V]
+	Method[a()Lbul;]
+	Method[e()F]
+	Method[f()F]
+	Method[g()F]
+}
+
+

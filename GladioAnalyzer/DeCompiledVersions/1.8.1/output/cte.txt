@@ -1,0 +1,14 @@
+cte extends ctl {
+	Method[<init>()V]
+	Method[a(F)V]
+	Method[a(FF)V]
+	Method[a(FFF)V]
+	Method[a(FFFF)V]
+	Method[b(FFFF)V]
+	Method[a(IIII)V]
+	Method[a([F)V]
+	Method[a(FFFFFFFFFFFFFFFF)V]
+	Method[a(Lorg/lwjgl/util/vector/Matrix4f;)V]
+}
+
+

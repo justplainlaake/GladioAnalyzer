@@ -1,0 +1,20 @@
+auc extends ato {
+	Field[aLbeu;]
+	Method[<init>()V]
+	Method[b(Laqr;Ldt;Lbea;Ljava/util/Random;)V]
+	Method[a(Laqr;Ldt;Lbea;)Lbrr;]
+	Method[b(Laqr;Ldt;)Lbrr;]
+	Method[d()Z]
+	Method[c()Z]
+	Method[d(Laqr;Ldt;)Z]
+	Method[a(Laqr;Ldt;Lbea;Lato;)V]
+	Method[e(Laqr;Ldt;)Z]
+	Method[a(Laqr;Ldt;Lbea;Lwx;)V]
+	Method[l()Laqi;]
+	Method[a(I)Lbea;]
+	Method[c(Lbea;)I]
+	Method[e()Lbeb;]
+	Method[<clinit>()V]
+}
+
+

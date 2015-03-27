@@ -1,0 +1,12 @@
+kd extends java/lang/Object {
+	Field[aLdt;]
+	Method[<init>()V]
+	Method[<init>(Ldt;)V]
+	Method[a(Lil;)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a()Ldt;]
+	Method[a(Lhh;)V]
+}
+
+

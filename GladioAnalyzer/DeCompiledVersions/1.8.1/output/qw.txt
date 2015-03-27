@@ -1,0 +1,6 @@
+qw extends java/util/ArrayList {
+	Method[<init>()V]
+	Method[<init>(Lqv;)V]
+}
+
+

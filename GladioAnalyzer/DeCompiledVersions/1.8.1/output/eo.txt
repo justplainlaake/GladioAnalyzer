@@ -1,0 +1,7 @@
+eo extends java/lang/Object {
+	Field[aLeo;]
+	Method[a(Ldz;Lamg;)Lamg;]
+	Method[<clinit>()V]
+}
+
+

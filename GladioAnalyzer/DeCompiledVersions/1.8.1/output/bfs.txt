@@ -1,0 +1,17 @@
+bfs extends java/lang/Object {
+	Field[aJ]
+	Field[bZ]
+	Field[c[B]
+	Field[dLbfl;]
+	Field[eLbfl;]
+	Field[fLbfl;]
+	Field[g[B]
+	Field[hLfv;]
+	Field[iLfv;]
+	Field[jLfv;]
+	Field[kI]
+	Field[lI]
+	Method[<init>(II)V]
+}
+
+

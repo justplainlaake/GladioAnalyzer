@@ -1,0 +1,13 @@
+are extends java/lang/Object {
+	Field[aLqu;]
+	Field[bLjava/util/Random;]
+	Field[cLut;]
+	Field[dLjava/util/List;]
+	Method[<init>(Lqu;)V]
+	Method[a(Lwx;F)V]
+	Method[b(Lwx;F)Z]
+	Method[a(Lwx;)Z]
+	Method[a(J)V]
+}
+
+

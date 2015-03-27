@@ -1,0 +1,16 @@
+iu extends java/lang/Object {
+	Field[aI]
+	Field[bLdt;]
+	Field[cI]
+	Method[<init>()V]
+	Method[<init>(ILdt;I)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lil;)V]
+	Method[a()I]
+	Method[b()Ldt;]
+	Method[c()I]
+	Method[a(Lhh;)V]
+}
+
+

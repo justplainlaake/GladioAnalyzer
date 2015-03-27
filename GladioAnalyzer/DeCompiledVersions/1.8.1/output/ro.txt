@@ -1,0 +1,9 @@
+ro extends java/lang/Object {
+	Field[aLie;]
+	Field[bLrl;]
+	Method[<init>(Lrl;Lie;)V]
+	Method[a()Ljava/lang/String;]
+	Method[call()Ljava/lang/Object;]
+}
+
+

@@ -1,0 +1,11 @@
+afx extends ze {
+	Field[aLafw;]
+	Field[bI]
+	Method[<init>(Lafw;)V]
+	Method[a()Z]
+	Method[c()V]
+	Method[b()Z]
+	Method[e()V]
+}
+
+

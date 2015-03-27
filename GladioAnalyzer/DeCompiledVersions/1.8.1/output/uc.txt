@@ -1,0 +1,11 @@
+uc extends com/google/common/collect/ForwardingSet {
+	Field[aLjava/util/Set;]
+	Method[<init>()V]
+	Method[a(Lcom/google/gson/JsonElement;)V]
+	Method[a()Lcom/google/gson/JsonElement;]
+	Method[delegate()Ljava/util/Set;]
+	Method[delegate()Ljava/util/Collection;]
+	Method[delegate()Ljava/lang/Object;]
+}
+
+

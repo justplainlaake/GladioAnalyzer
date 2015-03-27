@@ -1,0 +1,10 @@
+czn extends java/lang/Object {
+	Field[aLcyz;]
+	Field[bI]
+	Method[<init>(Lcyz;I)V]
+	Method[a()I]
+	Method[b()Lcyz;]
+	Method[g()Ljava/lang/Object;]
+}
+
+

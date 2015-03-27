@@ -1,0 +1,6 @@
+anz extends java/lang/Object {
+	Method[<init>()V]
+	Method[a(Laom;)V]
+}
+
+

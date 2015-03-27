@@ -1,0 +1,7 @@
+acs extends aat {
+	Method[<init>(Lxx;Ljava/lang/Class;IZZLcom/google/common/base/Predicate;)V]
+	Method[a(Lacs;)D]
+	Method[a(Lacs;Lxo;Z)Z]
+}
+
+

@@ -1,0 +1,24 @@
+aqz extends java/lang/Enum {
+	Field[aLaqz;]
+	Field[bLaqz;]
+	Field[cLaqz;]
+	Field[dLaqz;]
+	Field[eLaqz;]
+	Field[fI]
+	Field[gLjava/lang/String;]
+	Field[h[Laqz;]
+	Method[values()[Laqz;]
+	Method[valueOf(Ljava/lang/String;)Laqz;]
+	Method[<init>(Ljava/lang/String;IILjava/lang/String;)V]
+	Method[a()I]
+	Method[b()Ljava/lang/String;]
+	Method[a(Lagx;)V]
+	Method[c()Z]
+	Method[d()Z]
+	Method[e()Z]
+	Method[a(I)Laqz;]
+	Method[a(Ljava/lang/String;)Laqz;]
+	Method[<clinit>()V]
+}
+
+

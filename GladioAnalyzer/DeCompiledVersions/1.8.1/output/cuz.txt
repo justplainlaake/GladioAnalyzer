@@ -1,0 +1,9 @@
+cuz extends java/lang/Object {
+	Field[aLorg/apache/logging/log4j/Logger;]
+	Field[bLjava/util/Map;]
+	Method[<init>(Ljava/io/File;Ljava/lang/String;)V]
+	Method[a()Ljava/util/Map;]
+	Method[<clinit>()V]
+}
+
+

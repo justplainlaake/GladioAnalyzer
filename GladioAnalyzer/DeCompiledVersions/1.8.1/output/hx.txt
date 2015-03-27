@@ -1,0 +1,27 @@
+hx extends hw {
+	Method[<init>()V]
+	Method[a()La;]
+	Method[b()Z]
+	Method[c()Z]
+	Method[d()Z]
+	Method[e()Z]
+	Method[f()Z]
+	Method[h()Lhn;]
+	Method[i()Lhs;]
+	Method[j()Ljava/lang/String;]
+	Method[a(La;)Lhw;]
+	Method[a(Ljava/lang/Boolean;)Lhw;]
+	Method[b(Ljava/lang/Boolean;)Lhw;]
+	Method[c(Ljava/lang/Boolean;)Lhw;]
+	Method[d(Ljava/lang/Boolean;)Lhw;]
+	Method[e(Ljava/lang/Boolean;)Lhw;]
+	Method[a(Lhn;)Lhw;]
+	Method[a(Lhs;)Lhw;]
+	Method[a(Lhw;)Lhw;]
+	Method[toString()Ljava/lang/String;]
+	Method[m()Lhw;]
+	Method[n()Lhw;]
+	Method[k()Ljava/lang/String;]
+}
+
+

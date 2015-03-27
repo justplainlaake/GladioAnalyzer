@@ -1,0 +1,6 @@
+awr extends bcd {
+	Method[<init>()V]
+	Method[k()Z]
+}
+
+

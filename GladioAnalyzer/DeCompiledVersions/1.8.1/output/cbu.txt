@@ -1,0 +1,13 @@
+cbu extends cbt {
+	Field[aLcdx;]
+	Field[bLcdx;]
+	Field[cLcdx;]
+	Field[dLcdx;]
+	Method[<init>()V]
+	Method[<init>(F)V]
+	Method[a(FFFFFFLwx;)V]
+	Method[a(Lwx;FFFFFF)V]
+	Method[a(F)V]
+}
+
+

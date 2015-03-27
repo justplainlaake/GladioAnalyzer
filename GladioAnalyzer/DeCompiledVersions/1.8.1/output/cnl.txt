@@ -1,0 +1,4 @@
+cnl extends java/lang/Object {
+}
+
+

@@ -1,0 +1,8 @@
+aav extends java/lang/Object {
+	Field[aLwx;]
+	Method[<init>(Lwx;)V]
+	Method[a(Lwx;Lwx;)I]
+	Method[compare(Ljava/lang/Object;Ljava/lang/Object;)I]
+}
+
+

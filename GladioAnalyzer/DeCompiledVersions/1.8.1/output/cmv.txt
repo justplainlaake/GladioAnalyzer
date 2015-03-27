@@ -1,0 +1,10 @@
+cmv extends java/lang/Object {
+	Field[aLcmv;]
+	Field[bLorg/lwjgl/util/vector/Vector3f;]
+	Field[cLorg/lwjgl/util/vector/Vector3f;]
+	Field[dLorg/lwjgl/util/vector/Vector3f;]
+	Method[<init>(Lorg/lwjgl/util/vector/Vector3f;Lorg/lwjgl/util/vector/Vector3f;Lorg/lwjgl/util/vector/Vector3f;)V]
+	Method[<clinit>()V]
+}
+
+

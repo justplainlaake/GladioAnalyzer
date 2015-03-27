@@ -1,0 +1,11 @@
+chn extends cgv {
+	Field[aLjava/util/Random;]
+	Field[azI]
+	Method[<init>(Laqr;DDDDDD)V]
+	Method[a(Lciu;Lwx;FFFFFF)V]
+	Method[t_()V]
+	Method[a(I)V]
+	Method[<clinit>()V]
+}
+
+

@@ -1,0 +1,12 @@
+nx extends java/lang/Object {
+	Field[aJ]
+	Method[<init>()V]
+	Method[<init>(J)V]
+	Method[a(Lhe;)V]
+	Method[b(Lhe;)V]
+	Method[a(Lnw;)V]
+	Method[a()J]
+	Method[a(Lhh;)V]
+}
+
+

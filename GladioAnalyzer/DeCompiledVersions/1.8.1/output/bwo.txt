@@ -1,0 +1,8 @@
+bwo extends java/lang/Object {
+	Field[aLbwn;]
+	Method[<init>(Lbwn;)V]
+	Method[a(Ljava/lang/String;)Z]
+	Method[apply(Ljava/lang/Object;)Z]
+}
+
+

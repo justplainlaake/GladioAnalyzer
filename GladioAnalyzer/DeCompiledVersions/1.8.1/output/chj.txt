@@ -1,0 +1,4 @@
+chj extends java/lang/Object {
+}
+
+

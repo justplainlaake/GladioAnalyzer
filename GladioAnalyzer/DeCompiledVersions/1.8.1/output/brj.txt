@@ -1,0 +1,7 @@
+brj extends java/lang/Object {
+	Method[a(Laha;)V]
+	Method[b(Laha;)Lfn;]
+	Method[f()[Ljava/lang/String;]
+}
+
+

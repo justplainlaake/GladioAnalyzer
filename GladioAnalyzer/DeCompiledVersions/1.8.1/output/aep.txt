@@ -1,0 +1,9 @@
+aep extends agc {
+	Method[<init>(Laqr;)V]
+	Method[aX()V]
+	Method[r(Lwx;)Z]
+	Method[a(Lvw;Lxt;)Lxt;]
+	Method[aS()F]
+}
+
+

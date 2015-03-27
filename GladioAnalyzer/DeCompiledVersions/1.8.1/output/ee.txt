@@ -1,0 +1,9 @@
+ee extends java/lang/Object {
+	Field[aLjava/lang/Class;]
+	Field[b[Ljava/lang/Iterable;]
+	Method[<init>(Ljava/lang/Class;[Ljava/lang/Iterable;)V]
+	Method[iterator()Ljava/util/Iterator;]
+	Method[<init>(Ljava/lang/Class;[Ljava/lang/Iterable;Lec;)V]
+}
+
+

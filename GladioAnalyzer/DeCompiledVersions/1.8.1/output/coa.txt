@@ -1,0 +1,25 @@
+coa extends java/lang/Object {
+	Field[aLcop;]
+	Field[bLjava/util/concurrent/locks/ReentrantLock;]
+	Field[cLjava/util/List;]
+	Field[dLcoc;]
+	Field[eLcja;]
+	Field[fLcok;]
+	Field[gLcob;]
+	Field[hZ]
+	Method[<init>(Lcop;Lcoc;)V]
+	Method[a()Lcob;]
+	Method[b()Lcop;]
+	Method[c()Lcok;]
+	Method[a(Lcok;)V]
+	Method[d()Lcja;]
+	Method[a(Lcja;)V]
+	Method[a(Lcob;)V]
+	Method[e()V]
+	Method[a(Ljava/lang/Runnable;)V]
+	Method[f()Ljava/util/concurrent/locks/ReentrantLock;]
+	Method[g()Lcoc;]
+	Method[h()Z]
+}
+
+

@@ -1,0 +1,8 @@
+sb extends java/lang/Object {
+	Field[a[Lcom/mojang/authlib/GameProfile;]
+	Method[<init>([Lcom/mojang/authlib/GameProfile;)V]
+	Method[onProfileLookupSucceeded(Lcom/mojang/authlib/GameProfile;)V]
+	Method[onProfileLookupFailed(Lcom/mojang/authlib/GameProfile;Ljava/lang/Exception;)V]
+}
+
+

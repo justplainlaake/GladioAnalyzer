@@ -1,0 +1,8 @@
+cec extends java/lang/Object {
+	Field[aLjavax/crypto/SecretKey;]
+	Field[bLceb;]
+	Method[<init>(Lceb;Ljavax/crypto/SecretKey;)V]
+	Method[operationComplete(Lio/netty/util/concurrent/Future;)V]
+}
+
+

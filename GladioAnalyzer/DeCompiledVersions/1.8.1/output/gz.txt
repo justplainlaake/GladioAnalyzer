@@ -1,0 +1,26 @@
+gz extends java/lang/Enum {
+	Field[aLgz;]
+	Field[bLgz;]
+	Field[cLgz;]
+	Field[dLgz;]
+	Field[eI]
+	Field[fI]
+	Field[g[Lgz;]
+	Field[hLjava/util/Map;]
+	Field[iI]
+	Field[jLjava/util/Map;]
+	Field[k[Lgz;]
+	Method[values()[Lgz;]
+	Method[valueOf(Ljava/lang/String;)Lgz;]
+	Method[<init>(Ljava/lang/String;II)V]
+	Method[a(Lig;Ljava/lang/Class;)Lgz;]
+	Method[a(Lig;Lie;)Ljava/lang/Integer;]
+	Method[a(Lig;I)Lie;]
+	Method[a()I]
+	Method[a(I)Lgz;]
+	Method[a(Lie;)Lgz;]
+	Method[<init>(Ljava/lang/String;IILha;)V]
+	Method[<clinit>()V]
+}
+
+

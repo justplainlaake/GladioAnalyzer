@@ -1,0 +1,10 @@
+cvr extends java/lang/Object {
+	Field[aLjava/io/File;]
+	Field[bLcom/google/common/util/concurrent/SettableFuture;]
+	Field[cLcvo;]
+	Method[<init>(Lcvo;Ljava/io/File;Lcom/google/common/util/concurrent/SettableFuture;)V]
+	Method[onSuccess(Ljava/lang/Object;)V]
+	Method[onFailure(Ljava/lang/Throwable;)V]
+}
+
+
